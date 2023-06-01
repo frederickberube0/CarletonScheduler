@@ -1,22 +1,34 @@
 import requests, re, json
 from bs4 import BeautifulSoup as bs
 
-r = requests.get('https://calendar.carleton.ca/undergrad/courses/')
-#print(r.content)
+def main():
+    """This python script will create a text file with every course from a major using request for web scraping."""
+    for major in getMajors():
+        writeCourses(major, getCourses(major))
 
-soup = bs(r.content, 'html.parser')
-my_string = str(soup.find_all(class_="course"))
+def writeCourses(major: str, content: str) -> None:
+    """Write content into file named based on the major."""
+    file_name = "courses/"+major
+    file = open(file_name, "w+")
+    file.write(content)
 
-my_list = re.findall(r'href="(\w+)/', my_string)
-#print(my_list)
-for s in my_list:
-    fileName = "courses/"+s
-    f = open(fileName, "w+")
-    str_to_use = 'https://calendar.carleton.ca/undergrad/courses/' + s + '/'
-    r = requests.get(str_to_use)
-    soup = bs(r.content, 'html.parser').find_all(class_="courseblock")
-    #for s in my_string:
-    for courseblock in soup:
+def getMajors() -> list[str]:
+    """Returns list of every major at Carleton University in it's four letter code format (COMP, BUSI, HIST...)"""
+    major_request = requests.get('https://calendar.carleton.ca/undergrad/courses/')
+    parsed_major_request = str(bs(major_request.content, 'html.parser').find_all(class_="course"))
+    
+    #Using Regex, get all four letter codes
+    list_of_majors = re.findall(r'href="(\w+)/', parsed_major_request) 
+    return list_of_majors
+
+def getCourses(major: str) -> str:
+    """Return every courses from a major in JSON format, in a long string"""
+    courses = ""
+    url_of_major = 'https://calendar.carleton.ca/undergrad/courses/' + major + '/'
+    request = requests.get(url_of_major)
+    parsed_page = bs(request.content, 'html.parser').find_all(class_="courseblock")
+
+    for courseblock in parsed_page:
         try:
             course_identifier = courseblock.find('span', {'class': 'courseblockcode'}).text.replace(u"\u00A0", " ")
             course_title = courseblock.find('span', {'class': 'courseblocktitle'}).text.split('\n')[0].replace(course_identifier, '').strip().replace(u"\u00A0", "")
@@ -38,15 +50,10 @@ for s in my_list:
             }
 
             json_data = json.dumps(data, indent=4)
-            f.write(json_data)
-            f.write("\n\n")
+            courses = courses + json_data
+            courses = courses + "\n\n"
         except:
             continue
-    #print(soup)
+    return courses
 
-
-
-#for s in my_list:
-
-
-#print(better.find_all("<a"))
+main()
