@@ -1,0 +1,539 @@
+{
+    "course_identifier": "FREN 1001",
+    "course_code": "FREN1001",
+    "course_number": 1001,
+    "course_title": "FREN1001 [1.0 credit]",
+    "course_desc": "This course is designed for absolute beginners in the language. Classes use audio-visual methods, and emphasis is given to the spoken language. Introduction to reading and writing. Compulsory attendance. Limited enrolment. No auditors. Oral interaction required.",
+    "course_extra_details": "Prerequisite(s): placement test on Carleton Central before registering.\nLecture three hours a week.\n",
+    "course_prerequisites": "placement test on Carleton Central before registering.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 1002",
+    "course_code": "FREN1002",
+    "course_number": 1002,
+    "course_title": "FREN1002 [1.0 credit]",
+    "course_desc": "Taught in French for students who have had exposure to French but who have difficulty using it in day-to-day communication. Emphasis on oral expression and comprehension; development of reading and writing skills. Oral practice, presentations, interviews, cultural activities, grammar. Compulsory attendance, participation. Oral interaction required.",
+    "course_extra_details": "Prerequisite(s): Grade of C or higher in FREN1001 or placement test on Carleton Central before registering.\nLecture three hours a week.\n",
+    "course_prerequisites": "Grade of C or higher in FREN1001 or placement test on Carleton Central before registering.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 1100",
+    "course_code": "FREN1100",
+    "course_number": 1100,
+    "course_title": "FREN1100 [1.0 credit]",
+    "course_desc": "Taught in French. Emphasis on speaking, listening, reading and writing skills. Oral presentations, discussions, interviews, reading of novels and magazine articles, listening activities, grammar exercises, compositions. Attendance and participation are compulsory. Limited enrolment. No auditors. Oral interaction required.",
+    "course_extra_details": "Precludes additional credit for FREN1110.\nPrerequisite(s): Grade of C or higher in FREN1002 or placement test on Carleton Central before registering.\nLecture three hours a week.\n",
+    "course_prerequisites": "Grade of C or higher in FREN1002 or placement test on Carleton Central before registering.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 1110",
+    "course_code": "FREN1110",
+    "course_number": 1110,
+    "course_title": "FREN1110 [1.0 credit]",
+    "course_desc": "Taught in French. For students with low intermediate writing skills in French. Improvement of spelling, grammar, sentence-structure and vocabulary. Study of the processes involved in the production of a variety of texts. Introduction to the use of references. Self-correction. Attendance, participation compulsory. Oral interaction required.",
+    "course_extra_details": "Precludes additional credit for FREN1100.\nPrerequisite(s): Grade of C or higher in FREN1002 or placement test on Carleton Central before registering.\nLecture three hours a week. \n",
+    "course_prerequisites": "Grade of C or higher in FREN1002 or placement test on Carleton Central before registering.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 2100",
+    "course_code": "FREN2100",
+    "course_number": 2100,
+    "course_title": "FREN2100 [1.0 credit]",
+    "course_desc": "Taught in French. For non-francophone students. Advanced speaking, listening, reading and writing skills. Advanced level reading from various sources, including literary texts. Grammar exercises, essays, oral presentations. Attendance and participation are compulsory. Limited enrolment. No auditors. Oral interaction required.",
+    "course_extra_details": "Precludes additional credit for FREN2110.\nPrerequisite(s): Grade of C or higher in FREN1100 or FREN1110 or placement test on Carleton Central before registering.\nLectures three hours a week.\n",
+    "course_prerequisites": "Grade of C or higher in FREN1100 or FREN1110 or placement test on Carleton Central before registering.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 2110",
+    "course_code": "FREN2110",
+    "course_number": 2110,
+    "course_title": "FREN2110 [1.0 credit]",
+    "course_desc": "Taught in French. For students with intermediate French writing skills. Refinement of spelling, grammar, sentence-structure and vocabulary; accuracy and textual organization. Essay-writing. Use and referencing of various sources. Self-correction. Attendance and participation compulsory. Oral interaction required.",
+    "course_extra_details": "Precludes additional credit for FREN2100.\nPrerequisite(s): Grade of C or higher in FREN1100 or FREN1110 or placement test on Carleton Central before registering. First week: compulsory placement. Limited enrolment. No auditors.\nLectures three hours a week.\n",
+    "course_prerequisites": "Grade of C or higher in FREN1100 or FREN1110 or placement test on Carleton Central before registering. First week: compulsory placement. Limited enrolment. No auditors.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 2202",
+    "course_code": "FREN2202",
+    "course_number": 2202,
+    "course_title": "FREN2202 [0.5 credit]",
+    "course_desc": "Survol historique des litt\u00e9ratures d'expression fran\u00e7aise : principaux auteurs, grands mouvements, \u00e9volution des genres. Initiation aux m\u00e9thodes et notions d'analyse litt\u00e9raire.",
+    "course_extra_details": "Precludes additional credit for FREN 2201.\nPrerequisite(s): FREN1100 or FREN1110 with a grade of C or higher or permission of the Department. This course may be taken concurrently with FREN2100 or FREN2110.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "FREN1100 or FREN1110 with a grade of C or higher or permission of the Department. This course may be taken concurrently with FREN2100 or FREN2110.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 2203",
+    "course_code": "FREN2203",
+    "course_number": 2203,
+    "course_title": "FREN2203 [0.5 credit]",
+    "course_desc": "Survol historique des litt\u00e9ratures d'expression fran\u00e7aise au Qu\u00e9bec et au Canada : principaux auteurs, grands mouvements, \u00e9volution des genres. Initiation aux m\u00e9thodes et notions d'analyse litt\u00e9raire.",
+    "course_extra_details": "Precludes additional credit for FREN 2201.\nPrerequisite(s): FREN1100 or FREN1110 with a grade of C or higher or permission of the Department. This course may be taken concurrently with FREN2100 or FREN2110.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "FREN1100 or FREN1110 with a grade of C or higher or permission of the Department. This course may be taken concurrently with FREN2100 or FREN2110.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 2401",
+    "course_code": "FREN2401",
+    "course_number": 2401,
+    "course_title": "FREN2401 [1.0 credit]",
+    "course_desc": "\u00c9tude de la structure et du fonctionnement du syst\u00e8me linguistique \u00e0 travers l'analyse de donn\u00e9es du fran\u00e7ais (de France et du Canada). La construction du sens, des sons au discours; code oral et \u00e9crit.",
+    "course_extra_details": "Prerequisite(s): FREN1100 or FREN1110 with a grade of C or higher or permission of the Department. This course may be taken concurrently with FREN2100 or FREN2110.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "FREN1100 or FREN1110 with a grade of C or higher or permission of the Department. This course may be taken concurrently with FREN2100 or FREN2110.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 2701",
+    "course_code": "FREN2701",
+    "course_number": 2701,
+    "course_title": "FREN2701 [0.5 credit]",
+    "course_desc": "Travaux pratiques pour d\u00e9velopper l\u2019aisance et la fluidit\u00e9 dans l\u2019expression orale. This course is not suitable for francophones.",
+    "course_extra_details": "Prerequisite(s): Grade of C or higher in FREN1100 or FREN1110 or placement test on Carleton Central before registering.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "Grade of C or higher in FREN1100 or FREN1110 or placement test on Carleton Central before registering.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 3050",
+    "course_code": "FREN3050",
+    "course_number": 3050,
+    "course_title": "FREN3050 [0.5 credit]",
+    "course_desc": "Initiation aux techniques et pratiques de la r\u00e9flexion universitaire : documentation (biblioth\u00e8que, bases de donn\u00e9es, bibliographies critiques), lecture (analyse, synth\u00e8se  et \u00e9valuation critique de textes de savoir) et r\u00e9flexion (cadre th\u00e9orique, m\u00e9thode d'analyse, pratique du discours raisonn\u00e9).",
+    "course_extra_details": "Prerequisite(s): FREN2202, FREN2203 and FREN2401, or permission of the Department.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "FREN2202, FREN2203 and FREN2401, or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 3060",
+    "course_code": "FREN3060",
+    "course_number": 3060,
+    "course_title": "FREN3060 [0.5 credit]",
+    "course_desc": "Analyse et pratique r\u00e9fl\u00e9chie des formes de la grammaire dans le discours: Structures des phrases, marques d\u2019accord, concordance des temps, pr\u00e9positions et compl\u00e9ments, homonymie et homographie, faux amis et anglicismes. D\u00e9veloppement des techniques efficaces d\u2019autocorrection et ma\u00eetrise d\u2019outils informatis\u00e9s.",
+    "course_extra_details": "Prerequisite(s): FREN2202 and FREN2203 or FREN2401, or permission of the Department.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "FREN2202 and FREN2203 or FREN2401, or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 3212",
+    "course_code": "FREN3212",
+    "course_number": 3212,
+    "course_title": "FREN3212 [0.5 credit]",
+    "course_desc": "\u00c9tude d'une s\u00e9lection de textes, tir\u00e9s de divers genres, permettant d'explorer les origines de la litt\u00e9rature fran\u00e7aise : oralit\u00e9 et \u00e9criture; chansons de geste; courtoisie; r\u00e9cits de voyages; litt\u00e9rature de la cour; humanisme. Diff\u00e9rentes approches th\u00e9oriques du texte litt\u00e9raire.",
+    "course_extra_details": "Prerequisite(s): FREN2202 and FREN2203 or permission of the Department.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "FREN2202 and FREN2203 or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 3213",
+    "course_code": "FREN3213",
+    "course_number": 3213,
+    "course_title": "FREN3213 [0.5 credit]",
+    "course_desc": "\u00c9tude des 17e et 18e si\u00e8cles : raison et universalisme, encyclop\u00e9disme, construction et repr\u00e9sentation de l'alt\u00e9rit\u00e9, colonialisme et esclavagisme. Analyse d'importants d\u00e9veloppements litt\u00e9raires : essai et conte philosophiques, th\u00e9\u00e2tre et critique sociale, \u00e9volution du discours romanesque. Approches th\u00e9oriques du texte litt\u00e9raire.",
+    "course_extra_details": "Prerequisite(s): FREN2202 and FREN2203 or permission of the Department.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "FREN2202 and FREN2203 or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 3214",
+    "course_code": "FREN3214",
+    "course_number": 3214,
+    "course_title": "FREN3214 [0.5 credit]",
+    "course_desc": "\u00c9tude de quelques grands mouvements ayant rythm\u00e9 la vie des lettres francophones : romantisme, r\u00e9alisme, naturalisme, symbolisme, surr\u00e9alisme, modernisme. La litt\u00e9rature de la d\u00e9colonisation et l'\u00e9mergence de la litt\u00e9rature canadienne-fran\u00e7aise. Analyse des genres et de leur \u00e9volution. Approches th\u00e9oriques du texte litt\u00e9raire.",
+    "course_extra_details": "Prerequisite(s): FREN2202 and FREN2203 or permission of the Department.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "FREN2202 and FREN2203 or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 3215",
+    "course_code": "FREN3215",
+    "course_number": 3215,
+    "course_title": "FREN3215 [0.5 credit]",
+    "course_desc": "\u00c9tudes des principales orientations d\u00e9finissant les litt\u00e9ratures francophones contemporaines depuis la fin de la Seconde Guerre mondiale : litt\u00e9rature engag\u00e9e, existentialisme, nouveau roman. Litt\u00e9rature du Qu\u00e9bec et du Canada fran\u00e7ais. Litt\u00e9ratures postcoloniales, \u00e9mergentes, transnationales. Approches th\u00e9oriques du texte litt\u00e9raire.",
+    "course_extra_details": "Prerequisite(s): FREN2202 and FREN2203 or permission of the Department.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "FREN2202 and FREN2203 or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 3216",
+    "course_code": "FREN3216",
+    "course_number": 3216,
+    "course_title": "FREN3216 [0.5 credit]",
+    "course_desc": "\u00c9tude approfondie d\u2019une probl\u00e9matique dans le champ des \u00e9tudes litt\u00e9raires. Lectures critiques, r\u00e9flexion th\u00e9orique et \u00e9tudes d\u2019\u0153uvres litt\u00e9raires. Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
+    "course_extra_details": "Prerequisite(s): FREN2202 and FREN2203, or permission of the Department.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "FREN2202 and FREN2203, or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 3217",
+    "course_code": "FREN3217",
+    "course_number": 3217,
+    "course_title": "FREN3217 [0.5 credit]",
+    "course_desc": "\u00c9tude approfondie d\u2019un(e) auteur(e) ou groupe d\u2019auteur(e)s et de leur \u0153uvre. Lectures critiques, th\u00e9oriques et litt\u00e9raires. Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
+    "course_extra_details": "Prerequisite(s): FREN2202 and FREN2203, or permission of the Department.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "FREN2202 and FREN2203, or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 3218",
+    "course_code": "FREN3218",
+    "course_number": 3218,
+    "course_title": "FREN3218 [0.5 credit]",
+    "course_desc": "\u00c9tude approfondie d\u2019un genre ou mouvement litt\u00e9raire. Conditions d'\u00e9mergence (contextes: historique, social, artistique, etc). Textes th\u00e9oriques et manifestes. Principaux repr\u00e9sentants. Influence (continuations, ruptures). Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
+    "course_extra_details": "Prerequisite(s): FREN2202 and FREN2203, or permission of the Department.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "FREN2202 and FREN2203, or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 3219",
+    "course_code": "FREN3219",
+    "course_number": 3219,
+    "course_title": "FREN3219 [0.5 credit]",
+    "course_desc": "\u00c9tude approfondie d\u2019un(e) auteur(e) ou groupe d\u2019auteur(e)s canadien(ne)s et de leurs \u0153uvres de langue fran\u00e7aise. Lectures critiques, th\u00e9oriques et litt\u00e9raires. Contenu variable selon les ann\u00e9es: consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when topic changes.",
+    "course_extra_details": "Prerequisite(s): FREN2202 and FREN2203 or permission of the Department.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "FREN2202 and FREN2203 or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 3251",
+    "course_code": "FREN3251",
+    "course_number": 3251,
+    "course_title": "FREN3251 [0.5 credit]",
+    "course_desc": "Pr\u00e9sentation et application de diverses approches th\u00e9oriques du texte litt\u00e9raire ou \u00e9tude approfondie d\u2019une approche th\u00e9orique particuli\u00e8re (analyses structurelles, m\u00e9thodes d'interpr\u00e9tation, contextualisation sociohistorique, po\u00e9tique, etc.).",
+    "course_extra_details": "Prerequisite(s): FREN2202 and FREN2203, or permission of the Department.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "FREN2202 and FREN2203, or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 3411",
+    "course_code": "FREN3411",
+    "course_number": 3411,
+    "course_title": "FREN3411 [0.5 credit]",
+    "course_desc": "\u00c9tude empirique et th\u00e9orique des \u00e9l\u00e9ments et syst\u00e8mes phon\u00e9tiques et phonologiques du fran\u00e7ais. Processus segmentaux et suprasegmentaux, structures syllabiques et prosodiques. Probl\u00e8mes classiques de la phonologie fran\u00e7aise.",
+    "course_extra_details": "Prerequisite(s): FREN2401 or permission of the Department.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "FREN2401 or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 3412",
+    "course_code": "FREN3412",
+    "course_number": 3412,
+    "course_title": "FREN3412 [0.5 credit]",
+    "course_desc": "\u00c9tude de la forme des unit\u00e9s lexicales et grammaticales du fran\u00e7ais et de leur port\u00e9e signifiante. Analyse du syst\u00e8me flexionnel du fran\u00e7ais et des m\u00e9canismes de formation des mots.",
+    "course_extra_details": "Prerequisite(s): FREN2401 or permission of the Department.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "FREN2401 or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 3413",
+    "course_code": "FREN3413",
+    "course_number": 3413,
+    "course_title": "FREN3413 [0.5 credit]",
+    "course_desc": "\u00c9tudes de la structure et des composantes de la phrase: mots et syntagmes. Analyse syntaxique de la phrase simple et complexe. Mod\u00e8le hi\u00e9rarchique de l\u2019organisation de la phrase.",
+    "course_extra_details": "Prerequisite(s): FREN2401 or permission of the Department.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "FREN2401 or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 3414",
+    "course_code": "FREN3414",
+    "course_number": 3414,
+    "course_title": "FREN3414 [0.5 credit]",
+    "course_desc": "Le fran\u00e7ais, une r\u00e9alit\u00e9 h\u00e9t\u00e9rog\u00e8ne. Approche variationniste, qualitative et quantitative, de l'\u00e9tude du fran\u00e7ais dans ses dimensions dialectales, sociales et stylistiques. Variations intra-individuelles et entre individus. Facteurs externes de la variation interne du fran\u00e7ais. Diversit\u00e9s du fran\u00e7ais.",
+    "course_extra_details": "Prerequisite(s): FREN2401 or permission of the Department.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "FREN2401 or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 3415",
+    "course_code": "FREN3415",
+    "course_number": 3415,
+    "course_title": "FREN3415 [0.5 credit]",
+    "course_desc": "\u00c9volution interne de l'histoire du fran\u00e7ais et de ses influences externes. De sa naissance, pr\u00e9sum\u00e9e et r\u00e9elle, \u00e0 ses \u00e9tats actuels. Les langues contributrices. Contacts linguistiques. Dynamiques du changement linguistique. V\u00e9hicularisation et vernacularisation. Id\u00e9ologies de la langue fran\u00e7aise.",
+    "course_extra_details": "Prerequisite(s): FREN2401 or permission of the Department.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "FREN2401 or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 3416",
+    "course_code": "FREN3416",
+    "course_number": 3416,
+    "course_title": "FREN3416 [0.5 credit]",
+    "course_desc": "Pr\u00e9sentation des vari\u00e9t\u00e9s de fran\u00e7ais parl\u00e9 dans le monde, principalement \u00e0 l\u2019ext\u00e9rieur du Canada. \u00c9tude des aspects historiques et sociopolitiques de la diffusion du fran\u00e7ais. Analyse des traits linguistiques propres aux vari\u00e9t\u00e9s. Colonisation, cr\u00e9olisation, emprunt linguistique, variation r\u00e9gionale, am\u00e9nagement linguistique.",
+    "course_extra_details": "Prerequisite(s): FREN2401 or permission of the Department.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "FREN2401 or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 3417",
+    "course_code": "FREN3417",
+    "course_number": 3417,
+    "course_title": "FREN3417 [0.5 credit]",
+    "course_desc": "Pr\u00e9sentation des vari\u00e9t\u00e9s de fran\u00e7ais parl\u00e9 au Canada. \u00c9tude des aspects historiques et sociopolitiques de l\u2019implantation du fran\u00e7ais en Nouvelle-France. Vari\u00e9t\u00e9s laurentienne et acadienne. Analyse des traits linguistiques. Enjeux sociolinguistiques. Contact des langues, bilinguisme, minorit\u00e9s linguistiques.",
+    "course_extra_details": "Prerequisite(s): FREN2401 or permission of the Department.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "FREN2401 or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 3451",
+    "course_code": "FREN3451",
+    "course_number": 3451,
+    "course_title": "FREN3451 [0.5 credit]",
+    "course_desc": "\u00c9tude d\u2019un th\u00e8me particulier en linguistique fran\u00e7aise. Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
+    "course_extra_details": "Prerequisite(s): FREN2401 or permission of the Department.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "FREN2401 or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 3511",
+    "course_code": "FREN3511",
+    "course_number": 3511,
+    "course_title": "FREN3511 [0.5 credit]",
+    "course_desc": "Perfectionnement de l'expression \u00e9crite au moyen d'un apprentissage appliqu\u00e9 de la traduction. Analyses des principales interf\u00e9rences syntaxiques, s\u00e9mantiques et discursives entre le fran\u00e7ais et l'anglais. Approfondissement des pratiques de textualisation: coh\u00e9rence et coh\u00e9sion, idiomatisation, registres, paraphrase, consid\u00e9rations stylistiques, etc. Approche privil\u00e9giant le texte pragmatique.",
+    "course_extra_details": "Prerequisite(s): one FREN course at the 2000-level, or permission of the Department.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "one FREN course at the 2000-level, or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 3701",
+    "course_code": "FREN3701",
+    "course_number": 3701,
+    "course_title": "FREN3701 [0.5 credit]",
+    "course_desc": "Techniques avanc\u00e9es d'expression orale. This course is not suitable for francophones.",
+    "course_extra_details": "Prerequisite(s): one FREN course at the 2000 level, or permission of the Department.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "one FREN course at the 2000 level, or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 3702",
+    "course_code": "FREN3702",
+    "course_number": 3702,
+    "course_title": "FREN3702 [0.5 credit]",
+    "course_desc": "Techniques avanc\u00e9es d'expression \u00e9crite.",
+    "course_extra_details": "Prerequisite(s): one FREN course at the 2000-level, or permission of the Department.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "one FREN course at the 2000-level, or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 3900",
+    "course_code": "FREN3900",
+    "course_number": 3900,
+    "course_title": "FREN3900 [0.5 credit]",
+    "course_desc": "Initiation aux \u00e9tudes des programmes au Canada et ailleurs. Processus d'acquisition des habilet\u00e9s d'expression et de compr\u00e9hension. Survol des th\u00e9ories pass\u00e9es et actuelles. Appr\u00e9ciation et critique de pratiques p\u00e9dagogiques.",
+    "course_extra_details": "Prerequisite(s): one FREN course at the 2000-level, or permission of the Department.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "one FREN course at the 2000-level, or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 3999",
+    "course_code": "FREN3999",
+    "course_number": 3999,
+    "course_title": "FREN3999 [0.0 credit]",
+    "course_desc": "Includes: Experiential Learning Activity ",
+    "course_extra_details": "Includes: Experiential Learning Activity\n \n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 4060",
+    "course_code": "FREN4060",
+    "course_number": 4060,
+    "course_title": "FREN4060 [0.5 credit]",
+    "course_desc": "D\u00e9veloppement d\u2019un projet individuel supervis\u00e9 en litt\u00e9rature ou en linguistique, amorc\u00e9 dans un cours ant\u00e9rieur de 4e ann\u00e9e. Raffinement de l\u2019expression et des id\u00e9es. Pr\u00e9sentation publique des r\u00e9sultats.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing in the BA Honours in French, FREN3050 and one FREN course at the 4th year level.\nUnscheduled\n",
+    "course_prerequisites": "fourth-year standing in the BA Honours in French, FREN3050 and one FREN course at the 4th year level.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "FREN 4212",
+    "course_code": "FREN4212",
+    "course_number": 4212,
+    "course_title": "FREN4212 [0.5 credit]",
+    "course_desc": "Analyse de probl\u00e9matiques li\u00e9es \u00e0 la francophonie litt\u00e9raire. Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
+    "course_extra_details": "Prerequisite(s): FREN2202, FREN2203 and FREN3050, or permission of the Department.\nAlso offered at the graduate level, with different requirements, as FREN5212, for which additional credit is precluded.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "FREN2202, FREN2203 and FREN3050, or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 4213",
+    "course_code": "FREN4213",
+    "course_number": 4213,
+    "course_title": "FREN4213 [0.5 credit]",
+    "course_desc": "\u00c9tude approfondie portant sur un ou plusieurs aspects des litt\u00e9ratures d'expression fran\u00e7aise au Canada. Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
+    "course_extra_details": "Prerequisite(s): FREN2202, FREN2203 and FREN3050, or permission of the Department.\nAlso offered at the graduate level, with different requirements, as FREN5213, for which additional credit is precluded.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "FREN2202, FREN2203 and FREN3050, or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 4214",
+    "course_code": "FREN4214",
+    "course_number": 4214,
+    "course_title": "FREN4214 [0.5 credit]",
+    "course_desc": "\u00c9tude approfondie d'un th\u00e8me, d'un mouvement, d'un genre dans le champ litt\u00e9raire. Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
+    "course_extra_details": "Prerequisite(s): FREN2202, FREN2203 and FREN3050, or permission of the Department.\nAlso offered at the graduate level, with different requirements, as FREN5214, for which additional credit is precluded.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "FREN2202, FREN2203 and FREN3050, or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 4215",
+    "course_code": "FREN4215",
+    "course_number": 4215,
+    "course_title": "FREN4215 [0.5 credit]",
+    "course_desc": "\u00c9tude de questions contemporaines dans le domaine litt\u00e9raire. Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
+    "course_extra_details": "Prerequisite(s): FREN2202, FREN2203 and FREN3050, or permission of the Department.\nAlso offered at the graduate level, with different requirements, as FREN5215, for which additional credit is precluded.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "FREN2202, FREN2203 and FREN3050, or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 4300",
+    "course_code": "FREN4300",
+    "course_number": 4300,
+    "course_title": "FREN4300 [0.5 credit]",
+    "course_desc": "Topics in French language, literature or linguistics. Application of language skills in a francophone context. Topic and location may vary; consult Departmental website.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): FREN2202 and FREN2203, or FREN2401, depending on the topic, and FREN3050, or permission of the Department.\nAlso offered at the graduate level, with different requirements, as FREN5501, for which additional credit is precluded.\n \n",
+    "course_prerequisites": "FREN2202 and FREN2203, or FREN2401, depending on the topic, and FREN3050, or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 4301",
+    "course_code": "FREN4301",
+    "course_number": 4301,
+    "course_title": "FREN4301 [0.5 credit]",
+    "course_desc": "Exploration of Quebec City and its literary, cultural and historical significance. Application of language skills in Quebec City.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for FREN4300 if taken before 2022.\nPrerequisite(s): FREN2202, FREN2203 and FREN3050, or permission of the Department.\nAlso offered at the graduate level, with different requirements, as FREN5502, for which additional credit is precluded.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "FREN2202, FREN2203 and FREN3050, or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 4412",
+    "course_code": "FREN4412",
+    "course_number": 4412,
+    "course_title": "FREN4412 [0.5 credit]",
+    "course_desc": "\u00c9tudes des vari\u00e9t\u00e9s du fran\u00e7ais, dans ses dimensions spatiales. Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
+    "course_extra_details": "Also listed as LING4412.\nPrerequisite(s): FREN2401 and FREN3050, or permission of the Department.\nAlso offered at the graduate level, with different requirements, as FREN5412 and LING5412, for which additional credit is precluded.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "FREN2401 and FREN3050, or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 4413",
+    "course_code": "FREN4413",
+    "course_number": 4413,
+    "course_title": "FREN4413 [0.5 credit]",
+    "course_desc": "\u00c9tude du fran\u00e7ais, dans ses dimensions historiques. Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
+    "course_extra_details": "Also listed as LING4413.\nPrerequisite(s): FREN2401 and FREN3050, or permission of the Department.\nAlso offered at the graduate level, with different requirements, as FREN5413 and LING5413, for which additional credit is precluded.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "FREN2401 and FREN3050, or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 4414",
+    "course_code": "FREN4414",
+    "course_number": 4414,
+    "course_title": "FREN4414 [0.5 credit]",
+    "course_desc": "\u00c9tude du fran\u00e7ais, dans ses dimensions morphologiques, syntaxiques ou phonologiques. Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
+    "course_extra_details": "Also listed as LING4414.\nPrerequisite(s): FREN2401 and FREN3050, or permission of the department.\nAlso offered at the graduate level, with different requirements, as FREN5414 and LING5414, for which additional credit is precluded.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "FREN2401 and FREN3050, or permission of the department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 4415",
+    "course_code": "FREN4415",
+    "course_number": 4415,
+    "course_title": "FREN4415 [0.5 credit]",
+    "course_desc": "\u00c9tude des variations internes de la langue, dans ses dimensions orales et \u00e9crites. Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
+    "course_extra_details": "Also listed as LING4415.\nPrerequisite(s): FREN2401 and FREN3050, or permission of the Department.\nAlso offered at the graduate level, with different requirements, as FREN5415 and LING5415, for which additional credit is precluded.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "FREN2401 and FREN3050, or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 4511",
+    "course_code": "FREN4511",
+    "course_number": 4511,
+    "course_title": "FREN4511 [0.5 credit]",
+    "course_desc": "Initiation \u00e0 diff\u00e9rents principes et approches m\u00e9thodologiques de la traduction. Analyse de texte appliqu\u00e9e \u00e0 la traduction, rep\u00e9rage raisonn\u00e9 des difficult\u00e9s, typologie des fautes de traduction, \u00e9tude de divers proc\u00e9d\u00e9s, documentation, terminologie et r\u00e9vision. Approche privil\u00e9giant une typologie textuelle vari\u00e9e.",
+    "course_extra_details": "Prerequisite(s): FREN3511 or permission of the Department.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "FREN3511 or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FREN 4801",
+    "course_code": "FREN4801",
+    "course_number": 4801,
+    "course_title": "FREN4801 [1.0 credit]",
+    "course_desc": "Special topics in an aspect of French studies under the supervision of a faculty member. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing or permission of the Department.\nHours to be determined.\n",
+    "course_prerequisites": "fourth-year standing or permission of the Department.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "FREN 4802",
+    "course_code": "FREN4802",
+    "course_number": 4802,
+    "course_title": "FREN4802 [0.5 credit]",
+    "course_desc": "Special topics in an aspect of French studies under the supervision of a faculty member. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing or permission of the Department.\nHours to be determined.\n",
+    "course_prerequisites": "fourth-year standing or permission of the Department.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "FREN 4900",
+    "course_code": "FREN4900",
+    "course_number": 4900,
+    "course_title": "FREN4900 [0.5 credit]",
+    "course_desc": "Approfondissement de consid\u00e9rations th\u00e9oriques et pratiques reli\u00e9es \u00e0 l\u2019enseignement et l\u2019apprentissage du fran\u00e7ais comme langue seconde. Analyse de composantes p\u00e9dagogiques g\u00e9n\u00e9rales et en contexte, applications didactiques. \u00c9valuation, crit\u00e8res et standards. Le contenu pr\u00e9cis de ce cours varie selon les ann\u00e9es. Consulter le site Web.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing or permission of the Department.\nCours trois heures par semaine.\n",
+    "course_prerequisites": "fourth-year standing or permission of the Department.",
+    "year_standing": 4
+}
+

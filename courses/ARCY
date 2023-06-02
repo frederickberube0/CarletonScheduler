@@ -1,0 +1,66 @@
+{
+    "course_identifier": "ARCY 1008",
+    "course_code": "ARCY1008",
+    "course_number": 1008,
+    "course_title": "ARCY1008 [0.5 credit]",
+    "course_desc": "Introduction to the history, theory and practice of field archaeology. Excavations from all time periods and global regions will be discussed. Focus will be placed on excavation methods and technology, including dating, that enhance understanding of sites both on land and underwater.",
+    "course_extra_details": "Also listed as CLCV1008.\nPrecludes additional credit for CLCV 2300 (no longer offered).\nLecture three hours a week\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ARCY 1009",
+    "course_code": "ARCY1009",
+    "course_number": 1009,
+    "course_title": "ARCY1009 [0.5 credit]",
+    "course_desc": "Continues the examination of various aspects of field archaeology begun in ARCY 1008 (also CLCV 1008). This course places greater focus on recent approaches to the interpretation of remains. These include environmental, cognitive and bioarchaeological approaches.",
+    "course_extra_details": "Also listed as CLCV1009.\nPrecludes additional credit for CLCV 2300 (no longer offered).\nLecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ARCY 3000",
+    "course_code": "ARCY3000",
+    "course_number": 3000,
+    "course_title": "ARCY3000 [0.5 credit]",
+    "course_desc": "Students will participate for a minimum of three weeks on an archaeological field project (ie. excavation or survey). They will learn archaeological documentation and the analysis, recording, and processing of finds. The field project may be anywhere in the world and any time period.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ARCY1008 and ARCY1009 or CLCV1008 and CLCV1009 or CLCV 2300 (no longer offered) and permission of the unit. Permission of the unit is required to repeat this course.\nField work\n",
+    "course_prerequisites": "ARCY1008 and ARCY1009 or CLCV1008 and CLCV1009 or CLCV 2300 (no longer offered) and permission of the unit. Permission of the unit is required to repeat this course.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ARCY 3301",
+    "course_code": "ARCY3301",
+    "course_number": 3301,
+    "course_title": "ARCY3301 [0.5 credit]",
+    "course_desc": "Students will participate for a minimum of three weeks on an archaeological field project (ie. excavation or survey) relevant to the Greek and Roman world.  They will learn archaeological documentation and the analysis, recording, and processing of finds.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as CLCV3301.\nPrerequisite(s): ARCY1008 and ARCY1009 or CLCV1008 and CLCV1009 or CLCV 2300 (no longer offered) and permission of the unit. Permission of the unit is required to repeat this course.\nField work\n",
+    "course_prerequisites": "ARCY1008 and ARCY1009 or CLCV1008 and CLCV1009 or CLCV 2300 (no longer offered) and permission of the unit. Permission of the unit is required to repeat this course.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ARCY 4000",
+    "course_code": "ARCY4000",
+    "course_number": 4000,
+    "course_title": "ARCY4000 [0.5 credit]",
+    "course_desc": "Students participate for a minimum of three weeks in a position of responsibility (for example, as a trench supervisor or lab assistant) on an archaeological field project relevant to the Greek and Roman world.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as CLCV4000.\nPrerequisite(s): 0.5 credit in fieldwork at third year level and permission of the unit.  Permission of the unit is required to repeat this course.\nField Work\n",
+    "course_prerequisites": "0.5 credit in fieldwork at third year level and permission of the unit.  Permission of the unit is required to repeat this course.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ARCY 4100",
+    "course_code": "ARCY4100",
+    "course_number": 4100,
+    "course_title": "ARCY4100 [0.5 credit]",
+    "course_desc": "Students participate for a minimum of three weeks in a position of responsibility on an archaeological field project (eg. trench supervisor or lab assistant). The  field project may be anywhere in the world and any time period.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): 0.5 credit in fieldwork at third year level and permission of the unit. Permission of the unit is required to repeat this course.\nField work\n",
+    "course_prerequisites": "0.5 credit in fieldwork at third year level and permission of the unit. Permission of the unit is required to repeat this course.",
+    "year_standing": 0
+}
+

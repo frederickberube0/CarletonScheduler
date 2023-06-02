@@ -1,0 +1,154 @@
+{
+    "course_identifier": "JAPA 1010",
+    "course_code": "JAPA1010",
+    "course_number": 1010,
+    "course_title": "JAPA1010 [0.5 credit]",
+    "course_desc": "For students with no knowledge of Japanese. Oral skills, reading and writing. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for JAPA1110.\nFour hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "JAPA 1020",
+    "course_code": "JAPA1020",
+    "course_number": 1020,
+    "course_title": "JAPA1020 [0.5 credit]",
+    "course_desc": "Continuation of first-year Japanese. Oral skills, reading and writing. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for JAPA1110.\nPrerequisite(s): grade of C or higher in JAPA1010, or permission of the School.\nFour hours a week.\n",
+    "course_prerequisites": "grade of C or higher in JAPA1010, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "JAPA 1110",
+    "course_code": "JAPA1110",
+    "course_number": 1110,
+    "course_title": "JAPA1110 [1.0 credit]",
+    "course_desc": "For students with no knowledge of Japanese. Oral skills, reading and writing. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for JAPA1010 and JAPA1020.\nEight hours a week (one term).\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "JAPA 2110",
+    "course_code": "JAPA2110",
+    "course_number": 2110,
+    "course_title": "JAPA2110 [1.0 credit]",
+    "course_desc": "Further study of Japanese to reach a more advanced level of ability in a range of situations. Equal emphasis on oral and written language. Compulsory attendance.",
+    "course_extra_details": "Prerequisite(s): grade of C or higher in JAPA1020 or JAPA1110, or permission of the School.\nEight hours a week (one term).\n",
+    "course_prerequisites": "grade of C or higher in JAPA1020 or JAPA1110, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "JAPA 3010",
+    "course_code": "JAPA3010",
+    "course_number": 3010,
+    "course_title": "JAPA3010 [0.5 credit]",
+    "course_desc": "Further study of Japanese to reach a more advanced level, including the ability to handle authentic materials and primary texts required for academic studies. Compulsory attendance.",
+    "course_extra_details": "Prerequisite(s): grade of C or higher in JAPA2110, or permission of the School.\nThree hours a week.\n",
+    "course_prerequisites": "grade of C or higher in JAPA2110, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "JAPA 3011",
+    "course_code": "JAPA3011",
+    "course_number": 3011,
+    "course_title": "JAPA3011 [0.5 credit]",
+    "course_desc": "Intended for students taking JAPA 3010 and those who want to learn kanji in depth and become proficient in reading various Japanese texts. The course is intended primarily for students who do not use Chinese characters in their first language.",
+    "course_extra_details": "Prerequisite(s): grade of C or higher in JAPA2110 or permission of the School.\nThree hours a week.\n",
+    "course_prerequisites": "grade of C or higher in JAPA2110 or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "JAPA 3020",
+    "course_code": "JAPA3020",
+    "course_number": 3020,
+    "course_title": "JAPA3020 [0.5 credit]",
+    "course_desc": "Continuation of third-year Japanese to reach a more advanced level, including the ability to handle authentic materials and primary texts required for academic studies. Compulsory attendance.",
+    "course_extra_details": "Prerequisite(s): grade of C or higher in JAPA3010, or permission of the School.\nThree hours a week.\n",
+    "course_prerequisites": "grade of C or higher in JAPA3010, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "JAPA 3021",
+    "course_code": "JAPA3021",
+    "course_number": 3021,
+    "course_title": "JAPA3021 [0.5 credit]",
+    "course_desc": "A continuation of Reading in Japanese \u2013 Kanji I. Further development of reading skills in Japanese. Intended primarily for students who do not use Chinese characters in their first language.",
+    "course_extra_details": "Prerequisite(s): grade of C or higher in JAPA3011 or permission of the School.\nThree hours a week.\n",
+    "course_prerequisites": "grade of C or higher in JAPA3011 or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "JAPA 4010",
+    "course_code": "JAPA4010",
+    "course_number": 4010,
+    "course_title": "JAPA4010 [0.5 credit]",
+    "course_desc": "Development of speaking and writing abilities more complex than those used in daily communication. Development of language use for specific purposes and in specific contexts such as the academic, business and technical domains. Compulsory attendance.",
+    "course_extra_details": "Prerequisite(s): grade of C or higher in JAPA3020, or permission of the School.\nThree hours a week.\n",
+    "course_prerequisites": "grade of C or higher in JAPA3020, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "JAPA 4020",
+    "course_code": "JAPA4020",
+    "course_number": 4020,
+    "course_title": "JAPA4020 [0.5 credit]",
+    "course_desc": "Continuation of fourth-year Japanese. Further development of speaking and writing abilities more complex than those used in daily communication. Development of language use for specific purposes and in specific contexts such as the academic, business and technical domains. Compulsory attendance.",
+    "course_extra_details": "Prerequisite(s): grade of C or higher in JAPA4010, or permission of the School.\nThree hours a week.\n",
+    "course_prerequisites": "grade of C or higher in JAPA4010, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "JAPA 4210",
+    "course_code": "JAPA4210",
+    "course_number": 4210,
+    "course_title": "JAPA4210 [0.5 credit]",
+    "course_desc": "Further study of Japanese to reach a more advanced level, aimed at developing speaking and writing abilities more complex than those used in daily communication. Development of language use for specific purposes in contexts such as the academic, business and technical domains.",
+    "course_extra_details": "Prerequisite(s): grade of C or higher in JAPA4020 or permission of the School.\nThree hours a week.\n",
+    "course_prerequisites": "grade of C or higher in JAPA4020 or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "JAPA 4220",
+    "course_code": "JAPA4220",
+    "course_number": 4220,
+    "course_title": "JAPA4220 [0.5 credit]",
+    "course_desc": "Continuation of JAPA 4210. Further development of speaking and writing abilities more complex than those used in daily communication. Development of language use for specific purposes in contexts such as the academic, business and technical domains.",
+    "course_extra_details": "Prerequisite(s): grade of C or higher in JAPA4210 or permission of the School.\nThree hours a week.\n",
+    "course_prerequisites": "grade of C or higher in JAPA4210 or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "JAPA 4900",
+    "course_code": "JAPA4900",
+    "course_number": 4900,
+    "course_title": "JAPA4900 [1.0 credit]",
+    "course_desc": "Research in a topic in Japanese language, literature or linguistics under the supervision of a member of the School.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third- or fourth-year standing and enrolment in the Minor in Japanese, a grade of C or higher in JAPA4020 or equivalent, or permission of the School.\n \n",
+    "course_prerequisites": "third- or fourth-year standing and enrolment in the Minor in Japanese, a grade of C or higher in JAPA4020 or equivalent, or permission of the School.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "JAPA 4901",
+    "course_code": "JAPA4901",
+    "course_number": 4901,
+    "course_title": "JAPA4901 [0.5 credit]",
+    "course_desc": "Research in a topic in Japanese language, literature or linguistics under the supervision of a member of the School.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third- or fourth-year standing and enrolment in the Minor in Japanese, JAPA4020 or equivalent, or permission of the School.\n \n",
+    "course_prerequisites": "third- or fourth-year standing and enrolment in the Minor in Japanese, JAPA4020 or equivalent, or permission of the School.",
+    "year_standing": 4
+}
+

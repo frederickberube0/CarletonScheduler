@@ -1,0 +1,132 @@
+{
+    "course_identifier": "ASLA 1010",
+    "course_code": "ASLA1010",
+    "course_number": 1010,
+    "course_title": "ASLA1010 [0.5 credit]",
+    "course_desc": "For students with little or no knowledge of the language or culture of deaf people. Basic communicative competence in American Sign Language. Anthropological, sociolinguistic, and sociocultural aspects of deaf culture. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for ASLA1110.\nFour hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ASLA 1020",
+    "course_code": "ASLA1020",
+    "course_number": 1020,
+    "course_title": "ASLA1020 [0.5 credit]",
+    "course_desc": "Continuation of first-year American Sign Language. Basic communicative competence plus anthropological, sociolinguistic, and sociocultural aspects of deaf culture. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for ASLA1110.\nPrerequisite(s): grade of C or higher in ASLA1010, or permission of the School.\nFour hours a week.\n",
+    "course_prerequisites": "grade of C or higher in ASLA1010, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ASLA 1110",
+    "course_code": "ASLA1110",
+    "course_number": 1110,
+    "course_title": "ASLA1110 [1.0 credit]",
+    "course_desc": "For students with little or no knowledge of the language or culture of deaf people. Basic communicative competence in American Sign Language. Anthropological, sociolinguistic, and sociocultural aspects of deaf culture. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for ASLA1010 or ASLA1020.\nEight hours a week (one term).\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ASLA 2010",
+    "course_code": "ASLA2010",
+    "course_number": 2010,
+    "course_title": "ASLA2010 [0.5 credit]",
+    "course_desc": "Study of American Sign Language beyond the elementary level. Study of targeted lexical and grammatical features, as well as specific conversational skills. Further exploration of the culture of deaf people. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for ASLA2110.\nPrerequisite(s): grade of C or higher in ASLA1020, ASLA1110, or permission of the School.\nFour hours a week.\n",
+    "course_prerequisites": "grade of C or higher in ASLA1020, ASLA1110, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ASLA 2020",
+    "course_code": "ASLA2020",
+    "course_number": 2020,
+    "course_title": "ASLA2020 [0.5 credit]",
+    "course_desc": "Continuation of second-year American Sign Language. Study of targeted lexical and grammatical features, as well as specific conversational skills. Further exploration of the culture of deaf people. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for ASLA2110.\nPrerequisite(s): grade of C or higher in ASLA2010, or permission of the School.\nFour hours a week.\n",
+    "course_prerequisites": "grade of C or higher in ASLA2010, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ASLA 2110",
+    "course_code": "ASLA2110",
+    "course_number": 2110,
+    "course_title": "ASLA2110 [1.0 credit]",
+    "course_desc": "Further study of American Sign Language to reach a more advanced level of proficiency in a range of situations. Equal emphasis on oral and written language. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for ASLA2010 and ASLA2020.\nPrerequisite(s): grade of C or higher in ASLA1020 or ASLA1110, or permission of the School.\nEight hours a week (one term).\n",
+    "course_prerequisites": "grade of C or higher in ASLA1020 or ASLA1110, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ASLA 3010",
+    "course_code": "ASLA3010",
+    "course_number": 3010,
+    "course_title": "ASLA3010 [0.5 credit]",
+    "course_desc": "Receptive and expressive mastery of grammar and lexicon of American Sign Language. Advanced conversation skills across different registers. Advanced insight into the culture of the deaf community. Compulsory attendance.",
+    "course_extra_details": "Prerequisite(s): grade of C or higher in ASLA2020, ASLA2110, or permission of the School.\nThree hours a week.\n",
+    "course_prerequisites": "grade of C or higher in ASLA2020, ASLA2110, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ASLA 3020",
+    "course_code": "ASLA3020",
+    "course_number": 3020,
+    "course_title": "ASLA3020 [0.5 credit]",
+    "course_desc": "Continuation of third-year American Sign Language. Receptive and expressive mastery of grammar and lexicon of American Sign Language. Advanced conversation skills across different registers. Advanced insight into the culture of the deaf community. Compulsory attendance.",
+    "course_extra_details": "Prerequisite(s): grade of C or higher in ASLA3010, or permission of the School.\nThree hours a week.\n",
+    "course_prerequisites": "grade of C or higher in ASLA3010, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ASLA 4010",
+    "course_code": "ASLA4010",
+    "course_number": 4010,
+    "course_title": "ASLA4010 [0.5 credit]",
+    "course_desc": "Focus on the development of receptive and productive skills above what is expected in everyday conversation. Skills in specific contexts such as social services, health, business and government. Compulsory attendance.",
+    "course_extra_details": "Prerequisite(s): grade of C or higher in ASLA3020, or permission of the School.\nThree hours a week.\n",
+    "course_prerequisites": "grade of C or higher in ASLA3020, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ASLA 4020",
+    "course_code": "ASLA4020",
+    "course_number": 4020,
+    "course_title": "ASLA4020 [0.5 credit]",
+    "course_desc": "Continuation of fourth-year American Sign Language. Focus on the development of receptive and productive skills above what is expected in everyday conversation. Skills in specific contexts such as social services, health, business and government. Compulsory attendance.",
+    "course_extra_details": "Prerequisite(s): grade of C or higher in ASLA4010, or permission of the School.\nThree hours a week.\n",
+    "course_prerequisites": "grade of C or higher in ASLA4010, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ASLA 4900",
+    "course_code": "ASLA4900",
+    "course_number": 4900,
+    "course_title": "ASLA4900 [1.0 credit]",
+    "course_desc": "Research in a topic in American Sign Language or deaf culture under the supervision of a member of the School.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third- or fourth-year standing in the Minor in American Sign Language, grade of C or higher in ASLA4020 or equivalent, or permission of the School.\n \n",
+    "course_prerequisites": "third- or fourth-year standing in the Minor in American Sign Language, grade of C or higher in ASLA4020 or equivalent, or permission of the School.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "ASLA 4901",
+    "course_code": "ASLA4901",
+    "course_number": 4901,
+    "course_title": "ASLA4901 [0.5 credit]",
+    "course_desc": "Research in a topic in American Sign Language or deaf culture under the supervision of a member of the School.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third- or fourth-year standing in the Minor in American Sign Language, grade of C or higher in ASLA4020 or equivalent, or permission of the School.\n \n",
+    "course_prerequisites": "third- or fourth-year standing in the Minor in American Sign Language, grade of C or higher in ASLA4020 or equivalent, or permission of the School.",
+    "year_standing": 4
+}
+

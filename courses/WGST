@@ -1,0 +1,220 @@
+{
+    "course_identifier": "WGST 1808",
+    "course_code": "WGST1808",
+    "course_number": 1808,
+    "course_title": "WGST1808 [1.0 credit]",
+    "course_desc": "Overview of intersectional feminist debates as well as historical and contemporary theoretical traditions in gender and sexuality studies, critical race studies, and disability studies. Topics include the social construction of femininity, masculinity, and other identifications; Indigenous, decolonial, and transnational feminisms.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for FYSM1402.\nLectures and discussion three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "WGST 2800",
+    "course_code": "WGST2800",
+    "course_number": 2800,
+    "course_title": "WGST2800 [0.5 credit]",
+    "course_desc": "Critical examination of the multiple intersections between gender, as a relation of power and social identity, as these intersect with (neo)colonialism, racism, poverty, ableism and heterosexism in a globalized world.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): one of WGST1808, HRSJ1001, FYSM1402, or permission of the Institute of Women's and Gender Studies.\nLectures and discussion three hours a week.\n",
+    "course_prerequisites": "one of WGST1808, HRSJ1001, FYSM1402, or permission of the Institute of Women's and Gender Studies.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "WGST 2801",
+    "course_code": "WGST2801",
+    "course_number": 2801,
+    "course_title": "WGST2801 [0.5 credit]",
+    "course_desc": "A comparative, interdisciplinary examination of feminist activism in the modern era.  A range of perspectives and materials are used to examine the objectives, scope,  and impact of feminists' efforts to effect social and political change in different historical, cultural, and national settings.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): second-year standing.\nLectures and discussion three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "WGST 2803",
+    "course_code": "WGST2803",
+    "course_number": 2803,
+    "course_title": "WGST2803 [0.5 credit]",
+    "course_desc": "Introduction to feminist studies of globalization and politics of bodies. Globalization of ideas, cultures, economics and politics, movement of bodies, bodies as spaces for disrupting norms of sex, gender, race, class, ability, sexuality, embodiment and embodied resistance in a globalized world.",
+    "course_extra_details": "Prerequisite(s): second-year standing.\nLectures and discussion three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "WGST 2810",
+    "course_code": "WGST2810",
+    "course_number": 2810,
+    "course_title": "WGST2810 [0.5 credit]",
+    "course_desc": "Explores feminist perspectives on the sex industry, critically analyzing various legal approaches to regulation and the social meanings assigned to sex work.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): Second year standing and WGST1808 or FYSM1402.\nLecture and discussion three hours per week. \n",
+    "course_prerequisites": "Second year standing and WGST1808 or FYSM1402.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "WGST 2811",
+    "course_code": "WGST2811",
+    "course_number": 2811,
+    "course_title": "WGST2811 [0.5 credit]",
+    "course_desc": "Theoretical, experiential, cultural and policy issues around masculinities studies. The complexities of masculinities; the intersections of feminist and masculinity studies. Topics may include hegemonic, racialized, homosexual, and Other(ed) masculinities. Feminist theories and transnational perspectives frame course content and discussions.",
+    "course_extra_details": "Prerequisite(s): second-year standing.\nLectures and discussion three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "WGST 2812",
+    "course_code": "WGST2812",
+    "course_number": 2812,
+    "course_title": "WGST2812 [0.5 credit]",
+    "course_desc": "An interdisciplinary analysis of one or more topics in women\u2019s and gender studies.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): second-year standing.\nLectures and discussion three hours a week. This course is repeatable when the topic changes.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "WGST 2814",
+    "course_code": "WGST2814",
+    "course_number": 2814,
+    "course_title": "WGST2814 [0.5 credit]",
+    "course_desc": "How gender and cultural (re)production (literature, visual/performing arts, social media) and consumption articulate, circulate, and transform each other within economic, political, and social contexts. Emphasis on role, object, processes, and representations.",
+    "course_extra_details": "Prerequisite(s): second-year standing.\nLectures and discussion three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "WGST 3001",
+    "course_code": "WGST3001",
+    "course_number": 3001,
+    "course_title": "WGST3001 [0.5 credit]",
+    "course_desc": "Interdisciplinary and intersectional approach introducing students to contemporary feminist, Indigenous, decolonial, and transnational theories, issues, conflicts, methodologies, and critiques of prevailing approaches to the construction of knowledge. Themes include, feminist epistemology, ontology, knowledge, and ethics in feminist research.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for WGST 3809 (no longer offered), WGST 3810 (no longer offered).\nPrerequisite(s): Third-year standing and 1.0 credit in WGST or permission of the Institute.\nLecture three hours a week.\n",
+    "course_prerequisites": "Third-year standing and 1.0 credit in WGST or permission of the Institute.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "WGST 3803",
+    "course_code": "WGST3803",
+    "course_number": 3803,
+    "course_title": "WGST3803 [0.5 credit]",
+    "course_desc": "Feminist analyses of the diversity of transnational experiences around rights, health, education, motherhood, fathering, work, social media and technological change, among others. Topics may include: migration, environment, wars/conflicts, neocolonialism, diaspora, human trafficking, refugee issues and displaced populations.",
+    "course_extra_details": "Prerequisite(s): third-year standing, and 1.0 credit in WGST; or permission of the Institute.\n \n",
+    "course_prerequisites": "third-year standing, and 1.0 credit in WGST; or permission of the Institute.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "WGST 3806",
+    "course_code": "WGST3806",
+    "course_number": 3806,
+    "course_title": "WGST3806 [0.5 credit]",
+    "course_desc": "The emerging discipline of girlhood studies; social and cultural constructions of girlhood and categories of difference. Topics may include the commercialization of girlhood, popular culture and girls, negotiating identities, violence, sexualities, agency and activism in a globalizing world.",
+    "course_extra_details": "Prerequisite(s): third-year standing and 1.0 credit in WGST or permission of the Institute.\nLecture three hours a week.\n",
+    "course_prerequisites": "third-year standing and 1.0 credit in WGST or permission of the Institute.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "WGST 3807",
+    "course_code": "WGST3807",
+    "course_number": 3807,
+    "course_title": "WGST3807 [0.5 credit]",
+    "course_desc": "Theories, concepts and contexts of the complex manifestations of gendered violence in the lives of women, men and children globally.",
+    "course_extra_details": "Precludes additional credit for WGST 3005 Section \"A\", if taken in Winter 2012 and WGST 3005 Section \"A\" if taken in Fall 2009.\nPrerequisite(s): third-year standing and 1.0 credit in WGST or permission of the Institute.\nLecture three hours a week.\n",
+    "course_prerequisites": "third-year standing and 1.0 credit in WGST or permission of the Institute.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "WGST 3812",
+    "course_code": "WGST3812",
+    "course_number": 3812,
+    "course_title": "WGST3812 [0.5 credit]",
+    "course_desc": "An interdisciplinary analysis of one or more topics in women's and gender studies.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing and 1.0 credit in WGST.\nLecture three hours a week.\n",
+    "course_prerequisites": "third-year standing and 1.0 credit in WGST.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "WGST 4003",
+    "course_code": "WGST4003",
+    "course_number": 4003,
+    "course_title": "WGST4003 [0.5 credit]",
+    "course_desc": "Interdisciplinary overview of key historical concepts and issues in Women\u2019s and Gender Studies in the areas of theory, epistemology, and research design. Topics will vary from year to year. Provides additional background for students entering Women\u2019s and Gender Studies from other disciplines.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): permission of the Institute.\nAlso offered at the graduate level, with different requirements, as WGST5003, for which additional credit is precluded.\nSeminar three hours a week.\n",
+    "course_prerequisites": "permission of the Institute.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "WGST 4060",
+    "course_code": "WGST4060",
+    "course_number": 4060,
+    "course_title": "WGST4060 [0.5 credit]",
+    "course_desc": "African feminisms as theoretical interventions and as political practice, and as diverse forms. Gender as a marker of power: status, hierarchy, social capability, and as a system of distribution of resources, responsibilities and solidarities.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as AFRI4060.\nPrerequisite(s): Fourth year standing and WGST1808 or FYSM1402 OR permission of the Institute.\nSeminar three hours per week.\n",
+    "course_prerequisites": "Fourth year standing and WGST1808 or FYSM1402 OR permission of the Institute.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "WGST 4800",
+    "course_code": "WGST4800",
+    "course_number": 4800,
+    "course_title": "WGST4800 [0.5 credit]",
+    "course_desc": "Experience in research through a combination of classroom seminars and a field placement. Each project will be negotiated individually as a contract between the student, instructor and institutional partner.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for WGST 4903 (no longer offered).\nPrerequisite(s): Fourth year standing and WGST3001 OR WGST 3809 (no longer offered) and WGST 3810 (no longer offered), with a minimum 6.5 CGPA in B.A. Hons. Women\u2019s and Gender Studies program or permission of the Institute.\n \n",
+    "course_prerequisites": "Fourth year standing and WGST3001 OR WGST 3809 (no longer offered) and WGST 3810 (no longer offered), with a minimum 6.5 CGPA in B.A. Hons. Women\u2019s and Gender Studies program or permission of the Institute.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "WGST 4801",
+    "course_code": "WGST4801",
+    "course_number": 4801,
+    "course_title": "WGST4801 [1.0 credit]",
+    "course_desc": "Experience in applied feminisms through a combination of classroom seminars and internship. Each project will be negotiated individually as a contract between the student, instructor and institutional partner. Students must complete both the in-class and the internship portion of the course.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for WGST4800, WGST 4903 and WGST 4904 (no longer offered).\nPrerequisite(s): Fourth year standing and WGST3001 OR WGST 3809 (no longer offered) and WGST 3810 (no longer offered) with a minimum 6.5 CGPA in B.A. Hons. Women's and Gender Studies program or permission of the Institute.\nAlso offered at the graduate level, with different requirements, as WGST5920, for which additional credit is precluded.\nThis full-credit course is offered intensively in one term.\n",
+    "course_prerequisites": "Fourth year standing and WGST3001 OR WGST 3809 (no longer offered) and WGST 3810 (no longer offered) with a minimum 6.5 CGPA in B.A. Hons. Women's and Gender Studies program or permission of the Institute.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "WGST 4811",
+    "course_code": "WGST4811",
+    "course_number": 4811,
+    "course_title": "WGST4811 [1.0 credit]",
+    "course_desc": "Students will undertake a major research project on some aspect of women\u2019s and gender studies under the supervision of a faculty member.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): A major CGPA of at least 11.00, plus WGST 3809 and WGST 3810 OR WGST3001 and fourth-year standing in B.A. Hons. Women\u2019s and Gender Studies program, or permission of the Institute.\n \n",
+    "course_prerequisites": "A major CGPA of at least 11.00, plus WGST 3809 and WGST 3810 OR WGST3001 and fourth-year standing in B.A. Hons. Women\u2019s and Gender Studies program, or permission of the Institute.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "WGST 4812",
+    "course_code": "WGST4812",
+    "course_number": 4812,
+    "course_title": "WGST4812 [0.5 credit]",
+    "course_desc": "Includes: Experiential Learning ActivityPrerequisite(s): fourth-year standing and 1.0 credit in Women\u2019s and Gender Studies or permission of the  Institute of Women\u2019s and Gender Studies.Seminar three hours a week. This course is repeatable when the topic changes.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing and 1.0 credit in Women\u2019s and Gender Studies or permission of the  Institute of Women\u2019s and Gender Studies.\nSeminar three hours a week. This course is repeatable when the topic changes.\n",
+    "course_prerequisites": "fourth-year standing and 1.0 credit in Women\u2019s and Gender Studies or permission of the  Institute of Women\u2019s and Gender Studies.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "WGST 4814",
+    "course_code": "WGST4814",
+    "course_number": 4814,
+    "course_title": "WGST4814 [0.5 credit]",
+    "course_desc": "Reading or research course supervised by a faculty member. Written proposal approved by the supervisor must be submitted before last day of course changes. Normally, only 0.5 credit of independent study may be counted in the program.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing in a Women\u2019s and Gender Studies program or permission of the Institute.\n \n",
+    "course_prerequisites": "fourth-year standing in a Women\u2019s and Gender Studies program or permission of the Institute.",
+    "year_standing": 4
+}
+

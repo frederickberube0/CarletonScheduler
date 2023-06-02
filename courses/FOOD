@@ -1,0 +1,253 @@
+{
+    "course_identifier": "FOOD 1001",
+    "course_code": "FOOD1001",
+    "course_number": 1001,
+    "course_title": "FOOD1001 [0.5 credit]",
+    "course_desc": "Overview of the food industry. Production, processing, product development, packaging, chemistry, analysis, microbiology. Elements risk assessment, policy making and regulation.",
+    "course_extra_details": "Lectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FOOD 2001",
+    "course_code": "FOOD2001",
+    "course_number": 2001,
+    "course_title": "FOOD2001 [0.5 credit]",
+    "course_desc": "Roles of nutrients, lipids, proteins, carbohydrates, fluids and electrolytes. Digestion, absorption, transport, energy metabolism. Disorders including diabetes, cardiovascular disease and osteoporosis. Nutrition through the life cycle.",
+    "course_extra_details": "Prerequisite(s): CHEM1002, BIOL1103.\nLectures three hours a week.\n",
+    "course_prerequisites": "CHEM1002, BIOL1103.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FOOD 2002",
+    "course_code": "FOOD2002",
+    "course_number": 2002,
+    "course_title": "FOOD2002 [0.5 credit]",
+    "course_desc": "Principles of major techniques used in food processing and preservation. Processing of specific food groups including cereals, oilseeds, dairy, beverages and frozen foods. Effects of processing on physico-chemical, rheological, and sensory characteristics. Role of research and development in food industry.",
+    "course_extra_details": "Prerequisite(s): FOOD1001.\nLectures three hours a week.\n",
+    "course_prerequisites": "FOOD1001.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FOOD 2003",
+    "course_code": "FOOD2003",
+    "course_number": 2003,
+    "course_title": "FOOD2003 [0.5 credit]",
+    "course_desc": "Regulation of the Canadian food industry including regulators, regulatory powers, the process of enacting laws/regulation and food safety requirements. Food composition, standardization, advertising, labeling, packaging, ingredients, additives, and fortification requirements. Inspection, enforcement and compliance powers and policies.",
+    "course_extra_details": "Prerequisite(s): Second year standing.\nLectures three hours per week.\n",
+    "course_prerequisites": "Second year standing.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FOOD 2004",
+    "course_code": "FOOD2004",
+    "course_number": 2004,
+    "course_title": "FOOD2004 [0.5 credit]",
+    "course_desc": "Principles of effective scientific communication for scientific and non-scientific audiences. Applicable to laboratory reports, literature reviews, posters, presentations, and briefing notes.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): FOOD1001 and second-year standing in Food Science or Chemistry.\nWorkshop four hours a week.\n",
+    "course_prerequisites": "FOOD1001 and second-year standing in Food Science or Chemistry.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "FOOD 3001",
+    "course_code": "FOOD3001",
+    "course_number": 3001,
+    "course_title": "FOOD3001 [0.5 credit]",
+    "course_desc": "Chemistry of the major components of foods such as proteins, lipids, carbohydrates and of the minor components such as enzymes, vitamins and various additives and their relationships to food stability and degradation.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): FOOD1001, FOOD2001, CHEM2204, BIOC2200.\nLectures three hours a week and laboratory three hours a week.\n",
+    "course_prerequisites": "FOOD1001, FOOD2001, CHEM2204, BIOC2200.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FOOD 3002",
+    "course_code": "FOOD3002",
+    "course_number": 3002,
+    "course_title": "FOOD3002 [0.5 credit]",
+    "course_desc": "In-depth principles and practices of food proximate analysis. Introductory concepts of food adulteration and detection. Major techniques such as chromatography, colorimetry, spectroscopy, rheology.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): FOOD1001, FOOD2001, FOOD3001.\nLectures three hours a week, laboratory three hours a week.\n",
+    "course_prerequisites": "FOOD1001, FOOD2001, FOOD3001.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FOOD 3003",
+    "course_code": "FOOD3003",
+    "course_number": 3003,
+    "course_title": "FOOD3003 [0.5 credit]",
+    "course_desc": "An introduction to the materials used for food packaging, including their chemical and physical characteristics. Interactions of these materials with food products, and their effects on shelf life of food.",
+    "course_extra_details": "Prerequisite(s): FOOD2002.\nLectures three hours a week.\n",
+    "course_prerequisites": "FOOD2002.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FOOD 3004",
+    "course_code": "FOOD3004",
+    "course_number": 3004,
+    "course_title": "FOOD3004 [0.5 credit]",
+    "course_desc": "Principles of food engineering. Unit operation in food processing, heat and mass transfer, material balances, fluid mechanics.",
+    "course_extra_details": "Prerequisite(s): FOOD2002 and MATH1007.\nLectures three hours a week.\n",
+    "course_prerequisites": "FOOD2002 and MATH1007.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FOOD 3005",
+    "course_code": "FOOD3005",
+    "course_number": 3005,
+    "course_title": "FOOD3005 [0.5 credit]",
+    "course_desc": "Foodborne diseases, microbial growth and survival, food spoilage, food fermentation. Techniques for detecting and quantifying microorganisms in foods.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): FOOD1001, FOOD2001, BIOL2303.\nLectures three hours a week, laboratory three hours a week.\n",
+    "course_prerequisites": "FOOD1001, FOOD2001, BIOL2303.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FOOD 3006",
+    "course_code": "FOOD3006",
+    "course_number": 3006,
+    "course_title": "FOOD3006 [0.5 credit]",
+    "course_desc": "Food processing and upcycling in the context of sustainable food systems. Case studies to assess social, economic, and environmental impacts of food processing and upcycling on communities and the food industry. Transdisciplinary perspectives to propose a food rescue product.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third year standing in a BSc or BHSc program.\nWorkshop 3 hours a week.\n",
+    "course_prerequisites": "third year standing in a BSc or BHSc program.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FOOD 3999",
+    "course_code": "FOOD3999",
+    "course_number": 3999,
+    "course_title": "FOOD3999 [0.0 credit]",
+    "course_desc": "Provides practical experience for students enrolled in the Co-operative option. Students must receive satisfactory evaluations from their work term employer. Written and oral reports will be required. Graded as Sat or Uns.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): Registration in the Food Science Co-operative Education option and permission of the Department.\nWork term.\n",
+    "course_prerequisites": "Registration in the Food Science Co-operative Education option and permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FOOD 4001",
+    "course_code": "FOOD4001",
+    "course_number": 4001,
+    "course_title": "FOOD4001 [0.5 credit]",
+    "course_desc": "Factors affecting quality in manufacturing and processing of foods and principles of quality control and quality assurance. Sampling plans and statistical methods. Applications of physical, chemical, biological and microbiological tests in quality control. Quality systems and standards.",
+    "course_extra_details": "Prerequisite(s): FOOD2002, FOOD2003, and third or fourth year standing.\nAlso offered at the graduate level, with different requirements, as FOOD5104, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "FOOD2002, FOOD2003, and third or fourth year standing.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FOOD 4002",
+    "course_code": "FOOD4002",
+    "course_number": 4002,
+    "course_title": "FOOD4002 [0.5 credit]",
+    "course_desc": "Official methods to identify food contaminants and adulterated foods. Includes agricultural chemicals, veterinary drugs, toxins, metals, and allergens. Interpretation of results in the context of current Canadian and international food safety regulations.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BIOC3101 or CHEM3205 or CHEM3305, and third or fourth year standing.\nLaboratory four hours per week, tutorial one hour a week. \n",
+    "course_prerequisites": "BIOC3101 or CHEM3205 or CHEM3305, and third or fourth year standing.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FOOD 4102",
+    "course_code": "FOOD4102",
+    "course_number": 4102,
+    "course_title": "FOOD4102 [0.5 credit]",
+    "course_desc": "Focus on the ever-changing and evolving issues in Canadian food governance, regulation and policy.  Topical food safety, governance, policies, enforcement, trade and import/export issues and developments.",
+    "course_extra_details": "Prerequisite(s): FOOD2003, and third or fourth year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "FOOD2003, and third or fourth year standing.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FOOD 4103",
+    "course_code": "FOOD4103",
+    "course_number": 4103,
+    "course_title": "FOOD4103 [0.5 credit]",
+    "course_desc": "The role of risk management in providing science-based approaches to solving food safety problems. Risk management models and practical applications in critical risk management. An examination of actual risk assessments. Risk communication is addressed.",
+    "course_extra_details": "Prerequisite(s): BIOC3101, and third or fourth-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "BIOC3101, and third or fourth-year standing.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "FOOD 4201",
+    "course_code": "FOOD4201",
+    "course_number": 4201,
+    "course_title": "FOOD4201 [0.5 credit]",
+    "course_desc": "Metabolism of macronutrients in the human body. Detailed catabolic and anabolic reactions of carbohydrates, lipids and proteins. Regulatory control points in healthy and diseased states. Discussion of the literature pertaining to nutrition, metabolism and chronic disease.",
+    "course_extra_details": "Prerequisite(s): FOOD2001, BIOC3101 and fourth year standing.\nAlso offered at the graduate level, with different requirements, as FOOD5101, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "FOOD2001, BIOC3101 and fourth year standing.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FOOD 4202",
+    "course_code": "FOOD4202",
+    "course_number": 4202,
+    "course_title": "FOOD4202 [0.5 credit]",
+    "course_desc": "Use of scientific literature to examine human metabolism of vitamins and minerals and associated diseases throughout the life cycle. Development of advanced scientific literacy skills, with an emphasis on systematic reviews.",
+    "course_extra_details": "Prerequisite(s): BIOC2200 or BIOL2200 and third- or fourth-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "BIOC2200 or BIOL2200 and third- or fourth-year standing.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "FOOD 4203",
+    "course_code": "FOOD4203",
+    "course_number": 4203,
+    "course_title": "FOOD4203 [0.5 credit]",
+    "course_desc": "Study of the bioactive components of functional foods and natural health products, for the improvement of health and nutrition. Sources and chemistry of bioactives, mechanisms of actions, process technology, efficacy and safety. Role of research and development in industry in commercialization of new products.",
+    "course_extra_details": "Prerequisite(s): BIOC2200 or BIOL2200 or BIOL2201, and third or fourth year standing.\nAlso offered at the graduate level, with different requirements, as FOOD5105, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "BIOC2200 or BIOL2200 or BIOL2201, and third or fourth year standing.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FOOD 4301",
+    "course_code": "FOOD4301",
+    "course_number": 4301,
+    "course_title": "FOOD4301 [0.5 credit]",
+    "course_desc": "Principles of toxicology as they apply to endogenous plant toxicants, endogenous animal poisons, mycotoxins, pesticide residues, veterinary drugs, food additives, heavy metals, and toxicants produced as a result of processing.",
+    "course_extra_details": "Prerequisite(s): BIOC3101, FOOD3001 and fourth-year standing in Food Science.\nLectures three hours a week.\n",
+    "course_prerequisites": "BIOC3101, FOOD3001 and fourth-year standing in Food Science.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "FOOD 4905",
+    "course_code": "FOOD4905",
+    "course_number": 4905,
+    "course_title": "FOOD4905 [1.0 credit]",
+    "course_desc": "Active learning in areas that include information literacy, critical evaluation of scientific literature, written and oral communication, evaluation and interpretation of results, statistics and data management. Emphasizes transferable skills that are most appropriate for non-research career paths.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for FOOD4907, FOOD4908.\nPrerequisite(s): Fourth-year standing in Food Science and a minimum of 1.5 credits in FOOD at the 3000 level.\nWorkshop three hours a week.\n",
+    "course_prerequisites": "Fourth-year standing in Food Science and a minimum of 1.5 credits in FOOD at the 3000 level.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FOOD 4907",
+    "course_code": "FOOD4907",
+    "course_number": 4907,
+    "course_title": "FOOD4907 [1.0 credit]",
+    "course_desc": "Students conduct an independent research study using library resources, and prepare a critical review and study proposal on a topic approved by a faculty supervisor. A written report and an oral poster presentation of the work are required before a grade can be assigned.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for FOOD4905, FOOD4908, CHEM4907 and CHEM4908.\nPrerequisite(s): Fourth-year standing in the Food Science program, a minimum of 1.5 credits in FOOD at the 3000 level, minimum Major CGPA of 8.0, and permission of the department.\n \n",
+    "course_prerequisites": "Fourth-year standing in the Food Science program, a minimum of 1.5 credits in FOOD at the 3000 level, minimum Major CGPA of 8.0, and permission of the department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "FOOD 4908",
+    "course_code": "FOOD4908",
+    "course_number": 4908,
+    "course_title": "FOOD4908 [1.0 credit]",
+    "course_desc": "Students in Food Science carry out a research project under the direction of a faculty member. A written report and an oral presentation of the work are required before a grade can be assigned.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for FOOD4905, FOOD4907, CHEM4907 and CHEM4908.\nPrerequisite(s): Fourth-year standing in the Food Science program, a minimum of 1.5 credits in FOOD at the 3000 level, minimum Major CGPA of 8.0, and permission of the department.\nLaboratory and associated work equivalent to at least eight hours per week for two terms.\n",
+    "course_prerequisites": "Fourth-year standing in the Food Science program, a minimum of 1.5 credits in FOOD at the 3000 level, minimum Major CGPA of 8.0, and permission of the department.",
+    "year_standing": 0
+}
+

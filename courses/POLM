@@ -1,0 +1,33 @@
+{
+    "course_identifier": "POLM 3000",
+    "course_code": "POLM3000",
+    "course_number": 3000,
+    "course_title": "POLM3000 [0.5 credit]",
+    "course_desc": "Introduction to the field of political management. The institutional, legislative and ethical context in which party strategists, campaign managers, pollsters, lobbyists and civil society operate. Related administrative and communications skills.",
+    "course_extra_details": "Also listed as COMS3100, PSCI3410.\nPrecludes additional credit for COMM 3100 (no longer offered).\nPrerequisite(s): third-year standing.\nLecture three hours a week.\n",
+    "course_prerequisites": "third-year standing.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "POLM 4010",
+    "course_code": "POLM4010",
+    "course_number": 4010,
+    "course_title": "POLM4010 [0.5 credit]",
+    "course_desc": "The different elements of opinion research such as opinion measurement, questionnaire design, interviewing, data analysis and interpretation, and how this helps understand the process by which citizens make decisions about political issues.",
+    "course_extra_details": "Prerequisite(s): POLM3000.\nAlso offered at the graduate level, with different requirements, as POLM5010, for which additional credit is precluded.\nSeminar three hours a week.\n",
+    "course_prerequisites": "POLM3000.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "POLM 4012",
+    "course_code": "POLM4012",
+    "course_number": 4012,
+    "course_title": "POLM4012 [0.5 credit]",
+    "course_desc": "Through applied exercises, case studies and a project with an external organization, students will build knowledge and skills required for advocacy and government relations in the private and voluntary sectors.",
+    "course_extra_details": "Prerequisite(s): POLM3000.\nAlso offered at the graduate level, with different requirements, as POLM5012, for which additional credit is precluded.\nSeminar three hours per week\n",
+    "course_prerequisites": "POLM3000.",
+    "year_standing": 0
+}
+

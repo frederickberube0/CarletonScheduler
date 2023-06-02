@@ -1,0 +1,231 @@
+{
+    "course_identifier": "ENVE 1001",
+    "course_code": "ENVE1001",
+    "course_number": 1001,
+    "course_title": "ENVE1001 [0.5 credit]",
+    "course_desc": "Impacts of the environment on architecture; deterioration, freeze/thaw, solar heat, air pollution,  moisture; Impacts of architecture on the environment; ecologic footprint, energy consumption, air quality, waste generation; designing with the environment; renewable energy, effective siting and landscape, passive solar energy, natural lighting, energy efficiency.",
+    "course_extra_details": "Also listed as ACSE2001.\nLectures three hours a week, problem analysis one and a half hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ENVE 2001",
+    "course_code": "ENVE2001",
+    "course_number": 2001,
+    "course_title": "ENVE2001 [0.5 credit]",
+    "course_desc": "Material and energy balances for reacting and non-reacting systems. Applications in mining, metallurgy, pulp and paper, power generation, energy utilization. Emissions to the environment per unit product or service generated. Introduction to life cycle analysis, comparative products and processes.",
+    "course_extra_details": "Prerequisite(s): CHEM1002 or CHEM1101 or equivalent, and MAAE2400 (may be taken concurrently), and second-year status in Engineering.\nLectures two hours a week, problem analysis three hours a week.\n",
+    "course_prerequisites": "CHEM1002 or CHEM1101 or equivalent, and MAAE2400 (may be taken concurrently), and second-year status in Engineering.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "ENVE 2002",
+    "course_code": "ENVE2002",
+    "course_number": 2002,
+    "course_title": "ENVE2002 [0.5 credit]",
+    "course_desc": "The biology of the Bacteria, Archaea, Viruses and Protozoans, from the fundamentals of cell chemistry, molecular biology, structure and function, to their involvement in ecological and industrial processes and human disease.",
+    "course_extra_details": "Also listed as BIOL2303.\nPrerequisite(s): BIOL1103 or CHEM1002 or CHEM1101 or equivalent.\nLectures three hours a week.\n",
+    "course_prerequisites": "BIOL1103 or CHEM1002 or CHEM1101 or equivalent.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ENVE 3001",
+    "course_code": "ENVE3001",
+    "course_number": 3001,
+    "course_title": "ENVE3001 [0.5 credit]",
+    "course_desc": "Theoretical aspects of unit operations for water treatment with design applications. Topics include water characteristics and contaminants, coagulation, flocculation, sedimentation, filtration, adsorption, ion exchange, membrane processes, disinfection and disinfection by-products, and management of water treatment residuals. Laboratory procedures: settling operations, filtration, aeration, and adsorption.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ENVE3002.\nLectures three hours a week, problem analysis one hour a week, laboratory three hours alternate weeks.\n",
+    "course_prerequisites": "ENVE3002.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ENVE 3002",
+    "course_code": "ENVE3002",
+    "course_number": 3002,
+    "course_title": "ENVE3002 [0.5 credit]",
+    "course_desc": "Engineered systems for pollution abatement; chemical reaction engineering; reaction kinetics and rate data analysis; design and modeling of reactors; single and multiple reactions; ideal and nonideal reactors; single and multi-parameter models; biochemical reaction engineering; process control. Laboratory procedures: reactor systems performance: Batch, CSTR and PFR.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): CHEM1002 or CHEM1101, MATH2004 (or concurrent), and second-year status in Engineering. Additional recommended background: ENVE2001.\nLectures three hours a week, problem analysis 2 hours a week, laboratory 1.5 hours alternate weeks.\n",
+    "course_prerequisites": "CHEM1002 or CHEM1101, MATH2004 (or concurrent), and second-year status in Engineering. Additional recommended background: ENVE2001.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "ENVE 3003",
+    "course_code": "ENVE3003",
+    "course_number": 3003,
+    "course_title": "ENVE3003 [0.5 credit]",
+    "course_desc": "A quantitative analysis of natural water systems and the development of these systems as a resource. Components of the hydrologic cycle. Quantitative analysis of stream flow. Probability concepts in water resources. Reservoir design and operation. Hydraulic properties and availability  of groundwater. Storm water management.",
+    "course_extra_details": "Also listed as GEOG4103.\nPrerequisite(s): third-year status in Engineering.\nLectures three hours a week, problem analysis one hour a week.\n",
+    "course_prerequisites": "third-year status in Engineering.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "ENVE 3004",
+    "course_code": "ENVE3004",
+    "course_number": 3004,
+    "course_title": "ENVE3004 [0.5 credit]",
+    "course_desc": "Physical phenomenon governing the transport of contaminants in the environment: diffusion, advection, dispersion, sorption, interphase transfer. Derivation and application of transport equations in air, surface and groundwater pollution; analytical and numerical solutions. Equilibrium partitioning of contaminants among air, water, sediment, and biota.",
+    "course_extra_details": "Prerequisite(s): CHEM1002 or CHEM1101 or equivalent; ENVE3002.\nLectures three hours a week, problem analysis one hour a week.\n",
+    "course_prerequisites": "CHEM1002 or CHEM1101 or equivalent; ENVE3002.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ENVE 3999",
+    "course_code": "ENVE3999",
+    "course_number": 3999,
+    "course_title": "ENVE3999 [0.0 credit]",
+    "course_desc": "Includes: Experiential Learning Activity ",
+    "course_extra_details": "Includes: Experiential Learning Activity\n \n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ENVE 4002",
+    "course_code": "ENVE4002",
+    "course_number": 4002,
+    "course_title": "ENVE4002 [0.5 credit]",
+    "course_desc": "Landfill design; hydrogeologic principles, water budget, landfill liners, geosynthetics, landfill covers, quality control/quality assurance, clay leachate interaction, composite liner design and leak detection. Landfill operation, maintenance and monitoring. Case studies of landfill design and performance. Geotechnical design of environmental control and containment systems.",
+    "course_extra_details": "Prerequisite(s): ENVE3004, CIVE3208.\nAlso offered at the graduate level, with different requirements, as ENVE5201/EVG 7201, for which additional credit is precluded.\nLectures three hours a week, problem analysis one hour a week.\n",
+    "course_prerequisites": "ENVE3004, CIVE3208.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ENVE 4003",
+    "course_code": "ENVE4003",
+    "course_number": 4003,
+    "course_title": "ENVE4003 [0.5 credit]",
+    "course_desc": "Air pollutants, classification, sources, and effects. Ambient air quality objectives and monitoring. Pollutant formation mechanisms in combustion. Major pollutant categories and control methods. Indoor air quality. Laboratory procedures: emissions from boilers and IC engines, particulate size distribution and control, IAQ parameters.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): MAAE2400 and fourth-year status in Engineering or permission of the department.\nAlso offered at the graduate level, with different requirements, as ENVE5101/EVG 7101, for which additional credit is precluded.\nLectures three hours a week, problem analysis one hour a week, laboratory three hours alternate weeks.\n",
+    "course_prerequisites": "MAAE2400 and fourth-year status in Engineering or permission of the department.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "ENVE 4005",
+    "course_code": "ENVE4005",
+    "course_number": 4005,
+    "course_title": "ENVE4005 [0.5 credit]",
+    "course_desc": "Theoretical aspects of unit operations and processes for wastewater treatment with design applications. Topics include wastewater characteristics, flow rates, primary treatment, chemical unit processes, biological treatment processes, advanced wastewater treatment, disinfection, biosolids treatment and disposal.  Laboratory procedures: activated sludge, anaerobic growth, chemical precipitation, disinfection.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ENVE3001, ENVE3002.\nLectures three hours a week, problem analysis one hour a week, laboratory three hours alternate weeks.\n",
+    "course_prerequisites": "ENVE3001, ENVE3002.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ENVE 4006",
+    "course_code": "ENVE4006",
+    "course_number": 4006,
+    "course_title": "ENVE4006 [0.5 credit]",
+    "course_desc": "Theory of flow through porous media. Site investigation: geology, hydrology and chemistry. Contaminant transport. Unsaturated and multiphase flow. Numerical modeling. Site remediation and remediation technologies.",
+    "course_extra_details": "Prerequisite(s): ENVE3004 and MAAE2300. Additional recommended background: ENVE3003.\nAlso offered at the graduate level, with different requirements, as ENVE5301/EVG 7301, for which additional credit is precluded.\nLectures three hours a week, problem analysis one and a half hours a week.\n",
+    "course_prerequisites": "ENVE3004 and MAAE2300. Additional recommended background: ENVE3003.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ENVE 4101",
+    "course_code": "ENVE4101",
+    "course_number": 4101,
+    "course_title": "ENVE4101 [0.5 credit]",
+    "course_desc": "Municipal, hazardous, and mine waste management. Waste composition and potential impacts, collection and transport, recycling and reuse, biological and thermal treatments, isolation. Integrated waste management planning.",
+    "course_extra_details": "Prerequisite(s): ENVE3001, ENVE3002 and ENVE3004.\nAlso offered at the graduate level, with different requirements, as ENVE 5203/EVG 5203, for which additional credit is precluded.\nLectures three hours a week, problem analysis one hour a week.\n",
+    "course_prerequisites": "ENVE3001, ENVE3002 and ENVE3004.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ENVE 4104",
+    "course_code": "ENVE4104",
+    "course_number": 4104,
+    "course_title": "ENVE4104 [0.5 credit]",
+    "course_desc": "Canada and U.S. environmental regulations. Framework for Environmental Impact Assessment, survey techniques for impact assessment and EIA review process. Case studies of selected engineering projects. Environmental planning, management of residuals and environmental standards. Risk assessment, policy development and decision-making. Fault-tree analysis.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ENVE3004 and fourth-year status in Engineering.\nLectures three hours a week, problem analysis three hours alternate weeks.\n",
+    "course_prerequisites": "ENVE3004 and fourth-year status in Engineering.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "ENVE 4105",
+    "course_code": "ENVE4105",
+    "course_number": 4105,
+    "course_title": "ENVE4105 [0.5 credit]",
+    "course_desc": "Concepts, calculations, modeling; design of green buildings and their components; sustainable sites and landscaping; passive design; building envelope; building materials; daylighting; heating, cooling, and ventilation; building-integrated renewable energy systems; indoor environmental quality; overview of building standards and codes.",
+    "course_extra_details": "Also listed as ACSE3105.\nPrerequisite(s): Third-year status in B.Eng. in Architectural Conservation and Sustainability Engineering, Civil Engineering, or Environmental Engineering or fourth-year standing in B.A.S. concentration in Conservation and Sustainability.\nLectures three hours a week, problem analysis one and a half hours per week.\n",
+    "course_prerequisites": "Third-year status in B.Eng. in Architectural Conservation and Sustainability Engineering, Civil Engineering, or Environmental Engineering or fourth-year standing in B.A.S. concentration in Conservation and Sustainability.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "ENVE 4106",
+    "course_code": "ENVE4106",
+    "course_number": 4106,
+    "course_title": "ENVE4106 [0.5 credit]",
+    "course_desc": "Indoor environmental quality (air quality, thermal, visual, and acoustic comfort); physical and chemical parameters for characterization. Types and sources of indoor air pollution and discomfort; measurement techniques. Heating, ventilation, air conditioning, lighting practices and issues. Modelling of and design for indoor environmental quality.",
+    "course_extra_details": "Also listed as ACSE4106.\nPrerequisite(s): fourth year status in B.Eng. Architectural Conservation and Sustainability Engineering or B.Eng. Environmental Engineering or fourth year standing in B.A.S. concentration in Conservation and Sustainability.\nAlso offered at the graduate level, with different requirements, as ENVE 5104, for which additional credit is precluded.\nLectures three hours a week, laboratory three hours alternate weeks.\n",
+    "course_prerequisites": "fourth year status in B.Eng. Architectural Conservation and Sustainability Engineering or B.Eng. Environmental Engineering or fourth year standing in B.A.S. concentration in Conservation and Sustainability.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ENVE 4107",
+    "course_code": "ENVE4107",
+    "course_number": 4107,
+    "course_title": "ENVE4107 [0.5 credit]",
+    "course_desc": "This course provides details on how buildings are designed and operated. The materials provide foundational knowledge to understand building services: mechanical, electrical, plumbing systems with associated controls.",
+    "course_extra_details": "Also listed as ACSE4107.\nPrerequisite(s): CIVE3209 and ENVE4105.\nLecture three hours per week, problem analysis three hours every other week.\n",
+    "course_prerequisites": "CIVE3209 and ENVE4105.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ENVE 4200",
+    "course_code": "ENVE4200",
+    "course_number": 4200,
+    "course_title": "ENVE4200 [0.5 credit]",
+    "course_desc": "Survey of the physical science of climate change, impacts on the built environment, and climate adaptation in engineering. Greenhouse gases, global warming, paleoclimatology, and Earth system responses. Climate change impacts on structural, water, transportation, and energy systems. Climate vulnerability assessment, examples of design adaptation.",
+    "course_extra_details": "Prerequisite(s): Fourth-year status in Engineering.\nAlso offered at the graduate level, with different requirements, as ENVE5200, for which additional credit is precluded.\nLecture three hours per week, problem analysis three hours every other week.\n",
+    "course_prerequisites": "Fourth-year status in Engineering.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ENVE 4907",
+    "course_code": "ENVE4907",
+    "course_number": 4907,
+    "course_title": "ENVE4907 [1.0 credit]",
+    "course_desc": "A research project in engineering analysis, design or development carried out by individual students or small teams, for an opportunity to develop initiative, self-reliance, creative ability and engineering judgment and is normally intended for students with high CGPAs and an interest in graduate studies.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ENVE4917.\nPrerequisite(s): fourth-year status in Engineering and permission of the department.\n \n",
+    "course_prerequisites": "fourth-year status in Engineering and permission of the department.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "ENVE 4917",
+    "course_code": "ENVE4917",
+    "course_number": 4917,
+    "course_title": "ENVE4917 [0.5 credit]",
+    "course_desc": "Student carries out a study, analysis, and solution of an engineering problem which results in a written final report. Carried out under close supervision of a faculty member. Intended for students interested in pursuing graduate studies. Requires supervising faculty member and proposal from student.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ENVE4907.\nPrerequisite(s): permission of the Department and completion of, or concurrent registration in, ENVE4918.\nSelf study.\n",
+    "course_prerequisites": "permission of the Department and completion of, or concurrent registration in, ENVE4918.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ENVE 4918",
+    "course_code": "ENVE4918",
+    "course_number": 4918,
+    "course_title": "ENVE4918 [1.0 credit]",
+    "course_desc": "Teams of students develop professional level experience through a design project that incorporates fundamentals acquired in previous mathematics, science, engineering, and complementary studies courses. A final report and oral presentations are required.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ACSE4918, CIVE4918.\nPrerequisite(s): ECOR3800 and fourth-year Status in Engineering.  Certain projects may have additional requirements.\nLectures two hours alternate weeks, problem analysis three hours a week.\n",
+    "course_prerequisites": "ECOR3800 and fourth-year Status in Engineering.  Certain projects may have additional requirements.",
+    "year_standing": 4
+}
+

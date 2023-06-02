@@ -1,0 +1,99 @@
+{
+    "course_identifier": "DIST 3901",
+    "course_code": "DIST3901",
+    "course_number": 3901,
+    "course_title": "DIST3901 [0.5 credit]",
+    "course_desc": "Examination of topics of interest to a number of disciplines, along with various methods and styles of thought used to study them. Students will synthesize the various perspectives. Open only to students in Directed Interdisciplinary Studies and Child Studies.",
+    "course_extra_details": "Prerequisite(s): third-year standing in Child Studies or Directed Interdisciplinary Studies.\nSeminar three hours a week.\n",
+    "course_prerequisites": "third-year standing in Child Studies or Directed Interdisciplinary Studies.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "DIST 3902",
+    "course_code": "DIST3902",
+    "course_number": 3902,
+    "course_title": "DIST3902 [0.5 credit]",
+    "course_desc": "An examination of one or more interdisciplinary topics selected by faculty to present interdisciplinary thought and research not available elsewhere in the university curriculum.",
+    "course_extra_details": "Prerequisite(s): third-year standing or permission of the Institute.\nSeminar three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the Institute.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "DIST 4901",
+    "course_code": "DIST4901",
+    "course_number": 4901,
+    "course_title": "DIST4901 [0.5 credit]",
+    "course_desc": "Individual or small-group tutorial related to the theme of a Directed Interdisciplinary Studies program. Written permission from the Director of Interdisciplinary Studies is required before registering; please contact the DIS administrator.",
+    "course_extra_details": "Prerequisite(s): for Directed Interdisciplinary Studies students with fourth year Honours standing and a CGPA of 9.00 or better or permission of the Institute.\n \n",
+    "course_prerequisites": "for Directed Interdisciplinary Studies students with fourth year Honours standing and a CGPA of 9.00 or better or permission of the Institute.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "DIST 4902",
+    "course_code": "DIST4902",
+    "course_number": 4902,
+    "course_title": "DIST4902 [0.5 credit]",
+    "course_desc": "Individual or small-group tutorial related to the theme of a Directed Interdisciplinary Studies program. Written permission from the Director of Interdisciplinary Studies is required before registering; please contact the DIS administrator.",
+    "course_extra_details": "Prerequisite(s): for Directed Interdisciplinary Studies students with fourth year Honours standing and a CGPA of 9.00 or better or permission of the Institute.\n \n",
+    "course_prerequisites": "for Directed Interdisciplinary Studies students with fourth year Honours standing and a CGPA of 9.00 or better or permission of the Institute.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "DIST 4904",
+    "course_code": "DIST4904",
+    "course_number": 4904,
+    "course_title": "DIST4904 [0.5 credit]",
+    "course_desc": "An examination of one or more interdisciplinary topics selected by faculty to present interdisciplinary thought and research not available elsewhere in the university curriculum.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing or permission of the Institute.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission of the Institute.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "DIST 4905",
+    "course_code": "DIST4905",
+    "course_number": 4905,
+    "course_title": "DIST4905 [0.5 credit]",
+    "course_desc": "Fieldwork related to the theme of a Directed Interdisciplinary Studies program. A proposal with a fieldwork research question and a supervisor must be approved prior to registration. A paper relating the fieldwork to the student's DIS program must be submitted. Graded as Sat/Uns.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year Honours standing in Directed Interdisciplinary Studies or permission of the Institute.\n \n",
+    "course_prerequisites": "fourth-year Honours standing in Directed Interdisciplinary Studies or permission of the Institute.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "DIST 4906",
+    "course_code": "DIST4906",
+    "course_number": 4906,
+    "course_title": "DIST4906 [0.5 credit]",
+    "course_desc": "Fieldwork related to the theme of a Directed Interdisciplinary Studies program. A proposal with a fieldwork research question and a supervisor must be approved prior to registration. A paper relating the fieldwork to the student's DIS program must be submitted. Graded as Sat/Uns.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year Honours standing in Directed Interdisciplinary Studies or permission of the Institute.\n \n",
+    "course_prerequisites": "fourth-year Honours standing in Directed Interdisciplinary Studies or permission of the Institute.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "DIST 4907",
+    "course_code": "DIST4907",
+    "course_number": 4907,
+    "course_title": "DIST4907 [0.5 credit]",
+    "course_desc": "Interdisciplinary research project designed to develop research and writing skills. Topics must be approved by the Program Coordinator also charged with marking the essay.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth year standing.\n \n",
+    "course_prerequisites": "fourth year standing.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "DIST 4908",
+    "course_code": "DIST4908",
+    "course_number": 4908,
+    "course_title": "DIST4908 [1.0 credit]",
+    "course_desc": "Interdisciplinary project for Honours Directed Interdisciplinary Studies students. In selecting a project, students must consult with the D.I.S. Program Coordinator. Students will work closely with a supervisor. Approval from the Program Coordinator to register for this course is necessary.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth year standing in the B.A. Honours Directed Interdisciplinary Studies program and a 9.0 CGPA or higher.\n \n",
+    "course_prerequisites": "fourth year standing in the B.A. Honours Directed Interdisciplinary Studies program and a 9.0 CGPA or higher.",
+    "year_standing": 0
+}
+

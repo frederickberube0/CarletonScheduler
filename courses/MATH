@@ -1,0 +1,1056 @@
+{
+    "course_identifier": "MATH 0005",
+    "course_code": "MATH0005",
+    "course_number": 5,
+    "course_title": "MATH0005 [0.5 credit]",
+    "course_desc": "Review of algebraic manipulations. Polynomials: the remainder theorem, and the factor theorem; graphing. Real and Complex roots. Absolute values. Inequalities. Functions, including composition of functions, and Inverse functions. Logarithmic and exponential functions.",
+    "course_extra_details": "Not available for degree credit for students who have successfully completed: Grade 12 Mathematics - Advanced Functions, or an equivalent High School functions course.\nPrerequisite(s): Grade 11 Functions (University/College Preparation), or equivalent.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "Grade 11 Functions (University/College Preparation), or equivalent.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 0006",
+    "course_code": "MATH0006",
+    "course_number": 6,
+    "course_title": "MATH0006 [0.5 credit]",
+    "course_desc": "Angles and the unit circle, radian measure. Definitions of trigonometric functions. Fundamental relations, Law of Sines and Cosines. Analytic trigonometry, graphs, inverse functions. Trigonometric identities and equations. Applications in science and engineering. Complex numbers in polar form, de Moivre's Theorem, n-th roots of complex numbers.",
+    "course_extra_details": "Prerequisite(s): Grade 11 Functions (University/College Preparation), or MATH0005, or equivalent.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "Grade 11 Functions (University/College Preparation), or MATH0005, or equivalent.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 0009",
+    "course_code": "MATH0009",
+    "course_number": 9,
+    "course_title": "MATH0009 [0.5 credit]",
+    "course_desc": "Limits and continuity. Differentiation rules. Trigonometric, logarithmic, and exponential functions, and their derivatives. Curve sketching. Optimization problems. Introduction to vectors. Dot and cross products. Projections. Equations of lines and planes. Intersection points and distances between points, lines, and planes.",
+    "course_extra_details": "Precludes additional credit for MATH 0007.\nPrerequisite(s): Grade 12 Mathematics (Advanced Functions); or both MATH0005 and MATH0006; or permission of the School.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "Grade 12 Mathematics (Advanced Functions); or both MATH0005 and MATH0006; or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 0107",
+    "course_code": "MATH0107",
+    "course_number": 107,
+    "course_title": "MATH0107 [0.5 credit]",
+    "course_desc": "Vectors in the plane and in 3-space. Linear combinations and linear independence. Equations of lines and planes in space. Solution of systems of linear equations. Proofs by induction. Binomial Theorem. Logic.",
+    "course_extra_details": "Prerequisite(s): Grade 11 Functions (University/College Preparation) or equivalent.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "Grade 11 Functions (University/College Preparation) or equivalent.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 1004",
+    "course_code": "MATH1004",
+    "course_number": 1004,
+    "course_title": "MATH1004 [0.5 credit]",
+    "course_desc": "Limits. Differentiation of the elementary functions. Rules of differentiation. Inverse trigonometric functions. Applications of differentiation: max-min problems, curve sketching, approximations. Definite and indefinite integrals, techniques of integration. Applications to areas and volumes.",
+    "course_extra_details": "Precludes additional credit for BIT1000, BIT1100, BIT1200, MATH 1002 (no longer offered), MATH1007, MATH1052.\nPrerequisite(s): Ontario Grade 12 Mathematics: Advanced Functions, or MATH0005 and MATH0006, or equivalent. Restricted to students in the Faculty of Engineering, or in certain B.Sc. and B.A.S. programs where specified.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "Ontario Grade 12 Mathematics: Advanced Functions, or MATH0005 and MATH0006, or equivalent. Restricted to students in the Faculty of Engineering, or in certain B.Sc. and B.A.S. programs where specified.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 1005",
+    "course_code": "MATH1005",
+    "course_number": 1005,
+    "course_title": "MATH1005 [0.5 credit]",
+    "course_desc": "First-order differential equations. Second-order linear equations with constant coefficients, undetermined coefficients, variation of parameters. Sequences and series, convergence tests, estimation of sums. Power series, Taylor series, remainders. Fourier series.",
+    "course_extra_details": "Precludes additional credit for BIT 2004 (no longer offered), BIT 2007 (no longer offered), MATH 1002 (no longer offered), MATH2007, MATH2052, and MATH2404.\nPrerequisite(s): i) MATH1004; and ii) MATH1104 (or MATH1107), either previously or concurrently; or equivalents; or permission of the School. Restricted to students in the Faculty of Engineering, or in certain B.Sc. programs where specified.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "i) MATH1004; and ii) MATH1104 (or MATH1107), either previously or concurrently; or equivalents; or permission of the School. Restricted to students in the Faculty of Engineering, or in certain B.Sc. programs where specified.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 1007",
+    "course_code": "MATH1007",
+    "course_number": 1007,
+    "course_title": "MATH1007 [0.5 credit]",
+    "course_desc": "Limits. Differentiation of the elementary functions, including trigonometric functions. Rules of differentiation. Applications of differentiation:  max-min problems, curve sketching, approximations. Introduction to integration: definite and indefinite integrals, areas under curves, fundamental theorem of calculus.",
+    "course_extra_details": "Precludes additional credit for BIT1000, BIT1100, BIT1200, MATH 1002 (no longer offered), MATH1004, MATH1401/ECON1401, MATH1402/ECON1402, MATH1052.\nPrerequisite(s): Ontario Grade 12 Mathematics: Advanced Functions; or MATH0005 and MATH0006; or equivalent.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "Ontario Grade 12 Mathematics: Advanced Functions; or MATH0005 and MATH0006; or equivalent.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 1009",
+    "course_code": "MATH1009",
+    "course_number": 1009,
+    "course_title": "MATH1009 [0.5 credit]",
+    "course_desc": "An introductory course of mathematics for business. Thorough review of basic arithmetic and algebra. Elementary functions, their graphs, properties and applications in business models. Limits. Derivatives of elementary functions. Systems of linear equations/inequalities. Geometric series.",
+    "course_extra_details": "Precludes additional credit for BIT1000, BIT1100, BIT1200, BUSI 1705 (no longer offered), MATH1401/ECON1401,  MATH1402/ECON1402, MATH1052. This course is not acceptable for (substitute) credit in any of the following degree programs: B.Math., and also B.Sc., B.C.S., B.Eng., B.I.D.\nPrerequisite(s): Restricted to B.Com. and B.I.B students.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "Restricted to B.Com. and B.I.B students.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 1052",
+    "course_code": "MATH1052",
+    "course_number": 1052,
+    "course_title": "MATH1052 [0.5 credit]",
+    "course_desc": "Properties of the real numbers. Limits. Sequences and series. Elementary functions. Continuity. Derivatives. Extreme values. Mean Value Theorem. L\u2019Hospital\u2019s rules. Antiderivatives. An emphasis is placed on proofs and theory.",
+    "course_extra_details": "Precludes additional credit for BIT1000, BIT1100, BIT1200, MATH 1002 (no longer offered), MATH1004, MATH1007, MATH1009, MATH1401/ECON1401, MATH1402/ECON1402.\nPrerequisite(s): i) Grade 12 Mathematics: Advanced Functions, and Grade 12 Mathematics: Calculus and Vectors, with grades of at least 75% in each; or MATH0005 and MATH0006 with grades of at least B in each; or equivalents; and ii) MATH1800 (may be taken concurrently); or permission of the School of Mathematics and Statistics.\nLectures three hours a week, tutorial one and one half hours a week.\n",
+    "course_prerequisites": "i) Grade 12 Mathematics: Advanced Functions, and Grade 12 Mathematics: Calculus and Vectors, with grades of at least 75% in each; or MATH0005 and MATH0006 with grades of at least B in each; or equivalents; and ii) MATH1800 (may be taken concurrently); or permission of the School of Mathematics and Statistics.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 1104",
+    "course_code": "MATH1104",
+    "course_number": 1104,
+    "course_title": "MATH1104 [0.5 credit]",
+    "course_desc": "Systems of linear equations. Matrix algebra. Determinants. Invertible matrix theorem. Cramer\u2019s rule. Vector space R^n; subspaces, bases. Eigenvalues, diagonalization. Linear transformations, kernel, range.  Complex numbers (including De Moivre\u2019s theorem). Inner product spaces and orthogonality. Applications.",
+    "course_extra_details": "Precludes additional credit for BIT1001, BIT1101, BIT1201, MATH 1102 (no longer offered), MATH1107, MATH1119, MATH1401/ECON1401, MATH1402/ECON1402, MATH1152. Note:  MATH1119 is not an acceptable substitute for MATH1104.\nPrerequisite(s): Ontario Grade 12 Mathematics: Advanced Functions, or MATH0005, or equivalent, or permission of the School. Restricted to students in the Faculty of Engineering, the School of Computer Science, or in certain B.Sc. and B.A.S. programs where specified.\nLectures three hours a week and tutorial one hour a week.\n",
+    "course_prerequisites": "Ontario Grade 12 Mathematics: Advanced Functions, or MATH0005, or equivalent, or permission of the School. Restricted to students in the Faculty of Engineering, the School of Computer Science, or in certain B.Sc. and B.A.S. programs where specified.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 1107",
+    "course_code": "MATH1107",
+    "course_number": 1107,
+    "course_title": "MATH1107 [0.5 credit]",
+    "course_desc": "Systems of linear equations; vector space of n-tuples, subspaces, bases; matrix transformations, kernel, range; matrix algebra and determinants. Dot product. Complex numbers (including de Moivre's Theorem, and n-th roots). Eigenvalues, diagonalization and applications. Note: MATH 1119 is not an acceptable substitute for  MATH 1107.",
+    "course_extra_details": "Precludes additional credit for BIT1001, BIT1101, BIT1201, MATH 1102 (no longer offered), MATH1104, MATH1119, MATH1401/ECON1401, MATH1402/ECON1402, MATH1152.\nPrerequisite(s): Ontario Grade 12 Mathematics: Advanced Functions, or MATH0005, or equivalent, or permission of the School.\nLectures three hours a week and tutorial one hour a week.\n",
+    "course_prerequisites": "Ontario Grade 12 Mathematics: Advanced Functions, or MATH0005, or equivalent, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 1119",
+    "course_code": "MATH1119",
+    "course_number": 1119,
+    "course_title": "MATH1119 [0.5 credit]",
+    "course_desc": "Introduction to systems of linear equations, geometric interpretation in two and three dimensions, introduction to matrices, vector addition and scalar multiplication, linear dependence, matrix operations, rank, inversion, invertible matrix theorem, determinants. Use of illustrative examples related to business.",
+    "course_extra_details": "Precludes additional credit for , but is not an acceptable substitute for: BIT1001, BIT1101, BIT1201, MATH 1102 (no longer offered), MATH1104, MATH1107. BUSI 1704 (no longer offered), MATH 1109 (no longer offered), MATH1401/ECON1401, MATH1402/ECON1402, MATH1152. This course is not acceptable for (substitute) credit in any of the following degree programs: B.Math., and also B.Sc., B.C.S., B.Eng., B.I.D.\nPrerequisite(s): Ontario Grade 12 Mathematics of Data Management; or Ontario Grade 12 Mathematics:  Advanced Functions, or MATH0005, or equivalent, or permission of the School.\nLectures three hours a week, tutorial one  hour a week.\n",
+    "course_prerequisites": "Ontario Grade 12 Mathematics of Data Management; or Ontario Grade 12 Mathematics:  Advanced Functions, or MATH0005, or equivalent, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 1152",
+    "course_code": "MATH1152",
+    "course_number": 1152,
+    "course_title": "MATH1152 [0.5 credit]",
+    "course_desc": "Properties of numbers. Modular arithmetic. Fields, including complex numbers and finite fields. Vector spaces. Matrix algebra. Solutions of linear systems. Linear dependence. Spanning sets. Bases. Subspaces. The rank-nullity theorem. Linear transformations. An emphasis is placed on proofs and theory.",
+    "course_extra_details": "Precludes additional credit for BIT1001, BIT1101, BIT1201, MATH 1102 (no longer offered), MATH1104, MATH1107, MATH1119, MATH1401/ECON1401, MATH1402/ECON1402.\nPrerequisite(s): i) Grade 12 Mathematics: Advanced Functions, and Grade 12 Mathematics: Calculus and Vectors, with grades of at least 75% in each; or MATH0005, MATH0006, and MATH0107 with grades of at least B in each; or equivalents; and ii) MATH1800 (may be taken concurrently); or permission of the School of Mathematics and Statistics.\nLectures three hours a week, tutorial one and a half hours a week.\n",
+    "course_prerequisites": "i) Grade 12 Mathematics: Advanced Functions, and Grade 12 Mathematics: Calculus and Vectors, with grades of at least 75% in each; or MATH0005, MATH0006, and MATH0107 with grades of at least B in each; or equivalents; and ii) MATH1800 (may be taken concurrently); or permission of the School of Mathematics and Statistics.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 1401",
+    "course_code": "MATH1401",
+    "course_number": 1401,
+    "course_title": "MATH1401 [0.5 credit]",
+    "course_desc": "Functional relations:  functional forms and error terms. Graphing economic magnitudes:  scatter diagrams, time-series graphs, functional relationships. Applied calculus:  mechanics of differentiation and integration, elasticity, consumer/producer surplus. Applied algebra:  solving systems of linear equations and Keynesian national-income analysis. Problem solving approaches.",
+    "course_extra_details": "Also listed as ECON1401.\nPrecludes additional credit for BIT1000, BIT1001, BIT1100, BIT1101, BIT1200, BIT1201; MATH1007, MATH1009, MATH1052, MATH1104, MATH1107, MATH1119, MATH1152.\nPrerequisite(s): Ontario Grade 12 U Advanced Functions, or MATH0005, or equivalent; and ECON1000 or FYSM1003, which may be taken concurrently with MATH1401/ECON1401.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "Ontario Grade 12 U Advanced Functions, or MATH0005, or equivalent; and ECON1000 or FYSM1003, which may be taken concurrently with MATH1401/ECON1401.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 1402",
+    "course_code": "MATH1402",
+    "course_number": 1402,
+    "course_title": "MATH1402 [0.5 credit]",
+    "course_desc": "Calculus: including partial differentiation, definite and indefinite integrals, techniques of integration, and unconstrained optimization. Vectors and matrices: scalar multiplication, inner product, linear dependence, matrix operations, rank, invertible matrix theorem, and determinants. Economic applications such as profit maximization, comparative statics, and the Leontief input-output model.",
+    "course_extra_details": "Also listed as ECON1402.\nPrecludes additional credit for BIT1000, BIT1001, BIT1100, BIT1101, BIT1200, BIT1201;  MATH1007, MATH1009, MATH1052, MATH1104, MATH1107, MATH1119, MATH1152.\nPrerequisite(s): ECON1000 or FYSM1003 with a grade of C- or higher, and ECON1401/MATH1401 with a grade of C- or higher.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "ECON1000 or FYSM1003 with a grade of C- or higher, and ECON1401/MATH1401 with a grade of C- or higher.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 1800",
+    "course_code": "MATH1800",
+    "course_number": 1800,
+    "course_title": "MATH1800 [0.5 credit]",
+    "course_desc": "Elementary logic, propositional and predicate calculus, quantifiers, sets and functions, bijections and elementary counting, the concept of infinity, relations, well ordering and induction.  The practice of mathematical proof in elementary number theory and combinatorics.",
+    "course_extra_details": "Precludes additional credit for MATH1805/COMP1805.\nPrerequisite(s): Ontario Grade 12 Mathematics:  Advanced Functions, or MATH0005, or equivalent.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "Ontario Grade 12 Mathematics:  Advanced Functions, or MATH0005, or equivalent.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 1805",
+    "course_code": "MATH1805",
+    "course_number": 1805,
+    "course_title": "MATH1805 [0.5 credit]",
+    "course_desc": "Introduction to discrete mathematics and discrete structures. Topics include: propositional logic,  predicate calculus, set theory, complexity of algorithms, mathematical reasoning and proof techniques, recurrences, induction, finite automata and graph theory.  Material is illustrated through examples from computing.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for MATH1800.\nPrerequisite(s): one Grade 12 university preparation Mathematics course; and one of: COMP1005 or or COMP1405 or SYSC 1100 (which may be taken concurrently).\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "one Grade 12 university preparation Mathematics course; and one of: COMP1005 or or COMP1405 or SYSC 1100 (which may be taken concurrently).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 2000",
+    "course_code": "MATH2000",
+    "course_number": 2000,
+    "course_title": "MATH2000 [1.0 credit]",
+    "course_desc": "Higher dimensional calculus, chain rule, gradient, line and multiple integrals with applications. Use of implicit and inverse function theorems. Real number axioms, limits, continuous functions, differentiability, infinite series, uniform convergence, the Riemann integral.",
+    "course_extra_details": "Precludes additional credit for BIT 2005 (no longer offered), MATH2004, MATH2008, and MATH3009.\nPrerequisite(s): i) MATH2052 with a grade of C+ or higher, or (MATH2007 or MATH1005 with a grade of B+ or higher and permission of the School); and ii) MATH2152 with a grade of C+ or higher, or MATH1107 or MATH1104 with a grade of B+ or higher; and iii) MATH1800 with a grade of C+ or higher; or permission of the School.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "i) MATH2052 with a grade of C+ or higher, or (MATH2007 or MATH1005 with a grade of B+ or higher and permission of the School); and ii) MATH2152 with a grade of C+ or higher, or MATH1107 or MATH1104 with a grade of B+ or higher; and iii) MATH1800 with a grade of C+ or higher; or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 2004",
+    "course_code": "MATH2004",
+    "course_number": 2004,
+    "course_title": "MATH2004 [0.5 credit]",
+    "course_desc": "Curves and surfaces. Polar, cylindrical and spherical coordinates. Partial derivatives, gradients, extrema and Lagrange multipliers. Exact differentials. Multiple integrals over rectangular and general regions. Integrals over surfaces. Line integrals. Vector differential operators. Green\u2019s Theorem, Stokes\u2019 theorem, Divergence Theorem. Applications.",
+    "course_extra_details": "Precludes additional credit for BIT 2005, MATH2000, and MATH2008.\nPrerequisite(s): i) MATH1005 or MATH2007; and ii) MATH1104 or MATH1107; or permission of the School. Restricted to students in the Faculty of Engineering, or in certain B.Sc. programs where specified.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "i) MATH1005 or MATH2007; and ii) MATH1104 or MATH1107; or permission of the School. Restricted to students in the Faculty of Engineering, or in certain B.Sc. programs where specified.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 2007",
+    "course_code": "MATH2007",
+    "course_number": 2007,
+    "course_title": "MATH2007 [0.5 credit]",
+    "course_desc": "Techniques of integration, improper integrals.  Polar coordinates, parametric equations.  Indeterminate forms, sequences and series, Taylor's formula and series.",
+    "course_extra_details": "Precludes additional credit for BIT 2007 (no longer offered), MATH 1002 (no longer offered), MATH1005, MATH2052.\nPrerequisite(s): i) MATH1004, or a grade of C- or higher in MATH1007; or MATH1052 and permission of the School.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "i) MATH1004, or a grade of C- or higher in MATH1007; or MATH1052 and permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 2008",
+    "course_code": "MATH2008",
+    "course_number": 2008,
+    "course_title": "MATH2008 [0.5 credit]",
+    "course_desc": "Partial differentiation, chain rule, gradient, line and multiple integrals with applications, transformations of multiple integrals.",
+    "course_extra_details": "Precludes additional credit for BIT 2005 (no longer offered), MATH2000, and MATH2004.\nPrerequisite(s): one of MATH1005, MATH2052, or MATH2007, and one of MATH1104, MATH1107, or MATH1152.\nLectures three hours a week and one hour tutorial.\n",
+    "course_prerequisites": "one of MATH1005, MATH2052, or MATH2007, and one of MATH1104, MATH1107, or MATH1152.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 2052",
+    "course_code": "MATH2052",
+    "course_number": 2052,
+    "course_title": "MATH2052 [0.5 credit]",
+    "course_desc": "Definite, indefinite integrals. Improper integrals. The fundamental theorem of calculus. An introduction to differential equations. Sequences and series of functions. Power series. Taylor\u2019s formulae. Uniform convergence. An emphasis is placed on proofs and theory.",
+    "course_extra_details": "Precludes additional credit for BIT 2007, MATH 1002 (no longer offered), MATH1005, MATH2007.\nPrerequisite(s): (i) MATH1052 with a grade of C- or higher or (MATH1007 or MATH1004 with a grade of B+ or higher and permission of the School), and (ii) MATH1800 with a grade of C+ or higher; or permission of the School.\nLectures three hours a week, tutorial one and one half hours a week.\n",
+    "course_prerequisites": "(i) MATH1052 with a grade of C- or higher or (MATH1007 or MATH1004 with a grade of B+ or higher and permission of the School), and (ii) MATH1800 with a grade of C+ or higher; or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 2100",
+    "course_code": "MATH2100",
+    "course_number": 2100,
+    "course_title": "MATH2100 [1.0 credit]",
+    "course_desc": "Introduction to group theory: permutation groups, Lagrange's theorem, normal subgroups, homomorphism theorems. Introduction to ring theory: ring of polynomials, integral domains, ideals, homomorphism theorems. Hermitian forms, spectral theorem for normal operators, bilinear and quadratic forms, classical groups.",
+    "course_extra_details": "Precludes additional credit for MATH2108 and MATH3101.\nPrerequisite(s): i) MATH2152 with a grade of C+ or higher, or (MATH2107 with a grade of B+ or higher and permission of the School); and ii) MATH1800 with a grade of C+ or higher; or permission of the School.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "i) MATH2152 with a grade of C+ or higher, or (MATH2107 with a grade of B+ or higher and permission of the School); and ii) MATH1800 with a grade of C+ or higher; or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 2107",
+    "course_code": "MATH2107",
+    "course_number": 2107,
+    "course_title": "MATH2107 [0.5 credit]",
+    "course_desc": "Finite-dimensional vector spaces (over R and C), subspaces, linear independence and bases. Linear transformations and matrices. Inner product spaces (over R and C); Orthonormal bases. Eigenvalues and diagonalization. Bilinear and quadratic forms; principal axis theorem.",
+    "course_extra_details": "Precludes additional credit for MATH 1102 (no longer offered), MATH2152.\nPrerequisite(s): i) MATH1104, or a grade of C- or higher in MATH1107 or MATH 1109; and ii) a grade of C- or higher in MATH1007 or equivalent; or MATH1152 and permission of the School. Note: in item i), MATH1119 is NOT acceptable as a substitute for MATH 1109.\nLectures three hours a week and one hour tutorial.\n",
+    "course_prerequisites": "i) MATH1104, or a grade of C- or higher in MATH1107 or MATH 1109; and ii) a grade of C- or higher in MATH1007 or equivalent; or MATH1152 and permission of the School. Note: in item i), MATH1119 is NOT acceptable as a substitute for MATH 1109.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 2108",
+    "course_code": "MATH2108",
+    "course_number": 2108,
+    "course_title": "MATH2108 [0.5 credit]",
+    "course_desc": "Sets and relations, number theory, group theory, ring theory, cardinal numbers.",
+    "course_extra_details": "Precludes additional credit for MATH3101 and MATH2100.\nPrerequisite(s): i) MATH2152 or MATH2107; and ii) MATH1800 (MATH1800 may be taken concurrently, with permission of the School); or COMP1805; or permission of the School.\nLectures three hours a week and one hour tutorial.\n",
+    "course_prerequisites": "i) MATH2152 or MATH2107; and ii) MATH1800 (MATH1800 may be taken concurrently, with permission of the School); or COMP1805; or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 2152",
+    "course_code": "MATH2152",
+    "course_number": 2152,
+    "course_title": "MATH2152 [0.5 credit]",
+    "course_desc": "Linear transformations. Determinants. Eigenvalues and eigenspaces. Diagonalization and other canonical forms. Inner products. An emphasis is placed on proofs and theory.",
+    "course_extra_details": "Precludes additional credit for MATH 1102 (no longer offered) and MATH2107.\nPrerequisite(s): (i) MATH1152 with a grade of C- or higher or (MATH1107 or MATH1104 with a grade of B+ or higher and permission of the School), and (ii) MATH1800 with a grade of C+ or higher; or permission of the School.\nLectures three hours a week, tutorial one and a half hours a week.\n",
+    "course_prerequisites": "(i) MATH1152 with a grade of C- or higher or (MATH1107 or MATH1104 with a grade of B+ or higher and permission of the School), and (ii) MATH1800 with a grade of C+ or higher; or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 2210",
+    "course_code": "MATH2210",
+    "course_number": 2210,
+    "course_title": "MATH2210 [0.5 credit]",
+    "course_desc": "An introduction to classical geometry;  Euclidean plane geometry; plane tiling; polytopes in three and four dimensions; curved surfaces; Euler characteristic.  This course is intended for a general audience, and is available to B.Math. students for credit only as a free elective.",
+    "course_extra_details": "Prerequisite(s): Grade 12 Mathematics and second-year standing.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "Grade 12 Mathematics and second-year standing.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "MATH 2404",
+    "course_code": "MATH2404",
+    "course_number": 2404,
+    "course_title": "MATH2404 [0.5 credit]",
+    "course_desc": "First-order equations, linear second- and higher-order equations, linear systems, stability of second-order systems.",
+    "course_extra_details": "Precludes additional credit for BIT 2004 (no longer offered), MATH1005, MATH2454.\nPrerequisite(s): MATH2052 and MATH1152 (or MATH1107 and MATH2007).\nLectures three hours a week and one hour tutorial.\n",
+    "course_prerequisites": "MATH2052 and MATH1152 (or MATH1107 and MATH2007).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 2454",
+    "course_code": "MATH2454",
+    "course_number": 2454,
+    "course_title": "MATH2454 [0.5 credit]",
+    "course_desc": "Existence and uniqueness theorems. First-order equations, linear second- and higher-order equations, linear systems, stability of second-order systems.",
+    "course_extra_details": "Precludes additional credit for MATH2404, BIT 2004 (no longer offered).\nPrerequisite(s): MATH2052 or MATH2007 or MATH1005 with a grade of C+ or higher, and MATH2152 or MATH2107 with a grade of C+ or higher.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "MATH2052 or MATH2007 or MATH1005 with a grade of C+ or higher, and MATH2152 or MATH2107 with a grade of C+ or higher.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 2800",
+    "course_code": "MATH2800",
+    "course_number": 2800,
+    "course_title": "MATH2800 [0.5 credit]",
+    "course_desc": "An introduction to discrete mathematics and algorithms in the context of the computational sciences. Basic number theory and counting methods, algorithms for strings, trees and sequences. Applications to DNA and protein sequencing problems. Analysis and complexity of algorithms.",
+    "course_extra_details": "Also listed as CMPS 2800.\nPrecludes additional credit for Only one of MATH1805/COMP1805 or MATH2800/CMPS 2800 may count for credit in a B.Math. program.\nPrerequisite(s): COMP1006 and at least one of MATH1007, MATH1107, or STAT2507.\nLectures three hours a week.\n",
+    "course_prerequisites": "COMP1006 and at least one of MATH1007, MATH1107, or STAT2507.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 2907",
+    "course_code": "MATH2907",
+    "course_number": 2907,
+    "course_title": "MATH2907 [0.5 credit]",
+    "course_desc": "Available only to Honours students whose program requires a 0.5 credit not offered by the School of Mathematics and Statistics.",
+    "course_extra_details": " \n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 3001",
+    "course_code": "MATH3001",
+    "course_number": 3001,
+    "course_title": "MATH3001 [0.5 credit]",
+    "course_desc": "Metric spaces and their topologies, continuous maps, completeness, compactness, connectedness, introduction to Banach spaces.",
+    "course_extra_details": "Prerequisite(s): MATH2000 with a grade of C- or higher; or (MATH3009 and MATH1800) each with a grade of B or higher, and permission of the instructor; or permission of the School.\nLectures three hours a week and one hour tutorial.\n",
+    "course_prerequisites": "MATH2000 with a grade of C- or higher; or (MATH3009 and MATH1800) each with a grade of B or higher, and permission of the instructor; or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 3002",
+    "course_code": "MATH3002",
+    "course_number": 3002,
+    "course_title": "MATH3002 [0.5 credit]",
+    "course_desc": "Function spaces, pointwise and uniform convergence, Weierstrass approximation theorem, Lebesgue measure and Lebesgue integral on the real line, Hilbert space, Fourier series.",
+    "course_extra_details": "Prerequisite(s): MATH3001 with a grade of C- or higher, or permission of the School.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "MATH3001 with a grade of C- or higher, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 3003",
+    "course_code": "MATH3003",
+    "course_number": 3003,
+    "course_title": "MATH3003 [0.5 credit]",
+    "course_desc": "Review of multivariable differentiation and integration.  Vector fields, differential forms and exterior algebra.  Introduction to manifolds and tangent bundles. Stokes\u2019 Theorem. Applications such as differential equations and the calculus of variations.",
+    "course_extra_details": "Prerequisite(s): MATH3001 with a grade of C- or higher, or permission of the School.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "MATH3001 with a grade of C- or higher, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 3007",
+    "course_code": "MATH3007",
+    "course_number": 3007,
+    "course_title": "MATH3007 [0.5 credit]",
+    "course_desc": "Analytic functions, contour integration, residue calculus, conformal mapping. Intended for non-engineering students.",
+    "course_extra_details": "Precludes additional credit for MATH3057 and PHYS3807.\nPrerequisite(s): one of MATH2004, MATH2008 or MATH 2009, or permission of the School.\nLectures three hours a week and one hour tutorial.\n",
+    "course_prerequisites": "one of MATH2004, MATH2008 or MATH 2009, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 3008",
+    "course_code": "MATH3008",
+    "course_number": 3008,
+    "course_title": "MATH3008 [0.5 credit]",
+    "course_desc": "Analytic ordinary differential equations: series solutions of ordinary differential equations about ordinary and regular singular points. Asymptotic solutions. Sturm-Liouville theory. Bessel and Legendre functions. Fourier series.",
+    "course_extra_details": "Precludes additional credit for MATH3404 and PHYS3808.\nPrerequisite(s): i) MATH2000 with a grade of C- or higher, or (MATH3009 with a grade of B or higher, and permission of the instructor); and ii) MATH2454 with a grade of C- or higher, or (MATH2404 with a grade of B or higher, and permission of the instructor).\nLectures three hours a week and one hour tutorial.\n",
+    "course_prerequisites": "i) MATH2000 with a grade of C- or higher, or (MATH3009 with a grade of B or higher, and permission of the instructor); and ii) MATH2454 with a grade of C- or higher, or (MATH2404 with a grade of B or higher, and permission of the instructor).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 3009",
+    "course_code": "MATH3009",
+    "course_number": 3009,
+    "course_title": "MATH3009 [0.5 credit]",
+    "course_desc": "The real number system, sequences and series, functions of a single real variable, derivatives, the definite integral, uniform convergence.",
+    "course_extra_details": "Precludes additional credit for MATH2000.\nPrerequisite(s): one of MATH2004, MATH2008, MATH 2009, or permission of the School.\nLectures three hours a week and one hour tutorial.\n",
+    "course_prerequisites": "one of MATH2004, MATH2008, MATH 2009, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 3057",
+    "course_code": "MATH3057",
+    "course_number": 3057,
+    "course_title": "MATH3057 [0.5 credit]",
+    "course_desc": "Analytic functions, contour integration, residue calculus, conformal mappings.",
+    "course_extra_details": "Precludes additional credit for MATH3007 and PHYS3807.\nPrerequisite(s): MATH2000 with a grade of C- or higher; or permission of the School.\nLectures three hours a week and one hour tutorial.\n",
+    "course_prerequisites": "MATH2000 with a grade of C- or higher; or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 3101",
+    "course_code": "MATH3101",
+    "course_number": 3101,
+    "course_title": "MATH3101 [0.5 credit]",
+    "course_desc": "Introduction to algebraic structures: groups, rings, fields, lattices, and Boolean algebras; with applications of interest to students in Computer Science.  This course may not be used to meet the 3000-level course requirements in any B.Math or B.Math Honours program in Mathematics and Statistics.",
+    "course_extra_details": "Precludes additional credit for MATH2108 and MATH2100.\nPrerequisite(s): i) MATH2107 or MATH2152; and ii) either COMP1805 or MATH1800 (MATH1800 may be taken concurrently, with permission of the School); or permission of the School.\nLectures three hours a week and one hour tutorial.\n",
+    "course_prerequisites": "i) MATH2107 or MATH2152; and ii) either COMP1805 or MATH1800 (MATH1800 may be taken concurrently, with permission of the School); or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 3106",
+    "course_code": "MATH3106",
+    "course_number": 3106,
+    "course_title": "MATH3106 [0.5 credit]",
+    "course_desc": "Homomorphism theorems; groups acting on sets; permutation groups and groups of matrices; Sylow theory for finite groups; finitely generated abelian groups; generators and relations; applications.",
+    "course_extra_details": "Precludes additional credit for MATH3108.\nPrerequisite(s): MATH2100 with a grade of C- or higher; or (MATH2108 or MATH3101 with a grade of B or higher; and MATH1800 with a grade of B or higher; and permission of the instructor); or permission of the School.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "MATH2100 with a grade of C- or higher; or (MATH2108 or MATH3101 with a grade of B or higher; and MATH1800 with a grade of B or higher; and permission of the instructor); or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 3107",
+    "course_code": "MATH3107",
+    "course_number": 3107,
+    "course_title": "MATH3107 [0.5 credit]",
+    "course_desc": "Similarity and unitary triangularization of matrices. Direct methods of solving a system of linear equations. Iterative techniques. Bounds for eigenvalues. Power method and deflation techniques of approximation. Emphasis is primarily on computational aspects.",
+    "course_extra_details": "Prerequisite(s): i) a grade of C- or higher in MATH2152 or MATH2107; and ii) credit in MATH2052 or MATH2007; or permission of the School.\nLectures three hours a week and one hour tutorial.\n",
+    "course_prerequisites": "i) a grade of C- or higher in MATH2152 or MATH2107; and ii) credit in MATH2052 or MATH2007; or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 3108",
+    "course_code": "MATH3108",
+    "course_number": 3108,
+    "course_title": "MATH3108 [0.5 credit]",
+    "course_desc": "Groups and rings. Permutations. Finite symmetry groups. Polynomials, unique factorization domains. Quotient rings, ideals. Field extensions, finite fields. Polynomial equations. Geometric constructions - three famous problems: duplication of the cube, trisection of an arbitrary angle, quadrature of the circle.",
+    "course_extra_details": "Precludes additional credit for MATH3106 and MATH3158.\nPrerequisite(s): MATH2108, or permission of the School.\nLectures three hours a week and one hour tutorial.\n",
+    "course_prerequisites": "MATH2108, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 3158",
+    "course_code": "MATH3158",
+    "course_number": 3158,
+    "course_title": "MATH3158 [0.5 credit]",
+    "course_desc": "Rings, integral domains, Euclidean and principal ideal domains, fields, polynomial rings over a field, algebraic extensions of fields, the fundamental theorem of Galois theory, finite fields, applications.",
+    "course_extra_details": "Precludes additional credit for MATH3108.\nPrerequisite(s): MATH2100 with a grade of C- or higher, or (MATH2108 or MATH3101 with a grade of B or higher and MATH1800 with a grade of B or higher and permission of the instructor), or permission of the School.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "MATH2100 with a grade of C- or higher, or (MATH2108 or MATH3101 with a grade of B or higher and MATH1800 with a grade of B or higher and permission of the instructor), or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 3206",
+    "course_code": "MATH3206",
+    "course_number": 3206,
+    "course_title": "MATH3206 [0.5 credit]",
+    "course_desc": "Axioms of Desarguesian geometry, principle of duality; projectivities, perspectivities, and the  fundamental theorem; collineations (homologies and elations); correlations (polarities and conics); algebraic model; projective curves;  introduction to finite projective planes.",
+    "course_extra_details": "Precludes additional credit for MATH 3256.\nPrerequisite(s): MATH2100 or MATH2108 or MATH  3101.\nLectures three hours a week and one hour tutorial.\n",
+    "course_prerequisites": "MATH2100 or MATH2108 or MATH  3101.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 3210",
+    "course_code": "MATH3210",
+    "course_number": 3210,
+    "course_title": "MATH3210 [0.5 credit]",
+    "course_desc": "Euclidean isometry and similarity groups; geometry of circles; inversion; hyperbolic geometry: Poincare disk model of the hyperbolic plane.",
+    "course_extra_details": "Precludes additional credit for MATH 3205.\nPrerequisite(s): MATH2100 or MATH2108 or MATH  3101.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "MATH2100 or MATH2108 or MATH  3101.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 3306",
+    "course_code": "MATH3306",
+    "course_number": 3306,
+    "course_title": "MATH3306 [0.5 credit]",
+    "course_desc": "Axioms of set theory. Development of the systems of natural numbers and the real numbers. Axiom of choice, Zorn's lemma, well-ordering. The Schr\u00f6der-Bernstein theorem, cardinal numbers, ordinal numbers, transfinite induction, cardinal and ordinal arithmetics.",
+    "course_extra_details": "Prerequisite(s): MATH2100 with a grade of C- or higher; or (MATH2108 or MATH3101 with a grade of B or higher; and MATH1800 with a grade of B or higher; and permission of the instructor); or permission of the School.\nLectures three hours a week and one hour tutorial.\n",
+    "course_prerequisites": "MATH2100 with a grade of C- or higher; or (MATH2108 or MATH3101 with a grade of B or higher; and MATH1800 with a grade of B or higher; and permission of the instructor); or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 3355",
+    "course_code": "MATH3355",
+    "course_number": 3355,
+    "course_title": "MATH3355 [0.5 credit]",
+    "course_desc": "Congruences, distribution of primes, arithmetic functions, primitive roots, quadratic residues, quadratic reciprocity law, continued fractions, Diophantine equations, and applications:  public key cryptography, primality testing and factoring in relation to cryptography.",
+    "course_extra_details": "Precludes additional credit for MATH3809.\nPrerequisite(s): MATH2100 with a grade of C- or higher; or (MATH2108 or MATH3101 with a grade of B- or higher;  and permission of the instructor); or permission of the School.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "MATH2100 with a grade of C- or higher; or (MATH2108 or MATH3101 with a grade of B- or higher;  and permission of the instructor); or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 3404",
+    "course_code": "MATH3404",
+    "course_number": 3404,
+    "course_title": "MATH3404 [0.5 credit]",
+    "course_desc": "Series solutions of ordinary differential equations of second order about regular singular points; asymptotic solutions. Systems of ordinary differential equations of first order; matrix methods. Existence and uniqueness theorems. Nonlinear autonomous systems of order 2; qualitative theory. Numerical solutions of ordinary differential equations.",
+    "course_extra_details": "Precludes additional credit for MATH3008.\nPrerequisite(s): MATH2404, MATH2008; and MATH2152 or MATH2107.\nLectures three hours a week and one hour tutorial.\n",
+    "course_prerequisites": "MATH2404, MATH2008; and MATH2152 or MATH2107.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 3705",
+    "course_code": "MATH3705",
+    "course_number": 3705,
+    "course_title": "MATH3705 [0.5 credit]",
+    "course_desc": "Laplace transforms, series solutions of ordinary differential equations, the Frobenius method. Fourier series and Fourier transforms, solutions of partial differential equations of mathematical physics, boundary value problems, applications.",
+    "course_extra_details": "Precludes additional credit for PHYS3808. This course may be taken for credit as a 3000-level Honours Mathematics course by students in any Honours program in the School of Mathematics and Statistics.\nPrerequisite(s): i) MATH1005 or MATH2404, and ii) MATH2004 or MATH2008 or MATH 2009; or permission of the School.\nLectures three hours a week and one hour tutorial.\n",
+    "course_prerequisites": "i) MATH1005 or MATH2404, and ii) MATH2004 or MATH2008 or MATH 2009; or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 3800",
+    "course_code": "MATH3800",
+    "course_number": 3800,
+    "course_title": "MATH3800 [0.5 credit]",
+    "course_desc": "Design and analysis of mathematical models for problems in science. Computational methods, including function evaluation, interpolation, solution of linear equations, root finding, integration, solution of differential equations, Fourier series and Monte Carlo methods.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as CMPS 3800.\nPrecludes additional credit for MATH3806/COMP 3806.\nPrerequisite(s): i) MATH1107 or MATH1104; ii) MATH1005 or MATH2007; and iii) knowledge of a computer language.\nLectures three hours a week, laboratory one hour a week.\n",
+    "course_prerequisites": "i) MATH1107 or MATH1104; ii) MATH1005 or MATH2007; and iii) knowledge of a computer language.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 3801",
+    "course_code": "MATH3801",
+    "course_number": 3801,
+    "course_title": "MATH3801 [0.5 credit]",
+    "course_desc": "Systems of linear inequalities, formulation of linear programming problems, geometric method, the simplex method, duality theory, complementary slackness, sensitivity analysis, branch-and-bound method and cutting plane method for integer linear programming, applications and extensions.",
+    "course_extra_details": "Precludes additional credit for ECON4004, SYSC3200.\nPrerequisite(s): MATH2152 or MATH2107, or permission of the School.\nLectures three hours a week and one hour tutorial.\n",
+    "course_prerequisites": "MATH2152 or MATH2107, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 3802",
+    "course_code": "MATH3802",
+    "course_number": 3802,
+    "course_title": "MATH3802 [0.5 credit]",
+    "course_desc": "Network flow problems, network simplex method, max-flow min-cut problem, integral polyhedra, minimum-weight spanning tree problem, maximum matching problem, maximum stable set problem, introduction to approximation algorithms.",
+    "course_extra_details": "Prerequisite(s): MATH  3801 or permission of the School.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "MATH  3801 or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 3804",
+    "course_code": "MATH3804",
+    "course_number": 3804,
+    "course_title": "MATH3804 [0.5 credit]",
+    "course_desc": "An introduction to the design and analysis of algorithms. Topics include: recurrence relations, sorting and searching, divide-and-conquer, dynamic programming, greedy algorithms, NP-completeness.",
+    "course_extra_details": "Also listed as COMP3804.\nPrerequisite(s): i) one of COMP2402 or SYSC2100; and ii) one of COMP2804 or MATH3855 or MATH3825 or COMP3805.\nLectures and tutorials three to four and a half hours a week.\n",
+    "course_prerequisites": "i) one of COMP2402 or SYSC2100; and ii) one of COMP2804 or MATH3855 or MATH3825 or COMP3805.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 3806",
+    "course_code": "MATH3806",
+    "course_number": 3806,
+    "course_title": "MATH3806 [0.5 credit]",
+    "course_desc": "Elementary discussion of error, polynomial interpolation, quadrature, linear systems of equations and matrix inversion, non-linear equations, difference equations and ordinary differential equations. Implementation of numerical methods using a computer language.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for MATH3800.\nPrerequisite(s): i) MATH2000 with a grade of C- or higher; and ii) MATH1152 with a grade of C- or higher, or (MATH1107 or MATH1104 with a grade of B or higher and permission of the instructor).\nLectures three hours a week, laboratory one hour a week.\n",
+    "course_prerequisites": "i) MATH2000 with a grade of C- or higher; and ii) MATH1152 with a grade of C- or higher, or (MATH1107 or MATH1104 with a grade of B or higher and permission of the instructor).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 3807",
+    "course_code": "MATH3807",
+    "course_number": 3807,
+    "course_title": "MATH3807 [0.5 credit]",
+    "course_desc": "Implementation of numerical methods using numerical software packages. Development of scientific and/or operations research applications using application programming interfaces of numerical or optimization libraries. Functional programming for data analysis and machine learning. Experience working with Python, C++, or Java is essential.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as COMP3807.\nPrerequisite(s): A grade of C- or higher in MATH3806 or COMP 3806.\nLectures three hours a week, laboratory one hour a week. \n",
+    "course_prerequisites": "A grade of C- or higher in MATH3806 or COMP 3806.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 3808",
+    "course_code": "MATH3808",
+    "course_number": 3808,
+    "course_title": "MATH3808 [0.5 credit]",
+    "course_desc": "This course covers mathematics used in the modern casino gaming industry. The topics include probabilities, odds, house advantages, variance and risks, optimal strategies, random walks and gambler's ruin, and gaming revenue estimation. Examples are taken from various games such as Roulette, Blackjack, and Poker.",
+    "course_extra_details": "Prerequisite(s): one of STAT2655, STAT2605, STAT2507, STAT 2606, STAT3502, or MATH3825 or MATH3855.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "one of STAT2655, STAT2605, STAT2507, STAT 2606, STAT3502, or MATH3825 or MATH3855.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 3809",
+    "course_code": "MATH3809",
+    "course_number": 3809,
+    "course_title": "MATH3809 [0.5 credit]",
+    "course_desc": "Congruences, distribution of primes, general cryptographic systems, public key cryptographic systems and authentification using number theory, primality testing and factoring in relation to cryptography, continued fractions and Diophantine equations.",
+    "course_extra_details": "Prerequisite(s): MATH2108 or MATH3101 or MATH2100; knowledge of a computer language.\nLectures three hours a week and one hour tutorial.\n",
+    "course_prerequisites": "MATH2108 or MATH3101 or MATH2100; knowledge of a computer language.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 3819",
+    "course_code": "MATH3819",
+    "course_number": 3819,
+    "course_title": "MATH3819 [0.5 credit]",
+    "course_desc": "Algorithms for multiplication, division, greatest common divisors and factorization over the integers, finite fields and polynomial rings. Basic tools include modular arithmetic, discrete Fourier transform, Chinese remainder theorem, Newton iteration, and Hensel techniques. Some properties of finite fields and applications to cryptography.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): MATH2108 or MATH3101 or MATH2100, COMP1005 or equivalent; or permission of the School.\nLectures three hours a week, tutorial/laboratory one hour a week.\n",
+    "course_prerequisites": "MATH2108 or MATH3101 or MATH2100, COMP1005 or equivalent; or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 3825",
+    "course_code": "MATH3825",
+    "course_number": 3825,
+    "course_title": "MATH3825 [0.5 credit]",
+    "course_desc": "Enumeration: elementary methods, inclusion and exclusion, recurrence relations, generating functions and applications. Graph theory and algorithms: connectivity, planarity, Hamilton paths and Euler trails. Error-correcting codes.",
+    "course_extra_details": "Precludes additional credit for MATH 3805 (no longer offered), and MATH3855 and COMP3805.\nPrerequisite(s): MATH2108 or MATH3101.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "MATH2108 or MATH3101.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 3855",
+    "course_code": "MATH3855",
+    "course_number": 3855,
+    "course_title": "MATH3855 [0.5 credit]",
+    "course_desc": "Enumeration: inclusion and exclusion, recurrence relations, generating functions and applications. Graph theory: connectivity, planarity, Hamilton paths and Euler trails. Error-correcting codes. Designs and finite geometries. Symmetry and counting.",
+    "course_extra_details": "Also listed as COMP3805.\nPrecludes additional credit for MATH 3805 (no longer offered) and MATH  3825.\nPrerequisite(s): MATH2100 with a grade of C- or higher; or (MATH2108 or MATH3101) with a grade of B or higher.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "MATH2100 with a grade of C- or higher; or (MATH2108 or MATH3101) with a grade of B or higher.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 3907",
+    "course_code": "MATH3907",
+    "course_number": 3907,
+    "course_title": "MATH3907 [0.5 credit]",
+    "course_desc": "Available only to students whose program requires a 0.5 credit not offered by the School of Mathematics and Statistics.",
+    "course_extra_details": " \n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 3999",
+    "course_code": "MATH3999",
+    "course_number": 3999,
+    "course_title": "MATH3999 [0.0 credit]",
+    "course_desc": "On completion of each work term, the student must submit to the School of Mathematics and Statistics a written report on the work performed. Graded Sat or Uns.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): registration in the Co-operative Education Option of an Honours program offered by the School of Mathematics and Statistics, and permission of the School.\n \n",
+    "course_prerequisites": "registration in the Co-operative Education Option of an Honours program offered by the School of Mathematics and Statistics, and permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4002",
+    "course_code": "MATH4002",
+    "course_number": 4002,
+    "course_title": "MATH4002 [0.5 credit]",
+    "course_desc": "Fourier series, Fourier integrals; introduction to harmonic analysis on locally compact abelian groups, Plancherel Theorem, Pontryagin duality; selected applications.",
+    "course_extra_details": "Prerequisite(s): MATH3001 or permission of the School.\nLectures three hours a week.\n",
+    "course_prerequisites": "MATH3001 or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4003",
+    "course_code": "MATH4003",
+    "course_number": 4003,
+    "course_title": "MATH4003 [0.5 credit]",
+    "course_desc": "Banach spaces and bounded linear operators, Hahn-Banach extension and separation, dual spaces, bounded inverse theorems, uniform boundedness principle, applications. Compact operators.",
+    "course_extra_details": "Prerequisite(s): MATH4007 or permission of the School.\nAlso offered at the graduate level, with different requirements, as MATH5008, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "MATH4007 or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4007",
+    "course_code": "MATH4007",
+    "course_number": 4007,
+    "course_title": "MATH4007 [0.5 credit]",
+    "course_desc": "Lebesgue measure and integration on the real line; sigma algebras and measures; integration theory; Lp spaces; Fubini's theorem; decomposition theorems and Radon-Nikodym derivatives.",
+    "course_extra_details": "Prerequisite(s): MATH3001 or permission of the School.\nAlso offered at the graduate level, with different requirements, as MATH5007, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "MATH3001 or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4102",
+    "course_code": "MATH4102",
+    "course_number": 4102,
+    "course_title": "MATH4102 [0.5 credit]",
+    "course_desc": "An introduction to the group representations and character theory, with selected applications.",
+    "course_extra_details": "Prerequisite(s): MATH3106, or a grade of B or higher in MATH3108.\nAlso offered at the graduate level, with different requirements, as MATH5102, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "MATH3106, or a grade of B or higher in MATH3108.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4105",
+    "course_code": "MATH4105",
+    "course_number": 4105,
+    "course_title": "MATH4105 [0.5 credit]",
+    "course_desc": "Fundamental concepts in rings and modules, structure theorems, applications.",
+    "course_extra_details": "Prerequisite(s): MATH3158 or permission of the School.\nLectures three hours a week.\n",
+    "course_prerequisites": "MATH3158 or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4106",
+    "course_code": "MATH4106",
+    "course_number": 4106,
+    "course_title": "MATH4106 [0.5 credit]",
+    "course_desc": "Fundamental principles as applied to abelian, nilpotent, solvable, free and finite groups; representations.",
+    "course_extra_details": "Prerequisite(s): MATH3106 or permission of the School.\nAlso offered at the graduate level, with different requirements, as MATH5106, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "MATH3106 or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4107",
+    "course_code": "MATH4107",
+    "course_number": 4107,
+    "course_title": "MATH4107 [0.5 credit]",
+    "course_desc": "Fields, including algebraic and transcendental extensions, Galois theory, valuation theory; Noetherian commutative rings, including Noether decomposition theorem and localization.",
+    "course_extra_details": "Prerequisite(s): MATH3158 or permission of the School.\nLectures three hours a week.\n",
+    "course_prerequisites": "MATH3158 or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4108",
+    "course_code": "MATH4108",
+    "course_number": 4108,
+    "course_title": "MATH4108 [0.5 credit]",
+    "course_desc": "Axioms of set theory; categories, functors, natural transformations; free, projective, injective and flat modules; tensor products and homology functors, derived functors; dimension theory.",
+    "course_extra_details": "Prerequisite(s): MATH3158 or permission of the School.\nAlso offered at the graduate level, with different requirements, as MATH5108, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "MATH3158 or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4109",
+    "course_code": "MATH4109",
+    "course_number": 4109,
+    "course_title": "MATH4109 [0.5 credit]",
+    "course_desc": "Introduction to field theory, emphasizing the structure of finite fields, primitive elements and irreducible polynomials. The influence of computational problems will be considered. Theory and applications of error-correcting codes: algebraic codes, convolution codes, decoding algorithms, and analysis of code performance.",
+    "course_extra_details": "Prerequisite(s): MATH2100, or MATH3101 or MATH2108 or equivalent; or permission of the School.\nLectures three hours a week.\n",
+    "course_prerequisites": "MATH2100, or MATH3101 or MATH2108 or equivalent; or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4205",
+    "course_code": "MATH4205",
+    "course_number": 4205,
+    "course_title": "MATH4205 [0.5 credit]",
+    "course_desc": "Topological spaces, maps, subspaces, product and identification topologies, separation axioms, compactness, connectedness.",
+    "course_extra_details": "Prerequisite(s): MATH3001 or permission of the School.\nAlso offered at the graduate level, with different requirements, as MATH5205, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "MATH3001 or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4206",
+    "course_code": "MATH4206",
+    "course_number": 4206,
+    "course_title": "MATH4206 [0.5 credit]",
+    "course_desc": "An introduction to homotopy theory. Topics include the fundamental group, covering spaces and the classification of two-dimensional manifolds.",
+    "course_extra_details": "Prerequisite(s): MATH3106 and MATH4205; or permission of the School.\nAlso offered at the graduate level, with different requirements, as MATH5206, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "MATH3106 and MATH4205; or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4207",
+    "course_code": "MATH4207",
+    "course_number": 4207,
+    "course_title": "MATH4207 [0.5 credit]",
+    "course_desc": "A study of at least one modern axiom system of Euclidean and non-Euclidean geometry, embedding of hyperbolic and Euclidean geometries in the projective plane, groups of motions, models of non-Euclidean geometry.",
+    "course_extra_details": "Prerequisite(s): MATH3106 (may be taken concurrently) or permission of the School.\nLectures three hours a week.\n",
+    "course_prerequisites": "MATH3106 (may be taken concurrently) or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4208",
+    "course_code": "MATH4208",
+    "course_number": 4208,
+    "course_title": "MATH4208 [0.5 credit]",
+    "course_desc": "Introduction to differentiable manifolds; Riemannian manifolds; vector fields and parallel transport; geodesics;  differential forms on a manifold; covariant derivative;  Betti numbers.",
+    "course_extra_details": "Prerequisite(s): MATH3002 or permission of the School.\nLectures three hours a week.\n",
+    "course_prerequisites": "MATH3002 or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4305",
+    "course_code": "MATH4305",
+    "course_number": 4305,
+    "course_title": "MATH4305 [0.5 credit]",
+    "course_desc": "Dirichlet series, characters, Zeta-functions, prime number theorem, Dirichlet's theorem on primes in arithmetic progressions, binary quadratic forms.",
+    "course_extra_details": "Prerequisite(s): MATH3057 or permission of the School.\nAlso offered at the graduate level, with different requirements, as MATH5305, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "MATH3057 or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4306",
+    "course_code": "MATH4306",
+    "course_number": 4306,
+    "course_title": "MATH4306 [0.5 credit]",
+    "course_desc": "Algebraic number fields, bases, algebraic integers, integral bases, arithmetic in algebraic number fields, ideal theory, class number.",
+    "course_extra_details": "Prerequisite(s): MATH3158 (may be taken concurrently) or permission of the School.\nAlso offered at the graduate level, with different requirements, as MATH5306, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "MATH3158 (may be taken concurrently) or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4600",
+    "course_code": "MATH4600",
+    "course_number": 4600,
+    "course_title": "MATH4600 [0.5 credit]",
+    "course_desc": "Applications of the principles of Operations Research to practical problems in business, management, and science. Students present at least one case and analyze cases in the published literature. Cases may also be presented by visiting practitioners.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for Students in Honours Mathematics/Statistics programs may only take course as a free option.\nPrerequisite(s): STAT2509 (or STAT2559) and MATH3801; or permission of the School.\nSeminars three hours a week.\n",
+    "course_prerequisites": "STAT2509 (or STAT2559) and MATH3801; or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4700",
+    "course_code": "MATH4700",
+    "course_number": 4700,
+    "course_title": "MATH4700 [0.5 credit]",
+    "course_desc": "First-order partial differential equations. Classification of second-order linear partial differential equations; the diffusion equation, wave equation and Laplace's equation; separation of variables; Fourier and Laplace transform methods for the solution of initial/boundary value problems; Green's functions.",
+    "course_extra_details": "Prerequisite(s): MATH3057 and one of MATH3008 or MATH3705, or permission of the School.\nLectures three hours a week.\n",
+    "course_prerequisites": "MATH3057 and one of MATH3008 or MATH3705, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4701",
+    "course_code": "MATH4701",
+    "course_number": 4701,
+    "course_title": "MATH4701 [0.5 credit]",
+    "course_desc": "Topics in the theory and application of differential equations; for example, hyperbolic systems, fluid dynamics, nonlinear wave equations, optimal mass transport, control theory, calculus of variations.",
+    "course_extra_details": "Prerequisite(s): i) MATH3008; and ii) one of MATH3001 or MATH3057; or permission of the School.\nAlso offered at the graduate level, with different requirements, as MATH5407, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "i) MATH3008; and ii) one of MATH3001 or MATH3057; or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4703",
+    "course_code": "MATH4703",
+    "course_number": 4703,
+    "course_title": "MATH4703 [0.5 credit]",
+    "course_desc": "Basic concepts of dynamical systems.  Vector formulation for systems.  Theory of autonomous systems in one, two and higher dimensions.  Limit sets, stability.  Phase plane, qualitative interpretation, limit cycles and attractors.  Parametric dependence, bifurcations and chaos.  Applications.",
+    "course_extra_details": "Prerequisite(s): MATH3001 and MATH3008 or permission of the School.\nLectures three hours a week.\n",
+    "course_prerequisites": "MATH3001 and MATH3008 or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4708",
+    "course_code": "MATH4708",
+    "course_number": 4708,
+    "course_title": "MATH4708 [0.5 credit]",
+    "course_desc": "Asymptotic series: properties, matching, application to differential equations. Asymptotic expansion of integrals:  elementary methods, methods of Laplace, stationary phase and steepest descent, Watson\u2019s lemma, Riemann-Lebesgue lemma. Perturbation methods: regular and singular perturbation for differential equations, multiple scale analysis, boundary layer theory, WKB theory.",
+    "course_extra_details": "Prerequisite(s): MATH3057 and at least one of MATH3008 or MATH3705, or permission of the School.\nAlso offered at the graduate level, with different requirements, as MATH5408, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "MATH3057 and at least one of MATH3008 or MATH3705, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4801",
+    "course_code": "MATH4801",
+    "course_number": 4801,
+    "course_title": "MATH4801 [0.5 credit]",
+    "course_desc": "An in-depth study of one or more topics from: generating functions, Polya's theory of counting, block designs, coding theory, partially ordered sets and Ramsey theory.",
+    "course_extra_details": "Prerequisite(s): MATH2100 and MATH3855 or permission of the School.\nLectures three hours a week.\n",
+    "course_prerequisites": "MATH2100 and MATH3855 or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4802",
+    "course_code": "MATH4802",
+    "course_number": 4802,
+    "course_title": "MATH4802 [0.5 credit]",
+    "course_desc": "Symbolic logic, propositional and predicate calculi, set theory and model theory, completeness.",
+    "course_extra_details": "Prerequisite(s): MATH2100 or permission of the School.\nLectures three hours a week.\n",
+    "course_prerequisites": "MATH2100 or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4803",
+    "course_code": "MATH4803",
+    "course_number": 4803,
+    "course_title": "MATH4803 [0.5 credit]",
+    "course_desc": "Recursive functions and computability, algorithms, Church's thesis, Turing machines, computational logic, NP-completeness.",
+    "course_extra_details": "Also listed as COMP4803.\nPrerequisite(s): MATH2100 or MATH3855 or permission of the School.\nLectures three hours a week.\n",
+    "course_prerequisites": "MATH2100 or MATH3855 or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4805",
+    "course_code": "MATH4805",
+    "course_number": 4805,
+    "course_title": "MATH4805 [0.5 credit]",
+    "course_desc": "Finite automata and regular expressions, properties of regular sets, context-free grammars, pushdown automata, deterministic context-free languages. Turing machines, the Chomsky hierarchy. Undecidability, intractable problems.",
+    "course_extra_details": "Also listed as COMP4805.\nPrerequisite(s): MATH3106 or MATH3158 or MATH3855 or permission of the School.\nAlso offered at the graduate level, with different requirements, as MATH5605, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "MATH3106 or MATH3158 or MATH3855 or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4806",
+    "course_code": "MATH4806",
+    "course_number": 4806,
+    "course_title": "MATH4806 [0.5 credit]",
+    "course_desc": "Matrix computations, conditioning/stability, direct methods for linear systems, classical iterative methods: Jacobi, Gauss-Seidel; modern iterative methods, Arnoldi decomposition, GMRES and other Krylov subspace-based methods for sparse and structured matrices; numerical solution of eigenvalue problems,  implementation using suitable programming language, application to differential equations/optimization problems.",
+    "course_extra_details": "Also listed as COMP4806.\nPrerequisite(s): MATH2152 or MATH2107; MATH2000 and MATH3806; or permission of the School.\nLectures three hours a week.\n",
+    "course_prerequisites": "MATH2152 or MATH2107; MATH2000 and MATH3806; or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4807",
+    "course_code": "MATH4807",
+    "course_number": 4807,
+    "course_title": "MATH4807 [0.5 credit]",
+    "course_desc": "One-player games, two-player zero-sum games, multi-player games, games in normal form, games in extensive form, utility theory, Nash equilibrium and Nash arbitration scheme, games in characteristic function form, cooperative solutions, dominations, stable sets, core, Shapley value, applications of game theory.",
+    "course_extra_details": "Prerequisite(s): MATH3801 or permission of the School.\nAlso offered at the graduate level, with different requirements, as MATH5607, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "MATH3801 or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4808",
+    "course_code": "MATH4808",
+    "course_number": 4808,
+    "course_title": "MATH4808 [0.5 credit]",
+    "course_desc": "Paths, circuits, Eulerian and Hamiltonian graphs, connectivity, colouring problems, matching, Ramsey theory, network flows.",
+    "course_extra_details": "Prerequisite(s): MATH3106 or MATH3158 or MATH3855 or permission of the School.\nLectures three hours a week.\n",
+    "course_prerequisites": "MATH3106 or MATH3158 or MATH3855 or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4809",
+    "course_code": "MATH4809",
+    "course_number": 4809,
+    "course_title": "MATH4809 [0.5 credit]",
+    "course_desc": "Topics covered include: a general survey of public key cryptography; classical applications of finite fields and number theory; relevant background in geometry and algebraic curves; computational issues concerning elliptic curves; elliptic curve cryptosystems; security issues.",
+    "course_extra_details": "Prerequisite(s): MATH3158, or permission of the School.\nLectures three hours a week.\n",
+    "course_prerequisites": "MATH3158, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4811",
+    "course_code": "MATH4811",
+    "course_number": 4811,
+    "course_title": "MATH4811 [0.5 credit]",
+    "course_desc": "Existence and construction of combinatorial designs: finite geometries, pairwise balanced designs, balanced incomplete block designs, Steiner triple systems, symmetric designs, PBD closure, latin squares, transversal designs, and applications to information theory.",
+    "course_extra_details": "Prerequisite(s): MATH3855, or permission of the School.\nLectures three hours a week.\n",
+    "course_prerequisites": "MATH3855, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4816",
+    "course_code": "MATH4816",
+    "course_number": 4816,
+    "course_title": "MATH4816 [0.5 credit]",
+    "course_desc": "Floating point arithmetic; numerical solution of ODEs; finite difference methods for PDEs; stability, accuracy and convergence:  von Neumann analysis, CFL condition, Lax Theorem.  Finite element methods:  boundary value problems and elliptic PDEs.  Spectral and pseudo-spectral methods.",
+    "course_extra_details": "Prerequisite(s): MATH2454 and MATH3806, or permission of the School.\nAlso offered at the graduate level, with different requirements, as MATH5806, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "MATH2454 and MATH3806, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4821",
+    "course_code": "MATH4821",
+    "course_number": 4821,
+    "course_title": "MATH4821 [0.5 credit]",
+    "course_desc": "Space of quantum bits; entanglement. Observables in quantum mechanics. Density matrix and Schmidt decomposition. Quantum cryptography. Classical and quantum logic gates. Quantum Fourier transform. Shor's quantum algorithm for factorization of integers.",
+    "course_extra_details": "Precludes additional credit for COMP4114.\nPrerequisite(s): MATH2152 (or MATH2107) with a grade of C+ or better, and permission of the School.\nAlso offered at the graduate level, with different requirements, as MATH5821, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "MATH2152 (or MATH2107) with a grade of C+ or better, and permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4822",
+    "course_code": "MATH4822",
+    "course_number": 4822,
+    "course_title": "MATH4822 [0.5 credit]",
+    "course_desc": "Lossless compression methods. Discrete Fourier transform and Fourier-based compression methods. JPEG and MPEG. Wavelet analysis. Digital filters and discrete wavelet transform. Daubechies wavelets. Wavelet compression.",
+    "course_extra_details": "Prerequisite(s): MATH2152 (or MATH2107) with a grade of C+ or better, and permission of the School.\nAlso offered at the graduate level, with different requirements, as MATH5822, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "MATH2152 (or MATH2107) with a grade of C+ or better, and permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4905",
+    "course_code": "MATH4905",
+    "course_number": 4905,
+    "course_title": "MATH4905 [0.5 credit]",
+    "course_desc": "Consists of a written report on some approved topic or topics in the field of mathematics, together with a short lecture on the report.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): B.Math.(Honours) students only.\n \n",
+    "course_prerequisites": "B.Math.(Honours) students only.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "MATH 4907",
+    "course_code": "MATH4907",
+    "course_number": 4907,
+    "course_title": "MATH4907 [0.5 credit]",
+    "course_desc": "Prerequisite(s): B.Math.(Honours) students only. ",
+    "course_extra_details": "Prerequisite(s): B.Math.(Honours) students only.\n \n",
+    "course_prerequisites": "B.Math.(Honours) students only.",
+    "year_standing": 0
+}
+

@@ -1,0 +1,242 @@
+{
+    "course_identifier": "INDG 1000",
+    "course_code": "INDG1000",
+    "course_number": 1000,
+    "course_title": "INDG1000 [1.0 credit]",
+    "course_desc": "Survey of historical and contemporary issues relating to Indigenous peoples in Canada. Cultural traditions and the social interactions between Indigenous and non-Indigenous societies are approached from an interdisciplinary perspective.",
+    "course_extra_details": "Precludes additional credit for INDG1010 and INDG1011.\nOnline only.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "INDG 1010",
+    "course_code": "INDG1010",
+    "course_number": 1010,
+    "course_title": "INDG1010 [0.5 credit]",
+    "course_desc": "This course centers Indigenous Creation Stories in relation to systems of power. Discussing Indigenous worldviews, knowledge making, ways of living, ecological relationships, and inter-Indigenous relations and diplomacy. Course materials are rooted in self-situated and collective understandings of Indigenous peoples.",
+    "course_extra_details": "Precludes additional credit for INDG1000.\nLectures/discussion groups three hours a week. \n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "INDG 1011",
+    "course_code": "INDG1011",
+    "course_number": 1011,
+    "course_title": "INDG1011 [0.5 credit]",
+    "course_desc": "Interdisciplinary and critical engagement with the term \u201cencounter\u201d between various Indigenous communities and settler populations. Topic areas vary by year: introduction to Indigeneity across multiple geographies, cultural and literary practices, gender and the state, race, racialization, racism, place and space, food sovereignty, and education.",
+    "course_extra_details": "Precludes additional credit for INDG1000.\nLecture/groups, three hours a week. \n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "INDG 2011",
+    "course_code": "INDG2011",
+    "course_number": 2011,
+    "course_title": "INDG2011 [0.5 credit]",
+    "course_desc": "This survey course introduces students to core concepts and analytics in Critical Indigenous Studies. Topics include land, pedagogies, relationalities, resurgence, decolonization, Indigenous feminisms and Indigiqueer Studies.",
+    "course_extra_details": "Precludes additional credit for CDNS 2100 and CDNS 2011.\nPrerequisite(s): second-year standing or permission of the School of Indigenous and Canadian Studies.\nLectures/groups three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the School of Indigenous and Canadian Studies.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "INDG 2012",
+    "course_code": "INDG2012",
+    "course_number": 2012,
+    "course_title": "INDG2012 [0.5 credit]",
+    "course_desc": "Grounded in the ontologies and place-making practices of the Anishinaabe peoples, topics may include Creation stories, migration and displacement, the clan system, worldviews, oral, written, and recorded history, treaties, knowledges, cultural production, self-governance, and diplomatic relations.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the School of Indigenous and Canadian Studies.\nLecture/groups three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the School of Indigenous and Canadian Studies.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "INDG 2013",
+    "course_code": "INDG2013",
+    "course_number": 2013,
+    "course_title": "INDG2013 [0.5 credit]",
+    "course_desc": "Grounded in the Kaienerekowa (Way of Peace), this course focuses on Haudenosaunee ontologies from the founding of the Confederacy to present. Discussion of the cultures, languages, written and recorded histories, and socio-political structures of Haudenosaunee.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the School of Indigenous and Canadian Studies.\nLecture/groups, three hours a week. \n",
+    "course_prerequisites": "second-year standing or permission of the School of Indigenous and Canadian Studies.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "INDG 2014",
+    "course_code": "INDG2014",
+    "course_number": 2014,
+    "course_title": "INDG2014 [0.5 credit]",
+    "course_desc": "Grounded in the ontologies and place-making practices of the Inuit, topics may include: Creation stories, migration and displacement, kinship, worldviews; oral, written, and recorded histories; lands and waters; land claims agreements, knowledges, cultural production, self-governance, diplomatic relations.",
+    "course_extra_details": "Lectures/groups three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "INDG 2015",
+    "course_code": "INDG2015",
+    "course_number": 2015,
+    "course_title": "INDG2015 [0.5 credit]",
+    "course_desc": "Overview of Indigenous peoples\u2019 temporal, spatial, and social relationalities, kinship networks, and knowledge systems. Topics may include Indigenous cosmologies, knowledges, languages, water, land, and re-framing human and non-human relationships.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the School of Indigenous and Canadian Studies.\nLecture/groups, three hours a week. \n",
+    "course_prerequisites": "second-year standing or permission of the School of Indigenous and Canadian Studies.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "INDG 2016",
+    "course_code": "INDG2016",
+    "course_number": 2016,
+    "course_title": "INDG2016 [0.5 credit]",
+    "course_desc": "Indigenous approaches to self-determination and nationhood. Topics include direct action; political organizing; land claims; rights, courts, and legal action; everyday acts of resistance such as petitioning, social media, arts-based movements, and community initiatives.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the School of Indigenous and Canadian Studies.\nLectures/groups three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the School of Indigenous and Canadian Studies.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "INDG 2017",
+    "course_code": "INDG2017",
+    "course_number": 2017,
+    "course_title": "INDG2017 [0.5 credit]",
+    "course_desc": "Introduction to Global Indigenous struggles, communities, resistances, and cross-border alliances. Topics may include: Canada\u2019s implication in global imperialism and environmental exploitation, specificity of race and racialization in various contexts, cisheteropatriarchy, global resistance movements, displacement, migration, and diaspora.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the School of Indigenous and Canadian Studies.\nLectures/groups three hours a week\n",
+    "course_prerequisites": "second-year standing or permission of the School of Indigenous and Canadian Studies.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "INDG 2020",
+    "course_code": "INDG2020",
+    "course_number": 2020,
+    "course_title": "INDG2020 [0.5 credit]",
+    "course_desc": "Indigenous articulations of gender, sex, and sexualities. This may include a focus on specific embodied roles and responsibilities within Indigenous communities, individual and collective identities, gender-based violence and resistances, and complex relationships between external and lateral systems of power and privilege.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the School of Indigenous and Canadian Studies.\nLecture/groups, three hours a week. \n",
+    "course_prerequisites": "second-year standing or permission of the School of Indigenous and Canadian Studies.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "INDG 2302",
+    "course_code": "INDG2302",
+    "course_number": 2302,
+    "course_title": "INDG2302 [0.5 credit]",
+    "course_desc": "Examination of politics and economics of land, waters and power. Topics may include: the study of labour, migrant workers, capitalist extraction; environmental racism and health; and Indigenous dispossession and resistance.",
+    "course_extra_details": "Also listed as CDNS2302.\nPrerequisite(s): second-year standing or permission of the School of Indigenous and Canadian Studies.\nLectures/groups three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the School of Indigenous and Canadian Studies.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "INDG 2709",
+    "course_code": "INDG2709",
+    "course_number": 2709,
+    "course_title": "INDG2709 [0.5 credit]",
+    "course_desc": "A study of dramatic literatures and theatre practice from Indigenous theatre makers, including playwrights, directors and other practitioners.",
+    "course_extra_details": "Also listed as ENGL2709.\nPrerequisite(s): second-year standing or permission of the School.\nLecture three hours per week\n",
+    "course_prerequisites": "second-year standing or permission of the School.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "INDG 3001",
+    "course_code": "INDG3001",
+    "course_number": 3001,
+    "course_title": "INDG3001 [0.5 credit]",
+    "course_desc": "An examination and discussion of different Indigenous forms of governance. Topics will vary by year and may include: Indigenous ways of knowing and forms of governance, community leadership, diplomatic relations, and struggles for self-determination.",
+    "course_extra_details": "Precludes additional credit for INDG 3000 (no longer offered).\nPrerequisite(s): second-year standing or permission of the School of Indigenous and Canadian Studies.\nSeminar three hours per week. \n",
+    "course_prerequisites": "second-year standing or permission of the School of Indigenous and Canadian Studies.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "INDG 3015",
+    "course_code": "INDG3015",
+    "course_number": 3015,
+    "course_title": "INDG3015 [0.5 credit]",
+    "course_desc": "The relationship between Indigenous traditional ecological knowledges and the academy. Topics include: linguistic barriers, tensions in diffuse ways of knowing, research ethics with respect to Indigenous traditional knowledge, and working with knowledge holders.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the School of Indigenous and Canadian Studies.\nSeminar three hours per week.\n",
+    "course_prerequisites": "second-year standing or permission of the School of Indigenous and Canadian Studies.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "INDG 3901",
+    "course_code": "INDG3901",
+    "course_number": 3901,
+    "course_title": "INDG3901 [0.5 credit]",
+    "course_desc": "Topics vary from year to year.",
+    "course_extra_details": "Prerequisite(s): second-year standing, or permission of the School of Indigenous and Canadian Studies.\nSeminar three hours per week.\n",
+    "course_prerequisites": "second-year standing, or permission of the School of Indigenous and Canadian Studies.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "INDG 4001",
+    "course_code": "INDG4001",
+    "course_number": 4001,
+    "course_title": "INDG4001 [0.5 credit]",
+    "course_desc": "This course begins with an examination of the relationship between Indigenous peoples and the construction of cities and urban space. Culminates in the undertaking of research projects that directly link students to the urban Indigenous community in Ottawa.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing or permission of the School of Indigenous and Canadian Studies.\nSeminar three hours per week. \n",
+    "course_prerequisites": "third-year standing or permission of the School of Indigenous and Canadian Studies.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "INDG 4011",
+    "course_code": "INDG4011",
+    "course_number": 4011,
+    "course_title": "INDG4011 [0.5 credit]",
+    "course_desc": "Through an examination of instances of Indigenous misrepresentation, students will explore how Indigenous peoples have used cultural production in various forms (such as literature, film, television, visual arts, music, performance) to put forth their own visions of their peoples, worldviews, and lives.",
+    "course_extra_details": "Prerequisite(s): third-year standing or permission of the School of Indigenous and Canadian Studies.\nSeminar three hours a week. \n",
+    "course_prerequisites": "third-year standing or permission of the School of Indigenous and Canadian Studies.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "INDG 4015",
+    "course_code": "INDG4015",
+    "course_number": 4015,
+    "course_title": "INDG4015 [0.5 credit]",
+    "course_desc": "This is an intensive 14-day field course that brings students together with knowledge holders on the land. The connections between Indigenous ways of knowing, the land, Indigenous languages, and the land\u2019s non-human inhabitants, will be explored. Locations and course fee varies by year.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing or permission of the School of Indigenous and Canadian Studies.\nFourteen-day field course.\n",
+    "course_prerequisites": "third-year standing or permission of the School of Indigenous and Canadian Studies.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "INDG 4020",
+    "course_code": "INDG4020",
+    "course_number": 4020,
+    "course_title": "INDG4020 [0.5 credit]",
+    "course_desc": "Students will learn to apply their knowledge of topics in Indigenous Studies with a local organization whose mandate involves working with and/or for Indigenous peoples. To be arranged in consultation with the Program Coordinator.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing or permission of the School of Indigenous and Canadian Studies.\n \n",
+    "course_prerequisites": "fourth-year standing or permission of the School of Indigenous and Canadian Studies.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "INDG 4901",
+    "course_code": "INDG4901",
+    "course_number": 4901,
+    "course_title": "INDG4901 [0.5 credit]",
+    "course_desc": "Topics vary from year to year.",
+    "course_extra_details": "Prerequisite(s): third-year standing or permission of the School of Indigenous and Canadian Studies.\nSeminar three hours per week.\n",
+    "course_prerequisites": "third-year standing or permission of the School of Indigenous and Canadian Studies.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "INDG 4905",
+    "course_code": "INDG4905",
+    "course_number": 4905,
+    "course_title": "INDG4905 [0.5 credit]",
+    "course_desc": "An optional course normally restricted to fourth-year Honours students in Canadian Studies or Indigenous Studies and to Qualifying-year Graduate students. Includes supervised reading and written work in an Indigenous Studies area.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing or permission of the School of Indigenous and Canadian Studies.\n \n",
+    "course_prerequisites": "fourth-year standing or permission of the School of Indigenous and Canadian Studies.",
+    "year_standing": 4
+}
+

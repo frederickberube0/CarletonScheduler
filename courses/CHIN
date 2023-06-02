@@ -1,0 +1,176 @@
+{
+    "course_identifier": "CHIN 1010",
+    "course_code": "CHIN1010",
+    "course_number": 1010,
+    "course_title": "CHIN1010 [0.5 credit]",
+    "course_desc": "For students with no knowledge of Mandarin. Oral skills; basic reading and writing skills. Placement test for non-literate speakers of other Chinese languages. Not open to students already literate in any Chinese language. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for CHIN1110.\nFour hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "CHIN 1020",
+    "course_code": "CHIN1020",
+    "course_number": 1020,
+    "course_title": "CHIN1020 [0.5 credit]",
+    "course_desc": "Continuation of first-year Mandarin Chinese. Oral skills; basic reading and writing skills. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for CHIN1110.\nPrerequisite(s): grade of C or higher in CHIN1010, or permission of the School.\nFour hours a week.\n",
+    "course_prerequisites": "grade of C or higher in CHIN1010, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "CHIN 1110",
+    "course_code": "CHIN1110",
+    "course_number": 1110,
+    "course_title": "CHIN1110 [1.0 credit]",
+    "course_desc": "For students with no knowledge of Mandarin Chinese. Oral skills; basic reading and writing skills. Placement test for non-literate speakers of other Chinese languages. Not open to students already literate in any Chinese language. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for CHIN1010 and CHIN1020.\nEight hours a week (one term).\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "CHIN 2010",
+    "course_code": "CHIN2010",
+    "course_number": 2010,
+    "course_title": "CHIN2010 [0.5 credit]",
+    "course_desc": "Further study of Mandarin Chinese to reach a more advanced level of proficiency in a range of situations. Equal emphasis on oral and written language. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for CHIN2110.\nPrerequisite(s): grade of C or higher in CHIN1020 or CHIN1110, or permission of the School.\nFour hours a week.\n",
+    "course_prerequisites": "grade of C or higher in CHIN1020 or CHIN1110, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "CHIN 2020",
+    "course_code": "CHIN2020",
+    "course_number": 2020,
+    "course_title": "CHIN2020 [0.5 credit]",
+    "course_desc": "Continuation of second-year Mandarin Chinese. Further study of Mandarin Chinese to reach a more advanced level of proficiency in a range of situations. Equal emphasis on oral and written language. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for CHIN2110.\nPrerequisite(s): grade of C or higher in CHIN2010 or permission of the School.\nFour hours a week.\n",
+    "course_prerequisites": "grade of C or higher in CHIN2010 or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "CHIN 2110",
+    "course_code": "CHIN2110",
+    "course_number": 2110,
+    "course_title": "CHIN2110 [1.0 credit]",
+    "course_desc": "Further study of Mandarin Chinese to reach a more advanced level of ability in a range of situations. Equal emphasis on oral and written language. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for CHIN2010 and CHIN2020.\nPrerequisite(s): grade of C or higher in CHIN1020 or CHIN1110, or permission of the School.\nEight hours a week (one term).\n",
+    "course_prerequisites": "grade of C or higher in CHIN1020 or CHIN1110, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "CHIN 3010",
+    "course_code": "CHIN3010",
+    "course_number": 3010,
+    "course_title": "CHIN3010 [0.5 credit]",
+    "course_desc": "Continuation of the study of Mandarin Chinese to reach a more advanced level, including ability to handle authentic materials and primary texts required for academic studies. Compulsory attendance.",
+    "course_extra_details": "Prerequisite(s): grade of C or higher in CHIN2020, or CHIN2110, or permission of the School.\nThree hours a week.\n",
+    "course_prerequisites": "grade of C or higher in CHIN2020, or CHIN2110, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "CHIN 3015",
+    "course_code": "CHIN3015",
+    "course_number": 3015,
+    "course_title": "CHIN3015 [0.5 credit]",
+    "course_desc": "For students who have attained Mandarin Chinese proficiency in an informal setting, this course provides an opportunity to build on their existing language skills and to develop them in a formal academic setting. The course will formalize grammar awareness and enhance Mandarin Chinese literacy skills.",
+    "course_extra_details": "Precludes additional credit for 1000 and 2000 level CHIN courses, and also for CHIN3010.\nPrerequisite(s): permission of the School.\nThree hours a week.\n",
+    "course_prerequisites": "permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "CHIN 3020",
+    "course_code": "CHIN3020",
+    "course_number": 3020,
+    "course_title": "CHIN3020 [0.5 credit]",
+    "course_desc": "Continuation of third-year Mandarin Chinese. Progress toward reaching a more advanced level, including ability to handle authentic materials and primary texts required for academic studies. Compulsory attendance.",
+    "course_extra_details": "Prerequisite(s): grade of C or higher in CHIN3010 or CHIN3015, or permission of the School.\nThree hours a week.\n",
+    "course_prerequisites": "grade of C or higher in CHIN3010 or CHIN3015, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "CHIN 4010",
+    "course_code": "CHIN4010",
+    "course_number": 4010,
+    "course_title": "CHIN4010 [0.5 credit]",
+    "course_desc": "Development of speaking and writing abilities more complex than those used in daily communication. Development of language use for specific purposes and in specific contexts such as the academic, business and technical domains. Compulsory attendance.",
+    "course_extra_details": "Prerequisite(s): grade of C or higher in CHIN3020, or permission of the School.\nThree hours a week.\n",
+    "course_prerequisites": "grade of C or higher in CHIN3020, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "CHIN 4020",
+    "course_code": "CHIN4020",
+    "course_number": 4020,
+    "course_title": "CHIN4020 [0.5 credit]",
+    "course_desc": "Continuation of fourth-year Mandarin Chinese. Further development of speaking and writing abilities more complex than those used in daily communication. Development of language use for specific purposes and in specific contexts such as the academic, business and technical domains. Compulsory attendance.",
+    "course_extra_details": "Prerequisite(s): grade of C or higher in CHIN4010, or permission of the School.\nThree hours a week.\n",
+    "course_prerequisites": "grade of C or higher in CHIN4010, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "CHIN 4210",
+    "course_code": "CHIN4210",
+    "course_number": 4210,
+    "course_title": "CHIN4210 [0.5 credit]",
+    "course_desc": "Further study of Mandarin Chinese to reach a more advanced level, aimed at developing speaking and writing abilities more complex than those used in daily communication. Development of language use for specific purposes in contexts such as the academic, business and technical domains.",
+    "course_extra_details": "Prerequisite(s): grade of C or higher in CHIN4020, or permission of the School.\nThree hours a week.\n",
+    "course_prerequisites": "grade of C or higher in CHIN4020, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "CHIN 4220",
+    "course_code": "CHIN4220",
+    "course_number": 4220,
+    "course_title": "CHIN4220 [0.5 credit]",
+    "course_desc": "Continuation of CHIN 4210. Further development of speaking and writing abilities more complex than those used in daily communication. Development of language use for specific purposes in contexts such as the academic, business and technical domains.",
+    "course_extra_details": "Prerequisite(s): grade of C or higher in CHIN4210 or permission of the School.\nThree hours a week.\n",
+    "course_prerequisites": "grade of C or higher in CHIN4210 or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "CHIN 4380",
+    "course_code": "CHIN4380",
+    "course_number": 4380,
+    "course_title": "CHIN4380 [0.5 credit]",
+    "course_desc": "Selected topics in Chinese culture and society. Repeatable once for credit when topic varies. Taught in English.",
+    "course_extra_details": "Prerequisite(s): Third-year standing in the Minor in Mandarin Chinese, or permission of the instructor.\nThree hours a week.\n",
+    "course_prerequisites": "Third-year standing in the Minor in Mandarin Chinese, or permission of the instructor.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "CHIN 4900",
+    "course_code": "CHIN4900",
+    "course_number": 4900,
+    "course_title": "CHIN4900 [1.0 credit]",
+    "course_desc": "Research in a topic in Mandarin Chinese language, literature or linguistics under the supervision of a member of the School.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third- or fourth-year standing in the Minor in Mandarin Chinese, grade of C or higher in CHIN4020 or equivalent, and permission of the School.\n \n",
+    "course_prerequisites": "third- or fourth-year standing in the Minor in Mandarin Chinese, grade of C or higher in CHIN4020 or equivalent, and permission of the School.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "CHIN 4901",
+    "course_code": "CHIN4901",
+    "course_number": 4901,
+    "course_title": "CHIN4901 [0.5 credit]",
+    "course_desc": "Research in a topic in Mandarin Chinese language, literature or linguistics under the supervision of a member of the School.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third- or fourth-year standing in the Minor in Mandarin Chinese, grade of C or higher in CHIN4020 or equivalent, and permission of the School.\n \n",
+    "course_prerequisites": "third- or fourth-year standing in the Minor in Mandarin Chinese, grade of C or higher in CHIN4020 or equivalent, and permission of the School.",
+    "year_standing": 4
+}
+

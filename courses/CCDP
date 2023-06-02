@@ -1,0 +1,55 @@
+{
+    "course_identifier": "CCDP 2004",
+    "course_code": "CCDP2004",
+    "course_number": 2004,
+    "course_title": "CCDP2004 [0.5 credit]",
+    "course_desc": "Development of competence in professional written and oral communication in relation to network design, development, and management. Focus on written documents (proposals, technical explanations, specifications, reports), and oral presentations.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for NET 2004 (no longer offered).\nPrerequisite(s): restricted to students with second-year standing in the B.I.T. degree program.\nSeminars three hours a week. \n",
+    "course_prerequisites": "restricted to students with second-year standing in the B.I.T. degree program.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "CCDP 2100",
+    "course_code": "CCDP2100",
+    "course_number": 2100,
+    "course_title": "CCDP2100 [0.5 credit]",
+    "course_desc": "Development of competence in professional written and oral communication in engineering. Focus on written documents (proposals, technical explanations, research reports, summaries) and oral presentations. Attendance is mandatory.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): restricted to students with second-year standing in the Bachelor of Engineering program. All ESL requirements must be successfully completed; this course may not be taken concurrently with any ESLA course. Not repeatable for credit when successfully completed with a grade of C or higher.\nSeminars three hours a week.\n",
+    "course_prerequisites": "restricted to students with second-year standing in the Bachelor of Engineering program. All ESL requirements must be successfully completed; this course may not be taken concurrently with any ESLA course. Not repeatable for credit when successfully completed with a grade of C or higher.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "CCDP 3003",
+    "course_code": "CCDP3003",
+    "course_number": 3003,
+    "course_title": "CCDP3003 [0.5 credit]",
+    "course_desc": "Development of competence in professional written and oral communication in the field of interactive multimedia and design. Focus on written documents (needs analyses, proposals, technical explanations, reports), and oral presentations.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for IMD 3003 (no longer offered).\nPrerequisite(s): restricted to students with second-year standing in the B.I.T. degree program.\nSeminars three hours a week.\n",
+    "course_prerequisites": "restricted to students with second-year standing in the B.I.T. degree program.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "CCDP 3006",
+    "course_code": "CCDP3006",
+    "course_number": 3006,
+    "course_title": "CCDP3006 [0.5 credit]",
+    "course_desc": "Development of competence in professional written and oral communication in the field of information resource management.  Focus on written documents (proposals, technical explanations, infographics, reports), and oral presentations.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): restricted to students with second-year standing in the B.I.T. degree program.\nSeminars three hours a week.\n",
+    "course_prerequisites": "restricted to students with second-year standing in the B.I.T. degree program.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "CCDP 3008",
+    "course_code": "CCDP3008",
+    "course_number": 3008,
+    "course_title": "CCDP3008 [0.5 credit]",
+    "course_desc": "Development of competence in professional written and oral communication in the field of optical systems and sensors. Focus on written documents (proposals, technical explanations, reports), and oral presentations.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PLT 3008 (no longer offered).\nPrerequisite(s): Restricted to students with second-year standing in the B.I.T. degree program.\nSeminars three hours a week.\n",
+    "course_prerequisites": "Restricted to students with second-year standing in the B.I.T. degree program.",
+    "year_standing": 2
+}
+

@@ -1,0 +1,220 @@
+{
+    "course_identifier": "IMD 1000",
+    "course_code": "IMD 000",
+    "course_number": 1000,
+    "course_title": "IMD1000 [0.5 credit]",
+    "course_desc": "Introduction to interactive multimedia and design, focused on the production and processes of animation, visual fx, game design and development, web design and development, and user experience/interfaces. Topics include: mark-up languages, design process/problem-solving tools, human-centered design, product development, ethics, and copyright and intellectual property.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ITEC1100.\nPrerequisite(s): Restricted to students in the B.I.T. degree program.\nLecture three hours a week.\n",
+    "course_prerequisites": "Restricted to students in the B.I.T. degree program.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "IMD 1001",
+    "course_code": "IMD 001",
+    "course_number": 1001,
+    "course_title": "IMD1001 [0.5 credit]",
+    "course_desc": "Visual communication techniques commonly used to draft concepts and ideas to support scripts for film, animation, HCI, and/or game development. Topics include: storyboarding, composition, vanishing point, line quality, visual timing, perspective, depth of field, body language and life drawing. A digital drawing tablet is required.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): IMD1000 and IMD1002.\nWorkshop three hours a week.\n",
+    "course_prerequisites": "IMD1000 and IMD1002.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "IMD 1002",
+    "course_code": "IMD 002",
+    "course_number": 1002,
+    "course_title": "IMD1002 [0.5 credit]",
+    "course_desc": "Fundamentals of composition with emphasis on realistic rendering. Students learn how to execute thumbnails and design comprehensives. Topics include illustration, type, colour, texture, proximity and unity, alignment, repetition and continuity, contrast, size relationships, balance, rhythm, negative space, cropping and view selection.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): restricted to students in the B.I.T. degree program.\nWorkshop three hours a week.\n",
+    "course_prerequisites": "restricted to students in the B.I.T. degree program.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "IMD 1004",
+    "course_code": "IMD 004",
+    "course_number": 1004,
+    "course_title": "IMD1004 [0.5 credit]",
+    "course_desc": "Design fundamentals using industry standard software techniques and workflow are explored. Topics include: gestalt principles, grids systems, colour, texture, raster and vector image production, and typography.  Students design for publication to output such as Web, print, and electronic book formats. Required digital drawing tablet.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): restricted to students in the B.I.T. degree program.\nWorkshop three hours a week.\n",
+    "course_prerequisites": "restricted to students in the B.I.T. degree program.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "IMD 1005",
+    "course_code": "IMD 005",
+    "course_number": 1005,
+    "course_title": "IMD1005 [0.5 credit]",
+    "course_desc": "Introduction to Web development. Combining graphics, text, audio, and video to create Web sites; developing different, major working Web sites on an individual basis and in groups, using valid xHTML, cascading style sheets (CSS), JavaScript and XML structures.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ITEC1005.\nPrerequisite(s): IMD1000 and IMD1004.\nWorkshop five hours a week.\n",
+    "course_prerequisites": "IMD1000 and IMD1004.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "IMD 2003",
+    "course_code": "IMD 003",
+    "course_number": 2003,
+    "course_title": "IMD2003 [0.5 credit]",
+    "course_desc": "The creation, production and editing of audio and video for multimedia applications. Topics include single camera recording and capture techniques through to post-production editing. Emphasis is placed on production and operation skills while adhering to industry standard costs and deadlines.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): IMD1000 and IMD1002.\nWorkshop four hours a week.\n",
+    "course_prerequisites": "IMD1000 and IMD1002.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "IMD 2006",
+    "course_code": "IMD 006",
+    "course_number": 2006,
+    "course_title": "IMD2006 [0.5 credit]",
+    "course_desc": "Basic concepts in the design and development of computer games, including: fundamentals of production cycle, genres, gameplay and game mechanics, story and character development, level design, artificial intelligence for games, game user interface, and common development tools.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BIT2400 and second-year standing in the IMD program.\nLecture three hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "BIT2400 and second-year standing in the IMD program.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "IMD 2007",
+    "course_code": "IMD 007",
+    "course_number": 2007,
+    "course_title": "IMD2007 [0.5 credit]",
+    "course_desc": "Introduction to the basics of 3D computer animation. Topics include: introduction of 3D animation packages, 12 Principles of Animation, character design, character animation (walking/locomotion, motion, and poses), soft-body animation (shape interpolation and facial animation), and acting for animators.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for IMD 2005 (no longer offered).\nPrerequisite(s): BIT1002 and second-year standing in the IMD program.\nLecture/workshop three hours a week.\n",
+    "course_prerequisites": "BIT1002 and second-year standing in the IMD program.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "IMD 2900",
+    "course_code": "IMD 900",
+    "course_number": 2900,
+    "course_title": "IMD2900 [1.0 credit]",
+    "course_desc": "Advanced practical studio-based sessions focused on project management. Topics include: project management styles, team collaboration techniques, prototyping, project and content management, marketing, and testing/validation. The studio emphasizes the management of web design and development projects.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): second-year standing in the IMD  program.\nStudio/lecture eight hours a week.\n",
+    "course_prerequisites": "second-year standing in the IMD  program.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "IMD 3002",
+    "course_code": "IMD 002",
+    "course_number": 3002,
+    "course_title": "IMD3002 [0.5 credit]",
+    "course_desc": "Technical aspects of 3D computer graphics. Homogeneous transformations, viewing pipeline, cinematography, modeling techniques (explicit and implicit), scene composition, level of detail methods, advanced lighting techniques (BRDF, IBL, subsurface-scattering), 2D/3D texturing, local/global illumination, rendering methods, and shaders.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BIT1101, BIT2400 and IMD3900.\nLectures three hours a week, tutorial/laboratory two hours per week.\n",
+    "course_prerequisites": "BIT1101, BIT2400 and IMD3900.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "IMD 3004",
+    "course_code": "IMD 004",
+    "course_number": 3004,
+    "course_title": "IMD3004 [0.5 credit]",
+    "course_desc": "Introduction to  concepts centered on Human-Computer Interaction from hardware and software perspectives. Topics include design principles, usability principles and engineering, solving user-centred problems, device interaction, and graphical user interface design (2D and 3D interfaces).",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BIT2009 and third-year standing in the IMD program.\nLecture three hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "BIT2009 and third-year standing in the IMD program.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "IMD 3005",
+    "course_code": "IMD 005",
+    "course_number": 3005,
+    "course_title": "IMD3005 [0.5 credit]",
+    "course_desc": "Development of interactive applications that connect the physical and virtual space. Topics include using external devices and sensor hardware, sensing objects and people, gestural input, computer vision, processing of live audio input, and networked software and devices.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BIT2400.\nLecture/ workshop four hours a week.\n",
+    "course_prerequisites": "BIT2400.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "IMD 3006",
+    "course_code": "IMD 006",
+    "course_number": 3006,
+    "course_title": "IMD3006 [0.5 credit]",
+    "course_desc": "Provides students with knowledge and expertise to design and develop complex software systems and programs for common multimedia applications. Topics include: data structures, system and requirement analysis, component identification, common design patterns, and working with reusable components.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BIT2400.\nLecture three hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "BIT2400.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "IMD 3900",
+    "course_code": "IMD 900",
+    "course_number": 3900,
+    "course_title": "IMD3900 [1.0 credit]",
+    "course_desc": "Intermediate practical studio sessions covering the creative aspects of 3D graphics and animation. Topics include: environment and character modeling, texturing, using bump/displacement maps, advanced materials, 3D cameras, various lighting, keyframe animation, and rendering methods.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): IMD2007 and third-year standing in the IMD program.\nStudio/lecture eight hours a week.\n",
+    "course_prerequisites": "IMD2007 and third-year standing in the IMD program.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "IMD 3901",
+    "course_code": "IMD 901",
+    "course_number": 3901,
+    "course_title": "IMD3901 [1.0 credit]",
+    "course_desc": "Studio-based course focuses on interdisciplinary group work, and the use of reality-based/ natural-based interfaces for multiuser interaction, understanding social and environmental context in physical design, basic networking, advanced sound design, and haptic feedback.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing in the IMD program, IMD2900 and IMD3005.\nStudio/lecture eight hours a week.\n",
+    "course_prerequisites": "third-year standing in the IMD program, IMD2900 and IMD3005.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "IMD 4002",
+    "course_code": "IMD 002",
+    "course_number": 4002,
+    "course_title": "IMD4002 [0.5 credit]",
+    "course_desc": "An examination of the relationship between communication technology and society. The course examines the factors that contribute to changes in the collection, storage and distribution of information and the cultural implications of these changes.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing in the IMD program.\nSeminar three hours a week.\n",
+    "course_prerequisites": "third-year standing in the IMD program.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "IMD 4005",
+    "course_code": "IMD 005",
+    "course_number": 4005,
+    "course_title": "IMD4005 [0.5 credit]",
+    "course_desc": "Advanced topics in multimedia industry not ordinarily treated in the regular course program due to their contemporary subject matter. The choice of topics varies from year to year.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing in the IMD program.\nLecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing in the IMD program.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "IMD 4006",
+    "course_code": "IMD 006",
+    "course_number": 4006,
+    "course_title": "IMD4006 [0.5 credit]",
+    "course_desc": "Provides students with knowledge and expertise to design and develop professional computer games with advanced and novel features. Topics include: target audience and inclusive/accessible design, interaction design and emerging technologies, artificial intelligence, interactive stories, procedural content generation, serious games and gamification.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): IMD2006 and IMD3002.\nLecture three hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "IMD2006 and IMD3002.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "IMD 4008",
+    "course_code": "IMD 008",
+    "course_number": 4008,
+    "course_title": "IMD4008 [0.5 credit]",
+    "course_desc": "Design, development, and evaluation of user interfaces for mobile applications. Topics include: user-centered design methods and develop mobile applications employing the various input and output capabilities available on mobiles, e.g., multi-touch, device motion/rotation, video/audio capture, vibration.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): IMD3004 and IMD3006.\nLecture three hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "IMD3004 and IMD3006.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "IMD 4901",
+    "course_code": "IMD 901",
+    "course_number": 4901,
+    "course_title": "IMD4901 [1.5 credit]",
+    "course_desc": "Student-initiated digital media project, under the supervision of a project advisor, consisting of complete end-to-end production, from design to final product. Development will be assessed via design documents, project plans, progress presentations, culminating in a final exposition in front of a panel of industry experts.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): IMD2900, IMD3004, IMD3900, IMD3901 and fourth-year standing in the IMD program.\nTutorial hours arranged.\n",
+    "course_prerequisites": "IMD2900, IMD3004, IMD3900, IMD3901 and fourth-year standing in the IMD program.",
+    "year_standing": 4
+}
+

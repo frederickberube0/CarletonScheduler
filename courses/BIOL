@@ -1,0 +1,946 @@
+{
+    "course_identifier": "BIOL 1010",
+    "course_code": "BIOL1010",
+    "course_number": 1010,
+    "course_title": "BIOL1010 [0.5 credit]",
+    "course_desc": "A course for students interested in the science behind recent advances in biotechnology. The different ways in which biotechnology is being applied in agriculture, health care,  and the environment will be examined.",
+    "course_extra_details": "Preclusion: credit will not be given if taken concurrently with or after BIOL 2200 or BIOC 2200 or BIOL 2201. Students in Biology and Biochemistry programs may only take this course as a free elective.\nLectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 1103",
+    "course_code": "BIOL1103",
+    "course_number": 1103,
+    "course_title": "BIOL1103 [0.5 credit]",
+    "course_desc": "A research-oriented course focusing on the scientific process of biological exploration at the cellular level. Topics include cell organization, metabolism, genetics, and reproduction.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for BIOL 1003 (no longer offered).\nPrerequisite(s): Ontario 4U/M in Biology (or equivalent), or Ontario 4U/M in Chemistry (or equivalent).\nLectures three hours a week, laboratory or tutorial three hours a week.\n",
+    "course_prerequisites": "Ontario 4U/M in Biology (or equivalent), or Ontario 4U/M in Chemistry (or equivalent).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 1104",
+    "course_code": "BIOL1104",
+    "course_number": 1104,
+    "course_title": "BIOL1104 [0.5 credit]",
+    "course_desc": "A research-oriented course focusing on the scientific process of biological exploration at the macroscale. Topics include evolution, diversity of life, and ecological relationships.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for BIOL 1004 (no longer offered).\nPrerequisite(s): Ontario 4U/M in Biology (or equivalent) or BIOL1103.\nLectures three hours a week, laboratory or tutorial three hours a week.\n",
+    "course_prerequisites": "Ontario 4U/M in Biology (or equivalent) or BIOL1103.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 1105",
+    "course_code": "BIOL1105",
+    "course_number": 1105,
+    "course_title": "BIOL1105 [0.5 credit]",
+    "course_desc": "Formulation of biological research questions, development of hypotheses and predictions, design of experiments, collection and analysis of data, interpretation and presentation of results.",
+    "course_extra_details": "Lectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 1902",
+    "course_code": "BIOL1902",
+    "course_number": 1902,
+    "course_title": "BIOL1902 [0.5 credit]",
+    "course_desc": "A course designed primarily for students in non-biology programs to investigate the natural history of plants and animals, and the communities in which they occur. Particular attention is paid to the Ottawa region, but appropriate examples from other locales are also included.",
+    "course_extra_details": "Lectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 2001",
+    "course_code": "BIOL2001",
+    "course_number": 2001,
+    "course_title": "BIOL2001 [0.5 credit]",
+    "course_desc": "An introduction to the diverse structures of animals (both invertebrates and vertebrates) in relationship to their functions, discussed within an evolutionary framework.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): (BIOL 1003 and BIOL 1004) or (BIOL1103 and BIOL1104).\nLectures three hours a week, laboratory or tutorial three hours a week.\n",
+    "course_prerequisites": "(BIOL 1003 and BIOL 1004) or (BIOL1103 and BIOL1104).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 2002",
+    "course_code": "BIOL2002",
+    "course_number": 2002,
+    "course_title": "BIOL2002 [0.5 credit]",
+    "course_desc": "An introduction to the structure and development of higher plants (at cellular, morphological and organism levels) discussed in relation to their function.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): (BIOL 1003 and BIOL 1004) or (BIOL1103 and BIOL1104).\nLectures three hours a week, laboratory or tutorial three hours a week.\n",
+    "course_prerequisites": "(BIOL 1003 and BIOL 1004) or (BIOL1103 and BIOL1104).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 2005",
+    "course_code": "BIOL2005",
+    "course_number": 2005,
+    "course_title": "BIOL2005 [0.5 credit]",
+    "course_desc": "A course for non-specialists interested in how the human body works. Topics will include biological molecules, cells, genetics, and various organ systems. Examples will be used to connect concepts taught in the course with general knowledge of human health and disease.",
+    "course_extra_details": "Prerequisite(s): BIOL 1003 or BIOL1103 and (CHEM1001 and CHEM1002) or (CHEM1005 and CHEM1006). Students in Biology and Biochemistry programs may only take this course as a free elective.\nLectures three hours a week.\n",
+    "course_prerequisites": "BIOL 1003 or BIOL1103 and (CHEM1001 and CHEM1002) or (CHEM1005 and CHEM1006). Students in Biology and Biochemistry programs may only take this course as a free elective.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 2104",
+    "course_code": "BIOL2104",
+    "course_number": 2104,
+    "course_title": "BIOL2104 [0.5 credit]",
+    "course_desc": "Lecture/laboratory course on the mechanisms of inheritance and the nature of gene structure, composition and function, introducing both classical Mendelian genetics and modern molecular genetics.  It is strongly recommended that this course be taken by Biology majors in their second year of study.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for BIOL 2106 (no longer offered) and BIOL2107. Credit for BIOL 2106 will only be given if taken before BIOL2104.\nPrerequisite(s): (BIOL 1003 and BIOL 1004) or (BIOL1103 and BIOL1104).\nLectures three hours a week, laboratory or tutorial three hours a week.\n",
+    "course_prerequisites": "(BIOL 1003 and BIOL 1004) or (BIOL1103 and BIOL1104).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 2107",
+    "course_code": "BIOL2107",
+    "course_number": 2107,
+    "course_title": "BIOL2107 [0.5 credit]",
+    "course_desc": "Mechanisms of inheritance and the nature of gene structure, composition and function, introducing both classical Mendelian genetics and modern molecular genetics.",
+    "course_extra_details": "Precludes additional credit for BIOL2104 and BIOL 2106 (no longer offered).\nPrerequisite(s): (BIOL 1003 and BIOL 1004) or (BIOL1103 and BIOL1104).\nLectures three hours a week.\n",
+    "course_prerequisites": "(BIOL 1003 and BIOL 1004) or (BIOL1103 and BIOL1104).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 2200",
+    "course_code": "BIOL2200",
+    "course_number": 2200,
+    "course_title": "BIOL2200 [0.5 credit]",
+    "course_desc": "Cellular functions and their interrelationships. Introduction to thermodynamics, membrane structure and function, transport mechanisms, basic metabolic pathways, energy production and utilization, communications between cells. It is strongly recommended that Biology Majors and Honours students take this course in their second year of study.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as BIOC2200.\nPrecludes additional credit for BIOL2201.\nPrerequisite(s): (BIOL 1003 and BIOL 1004) or (BIOL1103 and BIOL1104), (CHEM1001 and CHEM1002) or (CHEM1005 and CHEM1006).\nLectures three hours a week, laboratory or tutorial four hours a week.\n",
+    "course_prerequisites": "(BIOL 1003 and BIOL 1004) or (BIOL1103 and BIOL1104), (CHEM1001 and CHEM1002) or (CHEM1005 and CHEM1006).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 2201",
+    "course_code": "BIOL2201",
+    "course_number": 2201,
+    "course_title": "BIOL2201 [0.5 credit]",
+    "course_desc": "A study of the molecular, metabolic and structural organization of cells in relation to function. This course is recommended for students not taking upper year Biology laboratory courses for which BIOL/BIOC laboratories are prerequisites.",
+    "course_extra_details": "Precludes additional credit for BIOL2200, BIOC2200.\nPrerequisite(s): (BIOL 1003 or BIOL1103) and (CHEM1002 or CHEM1006).\nLectures three hours a week.\n",
+    "course_prerequisites": "(BIOL 1003 or BIOL1103) and (CHEM1002 or CHEM1006).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 2301",
+    "course_code": "BIOL2301",
+    "course_number": 2301,
+    "course_title": "BIOL2301 [0.5 credit]",
+    "course_desc": "An introductory course on the science, technology, entrepreneurial skills and business considerations related to biotechnology. The course will survey broadly across the disciplines of Biology, including applications in agriculture, health, environment and industry.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): (BIOL 1003 and BIOL 1004) or (BIOL1103 and BIOL1104).\nLectures and workshops three hours a week\n",
+    "course_prerequisites": "(BIOL 1003 and BIOL 1004) or (BIOL1103 and BIOL1104).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 2303",
+    "course_code": "BIOL2303",
+    "course_number": 2303,
+    "course_title": "BIOL2303 [0.5 credit]",
+    "course_desc": "The biology of the bacteria, Archaea, Viruses and Protozoans, from the fundamentals of cell chemistry, molecular biology, structure and function, to their involvement in ecological and industrial processes and human disease.",
+    "course_extra_details": "Also listed as ENVE2002.\nPrerequisite(s): BIOL 1003 or BIOL1103.\nLectures three hours a week.\n",
+    "course_prerequisites": "BIOL 1003 or BIOL1103.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 2600",
+    "course_code": "BIOL2600",
+    "course_number": 2600,
+    "course_title": "BIOL2600 [0.5 credit]",
+    "course_desc": "The scientific study of interactions of living organisms and their environment, and how these affect the distribution and abundance of life. Topics include energy transformation and flow, nutrient cycling, population and community dynamics, human impacts on ecosystems, conservation issues. Laboratory includes field and computer exercises.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): (BIOL 1003 and BIOL 1004) or (BIOL1103 and BIOL1104).\nLectures three hours a week, laboratory or tutorial four hours a week.\n",
+    "course_prerequisites": "(BIOL 1003 and BIOL 1004) or (BIOL1103 and BIOL1104).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 2903",
+    "course_code": "BIOL2903",
+    "course_number": 2903,
+    "course_title": "BIOL2903 [0.5 credit]",
+    "course_desc": "Introduction to the remarkable diversity and ecological relationships of Ontario's flora and fauna, which are explored in a habitat context.",
+    "course_extra_details": "Precludes additional credit for BIOL 1903 (no longer offered).\nPrerequisite(s): BIOL 1004 or BIOL1104 or BIOL1902.\nLectures three hours a week.\n",
+    "course_prerequisites": "BIOL 1004 or BIOL1104 or BIOL1902.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 3004",
+    "course_code": "BIOL3004",
+    "course_number": 3004,
+    "course_title": "BIOL3004 [0.5 credit]",
+    "course_desc": "Introductory course dealing with the taxonomic diversity, anatomy, behavior and physiology of insects, as well as their impacts on ecosystems, agriculture and animal and human health.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for BIOL 4601.\nPrerequisite(s): BIOL2001.\nLectures three hours a week.\n",
+    "course_prerequisites": "BIOL2001.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 3008",
+    "course_code": "BIOL3008",
+    "course_number": 3008,
+    "course_title": "BIOL3008 [0.5 credit]",
+    "course_desc": "A practical exploration in the application of information technology to biochemistry and molecular biology. Insight into biological knowledge discovery via molecular structure and function prediction, comparative genomics and biological information management.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as BIOC3008, COMP3308.\nPrerequisite(s): BIOC2200 or BIOL2200, or BIOL2201, or permission of the Department.\nLectures two hours a week, computer workshop three hours a week.\n",
+    "course_prerequisites": "BIOC2200 or BIOL2200, or BIOL2201, or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 3102",
+    "course_code": "BIOL3102",
+    "course_number": 3102,
+    "course_title": "BIOL3102 [0.5 credit]",
+    "course_desc": "This introductory course will cover the morphology, physiology, life cycles, evolution, ecology and biotechnology of the fungi.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BIOL2104 or BIOL2107.\nLectures three hours a week.\n",
+    "course_prerequisites": "BIOL2104 or BIOL2107.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 3104",
+    "course_code": "BIOL3104",
+    "course_number": 3104,
+    "course_title": "BIOL3104 [0.5 credit]",
+    "course_desc": "A lecture course dealing with modern advances in molecular genetics.",
+    "course_extra_details": "Prerequisite(s): BIOL2104 or BIOL2107 or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "BIOL2104 or BIOL2107 or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 3111",
+    "course_code": "BIOL3111",
+    "course_number": 3111,
+    "course_title": "BIOL3111 [0.5 credit]",
+    "course_desc": "Evolution of mammals, reptiles and birds. Emphasis on surveying amniote diversity, and the origin of key amniote transformations, as evidenced by the fossil record.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as ERTH3111.\nPrerequisite(s): BIOL2001 or ERTH1009, or permission of the department.\nLectures two hours a week and a laboratory three hours a week.\n",
+    "course_prerequisites": "BIOL2001 or ERTH1009, or permission of the department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 3112",
+    "course_code": "BIOL3112",
+    "course_number": 3112,
+    "course_title": "BIOL3112 [0.5 credit]",
+    "course_desc": "Evolution of fish and amphibians. Emphasis on surveying fish and amphibian diversity, and the origin of key transformations of these groups, as evidenced by the fossil record.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as ERTH3112.\nPrerequisite(s): BIOL2001 or ERTH1009, or permission of the department.\nLectures two hours a week and a laboratory three hours a week.\n",
+    "course_prerequisites": "BIOL2001 or ERTH1009, or permission of the department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 3201",
+    "course_code": "BIOL3201",
+    "course_number": 3201,
+    "course_title": "BIOL3201 [0.5 credit]",
+    "course_desc": "A lecture and laboratory course on the structure, composition, and function of eukaryotic cells.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BIOL2104 and BIOL2200/BIOC2200, or permission of the Department.\nLectures three hours a week, laboratory four hours a week.\n",
+    "course_prerequisites": "BIOL2104 and BIOL2200/BIOC2200, or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 3202",
+    "course_code": "BIOL3202",
+    "course_number": 3202,
+    "course_title": "BIOL3202 [0.5 credit]",
+    "course_desc": "Introduction to the underlying principles and mechanisms governing development in multicellular animals and plants. Differentiation, growth, morphogenesis, and patterning will be examined at the organismal, cellular, and molecular levels to provide a balanced view of developmental phenomena in key model organisms.",
+    "course_extra_details": "Prerequisite(s): BIOL2104 or BIOL2107 and one of BIOL2001 or BIOL2002, or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "BIOL2104 or BIOL2107 and one of BIOL2001 or BIOL2002, or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 3205",
+    "course_code": "BIOL3205",
+    "course_number": 3205,
+    "course_title": "BIOL3205 [0.5 credit]",
+    "course_desc": "A lecture and laboratory course consisting of selected topics in metabolism and physiology of plants, including photosynthesis, nutrient uptake and transport, intermediary and secondary metabolism, germination, growth and development.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BIOL2002 and BIOL2200/BIOC2200, or permission of the Department.\nLectures three hours a week, laboratory four hours a week.\n",
+    "course_prerequisites": "BIOL2002 and BIOL2200/BIOC2200, or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 3301",
+    "course_code": "BIOL3301",
+    "course_number": 3301,
+    "course_title": "BIOL3301 [0.5 credit]",
+    "course_desc": "An interdisciplinary course on interactions between science, invention and innovation in biotechnology. Case studies related to regional biotechnology opportunities; social and ethical issues impacting biotechnology.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BIOL2301, BIOL2104 or BIOL2107, and BIOL2200/BIOC2200 or BIOL2201, or permission of the department.\nLectures and laboratory/workshops three hours a week\n",
+    "course_prerequisites": "BIOL2301, BIOL2104 or BIOL2107, and BIOL2200/BIOC2200 or BIOL2201, or permission of the department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 3303",
+    "course_code": "BIOL3303",
+    "course_number": 3303,
+    "course_title": "BIOL3303 [0.5 credit]",
+    "course_desc": "Intensive training in laboratory techniques in microbiology, using bacteria and other microorganisms to demonstrate processes of cell growth, metabolism, gene expression, rapid evolution, gene transfer, microbial community dynamics and interactions with other organisms.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BIOL2104, BIOL2200/BIOC2200 and BIOL2303, or permission of the Department.\nLecture/tutorial one and a half hours a week, laboratory four hours a week.\n",
+    "course_prerequisites": "BIOL2104, BIOL2200/BIOC2200 and BIOL2303, or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 3305",
+    "course_code": "BIOL3305",
+    "course_number": 3305,
+    "course_title": "BIOL3305 [0.5 credit]",
+    "course_desc": "The properties of physiological systems and components of humans and other animals with an emphasis on physical and chemical bases.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for BIOL3306.\nPrerequisite(s): BIOL2200/BIOC2200 and BIOL2001.\nLectures three hours a week, laboratory four hours a week.\n",
+    "course_prerequisites": "BIOL2200/BIOC2200 and BIOL2001.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 3306",
+    "course_code": "BIOL3306",
+    "course_number": 3306,
+    "course_title": "BIOL3306 [0.5 credit]",
+    "course_desc": "The anatomy and physiology of the neuromuscular, cardiovascular, respiratory, and excretory systems of humans with comparison to other animals.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for BIOL3305.\nPrerequisite(s): (BIOL 1003 and BIOL 1004) or (BIOL1103 and BIOL1104), and (CHEM1001 and CHEM1002) or (CHEM1005 and CHEM1006), and third year standing.\nLectures three hours per week.\n",
+    "course_prerequisites": "(BIOL 1003 and BIOL 1004) or (BIOL1103 and BIOL1104), and (CHEM1001 and CHEM1002) or (CHEM1005 and CHEM1006), and third year standing.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 3307",
+    "course_code": "BIOL3307",
+    "course_number": 3307,
+    "course_title": "BIOL3307 [0.5 credit]",
+    "course_desc": "The anatomy and physiology of the endocrine, skeletal, digestive, immunological, and reproductive systems, with additional emphasis on the embryological origins of the major physiological systems.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BIOL3305 or BIOL3306.\nLectures three hours per week, workshop or laboratory four hours per week.\n",
+    "course_prerequisites": "BIOL3305 or BIOL3306.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 3501",
+    "course_code": "BIOL3501",
+    "course_number": 3501,
+    "course_title": "BIOL3501 [0.5 credit]",
+    "course_desc": "Properties of muscles, tendons, bones, joints and the co-ordinated use of these structures. Human and other animal locomotion and fitness, bird flight, especially the soaring of the vulture and the albatross, and animal migration are covered in detail.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): (BIOL 1003 and BIOL 1004) or (BIOL1103 and BIOL1104), and third-year standing.\nLectures three hours a week, workshop two hours a week.\n",
+    "course_prerequisites": "(BIOL 1003 and BIOL 1004) or (BIOL1103 and BIOL1104), and third-year standing.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "BIOL 3601",
+    "course_code": "BIOL3601",
+    "course_number": 3601,
+    "course_title": "BIOL3601 [0.5 credit]",
+    "course_desc": "Exploration of the unique contribution of the ecosystem approach to ecology, and of early key literature in ecosystem ecology through to current work on global environmental change.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BIOL2600.\nLectures three hours a week, laboratory four hours a week in six sessions.\n",
+    "course_prerequisites": "BIOL2600.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 3602",
+    "course_code": "BIOL3602",
+    "course_number": 3602,
+    "course_title": "BIOL3602 [0.5 credit]",
+    "course_desc": "The science of biology as applied to the problem of maintaining species diversity. Topics include: history of conservation biology, valuation of species, indices of biodiversity, extinction, conservation genetics, conservation planning in parks and reserves, landscape ecology and case studies of conservation problems.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BIOL2600 or permission of the Department.\nLectures three hours a week and laboratory/workshop three hours a week.\n",
+    "course_prerequisites": "BIOL2600 or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 3604",
+    "course_code": "BIOL3604",
+    "course_number": 3604,
+    "course_title": "BIOL3604 [0.5 credit]",
+    "course_desc": "Introduction to the analysis of biological data. Students analyze real biological data sets in weekly laboratory sessions. Methods introduced include simple linear, polynomial, and multiple regression analysis, analysis of variance, nonparametric tests, tests of independence and logistic regression analysis.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BIOL1105 or STAT2507.\nLectures one and one-half hours and laboratory two and one-half hours a week.\n",
+    "course_prerequisites": "BIOL1105 or STAT2507.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 3605",
+    "course_code": "BIOL3605",
+    "course_number": 3605,
+    "course_title": "BIOL3605 [0.5 credit]",
+    "course_desc": "An intensive study of living organisms under natural conditions. Credit is based on two weeks of full-time fieldwork with attendant assignments. Transportation and room and board costs are borne by the student. Ontario Universities Program in Field Biology; see offered modules for specific prerequisites.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as NEUR 3203, for animal behaviour modules only.\nPrerequisite(s): at least one course in BIOL beyond the 1000-level and written permission of the Department. Students may take both BIOL3605 and BIOL3606 for credit, but neither may be used to repeat a particular module.\nAll day, approximately six days a week.\n",
+    "course_prerequisites": "at least one course in BIOL beyond the 1000-level and written permission of the Department. Students may take both BIOL3605 and BIOL3606 for credit, but neither may be used to repeat a particular module.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 3606",
+    "course_code": "BIOL3606",
+    "course_number": 3606,
+    "course_title": "BIOL3606 [0.5 credit]",
+    "course_desc": "An intensive study of living organisms under natural conditions. Credit is based on two weeks of full-time fieldwork with attendant assignments. Transportation and room and board costs are borne by the student. Ontario Universities Program in Field Biology; see offered modules for specific prerequisites.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): at least one course in BIOL beyond the 1000-level and written permission of the Department. Students may take both BIOL3605 and BIOL3606 for credit, but neither can be used to repeat a particular module.\nAll day, approximately six days a week.\n",
+    "course_prerequisites": "at least one course in BIOL beyond the 1000-level and written permission of the Department. Students may take both BIOL3605 and BIOL3606 for credit, but neither can be used to repeat a particular module.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 3608",
+    "course_code": "BIOL3608",
+    "course_number": 3608,
+    "course_title": "BIOL3608 [0.5 credit]",
+    "course_desc": "Contemporary and past controls on distribution of plants and animals at global, regional and local scales; significance of these distributions.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as GEOG3104.\nPrerequisite(s): BIOL2600 or GEOG1010 or permission of the Department.\nLectures, laboratory, and fieldwork five hours a week.\n",
+    "course_prerequisites": "BIOL2600 or GEOG1010 or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 3609",
+    "course_code": "BIOL3609",
+    "course_number": 3609,
+    "course_title": "BIOL3609 [0.5 credit]",
+    "course_desc": "Evolution is the change in population properties across generations. Genetic variation, mutation, selection, drift, gene flow, genome evolution, speciation, development, biodiversity, fossils, and macro-evolution.",
+    "course_extra_details": "Prerequisite(s): BIOL2104 or BIOL2107 or permission of the instructor.\nLectures three hours a week.\n",
+    "course_prerequisites": "BIOL2104 or BIOL2107 or permission of the instructor.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 3611",
+    "course_code": "BIOL3611",
+    "course_number": 3611,
+    "course_title": "BIOL3611 [0.5 credit]",
+    "course_desc": "The term \u201cadaptation\u201d is meaningful only with respect to an ecological context. Ecological contexts lead to evolutionary outcomes such as diverse mating systems, ageing, sexual reproduction, sexual dimorphism, geographic variation, phenotypic plasticity, and diverse life histories.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for BIOL 4608.\nPrerequisite(s): BIOL2600.\nLectures three hours a week; one field trip.\n",
+    "course_prerequisites": "BIOL2600.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 3612",
+    "course_code": "BIOL3612",
+    "course_number": 3612,
+    "course_title": "BIOL3612 [0.5 credit]",
+    "course_desc": "Introduction to the development and use of computer programs to address biological problems. Topics  include the development of programs to analyse ecological data, models of population dynamics, deterministic chaos, cellular automata, simulations of foraging behaviour and evolutionary computation.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BIOL2600 or permission of the Department.\nLectures two hours per week, workshop three hours per week.\n",
+    "course_prerequisites": "BIOL2600 or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 3801",
+    "course_code": "BIOL3801",
+    "course_number": 3801,
+    "course_title": "BIOL3801 [0.5 credit]",
+    "course_desc": "Exploration of the chemical, physiological, ecological and evolutionary interactions that underlie the relationship between plants and their insect herbivores.",
+    "course_extra_details": "Prerequisite(s): BIOL2001 and BIOL2002.\nLectures/seminars three hours a week.\n",
+    "course_prerequisites": "BIOL2001 and BIOL2002.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 3802",
+    "course_code": "BIOL3802",
+    "course_number": 3802,
+    "course_title": "BIOL3802 [0.5 credit]",
+    "course_desc": "Advanced study of animal behaviour including the environmental, genetic, and neural influences on behaviour. Topics such as predator-prey interactions, mating behaviour, migration, parental care and social interactions are interpreted in an evolutionary context.",
+    "course_extra_details": "Prerequisite(s): BIOL2001 or BIOL2600 or permission of the Department.\nLectures and workshop/tutorials three hours a week.\n",
+    "course_prerequisites": "BIOL2001 or BIOL2600 or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 3804",
+    "course_code": "BIOL3804",
+    "course_number": 3804,
+    "course_title": "BIOL3804 [0.5 credit]",
+    "course_desc": "Diversity in social behaviour from evolutionary and ecological perspectives. Topics include ecological determinants of social living, social networks, social foraging, inclusive fitness, kin selection, altruism, cooperation, and mating systems and strategies.",
+    "course_extra_details": "Prerequisite(s): BIOL2001 and BIOL2600, or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "BIOL2001 and BIOL2600, or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 3901",
+    "course_code": "BIOL3901",
+    "course_number": 3901,
+    "course_title": "BIOL3901 [0.5 credit]",
+    "course_desc": "The development of a competitive research proposal in consultation with an advisor.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third year standing in an Honours Biology program and permission of the Department.\n \n",
+    "course_prerequisites": "third year standing in an Honours Biology program and permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 3902",
+    "course_code": "BIOL3902",
+    "course_number": 3902,
+    "course_title": "BIOL3902 [0.5 credit]",
+    "course_desc": "Specific topics of current interest. Topics may vary from year to year.",
+    "course_extra_details": "Prerequisite(s): third-year standing in a Biology program or permission of the Department.\nLecture, seminars, or workshops three hours per week.\n",
+    "course_prerequisites": "third-year standing in a Biology program or permission of the Department.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "BIOL 3999",
+    "course_code": "BIOL3999",
+    "course_number": 3999,
+    "course_title": "BIOL3999 [0.0 credit]",
+    "course_desc": "Practical experience for students enrolled in the Co-operative Option. Students must receive satisfactory evaluations from their work term employer. Written reports describing the work term project will be required. Graded Sat or Uns.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): registration in the Biology Co-operative Option and permission of the Department.\n \n",
+    "course_prerequisites": "registration in the Biology Co-operative Option and permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4008",
+    "course_code": "BIOL4008",
+    "course_number": 4008,
+    "course_title": "BIOL4008 [0.5 credit]",
+    "course_desc": "Recent advances in plant development including molecular, biochemical, genomics, and proteomics studies.",
+    "course_extra_details": "Prerequisite(s): BIOL2002 or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "BIOL2002 or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4102",
+    "course_code": "BIOL4102",
+    "course_number": 4102,
+    "course_title": "BIOL4102 [0.5 credit]",
+    "course_desc": "The interface of molecular biology, ecology and population biology. Topics include experimental design and a survey and critique of molecular genetic methods to study ecology.",
+    "course_extra_details": "Prerequisite(s): BIOL2600 and (BIOL2104 or BIOL2107) or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "BIOL2600 and (BIOL2104 or BIOL2107) or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4103",
+    "course_code": "BIOL4103",
+    "course_number": 4103,
+    "course_title": "BIOL4103 [0.5 credit]",
+    "course_desc": "Evolution of gene frequencies, including selection, mutation, genetic drift, inbreeding, gene flow, and population structure.",
+    "course_extra_details": "Prerequisite(s): BIOL2104 or BIOL2107 or permission of the Department. A course in statistics is highly recommended.\nLectures and seminars three hours a week.\n",
+    "course_prerequisites": "BIOL2104 or BIOL2107 or permission of the Department. A course in statistics is highly recommended.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4104",
+    "course_code": "BIOL4104",
+    "course_number": 4104,
+    "course_title": "BIOL4104 [0.5 credit]",
+    "course_desc": "An overview of the molecular evidence of evolution, speciation as well as the phylogenetic analysis of biological sequence data and biometrical traits.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): (BIOL2001 or BIOL2002) and (BIOL2104 or BIOL2107) or permission of the Department. A course in statistics is recommended.\nLectures and computer lab three hours a week. \n",
+    "course_prerequisites": "(BIOL2001 or BIOL2002) and (BIOL2104 or BIOL2107) or permission of the Department. A course in statistics is recommended.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4106",
+    "course_code": "BIOL4106",
+    "course_number": 4106,
+    "course_title": "BIOL4106 [0.5 credit]",
+    "course_desc": "Review of the application of high throughput approaches to research in molecular and cellular biology and biochemistry with an emphasis on gene function and human disease progression.",
+    "course_extra_details": "Prerequisite(s): BIOL2303 and (BIOL3104 or BIOL3201).\nLectures and seminars three hours a week.\n",
+    "course_prerequisites": "BIOL2303 and (BIOL3104 or BIOL3201).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4109",
+    "course_code": "BIOL4109",
+    "course_number": 4109,
+    "course_title": "BIOL4109 [0.5 credit]",
+    "course_desc": "This laboratory course provides practical familiarity with commonly used techniques in molecular genetics. The laboratory is suitable for students with a developing interest in problems of molecular and cellular biology and biochemistry.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BIOL2200/BIOC2200 and BIOL2303 and BIOL3104 or permission of the Department.\nLecture/laboratory six hours a week in two sessions.\n",
+    "course_prerequisites": "BIOL2200/BIOC2200 and BIOL2303 and BIOL3104 or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4200",
+    "course_code": "BIOL4200",
+    "course_number": 4200,
+    "course_title": "BIOL4200 [0.5 credit]",
+    "course_desc": "The organization and function of the immune system, including the anatomy of the immune system, the properties and behaviour of cells of the immune system, and the molecular and genetic bases of the immune response.",
+    "course_extra_details": "Also listed as BIOC4200.\nPrerequisite(s): BIOL3201 or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "BIOL3201 or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4201",
+    "course_code": "BIOL4201",
+    "course_number": 4201,
+    "course_title": "BIOL4201 [0.5 credit]",
+    "course_desc": "Theory and application of current techniques and developments in cell culture as applied to research questions in the field of stem cells and tissue engineering.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as BIOC4201.\nPrerequisite(s): BIOL3201 or permission of the Department.\nLaboratory four hours per week, tutorial one hour a week. Labs require regular participation outside of the scheduled lab time to maintain cell cultures and set up or complete experiments.\n",
+    "course_prerequisites": "BIOL3201 or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4202",
+    "course_code": "BIOL4202",
+    "course_number": 4202,
+    "course_title": "BIOL4202 [0.5 credit]",
+    "course_desc": "A mechanistic study of mutagenesis and DNA repair. Topics  include DNA structure perturbations, spontaneous and induced mutagenesis, the genetics and biochemistry of DNA repair and recombination, and the role of mutations in the development of genetic disease and cancer.",
+    "course_extra_details": "Also listed as BIOC4202.\nPrerequisite(s): BIOL3104 and BIOL2200/BIOC2200 or permission of the Department.\nLectures and tutorial three hours a week.\n",
+    "course_prerequisites": "BIOL3104 and BIOL2200/BIOC2200 or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4203",
+    "course_code": "BIOL4203",
+    "course_number": 4203,
+    "course_title": "BIOL4203 [0.5 credit]",
+    "course_desc": "The evolution of sex, including meiosis, syngamy, sex determination, sex chromosomes, and gender from organismal, genetic, and developmental perspectives; the origin, maintenance, function, and ubiquity of sex.",
+    "course_extra_details": "Prerequisite(s): BIOL2104 or BIOL2107.\nLectures three hours a week.\n",
+    "course_prerequisites": "BIOL2104 or BIOL2107.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4206",
+    "course_code": "BIOL4206",
+    "course_number": 4206,
+    "course_title": "BIOL4206 [0.5 credit]",
+    "course_desc": "A survey of human genetic variation and mutation in a molecular genetics context. Topics may include molecular basis of diseases, chromosomal abnormalities, genomic imprinting, cancer genetics, genomics, gene mapping and gene therapy.",
+    "course_extra_details": "Prerequisite(s): BIOL3104 or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "BIOL3104 or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4207",
+    "course_code": "BIOL4207",
+    "course_number": 4207,
+    "course_title": "BIOL4207 [0.5 credit]",
+    "course_desc": "A laboratory-based exploration of techniques and recent developments in the use of model embryological systems as applied to questions of development and human health.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BIOL3201 or BIOL3202 or permission of the Department.\nLaboratory four hours per week, tutorial one hour a week. Labs require regular participation outside of the scheduled lab time to set up or complete experiments.\n",
+    "course_prerequisites": "BIOL3201 or BIOL3202 or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4209",
+    "course_code": "BIOL4209",
+    "course_number": 4209,
+    "course_title": "BIOL4209 [0.5 credit]",
+    "course_desc": "An advanced course dealing with recent developments in selected topics of plant physiology.",
+    "course_extra_details": "Prerequisite(s): BIOL3205 and CHEM2203, CHEM2204 or permission of the Department.\nLectures/discussion three hours a week.\n",
+    "course_prerequisites": "BIOL3205 and CHEM2203, CHEM2204 or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4300",
+    "course_code": "BIOL4300",
+    "course_number": 4300,
+    "course_title": "BIOL4300 [0.5 credit]",
+    "course_desc": "Studies of the application of microorganisms. Topics may include: microbial communities, and agricultural, pharmaceutical, industrial and health sciences.",
+    "course_extra_details": "Prerequisite(s): (BIOL2200/BIOC2200 or BIOL2201), BIOL2303 and (BIOL3104 or BIOL3303)  or permission of the Department.\nLectures and tutorial three hours a week.\n",
+    "course_prerequisites": "(BIOL2200/BIOC2200 or BIOL2201), BIOL2303 and (BIOL3104 or BIOL3303)  or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4301",
+    "course_code": "BIOL4301",
+    "course_number": 4301,
+    "course_title": "BIOL4301 [0.5 credit]",
+    "course_desc": "Explorations of developing biotechnologies in areas such as microbial products, protein engineering, plant genetic engineering, environmental remediation, pharmaceuticals production and medical diagnostics and therapy.",
+    "course_extra_details": "Prerequisite(s): BIOL3301 or permission of the department.\nLectures and tutorials four hours a week.\n",
+    "course_prerequisites": "BIOL3301 or permission of the department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4303",
+    "course_code": "BIOL4303",
+    "course_number": 4303,
+    "course_title": "BIOL4303 [0.5 credit]",
+    "course_desc": "Exploration of current microbiology including the molecular biology of infectious agents, use of model micro-organisms to study human cells and diseases, and functional genomics and proteomics. Special attention will be paid to the field\u2019s \"big questions\". Students will critically examine a number of research proposals.",
+    "course_extra_details": "Prerequisite(s): BIOL2303 and (BIOL3104 or BIOL3303 or BIOC3102) or permission of the Department.\nLectures three hours per week.\n",
+    "course_prerequisites": "BIOL2303 and (BIOL3104 or BIOL3303 or BIOC3102) or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4304",
+    "course_code": "BIOL4304",
+    "course_number": 4304,
+    "course_title": "BIOL4304 [0.5 credit]",
+    "course_desc": "An introduction to forensics that covers topics in molecular biology, biochemistry, genetics, population genetics and statistics as they relate to forensic biology. The course will describe the techniques used to identify body fluids and generate DNA profiles as well as the interpretation of forensic results.",
+    "course_extra_details": "Prerequisite(s): (BIOL2104 or BIOL2107) and (BIOL2200/BIOC2200 or BIOL2201) or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "(BIOL2104 or BIOL2107) and (BIOL2200/BIOC2200 or BIOL2201) or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4306",
+    "course_code": "BIOL4306",
+    "course_number": 4306,
+    "course_title": "BIOL4306 [0.5 credit]",
+    "course_desc": "A course dealing with recent advances made in particular areas of animal neurophysiology.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for BIOL 4305.\nPrerequisite(s): BIOL3305 or BIOL3306, or permission of the Department.\nLectures two hours a week, workshops or laboratory four hours a week.\n",
+    "course_prerequisites": "BIOL3305 or BIOL3306, or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4309",
+    "course_code": "BIOL4309",
+    "course_number": 4309,
+    "course_title": "BIOL4309 [0.5 credit]",
+    "course_desc": "Biomechanical underpinnings of human performance including the quantitative analysis of human motion in normal activities and in athletic performance. Students will learn modern motion capture methods. This course will require students to design and execute an independent project.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BIOL3307 and fourth-year standing, or permission of the department.\nLecture three hours per week, workshop/labs three hours per week.\n",
+    "course_prerequisites": "BIOL3307 and fourth-year standing, or permission of the department.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "BIOL 4317",
+    "course_code": "BIOL4317",
+    "course_number": 4317,
+    "course_title": "BIOL4317 [0.5 credit]",
+    "course_desc": "Proximate mechanisms underlying animal behaviour. Focus on evolution of nervous systems in response to environmental selection pressures. Topics include: genetic and hormonal influences on behaviour (e.g. maternal care); unique sensory worlds (e.g. magnetic); various levels of neural integration, from simple reflexes to complex social behaviour.",
+    "course_extra_details": "Prerequisite(s): BIOL3305 or BIOL3306, or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "BIOL3305 or BIOL3306, or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4318",
+    "course_code": "BIOL4318",
+    "course_number": 4318,
+    "course_title": "BIOL4318 [0.5 credit]",
+    "course_desc": "Lectures, discussions and student presentations will be used to examine adaptations of animals to extreme environments (e.g. desert) or lifestyles (e.g. diving), at the physiological, biochemical and molecular levels. Emphasis on becoming familiar with the current primary literature.",
+    "course_extra_details": "Prerequisite(s): BIOL3305, or permission of the Department.\nLectures/workshops three hours a week.\n",
+    "course_prerequisites": "BIOL3305, or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4319",
+    "course_code": "BIOL4319",
+    "course_number": 4319,
+    "course_title": "BIOL4319 [0.5 credit]",
+    "course_desc": "Physiological mechanisms underlying human athletic performance. Exercise physiology and cardio-respiratory activity, metabolic regulation and musculoskeletal function. Practical experience will be gained in the workshop/laboratory based experimental sessions.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BIOL3307 and fourth-year standing, or permission of the department.\nLectures two hours per week, workshop/labs three hours per week.\n",
+    "course_prerequisites": "BIOL3307 and fourth-year standing, or permission of the department.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "BIOL 4500",
+    "course_code": "BIOL4500",
+    "course_number": 4500,
+    "course_title": "BIOL4500 [0.5 credit]",
+    "course_desc": "Introduction to ornithology, the study of birds; the evolution of birds, migration, geographic variation, adaptations for flight, feeding, reproduction; extinction and preservation.",
+    "course_extra_details": "Prerequisite(s): BIOL2001 or permission of the department.\nLectures three hours per week.\n",
+    "course_prerequisites": "BIOL2001 or permission of the department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4501",
+    "course_code": "BIOL4501",
+    "course_number": 4501,
+    "course_title": "BIOL4501 [0.5 credit]",
+    "course_desc": "The taxonomy of birds and species identification are learned through the use of study skins in the lab. Field excursions allow first-hand study of various species. Participants must acquire a pair of binoculars and one of the recommended field guides.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BIOL2001 or permission of the department.\nLaboratory/field excursions four hours per week.\n",
+    "course_prerequisites": "BIOL2001 or permission of the department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4502",
+    "course_code": "BIOL4502",
+    "course_number": 4502,
+    "course_title": "BIOL4502 [0.5 credit]",
+    "course_desc": "Herpetology is the study of amphibians and reptiles.  The behaviours, physiological ecology, conservation and identification of amphibians and reptiles will be examined through lectures, seminars and hands-on activities.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BIOL2001.\nLectures or seminars three hours per week.\n",
+    "course_prerequisites": "BIOL2001.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4503",
+    "course_code": "BIOL4503",
+    "course_number": 4503,
+    "course_title": "BIOL4503 [0.5 credit]",
+    "course_desc": "Introduction to the diversity and environmental biology of the world's fishes. Applied issues in fisheries management, conservation, and aquaculture. Workshops expose students to techniques in fisheries science through hands-on demonstrations and field excursions.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BIOL2600 or permission of the Department.\nLectures/seminars two hours a week, plus labs/workshops two hours a week.\n",
+    "course_prerequisites": "BIOL2600 or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4504",
+    "course_code": "BIOL4504",
+    "course_number": 4504,
+    "course_title": "BIOL4504 [0.5 credit]",
+    "course_desc": "Overview of the diversity and ecology of freshwater invertebrates. Aquatic invertebrates from local bodies of water will be sampled and identified in the lab. Experiments on the ecology and behaviour of model species of freshwater invertebrates will also be conducted in the lab.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BIOL2001 and BIOL2600.\nSeminar and lab four hours a week.\n",
+    "course_prerequisites": "BIOL2001 and BIOL2600.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4505",
+    "course_code": "BIOL4505",
+    "course_number": 4505,
+    "course_title": "BIOL4505 [0.5 credit]",
+    "course_desc": "Examining the diversity of life on coral reefs and their interactions across ecological scales, from the biochemistry of zooxanthellae symbiosis to landscape scale trophodynamics, reticulate evolution, and reef fisheries. Emphasis is on synthesis writing drawn from the current primary literature.",
+    "course_extra_details": "Prerequisite(s): BIOL2600.\nLectures/seminars three hours a week\n",
+    "course_prerequisites": "BIOL2600.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4506",
+    "course_code": "BIOL4506",
+    "course_number": 4506,
+    "course_title": "BIOL4506 [0.5 credit]",
+    "course_desc": "Covers the cactus family over its entire range, including most of the western hemisphere, with discussion on their anatomy, physiology, ecology, evolution, and classification. Topics include how cacti are both typical flowering plants in some regards, and atypical in others.",
+    "course_extra_details": "Prerequisite(s): BIOL2002.\nLectures/seminars three hours a week\n",
+    "course_prerequisites": "BIOL2002.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4507",
+    "course_code": "BIOL4507",
+    "course_number": 4507,
+    "course_title": "BIOL4507 [0.5 credit]",
+    "course_desc": "Key concepts in the ecological study of parasites and pathogens, underpinned by evolutionary thinking and relevant to fundamental and applied questions of co-evolution, disease ecology, epidemiology, emerging infectious diseases, environmental parasitology, evolutionary transitions, host species range, immunity, resistance, tolerance, transmission mode, and virulence.",
+    "course_extra_details": "Prerequisite(s): BIOL2600 and one of the following: BIOL3601, BIOL3604, BIOL3609, BIOL3611, BIOL3612, BIOL3801, BIOL3802, BIOL3804.\nLectures or seminars 3 hours per week.\n",
+    "course_prerequisites": "BIOL2600 and one of the following: BIOL3601, BIOL3604, BIOL3609, BIOL3611, BIOL3612, BIOL3801, BIOL3802, BIOL3804.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4602",
+    "course_code": "BIOL4602",
+    "course_number": 4602,
+    "course_title": "BIOL4602 [0.5 credit]",
+    "course_desc": "Evolutionary principles contributing to advancements across fields including medicine, agriculture, conservation, climate change, and engineering. Topics include evolution of virulence, causes of variation in human health, evolution of resistance to pesticides, interventions for recovery of species at risk, and biomimetic modeling in engineering and architecture.",
+    "course_extra_details": "Prerequisite(s): BIOL1104 and third-year standing.\nLectures/workshops three hours per week.\n",
+    "course_prerequisites": "BIOL1104 and third-year standing.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "BIOL 4603",
+    "course_code": "BIOL4603",
+    "course_number": 4603,
+    "course_title": "BIOL4603 [0.5 credit]",
+    "course_desc": "Major questions on the origin, evolution and adaptation of structures and physiology of terrestrial arthropods, especially insects.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BIOL3004, or permission of the Department.\nLectures two hours a week, laboratory four hours a week.\n",
+    "course_prerequisites": "BIOL3004, or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4604",
+    "course_code": "BIOL4604",
+    "course_number": 4604,
+    "course_title": "BIOL4604 [0.5 credit]",
+    "course_desc": "Landscape ecology is the study of how landscape structure affects the abundance and distribution of organisms. The focus of this course is on research methods and results in landscape ecology. Applications in forestry, agriculture, and species conservation.",
+    "course_extra_details": "Prerequisite(s): BIOL2600 or equivalent, BIOL3601 or BIOL3602 or BIOL3608 or equivalent, and fourth-year standing in Biology, Geography, or Environmental Sciences.\nLecture three hours a week.\n",
+    "course_prerequisites": "BIOL2600 or equivalent, BIOL3601 or BIOL3602 or BIOL3608 or equivalent, and fourth-year standing in Biology, Geography, or Environmental Sciences.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "BIOL 4802",
+    "course_code": "BIOL4802",
+    "course_number": 4802,
+    "course_title": "BIOL4802 [0.5 credit]",
+    "course_desc": "Contemporary issues in behavioural ecology. Topics may include the relevance of behavioural ecology to conservation biology, to new insights into human social behaviour, and will be selected through consultation between professor and students.",
+    "course_extra_details": "Prerequisite(s): BIOL3802 or BIOL3804, or permission of the Department.\nLectures or workshops three hours a week.\n",
+    "course_prerequisites": "BIOL3802 or BIOL3804, or permission of the Department.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4810",
+    "course_code": "BIOL4810",
+    "course_number": 4810,
+    "course_title": "BIOL4810 [0.5 credit]",
+    "course_desc": "Introduction to learning and teaching university science. The science of learning, evidence of effective teaching, and teaching methodologies. Professional ethics, constructivist learning, equity and inclusion. Discipline-Based Education Research (DBER). Students will conduct their own DBER research project.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): 4th year standing, or permission of the department This course can only be used by science students as a free elective.\nAlso offered at the graduate level, with different requirements, as ISAP5504, for which additional credit is precluded.\nSeminar three hours per week, classroom-based research one hour per week.\n",
+    "course_prerequisites": "4th year standing, or permission of the department This course can only be used by science students as a free elective.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4901",
+    "course_code": "BIOL4901",
+    "course_number": 4901,
+    "course_title": "BIOL4901 [0.5 credit]",
+    "course_desc": "Independent or group study, open to third- and fourth-year students to explore a particular topic, in consultation with a Faculty supervisor. May include directed reading, written assignments, tutorials, laboratory or field work.",
+    "course_extra_details": "Prerequisite(s): permission of the Department. Students normally may not offer more than 1.0 credit of Directed Special Studies in their program.\n \n",
+    "course_prerequisites": "permission of the Department. Students normally may not offer more than 1.0 credit of Directed Special Studies in their program.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BIOL 4902",
+    "course_code": "BIOL4902",
+    "course_number": 4902,
+    "course_title": "BIOL4902 [0.5 credit]",
+    "course_desc": "Specific topics of current interest. Topics may vary from year to year.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing in a Biology program or permission of the Department.\nLecture, seminars, or workshops three hours per week.\n",
+    "course_prerequisites": "fourth-year standing in a Biology program or permission of the Department.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "BIOL 4905",
+    "course_code": "BIOL4905",
+    "course_number": 4905,
+    "course_title": "BIOL4905 [1.0 credit]",
+    "course_desc": "Within the context of an active learning environment, students participate in a variety of activities which may include literature reviews and critiques, media releases and response papers, oral presentations, and posters. Projects are focused on an area of biological research of interest to the student.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for BIOL4907 and BIOL4908.\nPrerequisite(s): fourth-year standing in an Honours biology program and permission of the Department.\nWorkshops three hours per week.\n",
+    "course_prerequisites": "fourth-year standing in an Honours biology program and permission of the Department.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "BIOL 4907",
+    "course_code": "BIOL4907",
+    "course_number": 4907,
+    "course_title": "BIOL4907 [1.0 credit]",
+    "course_desc": "An independent critical review and research proposal, using library resources, under the direct supervision of a Faculty advisor. Evaluation is based on a written report and a poster presentation.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for BIOL4905 and BIOL4908.\nPrerequisite(s): fourth-year standing in an Honours Biology program and permission of the Department.\n \n",
+    "course_prerequisites": "fourth-year standing in an Honours Biology program and permission of the Department.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "BIOL 4908",
+    "course_code": "BIOL4908",
+    "course_number": 4908,
+    "course_title": "BIOL4908 [1.0 credit]",
+    "course_desc": "An independent research project undertaken in the field and/or the laboratory, under the direct supervision of a faculty adviser. Evaluation is based on a written thesis and a poster presentation.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for BIOL4905 and BIOL4907.\nPrerequisite(s): fourth-year standing in an Honours biology program with a minimum CGPA of 8.0 in the major or permission of the Department.\n \n",
+    "course_prerequisites": "fourth-year standing in an Honours biology program with a minimum CGPA of 8.0 in the major or permission of the Department.",
+    "year_standing": 4
+}
+

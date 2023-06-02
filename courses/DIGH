@@ -1,0 +1,176 @@
+{
+    "course_identifier": "DIGH 2001",
+    "course_code": "DIGH2001",
+    "course_number": 2001,
+    "course_title": "DIGH2001 [0.5 credit]",
+    "course_desc": "An introduction to the principal debates in and approaches to the Digital Humanities.",
+    "course_extra_details": "Also listed as ENGL2400.\nPrerequisite(s): second-year standing or permission of the College of Humanities.\nLecture three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the College of Humanities.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "DIGH 2002",
+    "course_code": "DIGH2002",
+    "course_number": 2002,
+    "course_title": "DIGH2002 [0.5 credit]",
+    "course_desc": "A multidisciplinary survey of core theories, methodologies and tools within the Digital Humanities. Assignments will include collaborative work and applied projects.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as ENGL2401.\nPrerequisite(s): second-year standing or permission of the College of Humanities.\nLecture and workshop three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the College of Humanities.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "DIGH 2035",
+    "course_code": "DIGH2035",
+    "course_number": 2035,
+    "course_title": "DIGH2035 [0.5 credit]",
+    "course_desc": "Principal theories and methods used by Science and Technology Studies (STS) scholars to examine the social and cultural shaping of technology. The substantive focus of the course is on the design, development, production, diffusion, consumption and use of technology.",
+    "course_extra_details": "Also listed as SOCI2035.\nPrecludes additional credit for SOCI 2400.\nPrerequisite(s): SOCI1001 and SOCI1002, or ANTH1001 or ANTH1002.\nLectures/discussion groups three hours a week.\n",
+    "course_prerequisites": "SOCI1001 and SOCI1002, or ANTH1001 or ANTH1002.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "DIGH 2700",
+    "course_code": "DIGH2700",
+    "course_number": 2700,
+    "course_title": "DIGH2700 [0.5 credit]",
+    "course_desc": "Content of this course may vary from year to year. Please check departmental website for information on the topic.",
+    "course_extra_details": "Lecture 3 hours per week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "DIGH 2705",
+    "course_code": "DIGH2705",
+    "course_number": 2705,
+    "course_title": "DIGH2705 [0.5 credit]",
+    "course_desc": "An examination of various approaches to analyzing digital media and their role in the production and consumption of contemporary cultural forms and practices. Students will reflect upon their use of digital media and the influence they have on their lives and popular culture, more generally.",
+    "course_extra_details": "Also listed as SOCI2705.\nPrerequisite(s): SOCI1001 and SOCI1002, or ANTH1001 or ANTH1002.\nLectures two hours a week, discussion group one hour a week.\n",
+    "course_prerequisites": "SOCI1001 and SOCI1002, or ANTH1001 or ANTH1002.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "DIGH 3001",
+    "course_code": "DIGH3001",
+    "course_number": 3001,
+    "course_title": "DIGH3001 [0.5 credit]",
+    "course_desc": "A multidisciplinary course focused on the social, economic and political dimensions of the book in its manuscript, print and digital forms.",
+    "course_extra_details": "Also listed as ENGL3401.\nPrerequisite(s): third-year standing, or permission of the College of Humanities.\nLecture three hours a week.\n",
+    "course_prerequisites": "third-year standing, or permission of the College of Humanities.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "DIGH 3035",
+    "course_code": "DIGH3035",
+    "course_number": 3035,
+    "course_title": "DIGH3035 [0.5 credit]",
+    "course_desc": "Principal theories and methods used by Science and Technology Studies scholars to examine the social construction of scientific knowledge. Topics may include the demarcation of science from non-science, the relationship between experts and laypersons, and the study of scientific controversies.",
+    "course_extra_details": "Also listed as SOCI3035, ANTH3035.\nPrerequisite(s): DIGH2035 or SOCI2035 and third-year standing.\nLecture three hours a week.\n",
+    "course_prerequisites": "DIGH2035 or SOCI2035 and third-year standing.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "DIGH 3700",
+    "course_code": "DIGH3700",
+    "course_number": 3700,
+    "course_title": "DIGH3700 [0.5 credit]",
+    "course_desc": "Content of this course may vary from year to year. Please check departmental website for information on the topic.",
+    "course_extra_details": "Lecture 3 hours per week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "DIGH 3704",
+    "course_code": "DIGH3704",
+    "course_number": 3704,
+    "course_title": "DIGH3704 [0.5 credit]",
+    "course_desc": "Exploration of the roles of human and artificial cognition in the digital humanities. Topics may include virtual and augmented reality as applied to the humanities, cognitive issues in hypertext and hypermedia; linguistic and philosophical considerations in digital media, cognitive narratology, and artificial intelligence.",
+    "course_extra_details": "Also listed as CGSC3704.\nPrerequisite(s): CGSC1001; CGSC2001 or DIGH2001; and third-year standing.\nSeminar three hours per week.\n",
+    "course_prerequisites": "CGSC1001; CGSC2001 or DIGH2001; and third-year standing.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "DIGH 3812",
+    "course_code": "DIGH3812",
+    "course_number": 3812,
+    "course_title": "DIGH3812 [0.5 credit]",
+    "course_desc": "The digital representation of history, exploring the approaches, issues, and methods of working in this environment. Topics may include gaming, virtual environments, digital research tools, public digital history. (Field e).",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as HIST3812.\nPrerequisite(s): a 2000-level history course or third-year standing and 1.0 credit in history.\nLecture three hours a week.\n",
+    "course_prerequisites": "a 2000-level history course or third-year standing and 1.0 credit in history.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "DIGH 3814",
+    "course_code": "DIGH3814",
+    "course_number": 3814,
+    "course_title": "DIGH3814 [0.5 credit]",
+    "course_desc": "This course applies the creative use of information and media/computing technologies to address the digital cultural heritage issues of public historians, archaeologists, and anthropologists. Topics may include webscraping, data mining, designing and implementing research databases, and visual storytelling of those results. (Field e).",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as HIST3814.\nPrerequisite(s): a 2000-level history course or third-year standing and 1.0 credit in history.\nLectures three hours a week or online.\n",
+    "course_prerequisites": "a 2000-level history course or third-year standing and 1.0 credit in history.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "DIGH 4001",
+    "course_code": "DIGH4001",
+    "course_number": 4001,
+    "course_title": "DIGH4001 [0.5 credit]",
+    "course_desc": "A study of current issues and debates in Digital Humanities.",
+    "course_extra_details": "Also listed as ENGL4155.\nPrerequisite(s): DIGH2002 and fourth-year standing, or permission of the College of Humanities.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "DIGH2002 and fourth-year standing, or permission of the College of Humanities.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "DIGH 4002",
+    "course_code": "DIGH4002",
+    "course_number": 4002,
+    "course_title": "DIGH4002 [0.5 credit]",
+    "course_desc": "A study of new developments in digital media and culture, and how they affect our understanding of literary modes, genres and textuality, including notions of authorship and reading strategies. Topics will vary from year to year.",
+    "course_extra_details": "Also listed as ENGL4125.\nPrerequisite(s): DIGH2002 and fourth-year standing, or permission of the College of Humanities.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "DIGH2002 and fourth-year standing, or permission of the College of Humanities.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "DIGH 4003",
+    "course_code": "DIGH4003",
+    "course_number": 4003,
+    "course_title": "DIGH4003 [0.5 credit]",
+    "course_desc": "A study of new developments in digital media and culture, and how they affect our understanding of literary modes, genres and textuality, including notions of authorship and reading strategies. Topics will vary from year to year.",
+    "course_extra_details": "Also listed as ENGL4145.\nPrerequisite(s): DIGH2002 and fourth-year standing, or permission of the College of Humanities.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "DIGH2002 and fourth-year standing, or permission of the College of Humanities.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "DIGH 4004",
+    "course_code": "DIGH4004",
+    "course_number": 4004,
+    "course_title": "DIGH4004 [0.5 credit]",
+    "course_desc": "This workshop will provide students with the opportunity to complete an individual or collaborative capstone project in the Digital Humanities.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as ENGL4404.\nPrerequisite(s): DIGH2002 and fourth-year standing, or permission of the College of Humanities.\nWorkshop three hours a week.\n",
+    "course_prerequisites": "DIGH2002 and fourth-year standing, or permission of the College of Humanities.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "DIGH 4005",
+    "course_code": "DIGH4005",
+    "course_number": 4005,
+    "course_title": "DIGH4005 [0.5 credit]",
+    "course_desc": "Practical experience gained by working on projects under the supervision of the staff of a participating public- or private-sector institution or organization, including a final written assignment or equivalent project. A maximum of 1.0 practicum credit may be applied towards degree requirements.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as ENGL4405.\nPrerequisite(s): DIGH2002 and fourth-year standing, or permission of the College of Humanities.\nPracticum.\n",
+    "course_prerequisites": "DIGH2002 and fourth-year standing, or permission of the College of Humanities.",
+    "year_standing": 4
+}
+

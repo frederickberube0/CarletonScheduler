@@ -1,0 +1,44 @@
+{
+    "course_identifier": "LACS 1001",
+    "course_code": "LACS1001",
+    "course_number": 1001,
+    "course_title": "LACS1001 [0.5 credit]",
+    "course_desc": "An interdisciplinary introduction to the history, culture, societies, and literatures of the region. Students will get a broad overview of the region and will be  introduced to the  disciplines used to study these societies.",
+    "course_extra_details": "Lectures/groups three hours per week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "LACS 2001",
+    "course_code": "LACS2001",
+    "course_number": 2001,
+    "course_title": "LACS2001 [0.5 credit]",
+    "course_desc": "A study of the global dynamics affecting Latin America and the Caribbean today. Themes addressed will include globalization,  neoliberalism, underdevelopment, populism, social movements, political ideas, and migration.",
+    "course_extra_details": "Prerequisite(s): second-year standing.\nLectures/groups three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "LACS 4001",
+    "course_code": "LACS4001",
+    "course_number": 4001,
+    "course_title": "LACS4001 [0.5 credit]",
+    "course_desc": "An examination of the major issues confronting Latin America and the Caribbean including democratization, economic integration, indigenous and women\u2019s movements, human rights, social justice, and political change.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing or permission from Latin American and Caribbean Studies.\nSeminar three hours per week.\n",
+    "course_prerequisites": "fourth-year standing or permission from Latin American and Caribbean Studies.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "LACS 4819",
+    "course_code": "LACS4819",
+    "course_number": 4819,
+    "course_title": "LACS4819 [0.5 credit]",
+    "course_desc": "Latin America's changing relations with states, international institutions and non-state actors in the Global North and South. Topics may include security, South-South cooperation, trade, investment and transnational migration and drug trafficking.",
+    "course_extra_details": "Also listed as PSCI4819.\nPrerequisite(s): fourth-year standing or permission from Latin American and Caribbean Studies.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission from Latin American and Caribbean Studies.",
+    "year_standing": 4
+}
+

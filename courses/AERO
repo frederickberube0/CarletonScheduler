@@ -1,0 +1,253 @@
+{
+    "course_identifier": "AERO 2001",
+    "course_code": "AERO2001",
+    "course_number": 2001,
+    "course_title": "AERO2001 [0.5 credit]",
+    "course_desc": "Engineering drawing techniques; fits and tolerances; working drawings; fasteners. Elementary descriptive geometry; true length, true view, and intersection of geometric entities; developments. Aerospace-specific CAD (Computer-Aided Design) assignments including production of detail and assembly drawings from actual aerospace physical models.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as MAAE2001.\nPrerequisite(s): Second-year status in Engineering.\nLectures and tutorials two hours a week, laboratory four hours a week.\n",
+    "course_prerequisites": "Second-year status in Engineering.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "AERO 3002",
+    "course_code": "AERO3002",
+    "course_number": 3002,
+    "course_title": "AERO3002 [0.5 credit]",
+    "course_desc": "Design approach and phases. Design integration. Influence of mission and other requirements on vehicle configuration. Trade-off studies, sizing and configuration layout. Flight vehicle loads, velocity-load factor diagram. Structural design: overall philosophy, role in design process, methods. Basic orbital mechanics; launch vehicle sizing.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): AERO2001 and third-year status in Engineering.\nLectures three hours a week, problem analysis three hours a week.\n",
+    "course_prerequisites": "AERO2001 and third-year status in Engineering.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "AERO 3101",
+    "course_code": "AERO3101",
+    "course_number": 3101,
+    "course_title": "AERO3101 [0.5 credit]",
+    "course_desc": "Structural concepts; theory of elasticity; bending, torsion and shear in thin-walled beams having single or multi-cell sections; work and energy principles; deformation and force analysis of advanced structures, including stiffened thin-wall panels; finite element methods. Stability and buckling of thin-walled structures.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): MAAE3202.\nLectures three hours a week; problem analysis one hour a week.\n",
+    "course_prerequisites": "MAAE3202.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "AERO 3240",
+    "course_code": "AERO3240",
+    "course_number": 3240,
+    "course_title": "AERO3240 [0.5 credit]",
+    "course_desc": "Review of translational kinematics and dynamics.  Keplerian two-body problem: Kepler's laws, orbital elements, orbit determination.  Orbital perturbations: oblateness of the Earth, atmospheric drag.  Orbital maneuvers and interplanetary flights.  Advanced topics.",
+    "course_extra_details": "Prerequisite(s): MAAE2101.\nLectures three hours per week, tutorial one hour per week.\n",
+    "course_prerequisites": "MAAE2101.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "AERO 3700",
+    "course_code": "AERO3700",
+    "course_number": 3700,
+    "course_title": "AERO3700 [0.5 credit]",
+    "course_desc": "Properties, behaviour and manufacturing methods for metals, polymers and ceramics used in aerospace applications. Specialty alloys for gas turbines. Properties and manufacture of aerospace composites. Behaviour of materials in space.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): MAAE2700.\nLectures three hours a week; problem analysis one hour a week.\n",
+    "course_prerequisites": "MAAE2700.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "AERO 3841",
+    "course_code": "AERO3841",
+    "course_number": 3841,
+    "course_title": "AERO3841 [0.5 credit]",
+    "course_desc": "Design of spacecraft and spacecraft subsystems with emphasis on mission requirements and current design methods: spacecraft configuration, payload, structural, attitude control, thermal, power, and other related subsystems. Spacecraft integration and testing.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): AERO3240.\nLectures three hours a week, tutorials or laboratories three hours per week.\n",
+    "course_prerequisites": "AERO3240.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "AERO 4003",
+    "course_code": "AERO4003",
+    "course_number": 4003,
+    "course_title": "AERO4003 [0.5 credit]",
+    "course_desc": "Stress and deflection analysis; fatigue, safe life, damage tolerant design. Propulsion systems integration; landing gear; control and other subsystems. Mechanical component design. Airworthiness regulations and certification procedures. Weight and cost estimation and control. System reliability. Design studies of aircraft or spacecraft components.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): AERO3002 and fourth-year status in Engineering.\nLectures three hours a week, problem analysis three hours a week.\n",
+    "course_prerequisites": "AERO3002 and fourth-year status in Engineering.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "AERO 4009",
+    "course_code": "AERO4009",
+    "course_number": 4009,
+    "course_title": "AERO4009 [0.5 credit]",
+    "course_desc": "Product development, quality control. Strategic organizational analysis and design. Airworthiness, type certification and planning, delegation of authority, airplane flight manual. Aerospace system design and safety.",
+    "course_extra_details": "Prerequisite(s): fourth-year status in Engineering or permission of the department.\nLectures three hours per week.\n",
+    "course_prerequisites": "fourth-year status in Engineering or permission of the department.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "AERO 4300",
+    "course_code": "AERO4300",
+    "course_number": 4300,
+    "course_title": "AERO4300 [0.5 credit]",
+    "course_desc": "Behaviour of compressible fluids, sound waves and properties of sound sources; measurement of sound; human perception of sound; prediction methods based on energy considerations; sound propagation in realistic environments: outdoors, rooms, ducts; absorption and transmission loss, noise control; case studies.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): MAAE3004 and (MAAE3300 or MECH3310) and fourth-year status in Engineering or by permission of department.\nLectures three hours a week.\n",
+    "course_prerequisites": "MAAE3004 and (MAAE3300 or MECH3310) and fourth-year status in Engineering or by permission of department.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "AERO 4302",
+    "course_code": "AERO4302",
+    "course_number": 4302,
+    "course_title": "AERO4302 [0.5 credit]",
+    "course_desc": "Differential equations of motion. Viscous and inviscid regions. Potential flow: superposition; thin airfoils; finite wings; compressibility corrections. Viscous flow: thin shear layer approximation; laminar layers; transition; turbulence modeling. Convective heat transfer: free versus forced convection; energy and energy integral equations; turbulent diffusion.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): MAAE3300 or MECH3310.\nAlso offered at the graduate level, with different requirements, as MECH5000, for which additional credit is precluded.\nLectures three hours a week, problem analysis two hours a week.\n",
+    "course_prerequisites": "MAAE3300 or MECH3310.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "AERO 4304",
+    "course_code": "AERO4304",
+    "course_number": 4304,
+    "course_title": "AERO4304 [0.5 credit]",
+    "course_desc": "Governing equations of fluid motion (full & simplified). Discretization based on finite difference, finite volume, and finite element methods. Explicit and implicit integration schemes. Numerical stability. Numerical solutions of the Navier-Stokes equations: RANS, LES and DNS. Turbulence modeling. Programming-based assignments (convection/diffusion).",
+    "course_extra_details": "Prerequisite(s): (MAAE3300 or MECH3310), completion of or concurrent registration in AERO4302 and fourth-year status in Engineering or by permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "(MAAE3300 or MECH3310), completion of or concurrent registration in AERO4302 and fourth-year status in Engineering or by permission of the department.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "AERO 4306",
+    "course_code": "AERO4306",
+    "course_number": 4306,
+    "course_title": "AERO4306 [0.5 credit]",
+    "course_desc": "Morphology of aircraft and spacecraft. Performance analysis of fixed wing aircraft: drag estimation, propulsion, take-off, climb and landing, endurance, payload/range, manoeuvres; operational economics. Performance analysis of rotor craft: rotor-blade motion, hovering and vertical ascent, forward flight, and autorotation. Rocket propulsion; escape velocity; orbital dynamics.",
+    "course_extra_details": "Prerequisite(s): (MAAE3300 or MECH3310) and fourth-year status in Engineering.\nLectures three hours a week.\n",
+    "course_prerequisites": "(MAAE3300 or MECH3310) and fourth-year status in Engineering.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "AERO 4308",
+    "course_code": "AERO4308",
+    "course_number": 4308,
+    "course_title": "AERO4308 [0.5 credit]",
+    "course_desc": "Static stability and control: equilibrium requirements; longitudinal stability requirements; neutral points; manoeuvring flight; control forces and control requirements; lateral static stability certification requirements. Dynamic stability: axis systems; governing equations; phugoid and short period modes; lateral dynamic modes. Closed-loop control.",
+    "course_extra_details": "Prerequisite(s): MAAE3500 and fourth-year status in Engineering.\nAlso offered at the graduate level, with different requirements, as MECH5101, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "MAAE3500 and fourth-year status in Engineering.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "AERO 4402",
+    "course_code": "AERO4402",
+    "course_number": 4402,
+    "course_title": "AERO4402 [0.5 credit]",
+    "course_desc": "Propulsion requirements, effects of Mach Number, altitude, and application; basic propeller theory; propeller, turboshaft, turbojet, turbofan and rocket; cycle analysis and optimization for gas turbine power plant; inter-relations between thermodynamic, aerodynamic and mechanical designs; rocket propulsion; selection of aeroengines.",
+    "course_extra_details": "Precludes additional credit for MECH4401.\nPrerequisite(s): MAAE2400, (MAAE3300 or MECH3310), and fourth-year status in Engineering or by permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "MAAE2400, (MAAE3300 or MECH3310), and fourth-year status in Engineering or by permission of the department.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "AERO 4442",
+    "course_code": "AERO4442",
+    "course_number": 4442,
+    "course_title": "AERO4442 [0.5 credit]",
+    "course_desc": "Planetary/interplanetary environments and effects. Launch and spacecraft propulsion: liquid/solid/hybrid rockets, ram/scramjets, combined cycle engines, electrothermal, electromagnetic, electrostatic, nuclear, and propellantless propulsion. Trajectory analysis, multi-staging, separation dynamics. Advanced engine concepts.",
+    "course_extra_details": "Prerequisite(s): MAAE2400, (MAAE3300 OR MECH3310) and fourth-year status in Engineering.\nLectures three hours a week.\n",
+    "course_prerequisites": "MAAE2400, (MAAE3300 OR MECH3310) and fourth-year status in Engineering.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "AERO 4446",
+    "course_code": "AERO4446",
+    "course_number": 4446,
+    "course_title": "AERO4446 [0.5 credit]",
+    "course_desc": "Fundamentals of heat transfer with emphasis on aerospace systems design. Conduction, convection and radiation modes of heat transfer. Radiation exchange between surfaces and view factors. Radiation in spacecraft thermal control. High speed flight and reentry heating.",
+    "course_extra_details": "Precludes additional credit for MECH4406.\nPrerequisite(s): MAAE2400 and (MAAE3300 or MECH3310) and fourth-year status in Engineering.\nLectures three hours a week.\n",
+    "course_prerequisites": "MAAE2400 and (MAAE3300 or MECH3310) and fourth-year status in Engineering.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "AERO 4504",
+    "course_code": "AERO4504",
+    "course_number": 4504,
+    "course_title": "AERO4504 [0.5 credit]",
+    "course_desc": "RF engineering concepts. Aviation communication systems. Relative and absolute navigation; landing systems. Radar systems; weather radar. Aircraft systems integration; databus standards; electrical systems; power generation and distribution. Safety critical software. Electromagnetic compatibility and interference. Regulations and certification of avionic systems.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ELEC4504.\nPrerequisite(s): 4th year status in Engineering. Not open to students in Electrical Engineering, Computer Systems Engineering, Engineering Physics or Communications Engineering.\nLectures three hours a week.\n",
+    "course_prerequisites": "4th year status in Engineering. Not open to students in Electrical Engineering, Computer Systems Engineering, Engineering Physics or Communications Engineering.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "AERO 4540",
+    "course_code": "AERO4540",
+    "course_number": 4540,
+    "course_title": "AERO4540 [0.5 credit]",
+    "course_desc": "Rigid body dynamics. The dynamic behavior of spacecraft. Environmental torques. The design of attitude control systems. Gravity gradient, spin, and dual spin stabilization. Attitude manoeuvres. The design of automatic control systems. Impacts of attitude stabilization techniques on mission performance.",
+    "course_extra_details": "Prerequisite(s): AERO3240 and MAAE3500 and fourth-year status in Engineering.\nLectures three hours a week.\n",
+    "course_prerequisites": "AERO3240 and MAAE3500 and fourth-year status in Engineering.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "AERO 4602",
+    "course_code": "AERO4602",
+    "course_number": 4602,
+    "course_title": "AERO4602 [0.5 credit]",
+    "course_desc": "Review of structural behaviour of lifting surface elements; structural dynamics, Laplace Transforms, dynamic stability; modal analysis; flutter, Theodorsen's theory; flutter of a typical section; wing flutter, T-tail flutter, propeller whirl flutter; gust response; buffeting, limit cycle flutter.",
+    "course_extra_details": "Prerequisite(s): (MAAE3300 or MECH3310) and SYSC3600 and fourth-year status in Engineering.\nLectures three hours a week.\n",
+    "course_prerequisites": "(MAAE3300 or MECH3310) and SYSC3600 and fourth-year status in Engineering.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "AERO 4607",
+    "course_code": "AERO4607",
+    "course_number": 4607,
+    "course_title": "AERO4607 [0.5 credit]",
+    "course_desc": "Rotorcraft history and fundamentals. Momentum theory: hover, axial climb and descent, autorotation, forward flight, momentum theory for coaxial and tandem rotors. Blade element analysis. Rotor airfoil aerodynamics. Rotor blade dynamics and trim. Helicopter performance, height-velocity curves, conceptual design. High-speed rotorcraft.",
+    "course_extra_details": "Prerequisite(s): MAAE3004 and (MAAE3300 or MECH3310) and fourth-year status in Engineering or by permission of the department.\nLectures three hours per week.\n",
+    "course_prerequisites": "MAAE3004 and (MAAE3300 or MECH3310) and fourth-year status in Engineering or by permission of the department.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "AERO 4608",
+    "course_code": "AERO4608",
+    "course_number": 4608,
+    "course_title": "AERO4608 [0.5 credit]",
+    "course_desc": "Reinforcing mechanisms in composite materials; material properties. Strength and elastic constants of unidirectional composites; failure criteria. Analysis of laminated plates; bending and eigenvalue problems. Environmental effects and durability. Damage tolerance. Design of composite structures.",
+    "course_extra_details": "Prerequisite(s): MAAE2202 and fourth-year status in Engineering.\nLectures three hours a week.\n",
+    "course_prerequisites": "MAAE2202 and fourth-year status in Engineering.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "AERO 4609",
+    "course_code": "AERO4609",
+    "course_number": 4609,
+    "course_title": "AERO4609 [0.5 credit]",
+    "course_desc": "Design for joining: base material and component geometry. Selection of joining method and filler material; Adhesive bonding; Soldering; Brazing; Diffusion bonding; Resistance welding; Fusion welding (GTAW, EB, laser and plasma arc); Friction welding; NDE. Emphasis on Aerospace materials and applications.",
+    "course_extra_details": "Prerequisite(s): MAAE2700 and fourth-year status in Engineering or by permission of the department.\nLectures three hours per week.\n",
+    "course_prerequisites": "MAAE2700 and fourth-year status in Engineering or by permission of the department.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "AERO 4842",
+    "course_code": "AERO4842",
+    "course_number": 4842,
+    "course_title": "AERO4842 [0.5 credit]",
+    "course_desc": "System view of spacecraft. Requirements definition.  Spacecraft payloads (remote sensing, imaging systems, astronomy instrumentation etc.).  Exploration missions.  Implications for systems and missions.  Space system design case studies.",
+    "course_extra_details": "Precludes additional credit for AERO 4802 (no longer offered).\nPrerequisite(s): AERO3841 and fourth-year status in Engineering.\nLectures three hours a week.\n",
+    "course_prerequisites": "AERO3841 and fourth-year status in Engineering.",
+    "year_standing": 4
+}
+

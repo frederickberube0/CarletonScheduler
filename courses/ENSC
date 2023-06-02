@@ -1,0 +1,187 @@
+{
+    "course_identifier": "ENSC 1500",
+    "course_code": "ENSC1500",
+    "course_number": 1500,
+    "course_title": "ENSC1500 [0.5 credit]",
+    "course_desc": "The purpose and nature of the program; society's view on the natural and human-modified environment; major environmental issues and their scientific aspects; preparation and presentation of paper and seminars.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): enrolment in the Environmental Science program.\nLectures, seminars and workshops four hours a week.\n",
+    "course_prerequisites": "enrolment in the Environmental Science program.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ENSC 2000",
+    "course_code": "ENSC2000",
+    "course_number": 2000,
+    "course_title": "ENSC2000 [0.5 credit]",
+    "course_desc": "A field-based course introducing students to practical methods in environmental science. Topics will include earth sciences, geography, biology, and chemistry related aspects of environmental sciences and will focus on quantitative techniques to assess environmental impacts and management. A supplementary fee will apply.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ERTH1006 and BIOL 1004 or BIOL1104, CHEM1001 and CHEM1002 and permission of the Institute.\nField trips, lectures and workshops, seven hours per week (delivered on a single day and on up to two mandatory weekend trips).\n",
+    "course_prerequisites": "ERTH1006 and BIOL 1004 or BIOL1104, CHEM1001 and CHEM1002 and permission of the Institute.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ENSC 2001",
+    "course_code": "ENSC2001",
+    "course_number": 2001,
+    "course_title": "ENSC2001 [0.5 credit]",
+    "course_desc": "Environmental impact of mineral, energy and water resource exploitation and impact of hazardous Earth processes such as volcanic eruptions, earthquakes and others: their prediction and mitigation.",
+    "course_extra_details": "Lectures three hours per week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ENSC 2002",
+    "course_code": "ENSC2002",
+    "course_number": 2002,
+    "course_title": "ENSC2002 [0.5 credit]",
+    "course_desc": "Study and application of qualitative and quantitative techniques in environmental science, including study design, data collection and assembly, database manipulation, data analysis, and critically evaluating scientific information.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): STAT2507 or permission from the Institute.\nLectures and seminars three hours a week.\n",
+    "course_prerequisites": "STAT2507 or permission from the Institute.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ENSC 3000",
+    "course_code": "ENSC3000",
+    "course_number": 3000,
+    "course_title": "ENSC3000 [0.5 credit]",
+    "course_desc": "Theoretical and practical perspectives related to environmental science and management; Emphasis on real-world problems associated with human activities and development of solutions in natural and built environments; Hands-on experience with environmental monitoring and restoration. A supplementary fee will apply.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing in Environmental Science or permission of the Institute.\nField trips, lectures and workshops, 7 hours per week (delivered on a single day).\n",
+    "course_prerequisites": "third-year standing in Environmental Science or permission of the Institute.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "ENSC 3106",
+    "course_code": "ENSC3106",
+    "course_number": 3106,
+    "course_title": "ENSC3106 [0.5 credit]",
+    "course_desc": "Fundamentals of aquatic science. The physical, chemical, and biotic aspects of lake, river, and estuary systems including human impacts, management and conservation.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as GEOG3106.\nPrerequisite(s): third-year standing and a second year science or engineering course.\nWorkshop four hours per week.\n",
+    "course_prerequisites": "third-year standing and a second year science or engineering course.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "ENSC 3509",
+    "course_code": "ENSC3509",
+    "course_number": 3509,
+    "course_title": "ENSC3509 [0.5 credit]",
+    "course_desc": "Major project relating to an issue involving environmental science; effective methods of team research and presentation of group work. May include field work during class time or on weekends.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing in the Honours Environmental Science program or permission of the Institute.\nLectures, seminars and workshops three hours a week.\n",
+    "course_prerequisites": "third-year standing in the Honours Environmental Science program or permission of the Institute.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "ENSC 3700",
+    "course_code": "ENSC3700",
+    "course_number": 3700,
+    "course_title": "ENSC3700 [0.5 credit]",
+    "course_desc": "Specific topics of current interest.  Topics may vary from year to year.",
+    "course_extra_details": "Prerequisite(s): Third year standing in the Environmental Science program or permission of the Institute.\n \n",
+    "course_prerequisites": "Third year standing in the Environmental Science program or permission of the Institute.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ENSC 3906",
+    "course_code": "ENSC3906",
+    "course_number": 3906,
+    "course_title": "ENSC3906 [0.5 credit]",
+    "course_desc": "Independent or group study on the fundamentals of scientific investigation, which may include use of literature, learning of research techniques, and development of a research proposal, in consultation with a Faculty supervisor. May include directed reading, written assignments, tutorials, laboratory or field work.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): Good standing in third year Environmental Science and permission of the Institute.\n \n",
+    "course_prerequisites": "Good standing in third year Environmental Science and permission of the Institute.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ENSC 3999",
+    "course_code": "ENSC3999",
+    "course_number": 3999,
+    "course_title": "ENSC3999 [0.0 credit]",
+    "course_desc": "Practical experience for students enrolled in the Co-operative Option. To receive course credit a student must receive satisfactory evaluations from their work term employer. Written reports describing the work term project will be required. Graded Sat or Uns.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): registration in the Environmental Science Co-operative Option and permission of the Institute. Four-month work term.\n \n",
+    "course_prerequisites": "registration in the Environmental Science Co-operative Option and permission of the Institute. Four-month work term.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ENSC 4001",
+    "course_code": "ENSC4001",
+    "course_number": 4001,
+    "course_title": "ENSC4001 [0.5 credit]",
+    "course_desc": "Experience working in the environmental science sector, applying academic training to practical environmental issues.  Graded Sat/Uns.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing in the Environmental Science program.\npracticum\n",
+    "course_prerequisites": "fourth-year standing in the Environmental Science program.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "ENSC 4002",
+    "course_code": "ENSC4002",
+    "course_number": 4002,
+    "course_title": "ENSC4002 [0.5 credit]",
+    "course_desc": "The regulatory and scientific aspects of environmental management decisions, including risk analysis and mitigation, managing chronic and acute environmental impacts, and conservation of species and landscapes. Students will use real-world case studies to learn traditional and cutting-edge decision-making tools.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing in any B.Sc. program or permission of the Institute.\nWorkshops three hours per week.\n",
+    "course_prerequisites": "third-year standing in any B.Sc. program or permission of the Institute.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "ENSC 4003",
+    "course_code": "ENSC4003",
+    "course_number": 4003,
+    "course_title": "ENSC4003 [0.5 credit]",
+    "course_desc": "This course explores issues of food systems and their sustainability. We will discuss aspects of food systems, including production, distribution, consumption, waste management, and their impact on communities and the environment.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third year standing in B.Sc. or B.HSc. program or permission of the Institute.\nLecture three hours per week.\n",
+    "course_prerequisites": "third year standing in B.Sc. or B.HSc. program or permission of the Institute.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ENSC 4005",
+    "course_code": "ENSC4005",
+    "course_number": 4005,
+    "course_title": "ENSC4005 [0.5 credit]",
+    "course_desc": "Focus on conceptualization and application of different knowledges and knowledge systems to complex, interdisciplinary real-world problems through an environmental lens.  Development of skills and mindset needed to generate creative solutions that will be embraced by diverse publics and decision makers.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ENSC 4700A if taken in Winter term 2021 or Winter term 2022.\nPrerequisite(s): Third year standing in B.Sc. programs in Environmental Science, Interdisciplinary Science and Practice, Earth Science, Biology, and Geography and B.A. programs in Biology and Geography, or permission of the Institute.\nLecture, seminar, or workshops three hours a week.\n",
+    "course_prerequisites": "Third year standing in B.Sc. programs in Environmental Science, Interdisciplinary Science and Practice, Earth Science, Biology, and Geography and B.A. programs in Biology and Geography, or permission of the Institute.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ENSC 4700",
+    "course_code": "ENSC4700",
+    "course_number": 4700,
+    "course_title": "ENSC4700 [0.5 credit]",
+    "course_desc": "Prerequisite(s): third-year standing in the  Environmental Science program or permission of the Institute.Lectures and discussion three hours a week.",
+    "course_extra_details": "Prerequisite(s): third-year standing in the  Environmental Science program or permission of the Institute.\nLectures and discussion three hours a week.\n",
+    "course_prerequisites": "third-year standing in the  Environmental Science program or permission of the Institute.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "ENSC 4901",
+    "course_code": "ENSC4901",
+    "course_number": 4901,
+    "course_title": "ENSC4901 [0.5 credit]",
+    "course_desc": "Independent or group study, for fourth-year students to explore a particular project, in consultation with a Faculty supervisor. May include directed reading, written assignments, tutorials, laboratory or field work.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): permission of the Institute. Students normally may not offer more than 1.0 credit of Directed Special Studies in their program.\n \n",
+    "course_prerequisites": "permission of the Institute. Students normally may not offer more than 1.0 credit of Directed Special Studies in their program.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ENSC 4906",
+    "course_code": "ENSC4906",
+    "course_number": 4906,
+    "course_title": "ENSC4906 [1.0 credit]",
+    "course_desc": "An independent investigation into an aspect of environmental science supervised by a member of the faculty. Approval of the topic and the research schedule must be obtained from the project supervisor and the course coordinator before the last date for registration.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing in the Honours Environmental Science program, a major CGPA 8.0 and permission of the Institute.\nindependent study\n",
+    "course_prerequisites": "fourth-year standing in the Honours Environmental Science program, a major CGPA 8.0 and permission of the Institute.",
+    "year_standing": 4
+}
+

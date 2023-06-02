@@ -1,0 +1,165 @@
+{
+    "course_identifier": "ARCN 1005",
+    "course_code": "ARCN1005",
+    "course_number": 1005,
+    "course_title": "ARCN1005 [0.5 credit]",
+    "course_desc": "Fundamental concepts of line and line weight, light and shadow, perspective, contrast and composition. Exercises will include some mixed media and will introduce students to drawing as a way of translating ideas into images.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nOne hour lecture and two hours drawing/discussion.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ARCN 2105",
+    "course_code": "ARCN2105",
+    "course_number": 2105,
+    "course_title": "ARCN2105 [0.5 credit]",
+    "course_desc": "Computer modeling as a medium of architectural analysis, documentation, and presentation. Principles and techniques of 2D drawing and 3D modeling. Extensive practical work using appropriate applications. (Core Course).",
+    "course_extra_details": "Includes: Experiential Learning Activity\nThree hours lecture and three hours lab per week\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ARCN 2106",
+    "course_code": "ARCN2106",
+    "course_number": 2106,
+    "course_title": "ARCN2106 [0.5 credit]",
+    "course_desc": "Analogue and digital systems and graphic processes used in the making of images. Fundamentals of still photography and videography combined with current computer technologies in the application of visual communication techniques.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for IDES 2106.\nLectures three hours a week, laboratory three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ARCN 3003",
+    "course_code": "ARCN3003",
+    "course_number": 3003,
+    "course_title": "ARCN3003 [0.5 credit]",
+    "course_desc": "Design and fabrication of theatre productions, one of which is staged on campus. Visiting directors, designers, technical consultants and others. Visits to theatres and production facilities. (Workshop).",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): permission of the School.\nLecture, seminar, lab or field work six hours a week.\n",
+    "course_prerequisites": "permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ARCN 3206",
+    "course_code": "ARCN3206",
+    "course_number": 3206,
+    "course_title": "ARCN3206 [0.5 credit]",
+    "course_desc": "Application of existing software and programming techniques to various architectural problems. (Workshop).",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): permission of the School.\nLecture, seminar, lab or field work six hours a week.\n",
+    "course_prerequisites": "permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ARCN 3302",
+    "course_code": "ARCN3302",
+    "course_number": 3302,
+    "course_title": "ARCN3302 [0.5 credit]",
+    "course_desc": "The architectural anatomy of selected contemporary buildings. Use of graphic techniques of analysis to develop an understanding of their basic compositional principles and language. (Workshop).",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): permission of the School.\nLecture, seminar, lab or field work six hours a week.\n",
+    "course_prerequisites": "permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ARCN 3303",
+    "course_code": "ARCN3303",
+    "course_number": 3303,
+    "course_title": "ARCN3303 [0.5 credit]",
+    "course_desc": "Analysis of architecture for its elemental, formal and narrative properties. These relationships through the medium of painting. Architecture as analogy to painting. (Workshop).",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): permission of the School.\nLecture, seminar, lab or field work six hours a week.\n",
+    "course_prerequisites": "permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ARCN 3400",
+    "course_code": "ARCN3400",
+    "course_number": 3400,
+    "course_title": "ARCN3400 [0.5 credit]",
+    "course_desc": "Development of the capacity to visualize and communicate in several graphic media. Development of sensitivity to form, structure, space, texture and colour. May involve historical investigation. (Workshop).",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): permission of the School.\nLecture, seminar, lab or field work six hours a week.\n",
+    "course_prerequisites": "permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ARCN 3401",
+    "course_code": "ARCN3401",
+    "course_number": 3401,
+    "course_title": "ARCN3401 [0.5 credit]",
+    "course_desc": "Traditional and alternative techniques for image making and manipulation. Basic image formation techniques, advanced darkroom manipulations, past-darkroom imaging, and digital imaging within a theoretical overview of current photographic processes and techniques. (Workshop).",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): permission of the School.\nLecture, seminar, lab or field work six hours a week.\n",
+    "course_prerequisites": "permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ARCN 3999",
+    "course_code": "ARCN3999",
+    "course_number": 3999,
+    "course_title": "ARCN3999 [0.0 credit]",
+    "course_desc": "Includes: Experiential Learning Activity ",
+    "course_extra_details": "Includes: Experiential Learning Activity\n \n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ARCN 4100",
+    "course_code": "ARCN4100",
+    "course_number": 4100,
+    "course_title": "ARCN4100 [0.5 credit]",
+    "course_desc": "Methods of heritage building documentation including hand recording, photography, rectified photography, total station, gps, photogrammetry, and laser scanning.  Non-destructive testing techniques; environmental assessment tools for determining air quality and energy efficiency.  Multidisciplinary teams for all project work.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as ACSE3207, CIVE3207.\nPrecludes additional credit for ARCN 3100 (no longer offered).\nPrerequisite(s): second-year standing in B.A.S. Conservation and Sustainability.\nLectures three hours a week, lab or field work two hours a week.\n",
+    "course_prerequisites": "second-year standing in B.A.S. Conservation and Sustainability.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "ARCN 4102",
+    "course_code": "ARCN4102",
+    "course_number": 4102,
+    "course_title": "ARCN4102 [0.5 credit]",
+    "course_desc": "Various types of non-numeric data, their representation within primary and secondary storage, and the manipulation of various representations. Comparative evaluation of languages for non-numeric problems. (Elective Course).",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ARCN 3102.\nPrerequisite(s): permission of the School.\nLectures two hours a week, laboratory two hours a week.\n",
+    "course_prerequisites": "permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ARCN 4103",
+    "course_code": "ARCN4103",
+    "course_number": 4103,
+    "course_title": "ARCN4103 [0.5 credit]",
+    "course_desc": "The changing relationship of architectural design and digital technology with a focus on 1:1 constructions using emerging computational software and fabrication techniques. (Workshop/Elective Course).",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): permission of the School.\nLectures two hours a week, laboratory two hours a week.\n",
+    "course_prerequisites": "permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "ARCN 4200",
+    "course_code": "ARCN4200",
+    "course_number": 4200,
+    "course_title": "ARCN4200 [0.5 credit]",
+    "course_desc": "Deterioration mechanisms for concrete, timber, steel and masonry structures.  Identification of design deficiencies; criteria for selection and design of rehabilitation systems.  Design techniques to reduce deterioration in new construction and historical structures.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as ACSE4601, CIVE4601.\nPrerequisite(s): ARCN4100 and third-year standing in B.A.S. Conservation and Sustainability.\nLectures three hours a week, lab/field work two hours a week.\n",
+    "course_prerequisites": "ARCN4100 and third-year standing in B.A.S. Conservation and Sustainability.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "ARCN 4808",
+    "course_code": "ARCN4808",
+    "course_number": 4808,
+    "course_title": "ARCN4808 [0.5 credit]",
+    "course_desc": "(Elective Course).",
+    "course_extra_details": "Includes: Experiential Learning Activity\n \n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+

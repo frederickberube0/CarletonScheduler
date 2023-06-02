@@ -1,0 +1,209 @@
+{
+    "course_identifier": "PADM 1501",
+    "course_code": "PADM1501",
+    "course_number": 1501,
+    "course_title": "PADM1501 [0.5 credit]",
+    "course_desc": "An introduction to the theoretical, constitutional and practical basis of public administration in Nunavut. Normally offered in Nunavut.",
+    "course_extra_details": "Prerequisite(s): enrolment in the Certificate for Nunavut Public Service Studies.\n \n",
+    "course_prerequisites": "enrolment in the Certificate for Nunavut Public Service Studies.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "PADM 1502",
+    "course_code": "PADM1502",
+    "course_number": 1502,
+    "course_title": "PADM1502 [0.5 credit]",
+    "course_desc": "Introduction to managing the relationship between the territorial and federal governments, with examples drawn from Nunavut, the Northwest Territories and Yukon practices. Normally offered in Nunavut.",
+    "course_extra_details": "Prerequisite(s): enrolment in the Certificate for Nunavut Public Service Studies and successful completion of PSCI 1002 and PADM1501.\n \n",
+    "course_prerequisites": "enrolment in the Certificate for Nunavut Public Service Studies and successful completion of PSCI 1002 and PADM1501.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "PADM 3105",
+    "course_code": "PADM3105",
+    "course_number": 3105,
+    "course_title": "PADM3105 [0.5 credit]",
+    "course_desc": "Consideration of constraints and opportunities of public-sector management, including government at all levels and para-statal organizations. Topics may include the accountability regimes, features of the human resource management context, administration of information and material resources, responsibilities and relationships of managers towards citizens.",
+    "course_extra_details": "Prerequisite(s): third-year standing in the B.P.A.P.M. program.\nSeminar three hours a week.\n",
+    "course_prerequisites": "third-year standing in the B.P.A.P.M. program.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "PADM 4213",
+    "course_code": "PADM4213",
+    "course_number": 4213,
+    "course_title": "PADM4213 [0.5 credit]",
+    "course_desc": "Policy and policy-making as they pertain to gender relations within the state and in society. The negative and positive effects of public policy on gender relations in the family and the labour market.",
+    "course_extra_details": "Precludes additional credit for PADM 4701, PADM 5701.\nPrerequisite(s): fourth-year standing in the Public Policy and Administration Specialization of the B.P.A.P.M. program.\nAlso offered at the graduate level, with different requirements, as PADM5213, for which additional credit is precluded.\n \n",
+    "course_prerequisites": "fourth-year standing in the Public Policy and Administration Specialization of the B.P.A.P.M. program.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "PADM 4214",
+    "course_code": "PADM4214",
+    "course_number": 4214,
+    "course_title": "PADM4214 [0.5 credit]",
+    "course_desc": "Selected aspects of the expenditure and revenue budget and budgetary process at all levels of government. Critical review of actual budgets and budgetary processes.",
+    "course_extra_details": "Precludes additional credit for PADM 5103.\nPrerequisite(s): fourth-year standing in the Public Policy and Administration Specialization of the B.P.A.P.M. program.\nAlso offered at the graduate level, with different requirements, as PADM5214, for which additional credit is precluded.\n \n",
+    "course_prerequisites": "fourth-year standing in the Public Policy and Administration Specialization of the B.P.A.P.M. program.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "PADM 4220",
+    "course_code": "PADM4220",
+    "course_number": 4220,
+    "course_title": "PADM4220 [0.5 credit]",
+    "course_desc": "Political, economic, legal, and organizational theories of regulation in the Canadian and comparative context. Processes and consequences of regulatory practice in selected Canadian public policy fields.",
+    "course_extra_details": "Precludes additional credit for PADM 5002.\nPrerequisite(s): fourth-year standing in the Public Policy and Administration Specialization of the B.P.A.P.M. program.\nAlso offered at the graduate level, with different requirements, as PADM5220, for which additional credit is precluded.\n \n",
+    "course_prerequisites": "fourth-year standing in the Public Policy and Administration Specialization of the B.P.A.P.M. program.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "PADM 4221",
+    "course_code": "PADM4221",
+    "course_number": 4221,
+    "course_title": "PADM4221 [0.5 credit]",
+    "course_desc": "Canadian health policies and programs set in a comparative political-economic and institutional context.",
+    "course_extra_details": "Precludes additional credit for PADM 4009, PADM 5009.\nPrerequisite(s): fourth-year standing in the Public Policy and Administration Specialization of the B.P.A.P.M. program.\nAlso offered at the graduate level, with different requirements, as PADM5221, for which additional credit is precluded.\n \n",
+    "course_prerequisites": "fourth-year standing in the Public Policy and Administration Specialization of the B.P.A.P.M. program.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "PADM 4224",
+    "course_code": "PADM4224",
+    "course_number": 4224,
+    "course_title": "PADM4224 [0.5 credit]",
+    "course_desc": "Canadian policies and programs on aboriginal peoples and aboriginal peoples' own policies as nations set in a comparative political-economic and institutional context.",
+    "course_extra_details": "Precludes additional credit for PADM 4806, PADM 5806.\nPrerequisite(s): fourth-year standing in the Public Policy and Administration Specialization of the B.P.A.P.M. program.\nAlso offered at the graduate level, with different requirements, as PADM5224, for which additional credit is precluded.\n \n",
+    "course_prerequisites": "fourth-year standing in the Public Policy and Administration Specialization of the B.P.A.P.M. program.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "PADM 4225",
+    "course_code": "PADM4225",
+    "course_number": 4225,
+    "course_title": "PADM4225 [0.5 credit]",
+    "course_desc": "Canadian multilateral and regional trade policies and programs set in a comparative political-economic and institutional context.",
+    "course_extra_details": "Precludes additional credit for PADM 4807, PADM 5807.\nPrerequisite(s): fourth-year standing in the Public Policy and Administration Specialization of the B.P.A.P.M. program.\nAlso offered at the graduate level, with different requirements, as PADM5225, for which additional credit is precluded.\n \n",
+    "course_prerequisites": "fourth-year standing in the Public Policy and Administration Specialization of the B.P.A.P.M. program.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "PADM 4226",
+    "course_code": "PADM4226",
+    "course_number": 4226,
+    "course_title": "PADM4226 [0.5 credit]",
+    "course_desc": "Canadian tax policies set in a comparative political-economic and institutional context.",
+    "course_extra_details": "Precludes additional credit for PADM 4509, PADM 5509.\nPrerequisite(s): fourth-year standing in the Public Policy and Administration Specialization of the B.P.A.P.M. program.\nAlso offered at the graduate level, with different requirements, as PADM5226, for which additional credit is precluded.\n \n",
+    "course_prerequisites": "fourth-year standing in the Public Policy and Administration Specialization of the B.P.A.P.M. program.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "PADM 4227",
+    "course_code": "PADM4227",
+    "course_number": 4227,
+    "course_title": "PADM4227 [0.5 credit]",
+    "course_desc": "Canadian policies and programs in education set in a comparative political-economic and institutional context.",
+    "course_extra_details": "Precludes additional credit for PADM 4809, PADM 5809.\nPrerequisite(s): fourth-year standing in the Public Policy and Administration Specialization of the B.P.A.P.M. program.\nAlso offered at the graduate level, with different requirements, as PADM5227, for which additional credit is precluded.\n \n",
+    "course_prerequisites": "fourth-year standing in the Public Policy and Administration Specialization of the B.P.A.P.M. program.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "PADM 4228",
+    "course_code": "PADM4228",
+    "course_number": 4228,
+    "course_title": "PADM4228 [0.5 credit]",
+    "course_desc": "The nature and historical development of social programs in capitalist countries, with particular focus on Canada. The course will concentrate on developing a critical understanding of the social forces shaping these programs.",
+    "course_extra_details": "Precludes additional credit for PADM 4604, PADM  5604.\nPrerequisite(s): fourth-year standing in the Public Policy and Administration Specialization of the B.P.A.P.M. program.\nAlso offered at the graduate level, with different requirements, as PADM5228, for which additional credit is precluded.\n \n",
+    "course_prerequisites": "fourth-year standing in the Public Policy and Administration Specialization of the B.P.A.P.M. program.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "PADM 4230",
+    "course_code": "PADM4230",
+    "course_number": 4230,
+    "course_title": "PADM4230 [0.5 credit]",
+    "course_desc": "The development and application of ethical theories to examine not simply what governments could do, but what they should do on the basis of consequences, principles, or motivations. Applications could include policies affecting climate change, inequality, end of life, privacy, use of force.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing in the Public Policy and Administration Specialization of the B.P.A.P.M. program.\nAlso offered at the graduate level, with different requirements, as PADM5230, for which additional credit is precluded.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year standing in the Public Policy and Administration Specialization of the B.P.A.P.M. program.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "PADM 4320",
+    "course_code": "PADM4320",
+    "course_number": 4320,
+    "course_title": "PADM4320 [0.5 credit]",
+    "course_desc": "Development and application of ethical theories to examine what governments should do, taking into account the outcomes, principles, or motivations of public policies and policy-making. Applications could include policies affecting climate change, income inequality, end of life, privacy, restitution, use of force.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing in the Public Policy and Administration Specialization of the B.P.A.P.M. program.\nAlso offered at the graduate level, with different requirements, as PADM5230, for which additional credit is precluded.\n",
+    "course_prerequisites": "fourth-year standing in the Public Policy and Administration Specialization of the B.P.A.P.M. program.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "PADM 4611",
+    "course_code": "PADM4611",
+    "course_number": 4611,
+    "course_title": "PADM4611 [0.5 credit]",
+    "course_desc": "Theory and practice regarding governmental policies for science and technology, and the use of scientific knowledge in the policy and regulatory processes of government. Concerns regarding the ethical issues and the transparency of science in government.",
+    "course_extra_details": "Precludes additional credit for PADM 5400.\nPrerequisite(s): fourth-year standing in the Public Policy and Administration Specialization of the B.P.A.P.M. program.\nAlso offered at the graduate level, with different requirements, as PADM5611, for which additional credit is precluded.\n \n",
+    "course_prerequisites": "fourth-year standing in the Public Policy and Administration Specialization of the B.P.A.P.M. program.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "PADM 4612",
+    "course_code": "PADM4612",
+    "course_number": 4612,
+    "course_title": "PADM4612 [0.5 credit]",
+    "course_desc": "An examination of sustainable production theory and key drivers, barriers and opportunities influencing innovation in industrial systems and processes. The relationship of public policies and industry practices are explored in a number of sectors.",
+    "course_extra_details": "Precludes additional credit for PADM 4600, PADM  5600.\nPrerequisite(s): fourth-year standing in the Public Policy and Administration Specialization of the B.P.A.P.M. program.\nAlso offered at the graduate level, with different requirements, as PADM5612, for which additional credit is precluded.\n \n",
+    "course_prerequisites": "fourth-year standing in the Public Policy and Administration Specialization of the B.P.A.P.M. program.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "PADM 4615",
+    "course_code": "PADM4615",
+    "course_number": 4615,
+    "course_title": "PADM4615 [0.5 credit]",
+    "course_desc": "The dilemmas associated with energy policy in Canada. Economic, social and environmental dimensions of energy decision making; Canadian issues within the contexts of a changing international scene and long term energy transitions.",
+    "course_extra_details": "Precludes additional credit for PADM5515.\nPrerequisite(s): fourth-year standing in the Public Policy and Administration Specialization of the B.P.A.P.M. program.\nAlso offered at the graduate level, with different requirements, as PADM5615, for which additional credit is precluded.\n \n",
+    "course_prerequisites": "fourth-year standing in the Public Policy and Administration Specialization of the B.P.A.P.M. program.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "PADM 4616",
+    "course_code": "PADM4616",
+    "course_number": 4616,
+    "course_title": "PADM4616 [0.5 credit]",
+    "course_desc": "Canadian environmental policies and programs in a comparative political-economic and institutional context.",
+    "course_extra_details": "Precludes additional credit for PADM 4008, PADM  5008.\nPrerequisite(s): fourth-year standing in the Public Policy and Administration Specialization of the B.P.A.P.M. program.\nAlso offered at the graduate level, with different requirements, as PADM5616, for which additional credit is precluded.\n \n",
+    "course_prerequisites": "fourth-year standing in the Public Policy and Administration Specialization of the B.P.A.P.M. program.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "PADM 4817",
+    "course_code": "PADM4817",
+    "course_number": 4817,
+    "course_title": "PADM4817 [0.5 credit]",
+    "course_desc": "Debates regarding health policy in the developing  world, in the context of the global health sector reform movement, trade and intellectual property regimes, and strategies of corporate and NGO actors. Issues of gender, class and the determinants of health.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing in the Public Policy and Administration Specialization of the B.P.A.P.M. program.\nAlso offered at the graduate level, with different requirements, as IDMG 5617/PADM5817, for which additional credit is precluded.\n \n",
+    "course_prerequisites": "fourth-year standing in the Public Policy and Administration Specialization of the B.P.A.P.M. program.",
+    "year_standing": 4
+}
+

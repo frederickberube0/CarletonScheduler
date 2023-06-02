@@ -1,0 +1,1562 @@
+{
+    "course_identifier": "BUSI 1001",
+    "course_code": "BUSI1001",
+    "course_number": 1001,
+    "course_title": "BUSI1001 [0.5 credit]",
+    "course_desc": "Discussion of the concepts of asset valuation and income measurement underlying the preparations and interpretation of financial statements.",
+    "course_extra_details": "Precludes additional credit for BUSI1003, BUSI1004.\nPrerequisite(s): BUSI1800, or enrolment in Statistics with Concentration in Actuarial Science B.Math Honours.\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI1800, or enrolment in Statistics with Concentration in Actuarial Science B.Math Honours.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 1002",
+    "course_code": "BUSI1002",
+    "course_number": 1002,
+    "course_title": "BUSI1002 [0.5 credit]",
+    "course_desc": "An introduction to the use of accounting data for the purposes of planning and control of operations.",
+    "course_extra_details": "Precludes additional credit for BUSI1003 and BUSI1005.\nPrerequisite(s): BUSI1001, or permission of the Sprott School of Business.\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI1001, or permission of the Sprott School of Business.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 1003",
+    "course_code": "BUSI1003",
+    "course_number": 1003,
+    "course_title": "BUSI1003 [0.5 credit]",
+    "course_desc": "Introduction to accounting information, the basic accounting cycle, and consideration of selected financial statement topics. Analysis of cost behavior and the uses and limitations of accounting information in planning, controlling and decision-making processes.",
+    "course_extra_details": "Precludes additional credit for BUSI1001, BUSI1002, BUSI1004 and BUSI1005. No credit for students in B.Com., BIB or B.Econ. (Honours Economics, Concentration in Financial Economics).\nLecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 1004",
+    "course_code": "BUSI1004",
+    "course_number": 1004,
+    "course_title": "BUSI1004 [0.5 credit]",
+    "course_desc": "Introduction to accounting for business organizations. The student will be introduced to the accounting process and the preparation and analysis of the balance sheet, income statement, and cash flow statement.",
+    "course_extra_details": "Precludes additional credit for BUSI1001 and BUSI1003.\nPrerequisite(s): BUSI1701 or BUSI1800. Restricted to B.Com. and B.I.B. students.\nLectures three hours a week.\n",
+    "course_prerequisites": "BUSI1701 or BUSI1800. Restricted to B.Com. and B.I.B. students.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 1005",
+    "course_code": "BUSI1005",
+    "course_number": 1005,
+    "course_title": "BUSI1005 [0.5 credit]",
+    "course_desc": "Introduction to the development and use of accounting information within a business organization for effective management including: planning, directing, motivating, and controlling activities and behaviours.",
+    "course_extra_details": "Precludes additional credit for BUSI1002 and BUSI1003.\nPrerequisite(s): BUSI1004. Restricted to B.Com. and B.I.B. students.\nLectures three hours a week.\n",
+    "course_prerequisites": "BUSI1004. Restricted to B.Com. and B.I.B. students.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 1401",
+    "course_code": "BUSI1401",
+    "course_number": 1401,
+    "course_title": "BUSI1401 [0.5 credit]",
+    "course_desc": "This course helps student to understand the critical role of information systems in organizations and their impact on social and ethical issues. Covers fundamental tools and skills for the development and management of information systems and business analytics in organizations.",
+    "course_extra_details": "Precludes additional credit for BUSI 2400.\nLecture three hours a week. \n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 1402",
+    "course_code": "BUSI1402",
+    "course_number": 1402,
+    "course_title": "BUSI1402 [0.5 credit]",
+    "course_desc": "Introduction to ICT in organizations. Topics may include spreadsheets, databases, statistical software, website design and implementation, collaboration software including wikis, blogs and social networking, GPS, m-Commerce.",
+    "course_extra_details": "Lectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 1701",
+    "course_code": "BUSI1701",
+    "course_number": 1701,
+    "course_title": "BUSI1701 [0.5 credit]",
+    "course_desc": "Introduction to the principles and practices of international business. Topics include the impact of culture and the political, economic, and legal systems on global strategy, international institutions, theories of cross-border trade, and the characteristics and effects of regional trade blocs.",
+    "course_extra_details": "Precludes additional credit for BUSI2701, BUSI2703.\nPrerequisite(s): restricted to B.I.B. students.\nLecture three hours and tutorial one hour a week.\n",
+    "course_prerequisites": "restricted to B.I.B. students.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 1800",
+    "course_code": "BUSI1800",
+    "course_number": 1800,
+    "course_title": "BUSI1800 [0.5 credit]",
+    "course_desc": "Introduction to contemporary businesses in a complex economy, their role in the society, their history. The various functions that come together to define a business will be examined. All forms of business communications emphasized.",
+    "course_extra_details": "Precludes additional credit for BIT2001.\nLectures three hours and tutorial one hour a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 1995",
+    "course_code": "BUSI1995",
+    "course_number": 1995,
+    "course_title": "BUSI1995 [0.0 credit]",
+    "course_desc": "An introduction to the knowledge and tools required for a career in Business.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): Restricted to students registered in B.Com. or B.I.B.\nParticipation in employability events and initiatives throughout the year.\n",
+    "course_prerequisites": "Restricted to students registered in B.Com. or B.I.B.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 1996",
+    "course_code": "BUSI1996",
+    "course_number": 1996,
+    "course_title": "BUSI1996 [0.0 credit]",
+    "course_desc": "An introduction to the knowledge and tools required for a career in Business.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): Restricted to students registered in B.I.B.\nParticipation in employability events and initiatives throughout the year.\n",
+    "course_prerequisites": "Restricted to students registered in B.I.B.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 1997",
+    "course_code": "BUSI1997",
+    "course_number": 1997,
+    "course_title": "BUSI1997 [0.0 credit]",
+    "course_desc": "An introduction to the knowledge and tools required for a career in Business.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): Restricted to students registered in B.I.B.\nParticipation in employability events and initiatives throughout the year.\n",
+    "course_prerequisites": "Restricted to students registered in B.I.B.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 2001",
+    "course_code": "BUSI2001",
+    "course_number": 2001,
+    "course_title": "BUSI2001 [0.5 credit]",
+    "course_desc": "An examination of accounting and reporting issues related primarily to asset valuation and revenue recognition.",
+    "course_extra_details": "Prerequisite(s): second-year standing, and BUSI1004or BUSI1001(with a grade of C or higher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "second-year standing, and BUSI1004or BUSI1001(with a grade of C or higher in each).",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "BUSI 2002",
+    "course_code": "BUSI2002",
+    "course_number": 2002,
+    "course_title": "BUSI2002 [0.5 credit]",
+    "course_desc": "An examination of accounting and reporting issues related primarily to liabilities and equities.",
+    "course_extra_details": "Precludes additional credit for BUSI2506.\nPrerequisite(s): BUSI2001, and BUSI2501 or BUSI2503 (with a grade of C or higher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI2001, and BUSI2501 or BUSI2503 (with a grade of C or higher in each).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 2005",
+    "course_code": "BUSI2005",
+    "course_number": 2005,
+    "course_title": "BUSI2005 [0.5 credit]",
+    "course_desc": "A foundation course that aims to introduce the fundamental concepts of income tax laws and regulations as significant elements in the planning and decision making process of taxpayers and managers. Problems, issues and planning associated with the Income Tax Act are discussed.",
+    "course_extra_details": "Precludes additional credit for BUSI3005 and BUSI4005.\nPrerequisite(s): BUSI1001orBUSI1004(with a grade ofC-or higher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI1001orBUSI1004(with a grade ofC-or higher in each).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 2101",
+    "course_code": "BUSI2101",
+    "course_number": 2101,
+    "course_title": "BUSI2101 [0.5 credit]",
+    "course_desc": "Models of individual and small group behaviour in organizations. Topics include motivation, communication, job design, leadership and group dynamics to provide systematic explanations of employee and managerial behaviour in organizations.",
+    "course_extra_details": "Precludes additional credit for BUSI2121, BUSI2702, BUSI3602.\nPrerequisite(s): second-year standing. Restricted to B.Com. students.\nLectures three hours, and tutorial one and a half hours a week.\n",
+    "course_prerequisites": "second-year standing. Restricted to B.Com. students.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "BUSI 2121",
+    "course_code": "BUSI2121",
+    "course_number": 2121,
+    "course_title": "BUSI2121 [0.5 credit]",
+    "course_desc": "Individual and small group behaviors in organizations and management of the same.",
+    "course_extra_details": "Precludes additional credit for BUSI2101, BUSI2702, BUSI3602.\nPrerequisite(s): second-year standing.\nLecture three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "BUSI 2204",
+    "course_code": "BUSI2204",
+    "course_number": 2204,
+    "course_title": "BUSI2204 [0.5 credit]",
+    "course_desc": "Basic problems and practices in marketing. Marketing planning tools and strategies of firms.",
+    "course_extra_details": "Precludes additional credit for BIT2002 and BUSI2208.\nLecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 2208",
+    "course_code": "BUSI2208",
+    "course_number": 2208,
+    "course_title": "BUSI2208 [0.5 credit]",
+    "course_desc": "Overview of the marketing function within the firm. Introduction to key marketing concepts and principles; business environment analysis, strategic decision making (segmentation, targeting, positioning), marketing mix planning (product, price, place promotion). Analysis of marketing problems using cases and major project.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for BUSI2204.\nPrerequisite(s): BUSI1004,ECON1001 and ECON1002(orECON1000), and one ofBUSI1701,PSYC1002,SOCI1005.\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI1004,ECON1001 and ECON1002(orECON1000), and one ofBUSI1701,PSYC1002,SOCI1005.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 2301",
+    "course_code": "BUSI2301",
+    "course_number": 2301,
+    "course_title": "BUSI2301 [0.5 credit]",
+    "course_desc": "Concepts, models, and managerial issues in planning, designing, operating and controlling systems across supply chains for the provision of goods and services. Emphasis on basic ideas and tools.",
+    "course_extra_details": "Precludes additional credit for BUSI 3300 (no longer offered).\nPrerequisite(s): second-year standing. Restricted to selected Sprott programs.\nLecture three hours a week.\n",
+    "course_prerequisites": "second-year standing. Restricted to selected Sprott programs.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "BUSI 2401",
+    "course_code": "BUSI2401",
+    "course_number": 2401,
+    "course_title": "BUSI2401 [0.5 credit]",
+    "course_desc": "This course prepares students to gather, manipulate, and clean data from a variety of sources within a programming environment. Students will be introduced to visual data exploration and the deployment of data-driven visual storytelling. Topics include: APIs, Data Science Programming, SQL, Relational/NoSQL databases, data visualization.",
+    "course_extra_details": "Prerequisite(s): BUSI1401.\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI1401.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 2402",
+    "course_code": "BUSI2402",
+    "course_number": 2402,
+    "course_title": "BUSI2402 [0.5 credit]",
+    "course_desc": "Introduction to programming. Fundamentals of structured and object-oriented programming using an OO programming language. Treatment of objects, abstraction and inheritance, event-driven programming, iteration, sequence and selection. Consideration of algorithms for searching, sorting, string processing and numerical analysis. Emphasis on the development of business applications.",
+    "course_extra_details": "Precludes additional credit for COMP1006 and COMP1406.\nPrerequisite(s): second-year standing.\nLecture three hours and tutorial one hour a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "BUSI 2501",
+    "course_code": "BUSI2501",
+    "course_number": 2501,
+    "course_title": "BUSI2501 [0.5 credit]",
+    "course_desc": "Basic issues and practices in finance. Survey of business firms' financing, investment, and payout decisions. Emphasis on understanding the principles, resources, and trade-offs in the financial area of business.",
+    "course_extra_details": "Precludes additional credit for BUSI2503, BUSI 2504 (no longer offered).\nPrerequisite(s): BUSI1005, and ECON1001 and ECON1002 (or ECOR3800). Restricted to selected Sprott programs.\nLecture three hours and optional tutorial.\n",
+    "course_prerequisites": "BUSI1005, and ECON1001 and ECON1002 (or ECOR3800). Restricted to selected Sprott programs.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 2503",
+    "course_code": "BUSI2503",
+    "course_number": 2503,
+    "course_title": "BUSI2503 [0.5 credit]",
+    "course_desc": "Basic issues and practices in finance. Survey of business firms' financing, investment, and payout decisions. Emphasis on understanding the principals, resources and trade-offs in the financial area of a business.",
+    "course_extra_details": "Precludes additional credit for BUSI 2504 and BUSI2501. No credit for students in B.Com. or B.I.B.\nPrerequisite(s): second-year standing.\nLecture three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "BUSI 2505",
+    "course_code": "BUSI2505",
+    "course_number": 2505,
+    "course_title": "BUSI2505 [0.5 credit]",
+    "course_desc": "Capital investment and financing decisions in the context of risk and return tradeoffs. Primary and derivative securities, and their role in risk management. Mergers, corporate restructuring, the theory of principal-agent relationships, and financial planning, forecasting, and control.",
+    "course_extra_details": "Prerequisite(s): BUSI1002orBUSI1005, and BUSI2504 (with a grade of C or higher in each), ECON1001andECON1002(orECON1000), andMATH1009(with a grade ofC-or higher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI1002orBUSI1005, and BUSI2504 (with a grade of C or higher in each), ECON1001andECON1002(orECON1000), andMATH1009(with a grade ofC-or higher in each).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 2506",
+    "course_code": "BUSI2506",
+    "course_number": 2506,
+    "course_title": "BUSI2506 [0.5 credit]",
+    "course_desc": "Analysis and interpretation of an entity's financial statements and annual report from a user perspective. Ratio analysis is used to analyze firm performance and make forecasts of future performance.",
+    "course_extra_details": "Precludes additional credit for BUSI2002.\nPrerequisite(s): BUSI2501 or BUSI 2504 with a grade of C or higher in each.\nLectures three hours a week.\n",
+    "course_prerequisites": "BUSI2501 or BUSI 2504 with a grade of C or higher in each.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 2601",
+    "course_code": "BUSI2601",
+    "course_number": 2601,
+    "course_title": "BUSI2601 [0.5 credit]",
+    "course_desc": "The legal system and legal ordering as they affect those engaged in business activities. Emphasis on the law of tort, law of contract, agency and bailment, business associations (partnerships/proprietorships/corporations) and real estate.",
+    "course_extra_details": "Lecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 2701",
+    "course_code": "BUSI2701",
+    "course_number": 2701,
+    "course_title": "BUSI2701 [0.5 credit]",
+    "course_desc": "Introduction to the context and operation of international business. Topics include international trade theory, trade agreements and blocs, international finance, global marketing, international human resource management and global strategy.",
+    "course_extra_details": "Precludes additional credit for BUSI1701, BUSI2703.\nPrerequisite(s): BUSI1800.\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI1800.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 2702",
+    "course_code": "BUSI2702",
+    "course_number": 2702,
+    "course_title": "BUSI2702 [0.5 credit]",
+    "course_desc": "Applies principles of organizational behavior and organizational theory to the operations of international businesses. Includes discussion of appropriate strategies and structures. Introduces concepts of cross-cultural communication.",
+    "course_extra_details": "Precludes additional credit for BUSI2101, BUSI2121, BUSI3602.\nPrerequisite(s): second-year standing in B.I.B. and BUSI1701.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing in B.I.B. and BUSI1701.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "BUSI 2703",
+    "course_code": "BUSI2703",
+    "course_number": 2703,
+    "course_title": "BUSI2703 [0.5 credit]",
+    "course_desc": "Introduction to contemporary businesses in a complex economy, their role in society and their history. Examination of the various functions that come together to define a business with an emphasis on all forms of business communications.",
+    "course_extra_details": "Precludes additional credit for BUSI1701, BUSI2701.\nPrerequisite(s): second-year standing. No credit for students in B.Com. or BIB.\nLectures three hours per week.\n",
+    "course_prerequisites": "second-year standing. No credit for students in B.Com. or BIB.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "BUSI 2750",
+    "course_code": "BUSI2750",
+    "course_number": 2750,
+    "course_title": "BUSI2750 [0.5 credit]",
+    "course_desc": "Applies principles of organizational behavior and organizational theory to the operations of international businesses. Includes discussion of appropriate strategies and structures. Introduces concepts of cross-cultural communication and intercultural competencies and explores culture influencing behavior in individuals and organizations.",
+    "course_extra_details": "Prerequisite(s): second-year standing in B.I.B. and BUSI1701.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing in B.I.B. and BUSI1701.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "BUSI 2800",
+    "course_code": "BUSI2800",
+    "course_number": 2800,
+    "course_title": "BUSI2800 [0.5 credit]",
+    "course_desc": "Overview of the basics of entrepreneurship, with emphasis on idea generation and identification, team building, business models, initial strategies and feasibility. A number of organization types will be studied.",
+    "course_extra_details": "Prerequisite(s): Second-year standing.\nLecture three hours a week.\n",
+    "course_prerequisites": "Second-year standing.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 2819",
+    "course_code": "BUSI2819",
+    "course_number": 2819,
+    "course_title": "BUSI2819 [0.5 credit]",
+    "course_desc": "This course offers different avenues for in-depth explorations in sustainability accounting, impact measurement and social finance for undergraduate students.  Each module covers a special topic within responsible business, such as impact measurement, responsible finance, impact investing, responsible and ESG investing, sustainability accounting.",
+    "course_extra_details": "Prerequisite(s): second-year standing.\nLecture three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "BUSI 2995",
+    "course_code": "BUSI2995",
+    "course_number": 2995,
+    "course_title": "BUSI2995 [0.0 credit]",
+    "course_desc": "An intermediate course in the knowledge and tools required for a career in Business.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BUSI1995.\nParticipation in employability events and initiatives throughout the year.\n",
+    "course_prerequisites": "BUSI1995.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 2996",
+    "course_code": "BUSI2996",
+    "course_number": 2996,
+    "course_title": "BUSI2996 [0.0 credit]",
+    "course_desc": "An intermediate course in the knowledge and tools required for a career in Business.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BUSI1996 and BUSI1997.\nParticipation in employability events and initiatives throughout the year.\n",
+    "course_prerequisites": "BUSI1996 and BUSI1997.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 2997",
+    "course_code": "BUSI2997",
+    "course_number": 2997,
+    "course_title": "BUSI2997 [0.0 credit]",
+    "course_desc": "An intermediate course in the knowledge and tools required for a career in Business.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BUSI1996 and BUSI1997.\nParticipation in employability events and initiatives throughout the year.\n",
+    "course_prerequisites": "BUSI1996 and BUSI1997.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 3001",
+    "course_code": "BUSI3001",
+    "course_number": 3001,
+    "course_title": "BUSI3001 [0.5 credit]",
+    "course_desc": "Accounting problems associated with business combinations, with attention to the preparation of consolidated financial statements. Discussion may extend to financial reporting and diversified companies, reorganizations, etc. Selection of topics may vary from year to year.",
+    "course_extra_details": "Prerequisite(s): BUSI2002 with a grade of C- or higher.\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI2002 with a grade of C- or higher.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 3005",
+    "course_code": "BUSI3005",
+    "course_number": 3005,
+    "course_title": "BUSI3005 [0.5 credit]",
+    "course_desc": "Federal income tax laws and regulations and their impact on an individual's financial and business decisions. Problems, issues and planning associated with the Income Tax Act and concerned with the computation of taxable income and taxes payable by an individual are discussed.",
+    "course_extra_details": "Precludes additional credit for BUSI2005.\nPrerequisite(s): BUSI2001 with a grade of C- or higher.\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI2001 with a grade of C- or higher.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 3007",
+    "course_code": "BUSI3007",
+    "course_number": 3007,
+    "course_title": "BUSI3007 [0.5 credit]",
+    "course_desc": "Auditing theory, methodology and application.",
+    "course_extra_details": "Precludes additional credit for BUSI 4007 (no longer offered).\nPrerequisite(s): BUSI2001.\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI2001.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 3008",
+    "course_code": "BUSI3008",
+    "course_number": 3008,
+    "course_title": "BUSI3008 [0.5 credit]",
+    "course_desc": "The use of accounting information for cost control and performance evaluation. Emphasis is on cost accumulation systems, performance evaluation, control models and analytical tools.",
+    "course_extra_details": "Prerequisite(s): BUSI1002orBUSI1005(with a grade ofC-or higher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI1002orBUSI1005(with a grade ofC-or higher in each).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 3040",
+    "course_code": "BUSI3040",
+    "course_number": 3040,
+    "course_title": "BUSI3040 [0.5 credit]",
+    "course_desc": "Data analysis in accounting, working with and making sense of big data using various data analysis tools. Specific topics include; data collection, cleaning, analyzing, visualization, and decision making in different areas of accounting.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BUSI1401 or BUSI 2400, and BUSI3007 with a grade of C- or higher in each.\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI1401 or BUSI 2400, and BUSI3007 with a grade of C- or higher in each.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 3102",
+    "course_code": "BUSI3102",
+    "course_number": 3102,
+    "course_title": "BUSI3102 [0.5 credit]",
+    "course_desc": "Human Resource Management function in large formal organizations. Topics include human resources planning, recruitment, selection, performance evaluation, career development and training, compensation and benefits and the role of the professional personnel manager.",
+    "course_extra_details": "Prerequisite(s): second-year standing, and one ofBUSI2101,BUSI2121,BUSI2702, BUSI3602,PSYC2801.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing, and one ofBUSI2101,BUSI2121,BUSI2702, BUSI3602,PSYC2801.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "BUSI 3103",
+    "course_code": "BUSI3103",
+    "course_number": 3103,
+    "course_title": "BUSI3103 [0.5 credit]",
+    "course_desc": "Macro-organization theory. Structuring of organizations in a complex global economy. Effects of the external environment, technology, culture and organizational goals on the structure, processes and effectiveness of the organization.",
+    "course_extra_details": "Prerequisite(s): second-year standing, and one ofBUSI2101,BUSI2121,BUSI2702, PSYC2801.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing, and one ofBUSI2101,BUSI2121,BUSI2702, PSYC2801.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "BUSI 3104",
+    "course_code": "BUSI3104",
+    "course_number": 3104,
+    "course_title": "BUSI3104 [0.5 credit]",
+    "course_desc": "Managing the performance of self and others. Topics include self awareness, motivation, leadership, communication, diversity, and creativity. Extensive use is made of self-assessments and experiential learning.",
+    "course_extra_details": "Prerequisite(s): BUSI2101,BUSI2121,BUSI2702, orPSYC2801(with a grade of C or higher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI2101,BUSI2121,BUSI2702, orPSYC2801(with a grade of C or higher in each).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 3105",
+    "course_code": "BUSI3105",
+    "course_number": 3105,
+    "course_title": "BUSI3105 [0.5 credit]",
+    "course_desc": "Principles of working in and managing teams. Topics include self-awareness, team formation, team development, team dynamics, team leadership and team motivation.",
+    "course_extra_details": "Prerequisite(s): BUSI2101,BUSI2121,BUSI2702, orPSYC2801(with a grade of C or higher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI2101,BUSI2121,BUSI2702, orPSYC2801(with a grade of C or higher in each).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 3106",
+    "course_code": "BUSI3106",
+    "course_number": 3106,
+    "course_title": "BUSI3106 [0.5 credit]",
+    "course_desc": "Analysis of the sources and forms of conflict and effective approaches to managing conflict. Exploration of the effectiveness of various strategies of negotiations.",
+    "course_extra_details": "Prerequisite(s): BUSI2101,BUSI2121,BUSI2702, orPSYC2801(with a grade ofC-or higher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI2101,BUSI2121,BUSI2702, orPSYC2801(with a grade ofC-or higher in each).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 3119",
+    "course_code": "BUSI3119",
+    "course_number": 3119,
+    "course_title": "BUSI3119 [0.5 credit]",
+    "course_desc": "Examining concepts of environmental sustainability within the business context. Exploring the complex interdependency between organizations, society and the natural environment.",
+    "course_extra_details": "Prerequisite(s): third year standing.\nLecture three hours a week.\n",
+    "course_prerequisites": "third year standing.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 3204",
+    "course_code": "BUSI3204",
+    "course_number": 3204,
+    "course_title": "BUSI3204 [0.5 credit]",
+    "course_desc": "Introduction and assessment of key new marketing tools and approaches, including internet marketing, relationship marketing, direct marketing; effective adoption and implementation of these tools and approaches across industries and organizations.",
+    "course_extra_details": "Prerequisite(s): BUSI2204orBUSI2208(with a grade ofC-or higher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI2204orBUSI2208(with a grade ofC-or higher in each).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 3205",
+    "course_code": "BUSI3205",
+    "course_number": 3205,
+    "course_title": "BUSI3205 [0.5 credit]",
+    "course_desc": "Promotion as communication process and marketing tool. Integrating advertising, direct/digital marketing, interactive media, sales promotion, public relations, personal selling  through strategic planning  (research, budgeting, organizing, creative and media strategy), execution, and campaign evaluation. Regulatory, ethical, social issues considerations.",
+    "course_extra_details": "Prerequisite(s): BUSI2208orBUSI2204(with a grade ofC-or higher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI2208orBUSI2204(with a grade ofC-or higher in each).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 3207",
+    "course_code": "BUSI3207",
+    "course_number": 3207,
+    "course_title": "BUSI3207 [0.5 credit]",
+    "course_desc": "Concepts essential for understanding and conducting applied marketing research. Methods for collecting, analyzing, and interpreting data relevant to marketing decision-making. Experience in research techniques through case studies, exercises and project.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for BUSI 3100.\nPrerequisite(s): BUSI2204orBUSI2208(with a grade of C or higher in each),STAT2601 or STAT 2606(with a grade ofC-or higher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI2204orBUSI2208(with a grade of C or higher in each),STAT2601 or STAT 2606(with a grade ofC-or higher in each).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 3208",
+    "course_code": "BUSI3208",
+    "course_number": 3208,
+    "course_title": "BUSI3208 [0.5 credit]",
+    "course_desc": "Theories and practice of marketing in business-to-business markets with emphasis on high technology businesses, including strategic marketing management, buyer behaviour and competitive analysis, sales management, new product management, and international issues.",
+    "course_extra_details": "Prerequisite(s): BUSI2204orBUSI2208(with a grade ofC-or higher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI2204orBUSI2208(with a grade ofC-or higher in each).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 3209",
+    "course_code": "BUSI3209",
+    "course_number": 3209,
+    "course_title": "BUSI3209 [0.5 credit]",
+    "course_desc": "Introduction to the application of psychological theories and methodologies to consumer behaviour. How consumer behaviour is shaped by internal influences. Topics include perception, learning, memory, motivation, affect, personality, the self, attitudes and decision-making.",
+    "course_extra_details": "Precludes additional credit for BUSI 4206 (no longer offered).\nPrerequisite(s): third-year standing, andBUSI2204orBUSI2208(with a grade of C or higher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "third-year standing, andBUSI2204orBUSI2208(with a grade of C or higher in each).",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "BUSI 3210",
+    "course_code": "BUSI3210",
+    "course_number": 3210,
+    "course_title": "BUSI3210 [0.5 credit]",
+    "course_desc": "Provides an introduction to and application of the principles of personal selling for persons pursuing any vocation, as well as those aspiring to careers in Marketing. Introduces basic concepts of professional selling including: customer analysis, communication skills, effective openings and closings, and customer relations.",
+    "course_extra_details": "Prerequisite(s): BUSI2204 or BUSI2208 with a grade of C- or higher.\nLecture 3 hours a week. \n",
+    "course_prerequisites": "BUSI2204 or BUSI2208 with a grade of C- or higher.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 3301",
+    "course_code": "BUSI3301",
+    "course_number": 3301,
+    "course_title": "BUSI3301 [0.5 credit]",
+    "course_desc": "Introduction to management of global supply chain. Topics include strategies for planning and coordinating of all activities involved in procurement, conversion, and logistics in the global environment.",
+    "course_extra_details": "Precludes additional credit for BUSI 4303 (no longer offered).\nPrerequisite(s): second-year standing, andBUSI2301(with a grade of C or higher), andSTAT2601 or STAT 2606(with a grade ofC-or higher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "second-year standing, andBUSI2301(with a grade of C or higher), andSTAT2601 or STAT 2606(with a grade ofC-or higher in each).",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "BUSI 3305",
+    "course_code": "BUSI3305",
+    "course_number": 3305,
+    "course_title": "BUSI3305 [0.5 credit]",
+    "course_desc": "In-depth examination of distribution channels and logistics; roles and interrelations in the achievement of marketing mix objectives and in creating competitive advantage. Channels design and management, managing logistics, warehousing, packaging and material handling, new trends in channels and logistics.",
+    "course_extra_details": "Prerequisite(s): third-year standing, andBUSI2301(with a grade of C or higher), andSTAT2601 or STAT 2606(with a grade ofC-or higher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "third-year standing, andBUSI2301(with a grade of C or higher), andSTAT2601 or STAT 2606(with a grade ofC-or higher in each).",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "BUSI 3309",
+    "course_code": "BUSI3309",
+    "course_number": 3309,
+    "course_title": "BUSI3309 [0.5 credit]",
+    "course_desc": "Identification, selection, initiation, and organization of projects; risk assessment; project scheduling, performance monitoring and control, and termination. Emphases on foundations, principles and supporting techniques.",
+    "course_extra_details": "Prerequisite(s): third-year standing, and STAT2601 or STAT 2606.\nLecture three hours a week.\n",
+    "course_prerequisites": "third-year standing, and STAT2601 or STAT 2606.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "BUSI 3400",
+    "course_code": "BUSI3400",
+    "course_number": 3400,
+    "course_title": "BUSI3400 [0.5 credit]",
+    "course_desc": "Information management, database administration, Entity-Relationship Model, database development life cycle: planning, analysis, design, implementation, and maintenance of database management systems. Construction of a database. Introduction to SQL, distributed databases, object-oriented databases, and data warehousing.",
+    "course_extra_details": "Precludes additional credit for COMP3005.\nPrerequisite(s): BUSI1401 or BUSI 2400 (with a grade of C or higher in each).\nLecture three hours and tutorial one hour a week.\n",
+    "course_prerequisites": "BUSI1401 or BUSI 2400 (with a grade of C or higher in each).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 3401",
+    "course_code": "BUSI3401",
+    "course_number": 3401,
+    "course_title": "BUSI3401 [0.5 credit]",
+    "course_desc": "Analysis, design and implementation of electronic business systems. Topics include advanced object-oriented programming, advanced SQL programming, XML, using ASP.NET, MTS and SQL Server.",
+    "course_extra_details": "Precludes additional credit for BUSI 4401 (no longer offered).\nPrerequisite(s): BUSI2402 and BUSI3400, or COMP3005 (with a grade of C- or higher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI2402 and BUSI3400, or COMP3005 (with a grade of C- or higher in each).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 3402",
+    "course_code": "BUSI3402",
+    "course_number": 3402,
+    "course_title": "BUSI3402 [0.5 credit]",
+    "course_desc": "Methods of analysis of computer-based information systems. The systems development life cycle, planning, analysis, design, implementation and maintenance. Structured and object-oriented methods will be used. Use of a CASE tool.",
+    "course_extra_details": "Precludes additional credit for SYSC 3100, BUSI 3403, (no longer offered) and BUSI 3404 (no longer offered).\nPrerequisite(s): one of BUSI1401,BUSI2400, COMP2404, SYSC2004(with a grade of C or higher in each).\nLecture three hours and tutorials one hour a week.\n",
+    "course_prerequisites": "one of BUSI1401,BUSI2400, COMP2404, SYSC2004(with a grade of C or higher in each).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 3405",
+    "course_code": "BUSI3405",
+    "course_number": 3405,
+    "course_title": "BUSI3405 [0.5 credit]",
+    "course_desc": "Exploration of the significance of cross-functional business processes in the context of e-business transformation. Includes process analysis and modeling techniques. Also considers the application of enterprise resource planning systems, workflow technologies, intranets, and extranets to facilitate process flows inside and outside the organization.",
+    "course_extra_details": "Prerequisite(s): BUSI1401 or2400, and BUSI3103 (with a grade of C-ororhigher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI1401 or2400, and BUSI3103 (with a grade of C-ororhigher in each).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 3406",
+    "course_code": "BUSI3406",
+    "course_number": 3406,
+    "course_title": "BUSI3406 [0.5 credit]",
+    "course_desc": "Evolution of Decision Support Systems. Decision Making. Business Intelligence. Foundation of Business Analytics. Lifecycle & Best Practices. Strategy, platforms and Architecture. Data Sensemaking. Model Development.",
+    "course_extra_details": "Precludes additional credit for BUSI 4406.\nPrerequisite(s): BUSI2401 and STAT2602.\nLecture 3 hours a week. \n",
+    "course_prerequisites": "BUSI2401 and STAT2602.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 3434",
+    "course_code": "BUSI3434",
+    "course_number": 3434,
+    "course_title": "BUSI3434 [0.5 credit]",
+    "course_desc": "Visual representation and presentation of data to facilitate understanding. This includes visual data exploration, perception, interpretation, and communication in exploratory and declarative situations. Practical skill development using current data visualization software.",
+    "course_extra_details": "Prerequisite(s): BUSI2401, STAT2602.\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI2401, STAT2602.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 3500",
+    "course_code": "BUSI3500",
+    "course_number": 3500,
+    "course_title": "BUSI3500 [0.5 credit]",
+    "course_desc": "An examination of the major issues in corporate finance and applied financial management. Topics include: introduction to portfolio theory, the capital asset pricing model, cost of capital, capital structure and dividend policy, lease financing, capital budgeting under uncertainty, mergers and consolidations.",
+    "course_extra_details": "Prerequisite(s): BUSI2501 or BUSI2505(with a grade ofC+or higher in each),and STAT2601 or STAT 2606and ECON1001 and ECON1002 and MATH1009 (with a grade ofC-or higher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI2501 or BUSI2505(with a grade ofC+or higher in each),and STAT2601 or STAT 2606and ECON1001 and ECON1002 and MATH1009 (with a grade ofC-or higher in each).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 3502",
+    "course_code": "BUSI3502",
+    "course_number": 3502,
+    "course_title": "BUSI3502 [0.5 credit]",
+    "course_desc": "Procedures and methods of investment analysis. Stock and bond markets. Government regulation of securities markets. Valuation of common stocks and fixed income securities. Options, warrants, convertibles and commodities.",
+    "course_extra_details": "Prerequisite(s): BUSI2501 or BUSI2505(with a grade ofC+or higher in each),and STAT2601 or STAT 2606and ECON1001 and ECON1002 and MATH1009(with a grade ofC-or higher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI2501 or BUSI2505(with a grade ofC+or higher in each),and STAT2601 or STAT 2606and ECON1001 and ECON1002 and MATH1009(with a grade ofC-or higher in each).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 3512",
+    "course_code": "BUSI3512",
+    "course_number": 3512,
+    "course_title": "BUSI3512 [0.5 credit]",
+    "course_desc": "Derivative instruments and their use for speculation and hedging. Analysis of different markets where instruments trade, and their characteristics. Pricing models highlighted to determine how individuals and corporations can better manage risk; exotics and newer innovations.",
+    "course_extra_details": "Precludes additional credit for BUSI 4512 (no longer offered).\nPrerequisite(s): BUSI2501 or BUSI2505(with a grade ofC+or higher in each),and STAT2601 or STAT 2606and ECON1001 and ECON1002 and MATH1009(with a grade ofC-or higher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI2501 or BUSI2505(with a grade ofC+or higher in each),and STAT2601 or STAT 2606and ECON1001 and ECON1002 and MATH1009(with a grade ofC-or higher in each).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 3600",
+    "course_code": "BUSI3600",
+    "course_number": 3600,
+    "course_title": "BUSI3600 [0.5 credit]",
+    "course_desc": "Within the changing environment, an examination of entrepreneurial strategies related to different functional areas for new ventures and small businesses.",
+    "course_extra_details": "Prerequisite(s): BUSI2800 with a grade of C- or higher.\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI2800 with a grade of C- or higher.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 3602",
+    "course_code": "BUSI3602",
+    "course_number": 3602,
+    "course_title": "BUSI3602 [0.5 credit]",
+    "course_desc": "Key models and theories of organizational strategy, structure, processes, effectiveness, and individual and group behavior in organizations. Organizational structure, goals, and effectiveness; leadership, motivation and job design.",
+    "course_extra_details": "Precludes additional credit for BUSI2101, BUSI2702, BUSI2121. No credit for students in B.Com. or B.I.B. programs.\nPrerequisite(s): third-year standing in the B.P.A.P.M. program.\nLecture three hours a week.\n",
+    "course_prerequisites": "third-year standing in the B.P.A.P.M. program.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "BUSI 3611",
+    "course_code": "BUSI3611",
+    "course_number": 3611,
+    "course_title": "BUSI3611 [0.5 credit]",
+    "course_desc": "How family businesses are different, what makes them different and how to effectively manage these differences. Challenges arising from the tension between family and business pressures from governance, management and succession planning perspectives.",
+    "course_extra_details": "Prerequisite(s): third year standing, and BUSI1005orBUSI1002, and one ofBUSI2101,BUSI2121, BUSI2702.\nLecture three hours a week.\n",
+    "course_prerequisites": "third year standing, and BUSI1005orBUSI1002, and one ofBUSI2101,BUSI2121, BUSI2702.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 3629",
+    "course_code": "BUSI3629",
+    "course_number": 3629,
+    "course_title": "BUSI3629 [0.5 credit]",
+    "course_desc": "The role of governance in organizations. Mission and vision  statements, values and objectives. Shaping, implementation and evaluation of corporate strategy. Management of risk and environmental analysis.",
+    "course_extra_details": "Precludes additional credit for BUSI4609 and BUSI4709. No credit in B.Com.\nPrerequisite(s): 1) Enrolment in the Post-Baccalaureate Diploma in Accounting, or BUSI1001 and BUSI1002, or equivalents. or 2) Enrolment in BIB, third-year standing, and BUSI1004 and BUSI1005, and permission of the School of Business.\nLecture three hours a week.\n",
+    "course_prerequisites": "1) Enrolment in the Post-Baccalaureate Diploma in Accounting, or BUSI1001 and BUSI1002, or equivalents. or 2) Enrolment in BIB, third-year standing, and BUSI1004 and BUSI1005, and permission of the School of Business.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "BUSI 3701",
+    "course_code": "BUSI3701",
+    "course_number": 3701,
+    "course_title": "BUSI3701 [0.5 credit]",
+    "course_desc": "Students will engage in an approved international experience, abroad or within Canada, that fosters the development of a global mindset. This experience will allow students to integrate and apply the material learned in previous International Business courses.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for BUSI4719 and GINS3930.\nPrerequisite(s): Third-year standing in BIB and permission of the Sprott School of Business.\nExperiential Learning Activity\n",
+    "course_prerequisites": "Third-year standing in BIB and permission of the Sprott School of Business.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 3702",
+    "course_code": "BUSI3702",
+    "course_number": 3702,
+    "course_title": "BUSI3702 [0.5 credit]",
+    "course_desc": "Students will engage in an approved international experience, abroad or within Canada, that fosters the development of a global mindset. This experience will allow students to integrate and apply the material learned in previous International Business courses.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for BUSI4719 and GINS3931.\nPrerequisite(s): third-year standing in BIB and permission of the Sprott School of Business.\nExperiential learning activity\n",
+    "course_prerequisites": "third-year standing in BIB and permission of the Sprott School of Business.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "BUSI 3703",
+    "course_code": "BUSI3703",
+    "course_number": 3703,
+    "course_title": "BUSI3703 [0.5 credit]",
+    "course_desc": "The management of large organizations spanning national boundaries, including domestic firms with international markets, and multinational corporations. Difficulties of maintaining communication and control in international operations in disparate cultural settings.",
+    "course_extra_details": "Prerequisite(s): second-year standing, andBUSI2101orBUSI2702(with a grade of C or higher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "second-year standing, andBUSI2101orBUSI2702(with a grade of C or higher in each).",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "BUSI 3704",
+    "course_code": "BUSI3704",
+    "course_number": 3704,
+    "course_title": "BUSI3704 [0.5 credit]",
+    "course_desc": "Theories linking environmental factors and business strategy as a basis for study of some major factors and institutions shaping international business strategy. International trade patterns, regionalization, shifts in international finance, research and development and transnational data flows.",
+    "course_extra_details": "Prerequisite(s): third-year standing, andBUSI2101orBUSI2702(with a grade of C or higher in each), andECON1001andECON1002(orECON1000) (with a grade ofC-or higher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "third-year standing, andBUSI2101orBUSI2702(with a grade of C or higher in each), andECON1001andECON1002(orECON1000) (with a grade ofC-or higher in each).",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "BUSI 3705",
+    "course_code": "BUSI3705",
+    "course_number": 3705,
+    "course_title": "BUSI3705 [0.5 credit]",
+    "course_desc": "Behaviour of end-consumers, business and government buyers, and investors in the international context. National, cross-national, and subnational segments and behaviour differences. Adaptation vs. standardisation strategies in the context of socio-psychological, legal, technological, international procurement rules, and other constraints and opportunities.",
+    "course_extra_details": "Prerequisite(s): third-year standing, BUSI2204 or BUSI2208, and BUSI2702 or BUSI3703.\nLecture three hours a week.\n",
+    "course_prerequisites": "third-year standing, BUSI2204 or BUSI2208, and BUSI2702 or BUSI3703.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "BUSI 3706",
+    "course_code": "BUSI3706",
+    "course_number": 3706,
+    "course_title": "BUSI3706 [0.5 credit]",
+    "course_desc": "Introduction to theory and practice of negotiation in the international business context. Analysis of techniques of conflict resolution and improving ways to reach agreements.",
+    "course_extra_details": "Prerequisite(s): second-year standing, andBUSI2701orBUSI2702(with a grade ofC-or higher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "second-year standing, andBUSI2701orBUSI2702(with a grade ofC-or higher in each).",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "BUSI 3750",
+    "course_code": "BUSI3750",
+    "course_number": 3750,
+    "course_title": "BUSI3750 [0.5 credit]",
+    "course_desc": "Apply intercultural skills and international business strategies and/or practices through a business-focused experiential exercise.",
+    "course_extra_details": "Prerequisite(s): BUSI2750. Restricted to B.I.B. students who are participating in the year abroad.\nOnline course.\n",
+    "course_prerequisites": "BUSI2750. Restricted to B.I.B. students who are participating in the year abroad.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 3800",
+    "course_code": "BUSI3800",
+    "course_number": 3800,
+    "course_title": "BUSI3800 [0.5 credit]",
+    "course_desc": "An introductory experiential work environment in which students interact with real clients on a project. Various types of client projects are possible depending on the company and their goals/needs. Companies may be internal (i.e. Carleton, Sprott), or external (i.e. not for profit, for profit, start-ups).",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): Permission of the Sprott School of Business.\nLecture three hours and tutorial one hour a week.\n",
+    "course_prerequisites": "Permission of the Sprott School of Business.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 3810",
+    "course_code": "BUSI3810",
+    "course_number": 3810,
+    "course_title": "BUSI3810 [0.5 credit]",
+    "course_desc": "Business development, growth and expansion through financing activities and new customer acquisition.",
+    "course_extra_details": "Prerequisite(s): BUSI2800 with a grade of C- or higher.\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI2800 with a grade of C- or higher.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 3820",
+    "course_code": "BUSI3820",
+    "course_number": 3820,
+    "course_title": "BUSI3820 [0.5 credit]",
+    "course_desc": "Students will apply entrepreneurial concepts and engage in designing an entrepreneurial project. Students will prepare in groups a business plan, including in-depth analysis and recommendations.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing, and BUSI2800with a grade ofC-or higher.\nLecture three hours a week.\n",
+    "course_prerequisites": "third-year standing, and BUSI2800with a grade ofC-or higher.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "BUSI 3995",
+    "course_code": "BUSI3995",
+    "course_number": 3995,
+    "course_title": "BUSI3995 [0.0 credit]",
+    "course_desc": "An advanced course in the knowledge and tools required for a career in Business.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BUSI2995.\nParticipation in employability events and initiatives throughout the year.\n",
+    "course_prerequisites": "BUSI2995.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 3999",
+    "course_code": "BUSI3999",
+    "course_number": 3999,
+    "course_title": "BUSI3999 [0.0 credit]",
+    "course_desc": "This course covers the deliverables associated with the co-op work term such as the site visit, work term report submission and employer evaluation.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): This course is for students on a university approved co-op work term.\n \n",
+    "course_prerequisites": "This course is for students on a university approved co-op work term.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 4003",
+    "course_code": "BUSI4003",
+    "course_number": 4003,
+    "course_title": "BUSI4003 [0.5 credit]",
+    "course_desc": "This course focuses on the evolution and impact of accounting theory on decision making and standard setting. Students will develop an ability to critically evaluate current and proposed accounting practices and their impact on decision making within a broad conceptual framework.",
+    "course_extra_details": "Precludes additional credit for BUSI 4000 (no longer offered).\nPrerequisite(s): BUSI2002 and BUSI2501 and STAT2601 with a grade of C- or higher in each.\nLectures three hours a week.\n",
+    "course_prerequisites": "BUSI2002 and BUSI2501 and STAT2601 with a grade of C- or higher in each.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 4005",
+    "course_code": "BUSI4005",
+    "course_number": 4005,
+    "course_title": "BUSI4005 [0.5 credit]",
+    "course_desc": "An intensive review of federal income tax laws and regulations as significant elements in the planning and decision making process of taxable Canadian corporations. Emphasis on the tax planning function of corporate management and the associated accounting and reporting aspects.",
+    "course_extra_details": "Precludes additional credit for BUSI2005.\nPrerequisite(s): BUSI3005 with a grade of C- or higher.\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI3005 with a grade of C- or higher.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 4008",
+    "course_code": "BUSI4008",
+    "course_number": 4008,
+    "course_title": "BUSI4008 [0.5 credit]",
+    "course_desc": "Focuses on understanding control systems that can be used to implement firm strategies and oversee the firm. Integrates relevant issues from other functional areas: corporate governance, strategic uses of cost management, budgeting, internal controls, and performance evaluation systems in managerial planning and control.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing in B.Com. or B.I.B. or enrolment in the Post-Baccalaureate Diploma in Accounting with at least 2.0 credits completed in the program.\nLecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing in B.Com. or B.I.B. or enrolment in the Post-Baccalaureate Diploma in Accounting with at least 2.0 credits completed in the program.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "BUSI 4104",
+    "course_code": "BUSI4104",
+    "course_number": 4104,
+    "course_title": "BUSI4104 [0.5 credit]",
+    "course_desc": "Systems, strategies and practices used to effectively leverage human capital in organizations. How to think strategically about managing human assets, and what must be done to successfully implement these systems, strategies and practices.",
+    "course_extra_details": "Prerequisite(s): BUSI3102 and BUSI3103 (with a grade of C- or higher in each).\nLecture three hours per week.\n",
+    "course_prerequisites": "BUSI3102 and BUSI3103 (with a grade of C- or higher in each).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 4105",
+    "course_code": "BUSI4105",
+    "course_number": 4105,
+    "course_title": "BUSI4105 [0.5 credit]",
+    "course_desc": "An overview of current thinking about change management. Topics covered include understanding the forces for and barriers to change, diagnosing the environment around change and implementing change.",
+    "course_extra_details": "Prerequisite(s): third-year standing, andone of BUSI2101, BUSI2702, BUSI3602,PSYC2801(with a grade ofC-or higher in each).\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing, andone of BUSI2101, BUSI2702, BUSI3602,PSYC2801(with a grade ofC-or higher in each).",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "BUSI 4108",
+    "course_code": "BUSI4108",
+    "course_number": 4108,
+    "course_title": "BUSI4108 [0.5 credit]",
+    "course_desc": "Contemporary training and development challenges facing individuals, organizations, and communities and the role of information technology in enhancing individual and collective skills development, capabilities, core competencies, intellectual capital and competitiveness.",
+    "course_extra_details": "Prerequisite(s): BUSI3103orBUSI3602(with a grade ofC-or higher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI3103orBUSI3602(with a grade ofC-or higher in each).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 4111",
+    "course_code": "BUSI4111",
+    "course_number": 4111,
+    "course_title": "BUSI4111 [1.0 credit]",
+    "course_desc": "Emphasizes contingency approach to training and development; relevant to organizations of all sizes and resource capacities. Effective training and development is conceptualized as a process that integrates extensive front and back-end planning, implementation, and evaluation activities.",
+    "course_extra_details": "Prerequisite(s): third-year standing, and one ofBUSI2101,BUSI2121,BUSI2702 (with a grade ofB-or higher in each), and permission of the Sprott School of Business.\nLecture three hours and tutorial one hour per week.\n",
+    "course_prerequisites": "third-year standing, and one ofBUSI2101,BUSI2121,BUSI2702 (with a grade ofB-or higher in each), and permission of the Sprott School of Business.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "BUSI 4112",
+    "course_code": "BUSI4112",
+    "course_number": 4112,
+    "course_title": "BUSI4112 [0.5 credit]",
+    "course_desc": "Critical examination of theories of leadership and trends in contemporary research; discussion of practical methods for building leadership capacity.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing, and one ofBUSI2101,BUSI2702, BUSI3602,PSYC2801(with a grade ofC-or higher in each).\nLecture and field work as needed.\n",
+    "course_prerequisites": "third-year standing, and one ofBUSI2101,BUSI2702, BUSI3602,PSYC2801(with a grade ofC-or higher in each).",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "BUSI 4117",
+    "course_code": "BUSI4117",
+    "course_number": 4117,
+    "course_title": "BUSI4117 [1.0 credit]",
+    "course_desc": "Increases student skills in areas beyond technical expertise, with a focus on the importance of fluidity, risk taking, and idea generation. Emphasis on creativity as a process, with exposure to various techniques and concepts including Design Thinking at multiple levels (individual, group, organization).",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for BUSI 3117B taken prior to 2020/21.\nPrerequisite(s): third-year standing, andBUSI2101orBUSI2702(with a grade ofC-or higher in each), and permission of the Sprott School of Business.\nLecture three hours a week.\n",
+    "course_prerequisites": "third-year standing, andBUSI2101orBUSI2702(with a grade ofC-or higher in each), and permission of the Sprott School of Business.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "BUSI 4120",
+    "course_code": "BUSI4120",
+    "course_number": 4120,
+    "course_title": "BUSI4120 [0.5 credit]",
+    "course_desc": "This course involves guest lectures, class discussions and group assignments evaluating the role of business in environmental problems. The course will delve into current conundrums of the role of business models to mitigate harm and adapt to change in search for solutions to environmental issues.",
+    "course_extra_details": "Prerequisite(s): BUSI3119 and fourth-year standing. Restricted to BCom, BIB and students registered in any of Sprott's Minor in Business offerings.\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI3119 and fourth-year standing. Restricted to BCom, BIB and students registered in any of Sprott's Minor in Business offerings.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "BUSI 4129",
+    "course_code": "BUSI4129",
+    "course_number": 4129,
+    "course_title": "BUSI4129 [0.5 credit]",
+    "course_desc": "Challenges of managing arts organizations with emphasis on the changing environment of arts consumption and funding. Tensions arising from blending artistic and aesthetic dimensions with functional considerations when judging organizational and personal issues form a continuing theme.",
+    "course_extra_details": "Prerequisite(s): third year standing.\nAlso offered at the graduate level, with different requirements, as MGMT5129, for which additional credit is precluded.\nLecture three hours a week.\n",
+    "course_prerequisites": "third year standing.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 4201",
+    "course_code": "BUSI4201",
+    "course_number": 4201,
+    "course_title": "BUSI4201 [0.5 credit]",
+    "course_desc": "An overview of essential marketing metrics used for enhancing marketing decisions. The course consists of seven core modules: share metrics, margins and profits, pricing, product and portfolio management, sales force management, promotion profitability, and customer profitability.",
+    "course_extra_details": "Prerequisite(s): BUSI1005 and BUSI2208.\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI1005 and BUSI2208.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 4203",
+    "course_code": "BUSI4203",
+    "course_number": 4203,
+    "course_title": "BUSI4203 [0.5 credit]",
+    "course_desc": "Theories and practices of marketing in not-for-profit organizations including government. Similarities and differences between marketing in not-for-profit and for-profit organizations, and the key issues faced by marketers in developing marketing strategies in not-for-profit organizations.",
+    "course_extra_details": "Prerequisite(s): third-year standing, andBUSI2204orBUSI2208(with a grade of C or higher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "third-year standing, andBUSI2204orBUSI2208(with a grade of C or higher in each).",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "BUSI 4205",
+    "course_code": "BUSI4205",
+    "course_number": 4205,
+    "course_title": "BUSI4205 [0.5 credit]",
+    "course_desc": "The marketing function in international markets from a strategic and managerial perspective. Environments of foreign markets in relation to marketing research, international branding and positioning, and product, price, distribution, and communication strategies. International expansion methods and foreign market evaluation and selection.",
+    "course_extra_details": "Prerequisite(s): third-year standing, andBUSI2204orBUSI2208(with a grade ofC-or higher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "third-year standing, andBUSI2204orBUSI2208(with a grade ofC-or higher in each).",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "BUSI 4208",
+    "course_code": "BUSI4208",
+    "course_number": 4208,
+    "course_title": "BUSI4208 [0.5 credit]",
+    "course_desc": "In depth analysis and applications of the managerial aspects of marketing. Marketing strategy development and implementation theory and practice.",
+    "course_extra_details": "Prerequisite(s): third year standing,BUSI2208,and one ofBUSI3205 orBUSI3207(with a grade of C or higher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "third year standing,BUSI2208,and one ofBUSI3205 orBUSI3207(with a grade of C or higher in each).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 4209",
+    "course_code": "BUSI4209",
+    "course_number": 4209,
+    "course_title": "BUSI4209 [0.5 credit]",
+    "course_desc": "Consumer behaviour from a macro and interpretive approach, as a social and cultural phenomenon; the relationships between consumers, the marketplace and cultural meaning.",
+    "course_extra_details": "Precludes additional credit for BUSI 4206 (no longer offered).\nPrerequisite(s): third year standing, andBUSI3209(with a grade of C or higher).\nLecture three hours a week. \n",
+    "course_prerequisites": "third year standing, andBUSI3209(with a grade of C or higher).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 4219",
+    "course_code": "BUSI4219",
+    "course_number": 4219,
+    "course_title": "BUSI4219 [0.5 credit]",
+    "course_desc": "An overview of the roles of marketing in a sustainable society: advancing organizations\u2019 economic success while creating positive impacts on the environment and society; promoting consumers\u2019 sustainable lifestyle; advocating institutional change to facilitate sustainable production and consumption.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): 3rd year standing. Restricted to BCom, BIB and students registered in any of Sprott's Minor in Business offerings.\nlecture three hours a week\n",
+    "course_prerequisites": "3rd year standing. Restricted to BCom, BIB and students registered in any of Sprott's Minor in Business offerings.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 4229",
+    "course_code": "BUSI4229",
+    "course_number": 4229,
+    "course_title": "BUSI4229 [0.5 credit]",
+    "course_desc": "Advanced study of marketing within the arts and culture sectors.  Facilitates sophisticated understanding of the knowledge and skills required for marketing managers to respond to changing market environments in order to bring arts and culture offerings to their target audiences.",
+    "course_extra_details": "Prerequisite(s): third year standing, andBUSI2204orBUSI2208(with a grade of C or higher in each).\nAlso offered at the graduate level, with different requirements, as MKTG5229, for which additional credit is precluded.\nLecture three hours a week.\n",
+    "course_prerequisites": "third year standing, andBUSI2204orBUSI2208(with a grade of C or higher in each).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 4300",
+    "course_code": "BUSI4300",
+    "course_number": 4300,
+    "course_title": "BUSI4300 [0.5 credit]",
+    "course_desc": "Introduction to management of global operations and supply chain. Topics include strategies for planning and coordinating of all operations and supply chain activities involved in procurement, conversion, and logistics in the global environment.",
+    "course_extra_details": "Precludes additional credit for BUSI2301 and BUSI3301.\nPrerequisite(s): STAT2601 with a grade of C- or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "STAT2601 with a grade of C- or higher.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 4301",
+    "course_code": "BUSI4301",
+    "course_number": 4301,
+    "course_title": "BUSI4301 [0.5 credit]",
+    "course_desc": "This course lays the foundations of Artificial Intelligence (AI) for business decision models using two currently dominant frameworks: Machine Learning and Deep Learning. This course discusses how to profit from AI through business model innovation in business domains including accounting, finance, marketing and supply chain.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for BUSI 2300, ECON4005.\nPrerequisite(s): third-year standing, BUSI2401, and STAT2601.\nLecture three hours and lab one hour per week.\n",
+    "course_prerequisites": "third-year standing, BUSI2401, and STAT2601.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "BUSI 4302",
+    "course_code": "BUSI4302",
+    "course_number": 4302,
+    "course_title": "BUSI4302 [0.5 credit]",
+    "course_desc": "Quality concepts and methods surrounding the definition, mapping, implementation, improvement of business processes in organizations and global supply chains.",
+    "course_extra_details": "Prerequisite(s): third-year standing,BUSI2301(with a grade of C or higher), andSTAT2601 or STAT 2606(with a grade ofC-or higher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "third-year standing,BUSI2301(with a grade of C or higher), andSTAT2601 or STAT 2606(with a grade ofC-or higher in each).",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "BUSI 4304",
+    "course_code": "BUSI4304",
+    "course_number": 4304,
+    "course_title": "BUSI4304 [0.5 credit]",
+    "course_desc": "Core supply chain procurement processes in the private and public sectors involved in the acquisition of goods and services, including sourcing, purchasing, contracting, supplier collaboration and relationship development and management. Emphasis on concepts, principles, practices, and techniques.",
+    "course_extra_details": "Prerequisite(s): third-year standing, and BUSI2301(with a C grade or higher).\nLecture three hours a week.\n",
+    "course_prerequisites": "third-year standing, and BUSI2301(with a C grade or higher).",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "BUSI 4308",
+    "course_code": "BUSI4308",
+    "course_number": 4308,
+    "course_title": "BUSI4308 [0.5 credit]",
+    "course_desc": "Concepts of computer simulation for predictive and prescriptive analytics through case studies, worked examples and hands-on projects. Emphasizes static simulations with spreadsheets, discrete-event, and agent-based simulations with specialized software. Input modeling, model design, experimental design, analysis of outputs.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for BUSI 3308.\nPrerequisite(s): third-year standing; STAT2601 or STAT 2606 with a grade of C- or higher.\nLecture two hours and tutorial two hours a week.\n",
+    "course_prerequisites": "third-year standing; STAT2601 or STAT 2606 with a grade of C- or higher.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "BUSI 4331",
+    "course_code": "BUSI4331",
+    "course_number": 4331,
+    "course_title": "BUSI4331 [0.5 credit]",
+    "course_desc": "This course shows how Industry 4.0 employs the IoT and Al technologies to achieve self-thinking supply chains. It demonstrates the use of Industry 4.0 in the transformation to smart industries. Lectures, demonstrations and hands-on exercises allow students to design, deploy and manage custom IoT solutions.",
+    "course_extra_details": "Precludes additional credit for BUSI 4431 (no longer offered).\nPrerequisite(s): third year standing,and BUSI2301(with a grade of C or higher).\nLecture three hours a week and lab one hour a week. \n",
+    "course_prerequisites": "third year standing,and BUSI2301(with a grade of C or higher).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 4400",
+    "course_code": "BUSI4400",
+    "course_number": 4400,
+    "course_title": "BUSI4400 [0.5 credit]",
+    "course_desc": "Comprehensive treatment of current trends and management issues associated with information systems within organizations of local, national and international scope. Issues and techniques of information systems planning, administration, resource management and new technology adoption. Case studies are used.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing,BUSI1401 or BUSI 2400,andBUSI3103orBUSI3602 (with a grade ofC-or higher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing,BUSI1401 or BUSI 2400,andBUSI3103orBUSI3602 (with a grade ofC-or higher in each).",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "BUSI 4404",
+    "course_code": "BUSI4404",
+    "course_number": 4404,
+    "course_title": "BUSI4404 [0.5 credit]",
+    "course_desc": "Challenges and issues managers face in assembling the infrastructure for IT service delivery.  IT Service levels, data communications, networks (LAN, MAN, WAN, wireless), internetworking, SOA, web services, SaaS, server and storage virtualization, network security, business continuity and disaster recovery.",
+    "course_extra_details": "Prerequisite(s): third-year standing, and BUSI1401 or BUSI2400 (with a grade of C-ororhigher each).\nLecture three hours a week.\n",
+    "course_prerequisites": "third-year standing, and BUSI1401 or BUSI2400 (with a grade of C-ororhigher each).",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "BUSI 4407",
+    "course_code": "BUSI4407",
+    "course_number": 4407,
+    "course_title": "BUSI4407 [0.5 credit]",
+    "course_desc": "Frameworks and quantitative methods used in predictive and prescriptive business analytics for decision-making with less risk and better outcomes. Practical applications with various analytical tools across a range of industries. Data integration; model formulation, implementation, solutions, and managerial insights.",
+    "course_extra_details": "Prerequisite(s): Third-year standing, BUSI3406 (with a grade of C or higher).\nLecture two hours and lab two hours a week. \n",
+    "course_prerequisites": "Third-year standing, BUSI3406 (with a grade of C or higher).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 4408",
+    "course_code": "BUSI4408",
+    "course_number": 4408,
+    "course_title": "BUSI4408 [0.5 credit]",
+    "course_desc": "Covers the process, tool and techniques necessary to acquire, clean and analyze text that has been generated on social platforms. Social network analysis, sentiment analysis, topic extraction, co-occurrence analysis.",
+    "course_extra_details": "Prerequisite(s): third year standing, BUSI1401 orBUSI2400,and BUSI2208, andSTAT2601 or STAT 2606. Restricted to students enrolled in B.Com, BIB, and the B.Econ Economic Data Science Concentration.\nLecture three hours a week.\n",
+    "course_prerequisites": "third year standing, BUSI1401 orBUSI2400,and BUSI2208, andSTAT2601 or STAT 2606. Restricted to students enrolled in B.Com, BIB, and the B.Econ Economic Data Science Concentration.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 4410",
+    "course_code": "BUSI4410",
+    "course_number": 4410,
+    "course_title": "BUSI4410 [0.5 credit]",
+    "course_desc": "Values in Technology, Data Governance, Data Anonymization and its limits, Ethical issues in HR and Talent Analytics, Disinformation, Misinformation, and Fake News, Bias & Fairness, Privacy, consent, and surveillance, Algorithm Colonialism, Legal Frameworks, The Nerd revolution.",
+    "course_extra_details": "Prerequisite(s): Fourth-year standing, BUSI2401, and BUSI4601.\nLecture 3 hours a week. \n",
+    "course_prerequisites": "Fourth-year standing, BUSI2401, and BUSI4601.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 4414",
+    "course_code": "BUSI4414",
+    "course_number": 4414,
+    "course_title": "BUSI4414 [0.5 credit]",
+    "course_desc": "This is a capstone course for the Business Analytics concentration. The objective of this course is to be the concentration\u2019s culminating course allowing students to undertake a major BA project, while refining their knowledge by examining a set of advanced/specialized topics.",
+    "course_extra_details": "Prerequisite(s): Fourth-year standing and BUSI2401.\nLecture 3 hours a week. \n",
+    "course_prerequisites": "Fourth-year standing and BUSI2401.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 4500",
+    "course_code": "BUSI4500",
+    "course_number": 4500,
+    "course_title": "BUSI4500 [0.5 credit]",
+    "course_desc": "An in-depth examination of some of the major theoretical issues in corporate finance. This course requires analyses and presentations of both articles from the finance literature and case studies.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing,BUSI3500,BUSI3502,BUSI3512(with a grade ofC-or higher in each), andSTAT2602 or STAT2607(with a grade ofC-or higher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing,BUSI3500,BUSI3502,BUSI3512(with a grade ofC-or higher in each), andSTAT2602 or STAT2607(with a grade ofC-or higher in each).",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "BUSI 4502",
+    "course_code": "BUSI4502",
+    "course_number": 4502,
+    "course_title": "BUSI4502 [0.5 credit]",
+    "course_desc": "Analysis of investment requirements for individuals and institutional investors: liquidity, risk and return; portfolio design, construction, management and control; performance measurement; capital market theory.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing, BUSI3500,BUSI3502, andBUSI3512(with a grade ofC-or higher in each), andSTAT2602 or STAT 2607(with a grade ofC-or higher).\nLecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing, BUSI3500,BUSI3502, andBUSI3512(with a grade ofC-or higher in each), andSTAT2602 or STAT 2607(with a grade ofC-or higher).",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "BUSI 4503",
+    "course_code": "BUSI4503",
+    "course_number": 4503,
+    "course_title": "BUSI4503 [0.5 credit]",
+    "course_desc": "Participants of the Sprott Student Investment Fund will be exposed to equity research, analysis, valuation, and portfolio composition. The course allows fund members to fully understand stock selection and fund management, and expose them to the methods and techniques used by industry.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BUSI3502 and permission of the Sprott School of Business.\nWorkshops three hours a week.\n",
+    "course_prerequisites": "BUSI3502 and permission of the Sprott School of Business.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 4504",
+    "course_code": "BUSI4504",
+    "course_number": 4504,
+    "course_title": "BUSI4504 [0.5 credit]",
+    "course_desc": "Management of corporate finance as it is affected by the requirements of international business. Issues related to international acquisitions, global investments, volatile exchange rates and hedging techniques. Role of international markets in financing corporate activity.",
+    "course_extra_details": "Precludes additional credit for BUSI 3504 (no longer offered) and BUSI 3505 (no longer offered).\nPrerequisite(s): BUSI2501 or BUSI2505 with a grade of C- or higher in each.\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI2501 or BUSI2505 with a grade of C- or higher in each.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 4505",
+    "course_code": "BUSI4505",
+    "course_number": 4505,
+    "course_title": "BUSI4505 [0.5 credit]",
+    "course_desc": "Comprehensive view of the world's financial markets and institutions. The primary focus will be on the purpose and practice of financial institutions, and the specifics of the financial instruments available to the firm and investor.",
+    "course_extra_details": "Prerequisite(s): BUSI2501 or BUSI2505(with a grade ofC+or higher in each),and STAT2601 or STAT 2606(with a grade ofC-or higher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI2501 or BUSI2505(with a grade ofC+or higher in each),and STAT2601 or STAT 2606(with a grade ofC-or higher in each).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 4510",
+    "course_code": "BUSI4510",
+    "course_number": 4510,
+    "course_title": "BUSI4510 [0.5 credit]",
+    "course_desc": "The theory and practice of mergers and acquisitions; the best ways to analyze, design and implement mergers and acquisitions transactions. A highly practical planning-based approach to managing the acquisition process will be employed.",
+    "course_extra_details": "Prerequisite(s): BUSI3500andBUSI3502(with a grade ofC-or higher in each), andSTAT2602 or STAT 2607(with a grade ofC-or higher in each).\nLecture three hours per week.\n",
+    "course_prerequisites": "BUSI3500andBUSI3502(with a grade ofC-or higher in each), andSTAT2602 or STAT 2607(with a grade ofC-or higher in each).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 4511",
+    "course_code": "BUSI4511",
+    "course_number": 4511,
+    "course_title": "BUSI4511 [0.5 credit]",
+    "course_desc": "Valuation of fixed income securities and interest rate derivatives including bonds, mortgage- and asset-based securities. Analytic tools used in bond portfolio and interest rate risk management including yield curve construction, duration and convexity, and term structure models.",
+    "course_extra_details": "Prerequisite(s): BUSI3502 andBUSI3512(with a grade ofC-or higher in each), andSTAT2602 or STAT 2607(with a grade ofC-or higher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "BUSI3502 andBUSI3512(with a grade ofC-or higher in each), andSTAT2602 or STAT 2607(with a grade ofC-or higher in each).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 4601",
+    "course_code": "BUSI4601",
+    "course_number": 4601,
+    "course_title": "BUSI4601 [0.5 credit]",
+    "course_desc": "Use of ethical reasoning to analyze business decisions. The ethical content of these decisions. The role of ethics in business situations. Practice in ethical reasoning. Major ethical systems.",
+    "course_extra_details": "Precludes additional credit for BUSI4705.\nPrerequisite(s): fourth-year standing B.Com. Note that B.Com. concentration in International Business students require BUSI4705.\nLectures three hours a week.\n",
+    "course_prerequisites": "fourth-year standing B.Com. Note that B.Com. concentration in International Business students require BUSI4705.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "BUSI 4607",
+    "course_code": "BUSI4607",
+    "course_number": 4607,
+    "course_title": "BUSI4607 [0.5 credit]",
+    "course_desc": "Integration of technology and strategy; design of technological strategy; development of new business around new technology; and management of corporate research and development, including pre-competitive consortia.",
+    "course_extra_details": "Prerequisite(s): third-year standing, and BUSI2204orBUSI2208(with a grade ofC-or higher in each).\nLecture three hours a week.\n",
+    "course_prerequisites": "third-year standing, and BUSI2204orBUSI2208(with a grade ofC-or higher in each).",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "BUSI 4608",
+    "course_code": "BUSI4608",
+    "course_number": 4608,
+    "course_title": "BUSI4608 [0.5 credit]",
+    "course_desc": "The place of business in Canadian society, economics and politics. The internal dynamics of Canadian business (organization, strategy, the rise of the manager), and its external implications (competition, foreign investment, business- government relations).",
+    "course_extra_details": "Also listed as HIST3205.\nPrerequisite(s): fourth-year standing in B.Com. or B.I.B.\nLectures three hours a week.\n",
+    "course_prerequisites": "fourth-year standing in B.Com. or B.I.B.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "BUSI 4609",
+    "course_code": "BUSI4609",
+    "course_number": 4609,
+    "course_title": "BUSI4609 [0.5 credit]",
+    "course_desc": "Analysis and evaluation of the organization's corporate and business strategies; integration and synthesis of knowledge acquired in the program by application of acquired functional skills to strategic decision making.",
+    "course_extra_details": "Precludes additional credit for BUSI3629, BUSI4709.\nPrerequisite(s): fourth-year standing in all B.Com. and successful completion of all 2000- and 3000- level courses in the Major requirement, normally completed within the last 10 years.\nLectures three hours a week.\n",
+    "course_prerequisites": "fourth-year standing in all B.Com. and successful completion of all 2000- and 3000- level courses in the Major requirement, normally completed within the last 10 years.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "BUSI 4704",
+    "course_code": "BUSI4704",
+    "course_number": 4704,
+    "course_title": "BUSI4704 [0.5 credit]",
+    "course_desc": "The economic, political, legal, and cultural environment for doing business in the European Union and other regions in Europe. Patterns of foreign trade and investment, market characteristics, science and technology, regulation and European integration, and business culture.",
+    "course_extra_details": "Also listed as EURR4704.\nPrecludes additional credit for EURR 4006 (no longer offered), BUSI 4604 (no longer offered).\nPrerequisite(s): third-year standing.\nSeminar three hours a week.\n",
+    "course_prerequisites": "third-year standing.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "BUSI 4705",
+    "course_code": "BUSI4705",
+    "course_number": 4705,
+    "course_title": "BUSI4705 [0.5 credit]",
+    "course_desc": "Perceptions and behaviors that characterize interactions among individuals from various cultural backgrounds, with emphasis on ethical issues that may arise when business crosses cultural boundaries. Various systems, both organizational and individual, for dealing with contrasting expectations are discussed.",
+    "course_extra_details": "Precludes additional credit for BUSI4601.\nPrerequisite(s): fourth-year standing in B. Com. (International Business Concentration) or B.I.B., and BUSI2702 or BUSI2101.\nLecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing in B. Com. (International Business Concentration) or B.I.B., and BUSI2702 or BUSI2101.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "BUSI 4706",
+    "course_code": "BUSI4706",
+    "course_number": 4706,
+    "course_title": "BUSI4706 [0.5 credit]",
+    "course_desc": "Theoretical and process issues in the recruitment, selection, training, evaluation and repatriation of personnel in multi-country organizations. Issues are examined from the perspective of organizations, expatriates and local employees of multinational firms.",
+    "course_extra_details": "Prerequisite(s): third-year standing, BUSI3102, and one of BUSI2702 or BUSI3703.\nLecture three hours a week.\n",
+    "course_prerequisites": "third-year standing, BUSI3102, and one of BUSI2702 or BUSI3703.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "BUSI 4707",
+    "course_code": "BUSI4707",
+    "course_number": 4707,
+    "course_title": "BUSI4707 [0.5 credit]",
+    "course_desc": "Trends in globalization versus supra- and sub-national regionalism. Role of international institutions (e.g. OECD, WTO). Strategy adaptation and integration within and across trade blocs (e.g. NAFTA, EU, Mercosur, ASEAN). Strategies for sub-national markets with similarities across different countries.",
+    "course_extra_details": "Prerequisite(s): third-year standing in B.Com., B.I.B., or Minor in Business, and BUSI2701 or BUSI2702.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing in B.Com., B.I.B., or Minor in Business, and BUSI2701 or BUSI2702.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "BUSI 4708",
+    "course_code": "BUSI4708",
+    "course_number": 4708,
+    "course_title": "BUSI4708 [0.5 credit]",
+    "course_desc": "Internationalization process. Methods of international expansion including exporting, greenfield investment, acquisition, joint venture, and licensing. Theories of international market selection, investment location, and market service.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing, and BUSI2702 or BUSI2101.\nLecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing, and BUSI2702 or BUSI2101.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "BUSI 4709",
+    "course_code": "BUSI4709",
+    "course_number": 4709,
+    "course_title": "BUSI4709 [0.5 credit]",
+    "course_desc": "Development and implementation of strategies within and across international markets. Emphasis on developing strategic perspectives that incorporate the environment, the state of the industry,and the capabilities of the firm. Integrates skills, concepts and theories learned in functional areas.",
+    "course_extra_details": "Precludes additional credit for BUSI3629, BUSI4609.\nPrerequisite(s): fourth-year standing in B.Com. (International Business Concentration) or B.I.B., and  successful completion of all 2000- and 3000-level courses in the Major requirement, normally completed within the last 10 years.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "fourth-year standing in B.Com. (International Business Concentration) or B.I.B., and  successful completion of all 2000- and 3000-level courses in the Major requirement, normally completed within the last 10 years.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "BUSI 4710",
+    "course_code": "BUSI4710",
+    "course_number": 4710,
+    "course_title": "BUSI4710 [0.5 credit]",
+    "course_desc": "Challenges facing entrepreneurs in the creation and growth of competitive knowledge-based new international ventures or \u2018born globals\u2019. Identification of opportunities abroad, strategies and logistics, sourcing, international deal making and business models.",
+    "course_extra_details": "Prerequisite(s): third-year standing, and BUSI2702orBUSI2101.\nLecture three hours a week.\n",
+    "course_prerequisites": "third-year standing, and BUSI2702orBUSI2101.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "BUSI 4717",
+    "course_code": "BUSI4717",
+    "course_number": 4717,
+    "course_title": "BUSI4717 [0.5 credit]",
+    "course_desc": "Critical examination of the managerial and institutional issues of globalization from the perspectives of emerging economies. Indigenous and international institutions' role in the evolution of a competitive and inclusive global economy and society. Discerning lessons of experience for newly globalizing societies.",
+    "course_extra_details": "Precludes additional credit for BUSI4902 (no longer offered).\nPrerequisite(s): fourth year standing in B.Com, BIB, or Minor in Business, ECON1001 and ECON1002 (or ECON1000).\nLectures three hours a week.\n",
+    "course_prerequisites": "fourth year standing in B.Com, BIB, or Minor in Business, ECON1001 and ECON1002 (or ECON1000).",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 4719",
+    "course_code": "BUSI4719",
+    "course_number": 4719,
+    "course_title": "BUSI4719 [0.5 credit]",
+    "course_desc": "Students will engage in an approved international experience, abroad or within Canada (can include SSCG), that fosters the development of a global mindset. This experience will allow students to integrate and apply the material learned in previous International Business courses.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for BUSI3701, BUSI3702.\nPrerequisite(s): third-year standing in B.Com. International Business concentration  and permission of the Sprott School of Business.\n \n",
+    "course_prerequisites": "third-year standing in B.Com. International Business concentration  and permission of the Sprott School of Business.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "BUSI 4729",
+    "course_code": "BUSI4729",
+    "course_number": 4729,
+    "course_title": "BUSI4729 [0.5 credit]",
+    "course_desc": "Provides theoretical insights and pragmatic tools that address strategic decisions concerning cross-border business activities. Examines how the multinational firm creates competitive advantage across countries and what principles and constraints guide strategic choices in various parts of the organization.",
+    "course_extra_details": "Prerequisite(s): Fourth-year standing in B.I.B, and successful completion of all 2000-and 3000-level courses in the Major requirement, normally completed within the last 10 years.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "Fourth-year standing in B.I.B, and successful completion of all 2000-and 3000-level courses in the Major requirement, normally completed within the last 10 years.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 4750",
+    "course_code": "BUSI4750",
+    "course_number": 4750,
+    "course_title": "BUSI4750 [0.5 credit]",
+    "course_desc": "This course applies principles of organizational development to intercultural and international work environments. Students will learn basic concepts and tools of individual and organizational intercultural development, including intercultural training, coaching and mentoring. Focus will be on the application of these tools.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing in B.I.B and BUSI3750.\nLecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing in B.I.B and BUSI3750.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "BUSI 4800",
+    "course_code": "BUSI4800",
+    "course_number": 4800,
+    "course_title": "BUSI4800 [0.5 credit]",
+    "course_desc": "An advanced experiential work environment in which students interact with real clients on a project. Various types of client projects are possible depending on the company and their goals/needs. Companies may be internal (i.e. Carleton, Sprott), or external (i.e. not for profit, for profit).",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): Permission of the Sprott School of Business.\nAlso offered at the graduate level, with different requirements, as BUSI5997, for which additional credit is precluded.\nSignificant industry/project/service consultancy exposure.\n",
+    "course_prerequisites": "Permission of the Sprott School of Business.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 4810",
+    "course_code": "BUSI4810",
+    "course_number": 4810,
+    "course_title": "BUSI4810 [0.5 credit]",
+    "course_desc": "Students apply concepts and engage in groups to implement the design of an entrepreneurship project per their business plan developed in BUSI 3820. The projects provide opportunities for experiential learning.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BUSI3820.\nLectures three hours per week.\n",
+    "course_prerequisites": "BUSI3820.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 4901",
+    "course_code": "BUSI4901",
+    "course_number": 4901,
+    "course_title": "BUSI4901 [0.5 credit]",
+    "course_desc": "A selected topics course may be offered. Topics may vary. Consult the School\u2019s website for available topics and prerequisite information. Eligibility for this course to serve as an option for specific concentrations is to be established by the School.",
+    "course_extra_details": "Prerequisite(s): Vary based on section. Please refer to sprott.carleton.ca/registration for section specific prerequisites.\nLecture three hours a week.\n",
+    "course_prerequisites": "Vary based on section. Please refer to sprott.carleton.ca/registration for section specific prerequisites.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 4902",
+    "course_code": "BUSI4902",
+    "course_number": 4902,
+    "course_title": "BUSI4902 [0.5 credit]",
+    "course_desc": "A selected topics course may be offered. Topics may vary. Consult the School\u2019s website for available topics and prerequisite information. Eligibility for this course to serve as an option for specific concentrations is to be established by the School.",
+    "course_extra_details": "Prerequisite(s): Vary based on section. Please refer to sprott.carleton.ca/registration for section specific prerequisites.\nLecture three hours a week.\n",
+    "course_prerequisites": "Vary based on section. Please refer to sprott.carleton.ca/registration for section specific prerequisites.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 4904",
+    "course_code": "BUSI4904",
+    "course_number": 4904,
+    "course_title": "BUSI4904 [1.0 credit]",
+    "course_desc": "Reading course on select topics. Students interested in pursuing this course need to contact a faculty member to discuss a proposed directed study.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing in B.Com. or B.I.B. and permission of the School of Business.\n \n",
+    "course_prerequisites": "fourth-year standing in B.Com. or B.I.B. and permission of the School of Business.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "BUSI 4905",
+    "course_code": "BUSI4905",
+    "course_number": 4905,
+    "course_title": "BUSI4905 [0.5 credit]",
+    "course_desc": "Reading course on select topics. Students interested in pursuing this course need to contact a faculty member to discuss a proposed directed study.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing in B.Com. or B.I.B. and permission of the School of Business.\n \n",
+    "course_prerequisites": "fourth-year standing in B.Com. or B.I.B. and permission of the School of Business.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "BUSI 4906",
+    "course_code": "BUSI4906",
+    "course_number": 4906,
+    "course_title": "BUSI4906 [1.0 credit]",
+    "course_desc": "Provides students with opportunity to conduct research in their area of interest and present the research in an undergraduate thesis format. Conducted under the supervision of a faculty advisor from Sprott, with the specific deliverable determined by Supervisor and student, and approved by Sprott School.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing in B.Com. or B.I.B. and permission of the School of Business.\n",
+    "course_prerequisites": "fourth-year standing in B.Com. or B.I.B. and permission of the School of Business.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "BUSI 4995",
+    "course_code": "BUSI4995",
+    "course_number": 4995,
+    "course_title": "BUSI4995 [0.0 credit]",
+    "course_desc": "An advanced course in the knowledge and tools required for a career in Business.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BUSI3995.\nParticipation in employability events and initiatives throughout the year.\n",
+    "course_prerequisites": "BUSI3995.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "BUSI 4996",
+    "course_code": "BUSI4996",
+    "course_number": 4996,
+    "course_title": "BUSI4996 [0.0 credit]",
+    "course_desc": "An advanced course in the knowledge and tools required for a career in Business.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BUSI 3700.\nParticipation in employability events and initiatives throughout the year.\n",
+    "course_prerequisites": "BUSI 3700.",
+    "year_standing": 0
+}
+

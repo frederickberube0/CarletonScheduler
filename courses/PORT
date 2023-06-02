@@ -1,0 +1,66 @@
+{
+    "course_identifier": "PORT 1010",
+    "course_code": "PORT1010",
+    "course_number": 1010,
+    "course_title": "PORT1010 [0.5 credit]",
+    "course_desc": "For students with no knowledge of Portuguese. Oral skills; basic reading and writing skills. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for PORT1110.\nFour hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "PORT 1020",
+    "course_code": "PORT1020",
+    "course_number": 1020,
+    "course_title": "PORT1020 [0.5 credit]",
+    "course_desc": "Continuation of first-year Portuguese. Oral skills; basic reading and writing skills. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for PORT1110.\nPrerequisite(s): grade of C or higher in PORT1010 or permission of the School.\nFour hours a week.\n",
+    "course_prerequisites": "grade of C or higher in PORT1010 or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "PORT 1110",
+    "course_code": "PORT1110",
+    "course_number": 1110,
+    "course_title": "PORT1110 [1.0 credit]",
+    "course_desc": "For students with no knowledge of Portuguese. Oral skills, reading and writing. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for PORT1010 and PORT1020.\n Eight hours a week (one term).\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "PORT 2110",
+    "course_code": "PORT2110",
+    "course_number": 2110,
+    "course_title": "PORT2110 [1.0 credit]",
+    "course_desc": "Further study of Portuguese to reach a more advanced level of ability in a range of situations. Equal emphasis on oral and written language. Compulsory attendance.",
+    "course_extra_details": "Prerequisite(s): grade of C or higher in PORT1110 or PORT1020, or permission of the School.\nEight hours a week (one term).\n",
+    "course_prerequisites": "grade of C or higher in PORT1110 or PORT1020, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "PORT 3110",
+    "course_code": "PORT3110",
+    "course_number": 3110,
+    "course_title": "PORT3110 [1.0 credit]",
+    "course_desc": "Continuation of the study of Portuguese to reach a more advanced level, including the ability to handle authentic materials and primary texts required for academic studies. Compulsory attendance.",
+    "course_extra_details": "Prerequisite(s): grade of C or higher in PORT2110, or permission of the School.\nSix hours a week (one term).\n",
+    "course_prerequisites": "grade of C or higher in PORT2110, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "PORT 4110",
+    "course_code": "PORT4110",
+    "course_number": 4110,
+    "course_title": "PORT4110 [1.0 credit]",
+    "course_desc": "Advanced spoken and written Portuguese with intensive practice in aural comprehension and speaking in a range of situations and contexts, in reading and in composition in a range of modes and genres. Metalinguistic study. Compulsory attendance.",
+    "course_extra_details": "Prerequisite(s): grade of C or higher in PORT3110, or permission of the School.\nSix hours a week (one term).\n",
+    "course_prerequisites": "grade of C or higher in PORT3110, or permission of the School.",
+    "year_standing": 0
+}
+

@@ -29,31 +29,49 @@ def getCourses(major: str) -> str:
     parsed_page = bs(request.content, 'html.parser').find_all(class_="courseblock")
 
     for courseblock in parsed_page:
-        try:
-            course_identifier = courseblock.find('span', {'class': 'courseblockcode'}).text.replace(u"\u00A0", " ")
-            course_title = courseblock.find('span', {'class': 'courseblocktitle'}).text.split('\n')[0].replace(course_identifier, '').strip().replace(u"\u00A0", "")
-            course_number = int(course_identifier.split()[-1])
-            course_desc = courseblock.text.replace(u"\u00A0", " ")
-            prereq_elem = courseblock.find('div', {'class': 'coursedescadditional'})
-            if prereq_elem and 'Prerequisite(s):' in prereq_elem.text:
-                course_prerequisites = prereq_elem.text.split('Prerequisite(s):')[1].split('.')[0].strip().replace(u"\u00A0", "")
-            else:
-                course_prerequisites = None
+        course_identifier = courseblock.find('span', {'class': 'courseblockcode'}).text.replace(u"\u00A0", " ")
+        course_title = courseblock.find('span', {'class': 'courseblocktitle'}).text.split('\n')[0].replace(course_identifier, '').strip().replace(u"\u00A0", "")
+        course_number = int(course_identifier.split()[-1])
+        course_desc = courseblock.text.split("\n")[3].replace(u"\u00A0", " ")
+        prereq_elem = courseblock.find('div', {'class': 'coursedescadditional'})
+        if prereq_elem:
+            for br in prereq_elem.find_all('br'):
+                br.replace_with('\n')
+            
+            course_extra_details = prereq_elem.text.replace(u"\u00A0", "")
+            start = course_extra_details.find('Prerequisite(s):') + len("Prerequisite(s):")
+            end = course_extra_details.find('\n', start)
+            prerequisites = course_extra_details[start:end].lstrip()
+            if course_extra_details.find("Prerequisite(s):") == -1: prerequisites = None
+        else:
+            course_extra_details = None
+            prerequisites = None
+        
+        year_standing = 0
+        def findYearStanding(prerequisites: str) -> int:
+            """Return year standing"""
+            if prerequisites.find("first-year") >= 0: return 1
+            if prerequisites.find("second-year") >= 0: return 2
+            if prerequisites.find("third-year") >= 0: return 3
+            if prerequisites.find("fourth-year") >= 0: return 4
+            return 0
+        if prerequisites: year_standing = findYearStanding(prerequisites)
 
-            data = {
-                "course_identifier": course_identifier,
-                "course_code": course_identifier[0:4] + course_identifier[5:],
-                "course_number": course_number,
-                "course_title": course_title,
-                "course_desc": course_desc,
-                "course_prerequisites": course_prerequisites
-            }
 
-            json_data = json.dumps(data, indent=4)
-            courses = courses + json_data
-            courses = courses + "\n\n"
-        except:
-            continue
+        data = {
+            "course_identifier": course_identifier,
+            "course_code": course_identifier[0:4] + course_identifier[5:],
+            "course_number": course_number,
+            "course_title": course_title,
+            "course_desc": course_desc,
+            "course_extra_details": course_extra_details,
+            "course_prerequisites": prerequisites,
+            "year_standing": year_standing
+        }
+
+        json_data = json.dumps(data, indent=4)
+        courses = courses + json_data
+        courses = courses + "\n\n"
     return courses
 
 main()

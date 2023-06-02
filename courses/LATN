@@ -1,0 +1,88 @@
+{
+    "course_identifier": "LATN 1005",
+    "course_code": "LATN1005",
+    "course_number": 1005,
+    "course_title": "LATN1005 [0.5 credit]",
+    "course_desc": "A course for beginners in Latin, designed to give students a grasp of basic grammatical forms and vocabulary (with reference to English derivatives) through the reading of continuous Latin.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nLectures and practice periods four hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "LATN 1006",
+    "course_code": "LATN1006",
+    "course_number": 1006,
+    "course_title": "LATN1006 [0.5 credit]",
+    "course_desc": "A course for students with some previous knowledge of the language: study of grammatical forms and constructions; acquisition of reading skills.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): LATN1005 or equivalent.\nLectures and practice periods four hours a week.\n",
+    "course_prerequisites": "LATN1005 or equivalent.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "LATN 2200",
+    "course_code": "LATN2200",
+    "course_number": 2200,
+    "course_title": "LATN2200 [0.5 credit]",
+    "course_desc": "Further study of the language; introduction to the reading of Latin authors.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for LATN 2001.\nPrerequisite(s): LATN1006 or equivalent.\nTutorials three hours a week.\n",
+    "course_prerequisites": "LATN1006 or equivalent.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "LATN 2201",
+    "course_code": "LATN2201",
+    "course_number": 2201,
+    "course_title": "LATN2201 [0.5 credit]",
+    "course_desc": "Continued study of the language; reading of selected prose and poetry by Latin authors; development of translation skills.",
+    "course_extra_details": "Precludes additional credit for LATN 2001.\nPrerequisite(s): LATN2200 or equivalent.\nTutorials three hours a week.\n",
+    "course_prerequisites": "LATN2200 or equivalent.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "LATN 3900",
+    "course_code": "LATN3900",
+    "course_number": 3900,
+    "course_title": "LATN3900 [0.5 credit]",
+    "course_desc": "Reading and critical discussion of selections from Latin poetry.",
+    "course_extra_details": "Prerequisite(s): LATN2200, LATN2201 or equivalent.\nTutorials three hours a week.\n",
+    "course_prerequisites": "LATN2200, LATN2201 or equivalent.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "LATN 3901",
+    "course_code": "LATN3901",
+    "course_number": 3901,
+    "course_title": "LATN3901 [0.5 credit]",
+    "course_desc": "Reading and critical discussion of selections from Latin prose.",
+    "course_extra_details": "Prerequisite(s): LATN2200, LATN2201 or equivalent.\nTutorials three hours a week.\n",
+    "course_prerequisites": "LATN2200, LATN2201 or equivalent.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "LATN 4900",
+    "course_code": "LATN4900",
+    "course_number": 4900,
+    "course_title": "LATN4900 [0.5 credit]",
+    "course_desc": " ",
+    "course_extra_details": " \n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "LATN 4901",
+    "course_code": "LATN4901",
+    "course_number": 4901,
+    "course_title": "LATN4901 [0.5 credit]",
+    "course_desc": " ",
+    "course_extra_details": " \n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+

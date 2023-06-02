@@ -1,0 +1,264 @@
+{
+    "course_identifier": "CRCJ 1000",
+    "course_code": "CRCJ1000",
+    "course_number": 1000,
+    "course_title": "CRCJ1000 [0.5 credit]",
+    "course_desc": "Overview of the field, including the foundational approaches of criminology and criminal justice, crime as an object of study; criminal law and criminality in Canada; (neo) classical, aetiological and social reaction perspectives; alternative criminologies.",
+    "course_extra_details": "Lectures/tutorials three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "CRCJ 2100",
+    "course_code": "CRCJ2100",
+    "course_number": 2100,
+    "course_title": "CRCJ2100 [0.5 credit]",
+    "course_desc": "Comprehensive survey of the plurality of criminological theories, from phrenology to contemporary theories concerned with issues related to crime and punishment. Students are encouraged to develop critical and reflexive thinking on various criminological issues and theories.",
+    "course_extra_details": "Prerequisite(s): CRCJ1000 and second-year standing.\nLectures three hours per week.\n",
+    "course_prerequisites": "CRCJ1000 and second-year standing.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "CRCJ 2200",
+    "course_code": "CRCJ2200",
+    "course_number": 2200,
+    "course_title": "CRCJ2200 [0.5 credit]",
+    "course_desc": "Survey of contemporary criminological and criminal justice issues, ranging from criminalization, crime prevention, and surveillance strategies to debates about the criminal justice system, punishment, and reintegration.  Specific topics will vary from year to year.",
+    "course_extra_details": "Prerequisite(s): CRCJ1000 and second-year standing.\nLecture three hours per week.\n",
+    "course_prerequisites": "CRCJ1000 and second-year standing.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "CRCJ 3001",
+    "course_code": "CRCJ3001",
+    "course_number": 3001,
+    "course_title": "CRCJ3001 [0.5 credit]",
+    "course_desc": "Methods used conducting quantitative research.  Topics include measuring and manipulating variables, reliability, validity, sampling, experimental, quasi-experimental designs and ethics.",
+    "course_extra_details": "Prerequisite(s): CRCJ1000 and third-year standing in the B.A program in Criminology and Criminal Justice.\nLectures three hours per week.\n",
+    "course_prerequisites": "CRCJ1000 and third-year standing in the B.A program in Criminology and Criminal Justice.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "CRCJ 3002",
+    "course_code": "CRCJ3002",
+    "course_number": 3002,
+    "course_title": "CRCJ3002 [0.5 credit]",
+    "course_desc": "Methods used conducting qualitative research. Topics include field research, interviewing, ethnographic research, content analysis and ethics.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): CRCJ1000 and third-year standing in the B.A  program in Criminology and Criminal Justice.\nLectures three hours a week.\n",
+    "course_prerequisites": "CRCJ1000 and third-year standing in the B.A  program in Criminology and Criminal Justice.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "CRCJ 3100",
+    "course_code": "CRCJ3100",
+    "course_number": 3100,
+    "course_title": "CRCJ3100 [0.5 credit]",
+    "course_desc": "Theories and case studies addressing contemporary efforts to police the world of (in)securities. Emphasis on Canadian dynamics within these broader transformations.",
+    "course_extra_details": "Prerequisite(s): CRCJ1000, third-year standing, and enrollment in a B.A. or Minor in Criminology and Criminal Justice, or by permission of the Institute.\nLecture and discussion three hours per week.\n",
+    "course_prerequisites": "CRCJ1000, third-year standing, and enrollment in a B.A. or Minor in Criminology and Criminal Justice, or by permission of the Institute.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "CRCJ 3110",
+    "course_code": "CRCJ3110",
+    "course_number": 3110,
+    "course_title": "CRCJ3110 [0.5 credit]",
+    "course_desc": "This interdisciplinary course introduces students to myriad ways in which the practices of Canadian public health authorities are intertwined with police and the criminal legal system. Students can expect interactive class activities and guest lecturers.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): CRCJ1000, third-year standing, and enrollment in a B.A. or Minor in Criminology and Criminal Justice, or by permission of the Institute.\nLecture and discussion three hours per week.\n",
+    "course_prerequisites": "CRCJ1000, third-year standing, and enrollment in a B.A. or Minor in Criminology and Criminal Justice, or by permission of the Institute.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "CRCJ 3200",
+    "course_code": "CRCJ3200",
+    "course_number": 3200,
+    "course_title": "CRCJ3200 [0.5 credit]",
+    "course_desc": "This course explores issues related to Indigenous peoples, the criminal justice system and community with an emphasis on Indigenous scholarship and perspectives on criminology and crime.",
+    "course_extra_details": "Prerequisite(s): CRCJ1000, INDG1010, or INDG1011, third year standing, and enrollment in a B.A. or Minor in Criminology and Criminal Justice, or by permission of the Institute.\nLecture and discussion three hours per week.\n",
+    "course_prerequisites": "CRCJ1000, INDG1010, or INDG1011, third year standing, and enrollment in a B.A. or Minor in Criminology and Criminal Justice, or by permission of the Institute.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "CRCJ 3201",
+    "course_code": "CRCJ3201",
+    "course_number": 3201,
+    "course_title": "CRCJ3201 [0.5 credit]",
+    "course_desc": "The topics of this course may vary from year to year, and are announced in advance of registration.",
+    "course_extra_details": "Prerequisite(s): CRCJ1000, third-year standing, and enrollment in a B.A. or Minor in Criminology and Criminal Justice, or by permission of the Institute.\nLectures three hours per week.\n",
+    "course_prerequisites": "CRCJ1000, third-year standing, and enrollment in a B.A. or Minor in Criminology and Criminal Justice, or by permission of the Institute.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "CRCJ 3202",
+    "course_code": "CRCJ3202",
+    "course_number": 3202,
+    "course_title": "CRCJ3202 [0.5 credit]",
+    "course_desc": "The topics of this course may vary from year to year, and are announced in advance of registration.",
+    "course_extra_details": "Prerequisite(s): CRCJ1000, third-year standing, and enrollment in a B.A. or Minor in Criminology and Criminal Justice, or by permission of the Institute.\nLectures three hours per week.\n",
+    "course_prerequisites": "CRCJ1000, third-year standing, and enrollment in a B.A. or Minor in Criminology and Criminal Justice, or by permission of the Institute.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "CRCJ 3901",
+    "course_code": "CRCJ3901",
+    "course_number": 3901,
+    "course_title": "CRCJ3901 [1.0 credit]",
+    "course_desc": "Through a field placement in an agency setting, students are provided the opportunity to obtain practical involvement in various aspects of criminal justice. In the seminar class, discussions, presentations and assignments integrate applied, theoretical and empirical knowledge. CRCJ 3901 may not be repeated.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): Third-year standing in a B.A. in Criminology and Criminal Justice, including all of the 1000- and 2000- level requirements in the Major CGPA, and permission of the Institute.\nField placement eight hours a week, seminar three hours a week.\n",
+    "course_prerequisites": "Third-year standing in a B.A. in Criminology and Criminal Justice, including all of the 1000- and 2000- level requirements in the Major CGPA, and permission of the Institute.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "CRCJ 3902",
+    "course_code": "CRCJ3902",
+    "course_number": 3902,
+    "course_title": "CRCJ3902 [1.0 credit]",
+    "course_desc": "Through a field placement in an agency setting, students are provided the opportunity to obtain practical involvement in various aspects of criminal justice. In the seminar class, discussions, presentations and assignments integrate applied, theoretical and empirical knowledge. CRCJ 3902 may not be repeated.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): Third-year Honours standing in Criminology and Criminal Justice, including all of the 1000- and 2000- level requirements in the Major CGPA, and permission of the Institute.\nField placement eight hours a week, seminar three hours a week.\n",
+    "course_prerequisites": "Third-year Honours standing in Criminology and Criminal Justice, including all of the 1000- and 2000- level requirements in the Major CGPA, and permission of the Institute.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "CRCJ 4001",
+    "course_code": "CRCJ4001",
+    "course_number": 4001,
+    "course_title": "CRCJ4001 [0.5 credit]",
+    "course_desc": "Examination of a special topic in criminology.  Topics to be announced in advance of registration each year.",
+    "course_extra_details": "Prerequisite(s): CRCJ2100, fourth-year standing, and enrollment in a B.A. or Minor in Criminology and Criminal Justice, or by permission of the Institute.\nSeminar three hours per week.\n",
+    "course_prerequisites": "CRCJ2100, fourth-year standing, and enrollment in a B.A. or Minor in Criminology and Criminal Justice, or by permission of the Institute.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "CRCJ 4002",
+    "course_code": "CRCJ4002",
+    "course_number": 4002,
+    "course_title": "CRCJ4002 [0.5 credit]",
+    "course_desc": "Examination of a special topic in criminology.  Topics to be announced in advance of registration each year.",
+    "course_extra_details": "Prerequisite(s): CRCJ2100, fourth-year standing, and enrollment in a B.A. or Minor in Criminology and Criminal Justice, or by permission of the Institute.\nSeminar three hours per week.\n",
+    "course_prerequisites": "CRCJ2100, fourth-year standing, and enrollment in a B.A. or Minor in Criminology and Criminal Justice, or by permission of the Institute.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "CRCJ 4100",
+    "course_code": "CRCJ4100",
+    "course_number": 4100,
+    "course_title": "CRCJ4100 [0.5 credit]",
+    "course_desc": "This course will explore the jury system in Canada and other countries. Jury selection, deliberation, and instructions will be discussed, in addition to a number of legal and extra-legal influences on jury decision-making.",
+    "course_extra_details": "Prerequisite(s): CRCJ1000, CRCJ2100, fourth-year standing, and enrollment in a B.A. or Minor in Criminology and Criminal Justice, or by permission of the Institute.\nSeminar three hours per week.\n",
+    "course_prerequisites": "CRCJ1000, CRCJ2100, fourth-year standing, and enrollment in a B.A. or Minor in Criminology and Criminal Justice, or by permission of the Institute.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "CRCJ 4110",
+    "course_code": "CRCJ4110",
+    "course_number": 4110,
+    "course_title": "CRCJ4110 [0.5 credit]",
+    "course_desc": "A participatory class that explores debates regarding issues of racial bias and systemic racism in the Canadian criminal justice system. Students can expect class activities, documentary viewings, and guest lecturers from the field.",
+    "course_extra_details": "Prerequisite(s): CRCJ2100, fourth-year standing, and enrollment in a B.A. or Minor in Criminology and Criminal Justice, or by permission of the Institute.\nSeminar three hours per week.\n",
+    "course_prerequisites": "CRCJ2100, fourth-year standing, and enrollment in a B.A. or Minor in Criminology and Criminal Justice, or by permission of the Institute.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "CRCJ 4200",
+    "course_code": "CRCJ4200",
+    "course_number": 4200,
+    "course_title": "CRCJ4200 [0.5 credit]",
+    "course_desc": "This seminar explores the policing of consensual sexual practices, paying particular attention to the theorization of consent, harm, liberation and agency in a sexual and legal context.",
+    "course_extra_details": "Prerequisite(s): CRCJ2100, fourth-year standing, and enrollment in a B.A. or Minor in Criminology and Criminal Justice, or by permission of the Institute.\nSeminar three hours per week.\n",
+    "course_prerequisites": "CRCJ2100, fourth-year standing, and enrollment in a B.A. or Minor in Criminology and Criminal Justice, or by permission of the Institute.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "CRCJ 4300",
+    "course_code": "CRCJ4300",
+    "course_number": 4300,
+    "course_title": "CRCJ4300 [0.5 credit]",
+    "course_desc": "Introduction to social control from early theorizations linking social control to the genesis of the self, to preoccupations with the sorting of humans and the guiding of their conducts, including contemporary engagements with moralization, penal intensification, sovereign exceptionality, and immigration control.",
+    "course_extra_details": "Prerequisite(s): CRCJ2100, fourth-year standing, and enrollment in a B.A. or Minor in Criminology and Criminal Justice, or by permission of the Institute.\nSeminar three hours per week.\n",
+    "course_prerequisites": "CRCJ2100, fourth-year standing, and enrollment in a B.A. or Minor in Criminology and Criminal Justice, or by permission of the Institute.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "CRCJ 4400",
+    "course_code": "CRCJ4400",
+    "course_number": 4400,
+    "course_title": "CRCJ4400 [0.5 credit]",
+    "course_desc": "This course examines the relationship between sensations, emotions, affect, crime, criminalization, social control, and penality. It questions the rational/emotional binary and investigates how shame, humiliation, fear, panic, pain, pleasure, disgust, empathy and revenge, relate to offender motivation, criminalization, victimization, adjudication, and punishment.",
+    "course_extra_details": "Prerequisite(s): CRCJ2100, fourth-year standing, and enrollment in a B.A. or Minor in Criminology and Criminal Justice, or by permission of the Institute.\nSeminar three hours per week.\n",
+    "course_prerequisites": "CRCJ2100, fourth-year standing, and enrollment in a B.A. or Minor in Criminology and Criminal Justice, or by permission of the Institute.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "CRCJ 4500",
+    "course_code": "CRCJ4500",
+    "course_number": 4500,
+    "course_title": "CRCJ4500 [0.5 credit]",
+    "course_desc": "A participatory class that explores how social and artist movements engage with issues of justice and injustice. Features group work, some off-campus classes during course hours, guest speakers.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): CRCJ2100, fourth-year standing, and enrollment in a B.A. or Minor in Criminology and Criminal Justice, or by permission of the Institute.\nSeminar three hours per week.\n",
+    "course_prerequisites": "CRCJ2100, fourth-year standing, and enrollment in a B.A. or Minor in Criminology and Criminal Justice, or by permission of the Institute.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "CRCJ 4600",
+    "course_code": "CRCJ4600",
+    "course_number": 4600,
+    "course_title": "CRCJ4600 [0.5 credit]",
+    "course_desc": "This introductory seminar on the sociology of punishment proposes an overview of theoretical perspectives animating its contemporary forms. This overview prepares the ground for a survey of contemporary scholarship and issues in the sociology of punishment.",
+    "course_extra_details": "Prerequisite(s): CRCJ2100, fourth-year standing, and enrollment in a B.A. or Minor in Criminology and Criminal Justice, or by permission of the Institute.\nSeminar three hours per week.\n",
+    "course_prerequisites": "CRCJ2100, fourth-year standing, and enrollment in a B.A. or Minor in Criminology and Criminal Justice, or by permission of the Institute.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "CRCJ 4908",
+    "course_code": "CRCJ4908",
+    "course_number": 4908,
+    "course_title": "CRCJ4908 [1.0 credit]",
+    "course_desc": "A research project conducted under the direct supervision of a faculty adviser from Criminology and Criminal Justice, Psychology, Law or Sociology. Mandatory workshops and symposiums are scheduled during the year.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing in the B.A. Honours program in Criminology and Criminal Justice with a CGPA of 10.00 or better in the Major and permission of the Institute.\nWorkshops and symposiums as scheduled.\n",
+    "course_prerequisites": "fourth-year standing in the B.A. Honours program in Criminology and Criminal Justice with a CGPA of 10.00 or better in the Major and permission of the Institute.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "CRCJ 4910",
+    "course_code": "CRCJ4910",
+    "course_number": 4910,
+    "course_title": "CRCJ4910 [0.5 credit]",
+    "course_desc": "A reading or research course conducted under the supervision of a faculty advisor from Criminology and Criminal Justice, Psychology, Law or Sociology. Students may not include more than 1.0 credit of independent study in their total program.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing in the B.A. Honours program in Criminology and Criminal Justice and permission of the Institute.\n",
+    "course_prerequisites": "fourth-year standing in the B.A. Honours program in Criminology and Criminal Justice and permission of the Institute.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "CRCJ 4920",
+    "course_code": "CRCJ4920",
+    "course_number": 4920,
+    "course_title": "CRCJ4920 [0.5 credit]",
+    "course_desc": "A reading or research course conducted under the supervision of a faculty advisor from Criminology and Criminal Justice, Psychology, Law or Sociology. Students may not include more than 1.0 credit of independent study in their total program.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing in the B.A. Honours program in Criminology and Criminal Justice and permission of the Institute.\n",
+    "course_prerequisites": "fourth-year standing in the B.A. Honours program in Criminology and Criminal Justice and permission of the Institute.",
+    "year_standing": 4
+}
+

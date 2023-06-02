@@ -1,0 +1,220 @@
+{
+    "course_identifier": "GINS 1000",
+    "course_code": "GINS1000",
+    "course_number": 1000,
+    "course_title": "GINS1000 [0.5 credit]",
+    "course_desc": "Introduction to political, social, cultural, economic and military developments in global and international history.",
+    "course_extra_details": "Prerequisite(s): Enrolment in B.G.In.S.\nLectures two hours a week, tutorials one hour a week.\n",
+    "course_prerequisites": "Enrolment in B.G.In.S.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "GINS 1010",
+    "course_code": "GINS1010",
+    "course_number": 1010,
+    "course_title": "GINS1010 [0.5 credit]",
+    "course_desc": "Introduction to the evolution of the international system, including the rise of the state, sovereignty, and the challenge of international cooperation. The role of international law in addressing global issues such as human rights, security and trade.",
+    "course_extra_details": "Prerequisite(s): Enrolment in B.G.In.S.\nLectures two hours a week, tutorials one hour a week.\n",
+    "course_prerequisites": "Enrolment in B.G.In.S.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "GINS 1020",
+    "course_code": "GINS1020",
+    "course_number": 1020,
+    "course_title": "GINS1020 [0.5 credit]",
+    "course_desc": "Introduction to the intersection of globalization processes with social and cultural diversity as examined through ethnography and ethnographic methods. Topics may include cultural survival, growing economic inequality, ecological vulnerabilities, health practices, human rights, and shifting racialized, gendered, religious, ethnic, and national identities.",
+    "course_extra_details": "Prerequisite(s): Enrolment in B.G.In.S.\nLectures two hours a week, tutorials one hour a week.\n",
+    "course_prerequisites": "Enrolment in B.G.In.S.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "GINS 1100",
+    "course_code": "GINS1100",
+    "course_number": 1100,
+    "course_title": "GINS1100 [0.5 credit]",
+    "course_desc": "Introduction to key questions and issues in development studies, taught from an inter-disciplinary perspective.",
+    "course_extra_details": "Lectures two hours a week, tutorials one hour a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "GINS 1300",
+    "course_code": "GINS1300",
+    "course_number": 1300,
+    "course_title": "GINS1300 [0.0 credit]",
+    "course_desc": "This mandatory course introduces BGInS students to the International Experience Requirement (IER) and to the various policies and procedures associated with it.  Graded SAT/UNS.",
+    "course_extra_details": "Prerequisite(s): first-year standing in BGInS.\nOnline course.\n",
+    "course_prerequisites": "first-year standing in BGInS.",
+    "year_standing": 1
+}
+
+{
+    "course_identifier": "GINS 2000",
+    "course_code": "GINS2000",
+    "course_number": 2000,
+    "course_title": "GINS2000 [0.5 credit]",
+    "course_desc": "Introduction to global ethical issues, focusing on alternative lines of ethical argument. Topics may include poverty and unequal development, climate change, war and terrorism, reparations for colonialism and slavery, international relief services, ill effects of globalization, trafficking and forced labour, democracy and global governance.",
+    "course_extra_details": "Prerequisite(s): Second-year standing in B.G.In.S.\nLectures two hours a week, tutorials one hour a week.\n",
+    "course_prerequisites": "Second-year standing in B.G.In.S.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "GINS 2010",
+    "course_code": "GINS2010",
+    "course_number": 2010,
+    "course_title": "GINS2010 [0.5 credit]",
+    "course_desc": "An introduction to the world economy, international trade and finance, and economic development. Social and economic implications for both rich and poor countries of lowered barriers to the international flows of goods, services, capital, labour, and information in the age of globalization.",
+    "course_extra_details": "Prerequisite(s): Second-year standing in B.G.In.S.\nLectures two hours a week, tutorials one hour a week.\n",
+    "course_prerequisites": "Second-year standing in B.G.In.S.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "GINS 2020",
+    "course_code": "GINS2020",
+    "course_number": 2020,
+    "course_title": "GINS2020 [0.5 credit]",
+    "course_desc": "A study of the global dynamics of the contemporary literary imagination and literary production; literature as cultural practice; the politics of literary circulation; the politics of language and translation.",
+    "course_extra_details": "Prerequisite(s): second-year standing in B.G.In.S.\nLectures two hours a week, tutorials one hour a week.\n",
+    "course_prerequisites": "second-year standing in B.G.In.S.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "GINS 3010",
+    "course_code": "GINS3010",
+    "course_number": 3010,
+    "course_title": "GINS3010 [0.5 credit]",
+    "course_desc": "Advanced analysis of global and international theories from a variety of perspectives, including realism, liberalism, postmodernism, constructivism, post-structuralism, literary and critical approaches.",
+    "course_extra_details": "Prerequisite(s): third-year standing in B.G.In.S.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing in B.G.In.S.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "GINS 3020",
+    "course_code": "GINS3020",
+    "course_number": 3020,
+    "course_title": "GINS3020 [0.5 credit]",
+    "course_desc": "Examination of the relationship between individual places and global social and environmental processes. The changing nature of regions, states and political boundaries in the context of political and economic globalization and international migration. Social science perspectives on climate change vulnerability, adaptation and mitigation.",
+    "course_extra_details": "Prerequisite(s): third-year standing in B.G.In.S.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing in B.G.In.S.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "GINS 3100",
+    "course_code": "GINS3100",
+    "course_number": 3100,
+    "course_title": "GINS3100 [0.5 credit]",
+    "course_desc": "Student teams work on a project related to global and international studies. Lectures are devoted to discussing group project-related issues and student presentations. A project proposal, a series of project reports and oral presentations, and a comprehensive final report are required.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing.\nLecture one hour per week, tutorials two hours per week.\n",
+    "course_prerequisites": "third-year standing.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "GINS 3300",
+    "course_code": "GINS3300",
+    "course_number": 3300,
+    "course_title": "GINS3300 [0.5 credit]",
+    "course_desc": "Based at a partner university around the world, and taught by a Carleton faculty member, the course will include lectures, seminars, guest speakers, field visits and group research projects to examine a topic in global and international studies. Topic and location will change annually.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing and approval by the BGInS Program Director.\nThree week intensive course.\n",
+    "course_prerequisites": "third-year standing and approval by the BGInS Program Director.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "GINS 3900",
+    "course_code": "GINS3900",
+    "course_number": 3900,
+    "course_title": "GINS3900 [0.5 credit]",
+    "course_desc": "Placement for six weeks with a global and international focus.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing in B.G.In.S.\n",
+    "course_prerequisites": "third-year standing in B.G.In.S.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "GINS 3901",
+    "course_code": "GINS3901",
+    "course_number": 3901,
+    "course_title": "GINS3901 [1.0 credit]",
+    "course_desc": "Placement for twelve weeks with a global and international focus.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing in B.G.In.S.\n",
+    "course_prerequisites": "third-year standing in B.G.In.S.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "GINS 3930",
+    "course_code": "GINS3930",
+    "course_number": 3930,
+    "course_title": "GINS3930 [0.5 credit]",
+    "course_desc": "Placement for six weeks with a global and international focus for students outside of the BGInS Program.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for BUSI3701, IPAF 3900 (no longer offered).\nPrerequisite(s): Third-year standing and minimum CGPA of 9.0.\nPlacement hours to be negotiated with on-site placement supervisor. Required assignments and due dates will be set by the course instructor at Carleton University.\n",
+    "course_prerequisites": "Third-year standing and minimum CGPA of 9.0.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "GINS 3931",
+    "course_code": "GINS3931",
+    "course_number": 3931,
+    "course_title": "GINS3931 [1.0 credit]",
+    "course_desc": "Placement for twelve weeks with a global and international focus for students outside of the BGInS Program.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for BUSI3702, IPAF 3901 (no longer offered).\nPrerequisite(s): Third-year standing and minimum CGPA of 9.0.\nPlacement hours to be negotiated with on-site placement supervisor. Required assignments and due dates will be set by the course instructor at Carleton University.\n",
+    "course_prerequisites": "Third-year standing and minimum CGPA of 9.0.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "GINS 3999",
+    "course_code": "GINS3999",
+    "course_number": 3999,
+    "course_title": "GINS3999 [0.0 credit]",
+    "course_desc": "Includes: Experiential Learning Activity",
+    "course_extra_details": "Includes: Experiential Learning Activity\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "GINS 4090",
+    "course_code": "GINS4090",
+    "course_number": 4090,
+    "course_title": "GINS4090 [0.5 credit]",
+    "course_desc": "Examination of key debates in global and international studies from a variety of disciplinary and interdisciplinary perspectives. Integration of knowledge from different areas of emphasis in global studies. A major research paper is required that undertakes to focus theoretical insight on practical concerns.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year Honours standing in B.G.In.S.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year Honours standing in B.G.In.S.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "GINS 4900",
+    "course_code": "GINS4900",
+    "course_number": 4900,
+    "course_title": "GINS4900 [0.5 credit]",
+    "course_desc": "A tutorial on selected topics in which seminars are not available.",
+    "course_extra_details": "Prerequisite(s): fourth-year Honours standing in B.G.In.S. and permission of the Program Director.\n",
+    "course_prerequisites": "fourth-year Honours standing in B.G.In.S. and permission of the Program Director.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "GINS 4908",
+    "course_code": "GINS4908",
+    "course_number": 4908,
+    "course_title": "GINS4908 [1.0 credit]",
+    "course_desc": "Individual research project resulting in a major essay, completed under the supervision of a faculty member and evaluated by both the supervisor and an appointed reader.  B.G.In.S. regulations apply.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year Honours standing in B.G.In.S. with a CGPA of 9.00 or higher, or permission of the Program Director.\n",
+    "course_prerequisites": "fourth-year Honours standing in B.G.In.S. with a CGPA of 9.00 or higher, or permission of the Program Director.",
+    "year_standing": 4
+}
+

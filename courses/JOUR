@@ -1,0 +1,539 @@
+{
+    "course_identifier": "JOUR 1001",
+    "course_code": "JOUR1001",
+    "course_number": 1001,
+    "course_title": "JOUR1001 [0.5 credit]",
+    "course_desc": "This course charts a history of the fourth estate in the West from the invention of the printing press to the ascendance of networked digital communication, focusing on the political, economic and technological contexts that have shaped the news media as institutions and industries.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for JOUR 1000.\nPrerequisite(s): for Journalism Honours students only.\nLectures and discussion three hours a week.\n",
+    "course_prerequisites": "for Journalism Honours students only.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "JOUR 1002",
+    "course_code": "JOUR1002",
+    "course_number": 1002,
+    "course_title": "JOUR1002 [0.5 credit]",
+    "course_desc": "The course introduces students to the concepts, issues and challenges in the contemporary Canadian media environment that will shape their professional role as practicing journalists. It will also provide students with an initial opportunity to practice some basic journalistic skills.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for JOUR 1000.\nPrerequisite(s): for Journalism Honours students only.\nLectures and discussion three hours a week.\n",
+    "course_prerequisites": "for Journalism Honours students only.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "JOUR 1003",
+    "course_code": "JOUR1003",
+    "course_number": 1003,
+    "course_title": "JOUR1003 [0.5 credit]",
+    "course_desc": "Journalism\u2019s evolution as community creator and guardian of democracy; its greatest scoops and worst misdeeds. From ancient news-sharing to 21st-century expression in blogs, tweets and investigative masterpieces, this course surveys ethical, political and economic contexts of journalism. Not open to Journalism majors.",
+    "course_extra_details": "Lecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "JOUR 1004",
+    "course_code": "JOUR1004",
+    "course_number": 1004,
+    "course_title": "JOUR1004 [0.5 credit]",
+    "course_desc": "Examination of a topic in journalism not covered in depth in other courses.",
+    "course_extra_details": "Lecture two hours a week, discussion one hour a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "JOUR 2003",
+    "course_code": "JOUR2003",
+    "course_number": 2003,
+    "course_title": "JOUR2003 [0.5 credit]",
+    "course_desc": "Activists, imposters and innovators increasingly crowd in on traditional journalism\u2019s role of presenting reliable news and fair discussion. How is public awareness now shaped \u2013 and misshaped \u2013 and how must journalism reshape, update and defend its borders to serve communities better?.",
+    "course_extra_details": "Prerequisite(s): JOUR1001, JOUR1002, JOUR1003, or permission of the School of Journalism and Communication.\nLecture and discussion three hours a week.\n",
+    "course_prerequisites": "JOUR1001, JOUR1002, JOUR1003, or permission of the School of Journalism and Communication.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "JOUR 2106",
+    "course_code": "JOUR2106",
+    "course_number": 2106,
+    "course_title": "JOUR2106 [0.5 credit]",
+    "course_desc": "Examination of the work of individual film makers, of documentary styles and of organizations and institutions in the context of the history of documentary film making, including documentaries made for television. Non-fiction films other than documentaries may be considered.",
+    "course_extra_details": "Also listed as FILM2106.\nPrecludes additional credit for JOUR 2105, FILM  2105.\nPrerequisite(s): FILM1101 or FILM1120, or second-year standing, or permission of the Discipline.\nLecture and screening three hours a week, lecture one hour a week.\n",
+    "course_prerequisites": "FILM1101 or FILM1120, or second-year standing, or permission of the Discipline.",
+    "year_standing": 2
+}
+
+{
+    "course_identifier": "JOUR 2201",
+    "course_code": "JOUR2201",
+    "course_number": 2201,
+    "course_title": "JOUR2201 [1.0 credit]",
+    "course_desc": "Introduction to the techniques journalists use to gather information quickly, accurately and ethically, and to present reports and features in clear, engaging ways. Newsroom exercises provide experience in reporting, writing, editing and using digital tools, including photography and social media.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): JOUR1001 and JOUR1002 and second year standing in the Bachelor of Journalism program.\nLectures, discussion and practicum six hours a week.\n",
+    "course_prerequisites": "JOUR1001 and JOUR1002 and second year standing in the Bachelor of Journalism program.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "JOUR 2202",
+    "course_code": "JOUR2202",
+    "course_number": 2202,
+    "course_title": "JOUR2202 [0.5 credit]",
+    "course_desc": "An introduction to the digital tools and social media journalists use to gather, verify and present material to audiences. Lab exercises provide experience producing photographs, audio, and video for journalistic storytelling and the use of social media tools and platforms for reporting and publishing.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): JOUR1001 and JOUR1002 and second year standing in the Bachelor of Journalism program. Students must be enrolled in this course concurrently with JOUR2201.\nLectures and lab three hours a week. \n",
+    "course_prerequisites": "JOUR1001 and JOUR1002 and second year standing in the Bachelor of Journalism program. Students must be enrolled in this course concurrently with JOUR2201.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "JOUR 2501",
+    "course_code": "JOUR2501",
+    "course_number": 2501,
+    "course_title": "JOUR2501 [0.5 credit]",
+    "course_desc": "A survey of laws that affect the Canadian media. Specific areas include the development of freedom of expression, the Charter of Rights and Freedoms, and statutory and common law limitations on freedoms of the press, including publication bans, libel and contempt of court.",
+    "course_extra_details": "Also listed as COMS2501, MPAD2501.\nPrecludes additional credit for COMM 2501 (no longer offered).\nPrerequisite(s): JOUR1001, JOUR1002, COMS1001, COMS1002, or JOUR1003 and enrollment in the Minor in News Media and Information, or enrollment in the Communication and Policy Studies specialization of the Bachelor of Public Affairs and Policy Management, or permission of the School of Journalism and Communication.\nLectures and discussion three hours a week.\n",
+    "course_prerequisites": "JOUR1001, JOUR1002, COMS1001, COMS1002, or JOUR1003 and enrollment in the Minor in News Media and Information, or enrollment in the Communication and Policy Studies specialization of the Bachelor of Public Affairs and Policy Management, or permission of the School of Journalism and Communication.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "JOUR 3105",
+    "course_code": "JOUR3105",
+    "course_number": 3105,
+    "course_title": "JOUR3105 [0.5 credit]",
+    "course_desc": "Theoretical implications of documentary film and documentary television practice.",
+    "course_extra_details": "Also listed as FILM3105.\nPrerequisite(s): 1.0 credit in Film Studies at the 2000-level, or permission of the School.\n \n",
+    "course_prerequisites": "1.0 credit in Film Studies at the 2000-level, or permission of the School.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "JOUR 3207",
+    "course_code": "JOUR3207",
+    "course_number": 3207,
+    "course_title": "JOUR3207 [0.5 credit]",
+    "course_desc": "In this workshop students will build on the principles and practices of audio journalism to produce stories and audio  in various formats suitable for radio and digital publication.  Note: JOUR 3207 and JOUR 3208 may not be taken in the same term.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): JOUR2201, JOUR2202, and JOUR2501 with a grade of C or higher in each.\nLectures and labs six hours a week.\n",
+    "course_prerequisites": "JOUR2201, JOUR2202, and JOUR2501 with a grade of C or higher in each.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "JOUR 3208",
+    "course_code": "JOUR3208",
+    "course_number": 3208,
+    "course_title": "JOUR3208 [0.5 credit]",
+    "course_desc": "In this workshop students will build on the principles and practices of video journalism to produce stories and video in various formats suitable for television and digital publication.  Note: JOUR 3207 and JOUR 3208 may not be taken in the same term.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): JOUR2201, JOUR2202, and JOUR2501 with a grade of C or higher in each.\nLectures and labs six hours a week.\n",
+    "course_prerequisites": "JOUR2201, JOUR2202, and JOUR2501 with a grade of C or higher in each.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "JOUR 3225",
+    "course_code": "JOUR3225",
+    "course_number": 3225,
+    "course_title": "JOUR3225 [0.5 credit]",
+    "course_desc": "Long-form journalistic writing skills development; techniques for thorough investigation of timely public issues. Study of outstanding feature and investigative writing examples. Students will pursue their own reporting projects.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for JOUR 3205 (no longer offered).\nPrerequisite(s): JOUR2201, JOUR2202, and JOUR2501 with a grade of C or higher in each.\nLectures and practicum three hours a week.\n",
+    "course_prerequisites": "JOUR2201, JOUR2202, and JOUR2501 with a grade of C or higher in each.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "JOUR 3235",
+    "course_code": "JOUR3235",
+    "course_number": 3235,
+    "course_title": "JOUR3235 [0.5 credit]",
+    "course_desc": "Further development of digital journalism skills. Students will produce journalism for online audiences using formats including written and spoken language, still and moving images.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for JOUR 3205 (no longer offered).\nPrerequisite(s): JOUR2201, JOUR2202, and JOUR2501 with a grade of C or higher in each.\nLectures and labs three hours a week.\n",
+    "course_prerequisites": "JOUR2201, JOUR2202, and JOUR2501 with a grade of C or higher in each.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "JOUR 3300",
+    "course_code": "JOUR3300",
+    "course_number": 3300,
+    "course_title": "JOUR3300 [0.5 credit]",
+    "course_desc": "Ethical issues related to production and dissemination of news and other forms of content as they relate to digital environments. Different approaches to ethical decision-making and their application in contemporary settings.",
+    "course_extra_details": "Also listed as MPAD3300.\nPrecludes additional credit for JOUR 3215 (no longer offered).\nPrerequisite(s): JOUR2201, JOUR2202 and JOUR2501 with a grade of C or higher in each, or JOUR1003, JOUR2003 and JOUR2501 with a grade of C or higher in each and enrollment in the Minor in News Media and Information.\nLectures three hours a week.\n",
+    "course_prerequisites": "JOUR2201, JOUR2202 and JOUR2501 with a grade of C or higher in each, or JOUR1003, JOUR2003 and JOUR2501 with a grade of C or higher in each and enrollment in the Minor in News Media and Information.",
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "JOUR 3400",
+    "course_code": "JOUR3400",
+    "course_number": 3400,
+    "course_title": "JOUR3400 [0.5 credit]",
+    "course_desc": "Examination of a topic in journalism not covered in depth in other courses.",
+    "course_extra_details": "Prerequisite(s): third-year standing in the Bachelor of Journalism or permission of the School of Journalism and Communication.\nSeminar three hours a week.\n",
+    "course_prerequisites": "third-year standing in the Bachelor of Journalism or permission of the School of Journalism and Communication.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "JOUR 3401",
+    "course_code": "JOUR3401",
+    "course_number": 3401,
+    "course_title": "JOUR3401 [0.5 credit]",
+    "course_desc": "Examination of a topic in journalism not covered in depth in other courses.",
+    "course_extra_details": "Prerequisite(s): third-year standing in the Bachelor of Journalism, or third-year standing and enrollment in the Minor in News Media and Information, or permission of the School of Journalism and Communication.\nSeminar three hours a week.\n",
+    "course_prerequisites": "third-year standing in the Bachelor of Journalism, or third-year standing and enrollment in the Minor in News Media and Information, or permission of the School of Journalism and Communication.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "JOUR 3402",
+    "course_code": "JOUR3402",
+    "course_number": 3402,
+    "course_title": "JOUR3402 [0.5 credit]",
+    "course_desc": "Examination of a topic in journalism not covered in depth in other courses.",
+    "course_extra_details": "Prerequisite(s): third-year standing in the Bachelor of Journalism, or third-year standing and enrollment in the Minor in News Media and Information, or permission of the School of Journalism and Communication.\nSeminar three hours a week.\n",
+    "course_prerequisites": "third-year standing in the Bachelor of Journalism, or third-year standing and enrollment in the Minor in News Media and Information, or permission of the School of Journalism and Communication.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "JOUR 3407",
+    "course_code": "JOUR3407",
+    "course_number": 3407,
+    "course_title": "JOUR3407 [0.5 credit]",
+    "course_desc": "The comparative study of one or more media organizations and/or types of media content with reference to their operation, audiences, and impacts.",
+    "course_extra_details": "Also listed as COMS3407.\nPrecludes additional credit for COMM 3407 (no longer offered).\nPrerequisite(s): third-year standing in B.J. Hons. or permission of the School of Journalism and Communication.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing in B.J. Hons. or permission of the School of Journalism and Communication.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "JOUR 4001",
+    "course_code": "JOUR4001",
+    "course_number": 4001,
+    "course_title": "JOUR4001 [0.5 credit]",
+    "course_desc": "Changes occurring in the media, in the public\u2019s relationship with the media and how journalists and news organizations respond. Practical issues and challenges in the professional life of a journalist.",
+    "course_extra_details": "Also listed as MPAD4001.\nPrecludes additional credit for JOUR 4000 (no longer offered).\nPrerequisite(s): fourth-year standing in the Bachelor of Journalism or in the Bachelor of Media Production and Design, or fourth-year standing and enrollment in the Minor in News Media and Information, or fourth-year standing in the Strategic Public Opinion stream of the Communication and Policy Studies specialization of the Bachelor of Public Affairs and Policy Management.\nLectures and discussion three hours a week.\n",
+    "course_prerequisites": "fourth-year standing in the Bachelor of Journalism or in the Bachelor of Media Production and Design, or fourth-year standing and enrollment in the Minor in News Media and Information, or fourth-year standing in the Strategic Public Opinion stream of the Communication and Policy Studies specialization of the Bachelor of Public Affairs and Policy Management.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "JOUR 4003",
+    "course_code": "JOUR4003",
+    "course_number": 4003,
+    "course_title": "JOUR4003 [0.5 credit]",
+    "course_desc": "A workshop designed to give students instruction in digital reporting and publishing as they produce stories from across the city and beyond.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): JOUR3235 with a grade of C or higher and fourth-year standing in B.J. Hons.\nAlso offered at the graduate level, with different requirements, as JOUR5003, for which additional credit is precluded.\nWorkshops averaging eight hours a week.\n",
+    "course_prerequisites": "JOUR3235 with a grade of C or higher and fourth-year standing in B.J. Hons.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "JOUR 4004",
+    "course_code": "JOUR4004",
+    "course_number": 4004,
+    "course_title": "JOUR4004 [0.5 credit]",
+    "course_desc": "A workshop designed to give students instruction in audio journalism as they produce stories from across the city and beyond.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for JOUR 4206 (no longer offered).\nPrerequisite(s): JOUR3207 with a grade of C or higher and fourth-year standing in B.J. Hons.\nAlso offered at the graduate level, with different requirements, as JOUR5004, for which additional credit is precluded.\nWorkshops averaging eight hours per week.\n",
+    "course_prerequisites": "JOUR3207 with a grade of C or higher and fourth-year standing in B.J. Hons.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "JOUR 4005",
+    "course_code": "JOUR4005",
+    "course_number": 4005,
+    "course_title": "JOUR4005 [0.5 credit]",
+    "course_desc": "A workshop designed to give students instruction in video journalism as they produce stories from across the city and beyond.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for JOUR 4207 (no longer offered).\nPrerequisite(s): JOUR3208 with a grade of C or higher and fourth-year standing in B.J. Hons.\nAlso offered at the graduate level, with different requirements, as JOUR5005, for which additional credit is precluded.\nWorkshops averaging eight hours a week.\n",
+    "course_prerequisites": "JOUR3208 with a grade of C or higher and fourth-year standing in B.J. Hons.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "JOUR 4100",
+    "course_code": "JOUR4100",
+    "course_number": 4100,
+    "course_title": "JOUR4100 [0.5 credit]",
+    "course_desc": "Examination of a topic in journalism not covered in depth in other courses. Seminar three hours a week.",
+    "course_extra_details": " Seminar three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "JOUR 4101",
+    "course_code": "JOUR4101",
+    "course_number": 4101,
+    "course_title": "JOUR4101 [0.5 credit]",
+    "course_desc": "An examination of a topic in journalism not covered in depth in other courses. Topics may vary from year to year.",
+    "course_extra_details": "Seminar three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+}
+
+{
+    "course_identifier": "JOUR 4300",
+    "course_code": "JOUR4300",
+    "course_number": 4300,
+    "course_title": "JOUR4300 [0.5 credit]",
+    "course_desc": "Examination of a topic not covered in depth in other specialized journalism courses. Topics may vary from year to year. Emphasis on explanatory/analytical reporting, culminating in an extended work of journalism.",
+    "course_extra_details": "Also listed as MPAD4300.\nPrerequisite(s): JOUR3225 with a grade of C or higher and fourth-year standing in B.J. Hons. or permission of the School.\nAlso offered at the graduate level, with different requirements, as JOUR5300, for which additional credit is precluded.\nLectures, discussion and seminars three hours a week.\n",
+    "course_prerequisites": "JOUR3225 with a grade of C or higher and fourth-year standing in B.J. Hons. or permission of the School.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "JOUR 4301",
+    "course_code": "JOUR4301",
+    "course_number": 4301,
+    "course_title": "JOUR4301 [0.5 credit]",
+    "course_desc": "Core skills development for business journalism: reading financial documents, covering activities of corporations, functioning of stock and other markets, trade policy and the broader economy, focus on contemporary business news and local publicly-traded companies. Emphasis on explanatory/analytical reporting, production of an extended work of journalism.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): JOUR3225 with a grade of C or higher and fourth-year standing in B.J. Hons. or permission of the School.\nAlso offered at the graduate level, with different requirements, as JOUR5301, for which additional credit is precluded.\nLectures, discussion and seminars three hours a week.\n",
+    "course_prerequisites": "JOUR3225 with a grade of C or higher and fourth-year standing in B.J. Hons. or permission of the School.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "JOUR 4302",
+    "course_code": "JOUR4302",
+    "course_number": 4302,
+    "course_title": "JOUR4302 [0.5 credit]",
+    "course_desc": "The intersection between business and public policy, from climate change to taxation, pensions, labour and corporate social responsibility. What business does and how the media covers it. Emphasis on explanatory/analytical reporting, production of a related data project as an extended work of journalism.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): JOUR3225 with a grade of C or higher and fourth-year standing in B.J. Hons. or permission of the School.\nAlso offered at the graduate level, with different requirements, as JOUR5302, for which additional credit is precluded.\nLectures, discussion and seminars three hours a week.\n",
+    "course_prerequisites": "JOUR3225 with a grade of C or higher and fourth-year standing in B.J. Hons. or permission of the School.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "JOUR 4303",
+    "course_code": "JOUR4303",
+    "course_number": 4303,
+    "course_title": "JOUR4303 [0.5 credit]",
+    "course_desc": "The culture of health science research and major trends; key challenges confronting researchers and health science journalists around the world. Emphasis on explanatory/analytical reporting, production of an extended work of journalism.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): JOUR3225 with a grade of C or higher and fourth-year standing in B.J. Hons. or permission of the School.\nAlso offered at the graduate level, with different requirements, as JOUR5303, for which additional credit is precluded.\nLectures, discussion and seminars three hours a week.\n",
+    "course_prerequisites": "JOUR3225 with a grade of C or higher and fourth-year standing in B.J. Hons. or permission of the School.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "JOUR 4304",
+    "course_code": "JOUR4304",
+    "course_number": 4304,
+    "course_title": "JOUR4304 [0.5 credit]",
+    "course_desc": "Major trends and research culture in climate and environmental sciences, focusing on key global concerns. Issues facing researchers and journalists. Focus on explanatory/analytical reporting; production of an extended work of journalism.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): JOUR3225 with a grade of C or higher and fourth-year standing in B.J. Hons. or permission of the School.\nAlso offered at the graduate level, with different requirements, as JOUR5304, for which additional credit is precluded.\nLectures, discussion and seminars three hours a week.\n",
+    "course_prerequisites": "JOUR3225 with a grade of C or higher and fourth-year standing in B.J. Hons. or permission of the School.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "JOUR 4305",
+    "course_code": "JOUR4305",
+    "course_number": 4305,
+    "course_title": "JOUR4305 [0.5 credit]",
+    "course_desc": "Exploration of the unique issues in Canada-U.S. relations, from diplomacy to trade. Emphasis on explanatory/analytical reporting; production of an extended work of journalism.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): JOUR3225 with a grade of C or higher and fourth-year standing in B.J. Hons. or permission of the School.\nAlso offered at the graduate level, with different requirements, as JOUR5315, for which additional credit is precluded.\nLectures, discussion and seminars three hours a week.\n",
+    "course_prerequisites": "JOUR3225 with a grade of C or higher and fourth-year standing in B.J. Hons. or permission of the School.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "JOUR 4306",
+    "course_code": "JOUR4306",
+    "course_number": 4306,
+    "course_title": "JOUR4306 [0.5 credit]",
+    "course_desc": "Diplomacy, war, terrorism, migration, the international economy, development and other issues of interest to journalists who want to write about Canada and international affairs. Emphasis on explanatory/analytical reporting; production of an extended work of journalism.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): JOUR3225 with a grade of C or higher and fourth-year standing in B.J. Hons. or permission of the School.\nAlso offered at the graduate level, with different requirements, as JOUR5306, for which additional credit is precluded.\nLectures, discussion and seminars three hours a week.\n",
+    "course_prerequisites": "JOUR3225 with a grade of C or higher and fourth-year standing in B.J. Hons. or permission of the School.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "JOUR 4308",
+    "course_code": "JOUR4308",
+    "course_number": 4308,
+    "course_title": "JOUR4308 [0.5 credit]",
+    "course_desc": "Workshop equipping students with the skills to move beyond the clich\u00e9s of sports writing and live event coverage. Emphasis on explanatory/analytical reporting; production of an extended work of journalism.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): JOUR3225 with a grade of C or higher and fourth-year standing in B.J. Honours or permission of the School.\nAlso offered at the graduate level, with different requirements, as JOUR5308, for which additional credit is precluded.\nLectures, discussion and seminars three hours a week.\n",
+    "course_prerequisites": "JOUR3225 with a grade of C or higher and fourth-year standing in B.J. Honours or permission of the School.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "JOUR 4309",
+    "course_code": "JOUR4309",
+    "course_number": 4309,
+    "course_title": "JOUR4309 [0.5 credit]",
+    "course_desc": "Students are introduced to arts and culture journalism, exploring issues and trends that are key to understanding and covering the arts and related cultural policy in Canada. Emphasis on explanatory/analytical reporting, culminating in an extended work of journalism.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): JOUR3225 with a grade of C or higher and fourth-year standing in B.J. Honours or permission of the School.\nAlso offered at the graduate level, with different requirements, as JOUR5309, for which additional credit is precluded.\nLectures, discussion and seminars three hours a week.\n",
+    "course_prerequisites": "JOUR3225 with a grade of C or higher and fourth-year standing in B.J. Honours or permission of the School.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "JOUR 4310",
+    "course_code": "JOUR4310",
+    "course_number": 4310,
+    "course_title": "JOUR4310 [0.5 credit]",
+    "course_desc": "Areas of law that journalists may encounter along with a practical explanation of how law works. Students gain the language and tools needed to successfully analyze and write about legal issues. Emphasis on explanatory/analytical reporting; production of an extended work of journalism.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): JOUR3225 with a grade of C or higher and fourth-year standing in B.J. Honours or permission of the School.\nAlso offered at the graduate level, with different requirements, as JOUR5310, for which additional credit is precluded.\nLectures, discussion and seminars three hours a week.\n",
+    "course_prerequisites": "JOUR3225 with a grade of C or higher and fourth-year standing in B.J. Honours or permission of the School.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "JOUR 4311",
+    "course_code": "JOUR4311",
+    "course_number": 4311,
+    "course_title": "JOUR4311 [0.5 credit]",
+    "course_desc": "Examination of the Supreme Court of Canada, and the role of journalists in covering it. Students attend hearings and gain insight into the court\u2019s role in the making and shaping of Canada. Emphasis on explanatory/analytical reporting; production of an extended work of journalism.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): JOUR3225 with a grade of C or higher and fourth-year standing in B.J. Honours or permission of the School.\nAlso offered at the graduate level, with different requirements, as JOUR5311, for which additional credit is precluded.\nLectures, discussion and seminars three hours a week.\n",
+    "course_prerequisites": "JOUR3225 with a grade of C or higher and fourth-year standing in B.J. Honours or permission of the School.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "JOUR 4400",
+    "course_code": "JOUR4400",
+    "course_number": 4400,
+    "course_title": "JOUR4400 [0.5 credit]",
+    "course_desc": "Examination of a topic in journalism not covered in depth in other courses.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third- or fourth-year standing in B.J. Honours or permission of the School.\nSeminar three hours a week.\n",
+    "course_prerequisites": "third- or fourth-year standing in B.J. Honours or permission of the School.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "JOUR 4401",
+    "course_code": "JOUR4401",
+    "course_number": 4401,
+    "course_title": "JOUR4401 [0.5 credit]",
+    "course_desc": "Instruction in telling stories from data. Focus on searching for, analyzing and mapping data, turning numbers into powerful narratives.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for JOUR 4208 (no longer offered).\nPrerequisite(s): JOUR3225 with a grade of C or higher and fourth-year standing.\nLecture and practicum three hours a week.\n",
+    "course_prerequisites": "JOUR3225 with a grade of C or higher and fourth-year standing.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "JOUR 4402",
+    "course_code": "JOUR4402",
+    "course_number": 4402,
+    "course_title": "JOUR4402 [0.5 credit]",
+    "course_desc": "Instruction in longform story production. Focus on researching and writing, including the art and craft of writing for magazines.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for JOUR 4208 (no longer offered).\nPrerequisite(s): JOUR3225 with a grade of C or higher and fourth-year standing.\nLecture and practicum three hours a week.\n",
+    "course_prerequisites": "JOUR3225 with a grade of C or higher and fourth-year standing.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "JOUR 4403",
+    "course_code": "JOUR4403",
+    "course_number": 4403,
+    "course_title": "JOUR4403 [0.5 credit]",
+    "course_desc": "Workshop pairing student teams with non-profit groups that are in need of strategic communication advice. Instruction in planning and implementation.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for JOUR 4208 (no longer offered).\nPrerequisite(s): JOUR3225 with a grade of C or higher and fourth-year standing.\nAlso offered at the graduate level, with different requirements, as JOUR5508, for which additional credit is precluded.\nLecture and practicum three hours a week.\n",
+    "course_prerequisites": "JOUR3225 with a grade of C or higher and fourth-year standing.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "JOUR 4404",
+    "course_code": "JOUR4404",
+    "course_number": 4404,
+    "course_title": "JOUR4404 [0.5 credit]",
+    "course_desc": "Workshop preparing students to compete in a market that values the skills and mindset of entrepreneurial media workers.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): JOUR3225 with a grade of C or higher and fourth-year standing.\nLecture and practicum three hours a week.\n",
+    "course_prerequisites": "JOUR3225 with a grade of C or higher and fourth-year standing.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "JOUR 4500",
+    "course_code": "JOUR4500",
+    "course_number": 4500,
+    "course_title": "JOUR4500 [0.5 credit]",
+    "course_desc": "Examination of a topic in journalism not covered in depth in other courses.",
+    "course_extra_details": "Also listed as MPAD4500.\nPrerequisite(s): third- or fourth-year standing in B.J. Honours or permission of the School.\nSeminar three hours a week.\n",
+    "course_prerequisites": "third- or fourth-year standing in B.J. Honours or permission of the School.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "JOUR 4501",
+    "course_code": "JOUR4501",
+    "course_number": 4501,
+    "course_title": "JOUR4501 [0.5 credit]",
+    "course_desc": "How social concepts of gender, identity and inequality influence journalism. Theoretical and textual analysis. Historical and contemporary case studies from mainstream and alternative media exploring journalistic expression, professional practices, status and expectations, and cultural representations.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as MPAD4501.\nPrecludes additional credit for JOUR 4307 (no longer offered).\nPrerequisite(s): third- or fourth-year standing in B.J. Hons. or permission of the School.\nSeminar three hours a week.\n",
+    "course_prerequisites": "third- or fourth-year standing in B.J. Hons. or permission of the School.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "JOUR 4502",
+    "course_code": "JOUR4502",
+    "course_number": 4502,
+    "course_title": "JOUR4502 [0.5 credit]",
+    "course_desc": "For as long as there has been conflict between peoples, there have been those who bear witness and recount their observations. This course examines journalism and conflict with an emphasis on journalistic perspectives but also through discussion of interdisciplinary literature and academic research.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as MPAD4502.\nPrerequisite(s): fourth-year B.J. Honours standing, or permission of the School.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year B.J. Honours standing, or permission of the School.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "JOUR 4503",
+    "course_code": "JOUR4503",
+    "course_number": 4503,
+    "course_title": "JOUR4503 [0.5 credit]",
+    "course_desc": "Students will explore how journalism in Canada has been associated with colonialism, be challenged to confront misrepresentation in the news media, and learn to consider new strategies and ethical frameworks for covering Indigenous peoples in the era of reconciliation.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as MPAD4503.\nPrerequisite(s): third-or fourth-year B.J. Honours standing, or permission of the School.\nSeminar three hours a week.\n",
+    "course_prerequisites": "third-or fourth-year B.J. Honours standing, or permission of the School.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "JOUR 4504",
+    "course_code": "JOUR4504",
+    "course_number": 4504,
+    "course_title": "JOUR4504 [0.5 credit]",
+    "course_desc": "A critical examination of the use of journalism as an instrument of international development, historically and currently. To what extent have these efforts been successful? On what grounds are they justified? In what regard have they been instruments of propaganda?.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as MPAD4504.\nPrerequisite(s): third-year standing in the Bachelor of Journalism, or third-year standing and enrollment in the Minor in News Media and Information, or permission of the School of Journalism and Communication.\nSeminar three hours a week.\n",
+    "course_prerequisites": "third-year standing in the Bachelor of Journalism, or third-year standing and enrollment in the Minor in News Media and Information, or permission of the School of Journalism and Communication.",
+    "year_standing": 3
+}
+
+{
+    "course_identifier": "JOUR 4505",
+    "course_code": "JOUR4505",
+    "course_number": 4505,
+    "course_title": "JOUR4505 [1.0 credit]",
+    "course_desc": "In-depth exploration of Canada's government, public policy and politics; parliamentary debate and committee hearings.  Explanatory/analytical reporting; production of an extended work of journalism.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for JOUR 4201 (no longer offered).\nPrerequisite(s): JOUR3225 with a grade of C or higher and fourth-year B.J. Honours standing, or permission of the School.\nSeminar three hours a week.\n",
+    "course_prerequisites": "JOUR3225 with a grade of C or higher and fourth-year B.J. Honours standing, or permission of the School.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "JOUR 4900",
+    "course_code": "JOUR4900",
+    "course_number": 4900,
+    "course_title": "JOUR4900 [1.0 credit]",
+    "course_desc": "Students analyze some major achievements in contemporary journalism, through individual or group research. Students also have the opportunity to acquire background and experience in the managerial aspects and production of print and broadcast journalism.",
+    "course_extra_details": "Prerequisite(s): fourth-year B.J. (Honours) standing.\n \n",
+    "course_prerequisites": "fourth-year B.J. (Honours) standing.",
+    "year_standing": 4
+}
+
+{
+    "course_identifier": "JOUR 4999",
+    "course_code": "JOUR4999",
+    "course_number": 4999,
+    "course_title": "JOUR4999 [0.0 credit]",
+    "course_desc": "A one-day workshop providing practical skills development for becoming an effective science communicator. Topics for discussion will include defining the audience and framing of information, reviews of effective science communication, career opportunities for science communicators, and one-to-one analysis of participants writing skills. Graded SAT/UNS.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as ISAP4999.\nPrerequisite(s): This course is restricted to students enrolled in the Certificate of Science Communication, and who have completed at least 2.0 credits towards the certificate, including one of COMS2500 or ISAP3003.\nA one-day workshop \n",
+    "course_prerequisites": "This course is restricted to students enrolled in the Certificate of Science Communication, and who have completed at least 2.0 credits towards the certificate, including one of COMS2500 or ISAP3003.",
+    "year_standing": 0
+}
+
