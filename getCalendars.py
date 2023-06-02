@@ -54,9 +54,13 @@ def getSpecializations(program: dict[str, str]) -> list[dict[str, str]]:
 
 def makeTablesFromSpecialization(obj: dict[str, str]):
     """Takes a specialization object in form {link, program_name, page_content} and write to file"""
-    print(obj["page_content"])
-
-
+    print(obj['link'][1:])
+    h3_tag = bs(str(obj['page_content']), 'html.parser').find('h3', {'id': obj['link'][1:]})
+    table = h3_tag.find_next_sibling()#('div', {'class': 'table-container'}).find('table')
+    #print(table)
+    for row in table.find_all('tr'):
+        cells = row.find_all(['th', 'td'])
+        print([cell.text.strip() for cell in cells])
 
 
 main()
