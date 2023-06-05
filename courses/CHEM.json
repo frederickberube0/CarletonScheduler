@@ -1,0 +1,715 @@
+{"object": [
+{
+    "course_identifier": "CHEM 0999",
+    "course_code": "CHEM0999",
+    "course_number": 999,
+    "course_title": "CHEM0999 [0.0 credit]",
+    "course_desc": "",
+    "course_extra_details": null,
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 1001",
+    "course_code": "CHEM1001",
+    "course_number": 1001,
+    "course_title": "CHEM1001 [0.5 credit]",
+    "course_desc": "This maths-intensive course covers introduction to periodicity, gas laws, equilibrium, bonding, electrochemistry, and organic chemistry.  This is a specialist course for students intending to take second year chemistry.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for CHEM 1000 (no longer offered), CHEM1005, CHEM1101.\nPrerequisite(s): Ontario 4U/M in Chemistry or equivalent.\nLectures and tutorial four hours a week, laboratory three hours every other week.\n",
+    "course_prerequisites": "Ontario 4U/M in Chemistry or equivalent.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 1002",
+    "course_code": "CHEM1002",
+    "course_number": 1002,
+    "course_title": "CHEM1002 [0.5 credit]",
+    "course_desc": "This maths-intensive course covers an introduction to solution chemistry, acids and bases, thermodynamics, and kinetics.  Specialist course for students intending to take second year chemistry.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for CHEM 1000 (no longer offered), CHEM1006.\nPrerequisite(s): CHEM1005 with a minimum grade of B-, or CHEM1001.\nLectures and tutorial four hours a week, laboratory three hours every other week.\n",
+    "course_prerequisites": "CHEM1005 with a minimum grade of B-, or CHEM1001.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 1003",
+    "course_code": "CHEM1003",
+    "course_number": 1003,
+    "course_title": "CHEM1003 [0.5 credit]",
+    "course_desc": "Aspects of chemistry relating to food, food additives, drugs (illicit and beneficial) and their relation to metabolism and health. Topics may include: proteins, carbohydrates, fats, vitamins,  cofactors, enzymes, steroids, electrolyte and pH balance, trace elements. Available only as a free option for Science students.",
+    "course_extra_details": "Prerequisite(s): a course in Chemistry (e.g. Ontario Grade 11).\nLectures three hours a week.\n",
+    "course_prerequisites": "a course in Chemistry (e.g. Ontario Grade 11).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 1004",
+    "course_code": "CHEM1004",
+    "course_number": 1004,
+    "course_title": "CHEM1004 [0.5 credit]",
+    "course_desc": "No science background required. Topics include drug origins, laws, metabolism and dependence, pharmaceutical industry, over the counter medications, placebo effect, antibiotics, pain killers, stimulants, alcohol, marijuana, hallucinogens, birth control and steroids. Students in Science programs may use this course only as a free elective.",
+    "course_extra_details": "Lectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 1005",
+    "course_code": "CHEM1005",
+    "course_number": 1005,
+    "course_title": "CHEM1005 [0.5 credit]",
+    "course_desc": "Introduction to stoichiometry, periodicity, gas laws, equilibrium, bonding, and organic chemistry with emphasis on examples of relevance to the life sciences.  For students who lack the prerequisite for CHEM 1001 or who are not intending to take upper year chemistry.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for CHEM 1000 (no longer offered), CHEM1001, CHEM1101.\nLectures and tutorial four hours a week, laboratory three hours every other week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 1006",
+    "course_code": "CHEM1006",
+    "course_number": 1006,
+    "course_title": "CHEM1006 [0.5 credit]",
+    "course_desc": "Introduction to solution chemistry, acids and bases, thermodynamics, and kinetics, with emphasis on examples of relevance to the life sciences. For students who lack the prerequisite for CHEM 1002 or who are not intending to take upper year chemistry.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for CHEM 1000 (no longer offered), CHEM1002.\nPrerequisite(s): CHEM1001 or CHEM1005.\nLectures and tutorial four hours a week, laboratory three hours every other week.\n",
+    "course_prerequisites": "CHEM1001 or CHEM1005.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 1007",
+    "course_code": "CHEM1007",
+    "course_number": 1007,
+    "course_title": "CHEM1007 [0.5 credit]",
+    "course_desc": "The chemistry of arts and artifacts created throughout the ages (Paleolithic, Neolithic, Bronze, Iron, Middle and Modern) will be examined. Basic chemical principles will be explored and reviewed when required. Students in Science programs may use this course only as a free elective.",
+    "course_extra_details": "Lectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 1008",
+    "course_code": "CHEM1008",
+    "course_number": 1008,
+    "course_title": "CHEM1008 [0.5 credit]",
+    "course_desc": "Students experience the journey of research in chemistry by using inquiry-based principles to answer complex societal questions. Students practice developing research questions and study designs, perform data analysis, and are introduced to scientific literacy and communication, EDI, and meta-cognition.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): first year standing in Chemistry.\nWorkshop 3 hours a week \n",
+    "course_prerequisites": "first year standing in Chemistry.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 1101",
+    "course_code": "CHEM1101",
+    "course_number": 1101,
+    "course_title": "CHEM1101 [0.5 credit]",
+    "course_desc": "Topics include stoichiometry, atomic and molecular structure, thermodynamics and chemical equilibrium, acid-base chemistry, carbon dioxide in water, alkalinity, precipitation, electrochemistry, kinetics and basic organic chemistry. Laboratory component emphasizes techniques and methods of basic experimental chemistry.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for CHEM 1000 (no longer offered), CHEM1001, and CHEM1005.\nPrerequisite(s): Ontario 4U/M in Chemistry or equivalent.\nLectures three hours a week, laboratory three hours every other week.\n",
+    "course_prerequisites": "Ontario 4U/M in Chemistry or equivalent.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 2103",
+    "course_code": "CHEM2103",
+    "course_number": 2103,
+    "course_title": "CHEM2103 [0.5 credit]",
+    "course_desc": "Basic principles of thermodynamics. Development of the laws of thermodynamics, enthalpy, entropy and free energy, and their applications to phase equilibria, electrochemistry, and kinetics. Brief introduction to quantum mechanics.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for BIOC2300, CHEM 2101 (no longer offered) and CHEM 2102 (no longer offered).\nPrerequisite(s): CHEM1006 with a minimum grade of B-,  or CHEM1002, MATH1004, MATH1107, PHYS1007 and PHYS1008 or PHYS1003 and PHYS1004.\nLectures three hours a week, problems one hour a week, laboratory three hours a week.\n",
+    "course_prerequisites": "CHEM1006 with a minimum grade of B-,  or CHEM1002, MATH1004, MATH1107, PHYS1007 and PHYS1008 or PHYS1003 and PHYS1004.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 2203",
+    "course_code": "CHEM2203",
+    "course_number": 2203,
+    "course_title": "CHEM2203 [0.5 credit]",
+    "course_desc": "Structure, organization, and scope of organic chemistry including molecular structures of well-known and important organic chemicals, types of chemical reactions, and spectroscopic methods used in identification. Training in the handling and purification of organic compounds, organic chemical reactions, and the use of infrared spectroscopy.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for CHEM2207.\nPrerequisite(s): CHEM1006 with a minimum grade of B-, or CHEM1002.\nLectures three hours a week and laboratory three hours a week.\n",
+    "course_prerequisites": "CHEM1006 with a minimum grade of B-, or CHEM1002.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 2204",
+    "course_code": "CHEM2204",
+    "course_number": 2204,
+    "course_title": "CHEM2204 [0.5 credit]",
+    "course_desc": "Further discussion of chemical bonding in organic compounds, nomenclature, stereochemistry, and a systematic coverage of the chemical reactions of organic functional groups. Laboratory experience in organic chemical reactions, use of infrared spectroscopy and other techniques to determine the structure of unknown organic compounds.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for CHEM2208 and CHEM 2206.\nPrerequisite(s): CHEM2203.\nLectures three hours a week and laboratory three hours a week.\n",
+    "course_prerequisites": "CHEM2203.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 2207",
+    "course_code": "CHEM2207",
+    "course_number": 2207,
+    "course_title": "CHEM2207 [0.5 credit]",
+    "course_desc": "Structure, organization, and scope of organic chemistry, including molecular structures of well-known and important organic chemicals, types of chemical reactions, and spectroscopic methods used in identification.",
+    "course_extra_details": "Precludes additional credit for CHEM2203.\nPrerequisite(s): CHEM1006 with a minimum grade of B-, or CHEM1002.\nLectures three hours a week.\n",
+    "course_prerequisites": "CHEM1006 with a minimum grade of B-, or CHEM1002.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 2208",
+    "course_code": "CHEM2208",
+    "course_number": 2208,
+    "course_title": "CHEM2208 [0.5 credit]",
+    "course_desc": "Further discussion of the chemical bonding in organic compounds, nomenclature, stereochemistry, and a systematic coverage of chemical reactions of the organic functional groups.",
+    "course_extra_details": "Precludes additional credit for CHEM2204 and CHEM 2206.\nPrerequisite(s): CHEM2207 or CHEM2203.\nLectures three hours a week.\n",
+    "course_prerequisites": "CHEM2207 or CHEM2203.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 2302",
+    "course_code": "CHEM2302",
+    "course_number": 2302,
+    "course_title": "CHEM2302 [0.5 credit]",
+    "course_desc": "Introduction to quality assurance measures, calibration strategies and the fundamentals of solution-based analytical measurement processes. Qualitative and quantitative analysis using potentiometric and electrolysis techniques including ion selective electrodes, coulometry, amperometry and voltammetry. Redox, acid/base and EDTA titrations in the context of various buffer systems.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for CHEM 2300.\nPrerequisite(s): CHEM1006 with a minimum grade of B-, or CHEM1002 or CHEM1101 and (MATH1007 or MATH1004).\nLectures three hours a week, laboratory three hours a week.\n",
+    "course_prerequisites": "CHEM1006 with a minimum grade of B-, or CHEM1002 or CHEM1101 and (MATH1007 or MATH1004).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 2303",
+    "course_code": "CHEM2303",
+    "course_number": 2303,
+    "course_title": "CHEM2303 [0.5 credit]",
+    "course_desc": "Spectrophotometric analysis using Uv-Vis, fluorescence and FTIR instrumentation. Modern separation methods including CE, GC and LC. Recent techniques and applications using mass spectrometry. Applications of all of the above to real-world analysis including the advancement of environmental, biochemistry and health-related research.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for CHEM 2300 and CHEM 2301.\nPrerequisite(s): CHEM1006 with a minimum grade of B-, or CHEM1002, or CHEM1101, and  (MATH1007 or MATH1004).\nLectures three hours a week, laboratory three hours a week.\n",
+    "course_prerequisites": "CHEM1006 with a minimum grade of B-, or CHEM1002, or CHEM1101, and  (MATH1007 or MATH1004).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 2400",
+    "course_code": "CHEM2400",
+    "course_number": 2400,
+    "course_title": "CHEM2400 [0.5 credit]",
+    "course_desc": "Students carry out a laboratory research project under the supervision of a faculty member from the Department of Chemistry. A research report must be submitted by the last day of classes for evaluation by the Chair and Faculty supervisor.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): restricted to Honours students having second-year standing in a Chemistry program with an overall CGPA of 10.0 or higher, and approval of the Chair and a Faculty supervisor.\nLaboratory research for at least three hours a week over two terms.\n",
+    "course_prerequisites": "restricted to Honours students having second-year standing in a Chemistry program with an overall CGPA of 10.0 or higher, and approval of the Chair and a Faculty supervisor.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "CHEM 2501",
+    "course_code": "CHEM2501",
+    "course_number": 2501,
+    "course_title": "CHEM2501 [0.5 credit]",
+    "course_desc": "The basic concepts of inorganic chemistry, including the origins of elemental properties, simple theories of bonding, intermolecular forces, main group and transition metal chemistry, coordination chemistry. Inorganic ions in biochemistry, including ion transport and storage, oxygen carriers and hydrolases, redox proteins.",
+    "course_extra_details": "Precludes additional credit for CHEM 3506.\nPrerequisite(s): CHEM1006 with a minimum grade of B-, or CHEM1002.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "CHEM1006 with a minimum grade of B-, or CHEM1002.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 2800",
+    "course_code": "CHEM2800",
+    "course_number": 2800,
+    "course_title": "CHEM2800 [0.5 credit]",
+    "course_desc": "A basis of chemistry needed to understand the environment: composition of the atmosphere and natural waters; equilibrium; surface properties; kinetics and spectroscopy; physical and chemical properties of chemicals in the environment. Limited enrolment course. Priority is given to students in Environmental Science/Engineering.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): CHEM1006 with a minimum grade of B- or CHEM1002, or CHEM1101, (MATH1007 or MATH1004).\nLectures three hours a week, laboratory three hours a week.\n",
+    "course_prerequisites": "CHEM1006 with a minimum grade of B- or CHEM1002, or CHEM1101, (MATH1007 or MATH1004).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 3100",
+    "course_code": "CHEM3100",
+    "course_number": 3100,
+    "course_title": "CHEM3100 [0.5 credit]",
+    "course_desc": "Further development of thermodynamic equations and their applications to mass changes, chemical potential, chemical equilibria, transport properties and advanced phase equilibria. Use of partial differentials and development of Maxwell's relations will also be covered.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for CHEM  2102.\nPrerequisite(s): CHEM2103 or BIOC2300, and MATH1005 or MATH2007.\nLectures three hours a week, problems one hour a week, laboratory three hours a week.\n",
+    "course_prerequisites": "CHEM2103 or BIOC2300, and MATH1005 or MATH2007.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 3101",
+    "course_code": "CHEM3101",
+    "course_number": 3101,
+    "course_title": "CHEM3101 [0.5 credit]",
+    "course_desc": "Classical equations of motion, harmonic oscillator, diatomic and polyatomic molecules, molecular mechanics, quantum mechanics, Schr\u00f6dinger equation and wave functions, vibrational spectra, hydrogen atom, quantum numbers, electronic spectra, bonding in small molecules.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): CHEM2103, MATH2007 and MATH2008.\nLectures three hours a week, tutorial one hour per week.\n",
+    "course_prerequisites": "CHEM2103, MATH2007 and MATH2008.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 3102",
+    "course_code": "CHEM3102",
+    "course_number": 3102,
+    "course_title": "CHEM3102 [0.5 credit]",
+    "course_desc": "Molecular orbital theory of organic and inorganic chemistry. Applications of computational chemistry to chemical bonding, aromaticity, molecular spectra. Semi-empirical and ab initio electronic structure theory. Comparison of theoretical methods used to obtain molecular properties. Introduction to statistical thermodynamics.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): CHEM3101 or PHYS3701.\nLectures and problems three hours a week.\n",
+    "course_prerequisites": "CHEM3101 or PHYS3701.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 3106",
+    "course_code": "CHEM3106",
+    "course_number": 3106,
+    "course_title": "CHEM3106 [0.5 credit]",
+    "course_desc": "Industry-standard quantum chemistry software is used for Hartree-Fock, density functional, and post Hartree-Fock correlation calculations.  Results are applied to problems in molecular structure, thermodynamics, vibrational spectroscopy, and kinetics.  The UNIX operating system, Bourne-shell programming, and Python scripting are also introduced.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): CHEM3102 (may be taken concurrently).\nLaboratory three hours a week.\n",
+    "course_prerequisites": "CHEM3102 (may be taken concurrently).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 3107",
+    "course_code": "CHEM3107",
+    "course_number": 3107,
+    "course_title": "CHEM3107 [0.5 credit]",
+    "course_desc": "Thin film production and characterization, scanning electron microscopy, synthesis of metal nanoparticles and particle size determination, computational modeling of nanostructures.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): CHEM3100.\nLaboratory four hours a week.\n",
+    "course_prerequisites": "CHEM3100.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 3201",
+    "course_code": "CHEM3201",
+    "course_number": 3201,
+    "course_title": "CHEM3201 [0.5 credit]",
+    "course_desc": "Instrumental methods for determining organic structures. Selected organic reactions with emphasis on mechanisms and reactive intermediates.",
+    "course_extra_details": "Prerequisite(s): CHEM2204 or CHEM 2206 or CHEM2208.\nLectures three hours a week, tutorial one and a half hours per week.\n",
+    "course_prerequisites": "CHEM2204 or CHEM 2206 or CHEM2208.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 3202",
+    "course_code": "CHEM3202",
+    "course_number": 3202,
+    "course_title": "CHEM3202 [0.5 credit]",
+    "course_desc": "Continued mechanistic survey of additional organic reactions with emphasis on synthetic usefulness and stereochemistry. Interspersed with selected topics such as instrumental methods, photochemistry, literature of organic chemistry, natural and synthetic polymers, heterocycles, terpenes and alkaloids.",
+    "course_extra_details": "Prerequisite(s): CHEM3201 or equivalent.\nLectures three hours a week, tutorial one and a half hours per week.\n",
+    "course_prerequisites": "CHEM3201 or equivalent.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 3205",
+    "course_code": "CHEM3205",
+    "course_number": 3205,
+    "course_title": "CHEM3205 [0.5 credit]",
+    "course_desc": "A laboratory-based course including advanced concepts and techniques in organic synthesis, structure determination, and the rates and mechanisms of reactions. Students are responsible for literature surveys, acquisition of theoretical background, and design of experimental procedures.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): CHEM2204 or CHEM 2206 and CHEM3201.\nLaboratory four hours a week.\n",
+    "course_prerequisites": "CHEM2204 or CHEM 2206 and CHEM3201.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 3305",
+    "course_code": "CHEM3305",
+    "course_number": 3305,
+    "course_title": "CHEM3305 [0.5 credit]",
+    "course_desc": "Advanced instrumentally based techniques of analysis. Emphasis on identification and quantitation of low-level contaminants in environmental matrices using chromatographic and spectroscopic methods, including sampling, cleanup, measurement and reporting of results.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): CHEM2302 or CHEM2303.\nLaboratory four hours a week.\n",
+    "course_prerequisites": "CHEM2302 or CHEM2303.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 3400",
+    "course_code": "CHEM3400",
+    "course_number": 3400,
+    "course_title": "CHEM3400 [0.5 credit]",
+    "course_desc": "Students carry out a laboratory research project supervised by a Chemistry faculty member. A research report must be submitted by the last day of classes for evaluation by the Chair and Faculty supervisor; expectations of student performance and evaluation exceed that of CHEM 2400.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): restricted to Honours students having third-year standing in a Chemistry program with an overall CGPA of 10.0 or higher, and approval of the Chair and a Faculty supervisor.\nLaboratory research for at least three hours a week over two terms.\n",
+    "course_prerequisites": "restricted to Honours students having third-year standing in a Chemistry program with an overall CGPA of 10.0 or higher, and approval of the Chair and a Faculty supervisor.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "CHEM 3401",
+    "course_code": "CHEM3401",
+    "course_number": 3401,
+    "course_title": "CHEM3401 [0.5 credit]",
+    "course_desc": "Chemistry, structure and function of nucleic acids, proteins, carbohydrates, and lipids.  Thermodynamics of biological systems, chemical mechanisms and organic transformations.  Intended for Chemistry Majors.",
+    "course_extra_details": "Precludes additional credit for BIOC2200, BIOL2200, and BIOC3101.\nPrerequisite(s): CHEM2103 and CHEM2204.\nLectures three hours a week.\n",
+    "course_prerequisites": "CHEM2103 and CHEM2204.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 3503",
+    "course_code": "CHEM3503",
+    "course_number": 3503,
+    "course_title": "CHEM3503 [0.5 credit]",
+    "course_desc": "Symmetry, identification of Raman and infrared active vibrations, symmetry-adapted molecular orbital theory of polyatomic molecules, electron deficient bonding, bonding in coordination complexes, solid state bonding, ionic lattices. Laboratory will introduce the student to a range of synthetic techniques and physical methods of characterization.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for CHEM3507.\nPrerequisite(s): CHEM2501.\nLectures three hours a week, tutorial one hour a week and laboratory four hours a week.\n",
+    "course_prerequisites": "CHEM2501.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 3504",
+    "course_code": "CHEM3504",
+    "course_number": 3504,
+    "course_title": "CHEM3504 [0.5 credit]",
+    "course_desc": "Physical properties of coordination complexes, ligand substitutions and electron transfer reaction mechanisms, organometallic chemistry: bonding, nomenclature and catalysis. Laboratory will introduce the student to a range of synthetic techniques and physical methods of characterization.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for CHEM3508.\nPrerequisite(s): CHEM3503.\nLectures three hours a week, tutorial one hour a week and laboratory four hours a week.\n",
+    "course_prerequisites": "CHEM3503.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 3507",
+    "course_code": "CHEM3507",
+    "course_number": 3507,
+    "course_title": "CHEM3507 [0.5 credit]",
+    "course_desc": "Symmetry, identification of Raman and infrared active vibrations, symmetry-adapted molecular orbital theory of polyatomic molecules, electron deficient bonding, bonding in coordination complexes, solid state bonding, ionic lattices.",
+    "course_extra_details": "Precludes additional credit for CHEM3503.\nPrerequisite(s): CHEM2501.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "CHEM2501.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 3508",
+    "course_code": "CHEM3508",
+    "course_number": 3508,
+    "course_title": "CHEM3508 [0.5 credit]",
+    "course_desc": "Physical properties of coordination complexes, ligand substitutions and electron transfer reaction mechanisms, organometallic chemistry: bonding, nomenclature and catalysis.",
+    "course_extra_details": "Precludes additional credit for CHEM3504.\nPrerequisite(s): CHEM3503 or CHEM3507.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "CHEM3503 or CHEM3507.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 3600",
+    "course_code": "CHEM3600",
+    "course_number": 3600,
+    "course_title": "CHEM3600 [0.5 credit]",
+    "course_desc": "Nanoscale units, bulk vs. nanoproperties, electrons, atoms and ions, metals, band structure, electrical conduction, biosystems, molecular devices, quantum mechanics and optics, tools for measuring nanostructures. Production of nanostructures: self assembly, nanoscale crystal growth, polymerization. Applications to sensors, magnets, electronics, drug delivery. Toxicology of  nanostructures.",
+    "course_extra_details": "Prerequisite(s): CHEM3100.\nLectures three hours a week.\n",
+    "course_prerequisites": "CHEM3100.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 3700",
+    "course_code": "CHEM3700",
+    "course_number": 3700,
+    "course_title": "CHEM3700 [0.5 credit]",
+    "course_desc": "Uses of chemistry in a number of industries: fertilizers, electrochemical, metallurgical, petrochemical, pulp and paper, plastics, pharmaceutical. Interaction of chemistry with economic, political, engineering, environmental, health, legal considerations. Guest lecturers.",
+    "course_extra_details": "Prerequisite(s): (BIOC2300 or CHEM2103) and one of CHEM2207 or  CHEM2203.\nLecture three hours a week.\n",
+    "course_prerequisites": "(BIOC2300 or CHEM2103) and one of CHEM2207 or  CHEM2203.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 3701",
+    "course_code": "CHEM3701",
+    "course_number": 3701,
+    "course_title": "CHEM3701 [0.5 credit]",
+    "course_desc": "Students explore different sectors of chemical industry; developments in sustainability; principles, analytical frameworks, and applications of green chemistry; environmental protections; and Canadian regulatory frameworks. Students investigate novel issues in industrial chemistry, build scientific literacy skills, and practice communicating scientific information to diverse audiences.",
+    "course_extra_details": "Prerequisite(s): BIOC2300 or CHEM2103, CHEM2204, CHEM2303, CHEM2501.\nWorkshop three hours a week.\n",
+    "course_prerequisites": "BIOC2300 or CHEM2103, CHEM2204, CHEM2303, CHEM2501.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 3800",
+    "course_code": "CHEM3800",
+    "course_number": 3800,
+    "course_title": "CHEM3800 [0.5 credit]",
+    "course_desc": "Inorganic and organic environmental pollutants: their toxicology, production, use pattern and known effects on the environment. Aspects of risk and regulation. Chemistry involved in water and sewage treatment.",
+    "course_extra_details": "Prerequisite(s): CHEM2207 or CHEM2203 or CHEM2800.\nLectures three hours a week.\n",
+    "course_prerequisites": "CHEM2207 or CHEM2203 or CHEM2800.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 3999",
+    "course_code": "CHEM3999",
+    "course_number": 3999,
+    "course_title": "CHEM3999 [0.0 credit]",
+    "course_desc": "Includes: Experiential Learning Activity ",
+    "course_extra_details": "Includes: Experiential Learning Activity\n \n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 4100",
+    "course_code": "CHEM4100",
+    "course_number": 4100,
+    "course_title": "CHEM4100 [0.5 credit]",
+    "course_desc": "Principles of Group Theory as applied to Chemistry. Point groups, character tables, symmetry orbitals, molecular orbitals, aromaticity, allowed and forbidden reactions, sandwich complexes. Selection rules in spectroscopy, molecular vibrations.",
+    "course_extra_details": "Prerequisite(s): CHEM3102.\n",
+    "course_prerequisites": "CHEM3102.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 4102",
+    "course_code": "CHEM4102",
+    "course_number": 4102,
+    "course_title": "CHEM4102 [0.5 credit]",
+    "course_desc": "Statistical thermodynamics, energy states, equilibrium, partition functions for diatomic molecules. Chemical kinetics: rate laws, solution of differential equations, transition state theory, bimolecular reactions in gases and in solution, chain reactions, catalysis, atmospheric chemical reactions and photochemistry.",
+    "course_extra_details": "Prerequisite(s): CHEM3102.\nLectures and seminars three hours a week.\n",
+    "course_prerequisites": "CHEM3102.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 4103",
+    "course_code": "CHEM4103",
+    "course_number": 4103,
+    "course_title": "CHEM4103 [0.5 credit]",
+    "course_desc": "Surface structure, thermodynamics and kinetics, specifically regarding  adsorption/desorption and  high vacuum models. Nanoscale structures and their formation, reactivity and characterization. Thin films, carbon nanotubes, self-assembled monolayers and supramolecular aggregates.",
+    "course_extra_details": "Prerequisite(s): CHEM3600 and CHEM3107.\nAlso offered at the graduate level, with different requirements, as CHEM5108, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "CHEM3600 and CHEM3107.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 4104",
+    "course_code": "CHEM4104",
+    "course_number": 4104,
+    "course_title": "CHEM4104 [0.5 credit]",
+    "course_desc": "An overview of methods used in nanotechnology. Principles of scanning probe techniques ranging from surface physics to biology. State of the art methods to create nanostructures for future applications in areas such as nanolithography, nanoelectronics, nano-optics, data storage and bio-analytical nanosystems.",
+    "course_extra_details": "Prerequisite(s): CHEM3600 and CHEM3107.\nLectures three hours a week.\n",
+    "course_prerequisites": "CHEM3600 and CHEM3107.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 4201",
+    "course_code": "CHEM4201",
+    "course_number": 4201,
+    "course_title": "CHEM4201 [0.5 credit]",
+    "course_desc": "Biological and synthetic macromolecules related to nanoscale phenomena.  Challenges and opportunities associated with natural and synthetic polymers on the nanoscale. Molecular recognition, self-assembled nanostructures, scaffolds and templates, functional nanomaterials, amphiphilic architectures, nanocomposites, and nanomachines. Applications to sensing, biomaterials, drug delivery, and polymer based devices.",
+    "course_extra_details": "Prerequisite(s): CHEM3600 or permission of the department.\nAlso offered at the graduate level, with different requirements, as CHEM5207, CHEM5208, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "CHEM3600 or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 4202",
+    "course_code": "CHEM4202",
+    "course_number": 4202,
+    "course_title": "CHEM4202 [0.5 credit]",
+    "course_desc": "Topics include 2-dimensional 1H and 13CNMR spectroscopy and structure determination of complex organic molecules.",
+    "course_extra_details": "Prerequisite(s): CHEM3201.\nAlso offered at the graduate level, with different requirements, as CHEM5407, for which additional credit is precluded.\n",
+    "course_prerequisites": "CHEM3201.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 4203",
+    "course_code": "CHEM4203",
+    "course_number": 4203,
+    "course_title": "CHEM4203 [0.5 credit]",
+    "course_desc": "The application of reactions to the synthesis or organic molecules. Emphasis on design of synthetic sequences, new reagents, and stereoselectivity. Topics include advanced methods for synthesis and reactions of alkenes, carbonyls, and enolates, functional group interconversion, oxidation and reduction, protecting groups, rearrangements, and metal-catalyzed cross-coupling.",
+    "course_extra_details": "Prerequisite(s): CHEM3201 and CHEM3202.\n Lectures and seminars three hours a week.\n",
+    "course_prerequisites": "CHEM3201 and CHEM3202.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 4204",
+    "course_code": "CHEM4204",
+    "course_number": 4204,
+    "course_title": "CHEM4204 [0.5 credit]",
+    "course_desc": "Introduction to basic principles of polymer chemistry, industrial and synthetic polymers, different types of polymerization and polymer characterization. Study of commodity plastics, engineering thermoplastics, and specialty polymers, with emphasis on their synthesis.",
+    "course_extra_details": "Prerequisite(s): CHEM3201 or equivalent.\nAlso offered at the graduate level, with different requirements, as CHEM5406, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "CHEM3201 or equivalent.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 4205",
+    "course_code": "CHEM4205",
+    "course_number": 4205,
+    "course_title": "CHEM4205 [0.5 credit]",
+    "course_desc": "The application of frontier molecular orbital theory (HOMO-LUMO interactions) to organic reactions, including thermal and photochemical cycloadditions of pi-systems (including 1,3-dipoles) and rearrangements. Reactions of radicals and carbenes; conformational analysis, stereochemical effects, and methods for the determination of reaction mechanisms.",
+    "course_extra_details": "Prerequisite(s): CHEM3202 and CHEM3503 (may be taken concurrently).\nLectures and seminars three hours a week.\n",
+    "course_prerequisites": "CHEM3202 and CHEM3503 (may be taken concurrently).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 4206",
+    "course_code": "CHEM4206",
+    "course_number": 4206,
+    "course_title": "CHEM4206 [0.5 credit]",
+    "course_desc": "A survey of the major classes of natural products with respect to their structural elucidation, synthesis, biosynthesis and bioactivity, with emphasis on compounds that have medicinal importance.",
+    "course_extra_details": "Prerequisite(s): CHEM3201 and CHEM3202,.\nLectures and seminars three hours a week.\n",
+    "course_prerequisites": "CHEM3201 and CHEM3202,.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 4207",
+    "course_code": "CHEM4207",
+    "course_number": 4207,
+    "course_title": "CHEM4207 [0.5 credit]",
+    "course_desc": "The course covers chemical and biosynthetic methods applied to the major classes of biomolecules and their derivatives, including: carbohydrates, amino acids, peptides, proteins, nucleic acids, lipids, terpenes, heterocycles and natural products. Content will focus on reactions and mechanisms that contribute to their biological activities.",
+    "course_extra_details": "Prerequisite(s): CHEM3201 and CHEM3202, or permission of the department.\nAlso offered at the graduate level, with different requirements, as CHEM5010, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "CHEM3201 and CHEM3202, or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 4301",
+    "course_code": "CHEM4301",
+    "course_number": 4301,
+    "course_title": "CHEM4301 [0.5 credit]",
+    "course_desc": "Analytical chemistry of trace and ultratrace elements/compounds.  Special requirements for quantitative determination by various instrumental methods. Control of contamination and blanks. Analytical method development to improve selectivity, sensitivity and detection limit. Strength and limitations of each instrument. Optimization of all operating parameters.",
+    "course_extra_details": "Prerequisite(s): CHEM2103 and one of CHEM2302 or CHEM2303.\nAlso offered at the graduate level, with different requirements, as CHEM5607, for which additional credit is precluded.\nLectures and seminars three hours a week.\n",
+    "course_prerequisites": "CHEM2103 and one of CHEM2302 or CHEM2303.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 4302",
+    "course_code": "CHEM4302",
+    "course_number": 4302,
+    "course_title": "CHEM4302 [0.5 credit]",
+    "course_desc": "Solutions and separations in analytical chemistry. Stability of aqueous solutions of standards and samples. Complex formation, multi-step and competing equilibria and their application to the design of selective methods of separation and determination. Electroanalytical techniques. Electroanalytical chemistry of aqueous solutions. Phase equilibria and solvent extraction.",
+    "course_extra_details": "Prerequisite(s): CHEM2103 and one of CHEM2302 or CHEM2303.\nLectures and seminars three hours a week.\n",
+    "course_prerequisites": "CHEM2103 and one of CHEM2302 or CHEM2303.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 4304",
+    "course_code": "CHEM4304",
+    "course_number": 4304,
+    "course_title": "CHEM4304 [0.5 credit]",
+    "course_desc": "Detailed breakdown of the physical, electrical and chemical operation of mass spectrometers. Applications in MS ranging from the analysis of small molecules to large biological macromolecules. Descriptions of the use of mass spectrometry in industry as well as commercial opportunities in the field.",
+    "course_extra_details": "Prerequisite(s): CHEM2103 or BIOC2300, and one of CHEM2302 or CHEM2303.\nAlso offered at the graduate level, with different requirements, as CHEM5109, for which additional credit is precluded.\nLectures and seminars three hours a week.\n",
+    "course_prerequisites": "CHEM2103 or BIOC2300, and one of CHEM2302 or CHEM2303.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 4305",
+    "course_code": "CHEM4305",
+    "course_number": 4305,
+    "course_title": "CHEM4305 [0.5 credit]",
+    "course_desc": "Overview of environmental chemistry and toxicology principles including chemical sources, fate, and effects in the environment. Examining organic reactions occurring in abiotic environments and biological systems, and studying aspects of toxicant disposition and biotransformation. Emphasis on contemporary problems in human health and the environment.",
+    "course_extra_details": "Prerequisite(s): CHEM2203 or CHEM2207, and CHEM2800 or CHEM2103, or BIOC3101 or permission of the department.\nAlso offered at the graduate level, with different requirements, as CHEM5606, for which additional credit is precluded.\nLectures three hours a week. \n",
+    "course_prerequisites": "CHEM2203 or CHEM2207, and CHEM2800 or CHEM2103, or BIOC3101 or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 4406",
+    "course_code": "CHEM4406",
+    "course_number": 4406,
+    "course_title": "CHEM4406 [0.5 credit]",
+    "course_desc": "Important elements of rational drug design. Ligand-receptor interactions, structure-activity relationships, molecular modeling of pharmacophores, structure and mechanism-based approaches to drug design. Enzyme inhibition in chemotherapy and design of anti-viral drugs.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): CHEM2103 and (CHEM2203 or CHEM2207),  BIOC3101 and (BIOC3102 or BIOC  3008).\nLectures and laboratory five hours a week.\n",
+    "course_prerequisites": "CHEM2103 and (CHEM2203 or CHEM2207),  BIOC3101 and (BIOC3102 or BIOC  3008).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 4407",
+    "course_code": "CHEM4407",
+    "course_number": 4407,
+    "course_title": "CHEM4407 [0.5 credit]",
+    "course_desc": "Polymer architectures; Flexible and rigid rod polymers; Rotational isomeric states (RIS); Molecular mechanics, Ramachandran Map, Helix parameters; internal and external parameters; regular and random coil structures; molecular dynamics; calculation of end-to-end distance, NMR chemical shifts; conformational entropy and properties.",
+    "course_extra_details": "Prerequisite(s): MATH1107 and CHEM2204 or permission of the department.\nLectures three hours per week.\n",
+    "course_prerequisites": "MATH1107 and CHEM2204 or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 4502",
+    "course_code": "CHEM4502",
+    "course_number": 4502,
+    "course_title": "CHEM4502 [0.5 credit]",
+    "course_desc": "A study of nuclear stability and decay; chemical studies of nuclear phenomena. Applications of radioactivity.",
+    "course_extra_details": "Prerequisite(s): CHEM2302, CHEM2303, and CHEM3100, or permission of the Department.\nAlso offered at the graduate level, with different requirements, as CHEM5905, for which additional credit is precluded.\nLectures and seminars three hours a week.\n",
+    "course_prerequisites": "CHEM2302, CHEM2303, and CHEM3100, or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 4503",
+    "course_code": "CHEM4503",
+    "course_number": 4503,
+    "course_title": "CHEM4503 [0.5 credit]",
+    "course_desc": "A quantitave basis for ligand field theory; unreal and real wavefunctions of d-orbitals; derivation of the energies of d-orbitals using variational principle, secular determinants, and ligned field operators; the effect of ligand field on free ion term symbols, wavefunction descriptions of terms symbols; applications.",
+    "course_extra_details": "Prerequisite(s): CHEM3504 and CHEM3101.\nLectures three hours a week.\n",
+    "course_prerequisites": "CHEM3504 and CHEM3101.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 4504",
+    "course_code": "CHEM4504",
+    "course_number": 4504,
+    "course_title": "CHEM4504 [0.5 credit]",
+    "course_desc": "Reactivity of inorganic coordination compounds. Thermodynamic and kinetic factors affecting reactivity. Industrial and biochemical processes catalyzed by metal coordination compounds. Experimental methodologies, data analysis and rate law evaluation used to obtain reaction mechanisms leading to improved methods of catalysis.",
+    "course_extra_details": "Prerequisite(s): CHEM3504 or equivalent.\nLectures three hours a week.\n",
+    "course_prerequisites": "CHEM3504 or equivalent.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 4505",
+    "course_code": "CHEM4505",
+    "course_number": 4505,
+    "course_title": "CHEM4505 [0.5 credit]",
+    "course_desc": "Spectroscopic techniques (i.e. UV-visible NIR, IR, EPR) and electrochemistry methods that are used to study photochemical and thermal intermolecular and intramolecular electron transfer in transition metal complexes are presented.  Electron transfer theory and redox-active (non-innocent) ligands are discussed.",
+    "course_extra_details": "Prerequisite(s): CHEM3504.\nLectures three hours a week.\n",
+    "course_prerequisites": "CHEM3504.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 4700",
+    "course_code": "CHEM4700",
+    "course_number": 4700,
+    "course_title": "CHEM4700 [0.5 credit]",
+    "course_desc": "A topic of current interest in any branch of chemistry. Only one special topics course may be presented for credit.",
+    "course_extra_details": "Prerequisite(s): permission of the Department.\n \n",
+    "course_prerequisites": "permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 4800",
+    "course_code": "CHEM4800",
+    "course_number": 4800,
+    "course_title": "CHEM4800 [0.5 credit]",
+    "course_desc": "Properties of natural atmospheric constituents; biogeochemical cycles involving gases; chemical reactions in the atmosphere; anthropogenic atmospheric pollutants (e.g., chlorofluorocarbons, sulphur and nitrogen oxides, photochemical smog sources and effects on the biosphere. Relation between the structure of molecules and their spectral and reactive properties.",
+    "course_extra_details": "Prerequisite(s): CHEM2103 or CHEM2800.\nLectures three hours a week.\n",
+    "course_prerequisites": "CHEM2103 or CHEM2800.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 4907",
+    "course_code": "CHEM4907",
+    "course_number": 4907,
+    "course_title": "CHEM4907 [1.0 credit]",
+    "course_desc": "Students conduct an independent research study using library resources, and prepare a critical review and study proposal on a topic approved by a faculty supervisor. A written report and oral poster presentation of the work are required before a grade can be assigned.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for CHEM4908, FOOD4907 and FOOD4908.\nPrerequisite(s): fourth year standing in an Honours Chemistry program and permission of the department.\n \n",
+    "course_prerequisites": "fourth year standing in an Honours Chemistry program and permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHEM 4908",
+    "course_code": "CHEM4908",
+    "course_number": 4908,
+    "course_title": "CHEM4908 [1.0 credit]",
+    "course_desc": "Senior students in Honours Chemistry carry out a research project under the direction of one of the members of the Department. A written report and an oral presentation of the work are required before a grade can be assigned.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for CHEM4907, FOOD4907 and FOOD4908.\nPrerequisite(s): any two of CHEM3106, CHEM3107, CHEM3205, CHEM3305 and CHEM3504 and permission of the department.\nLaboratory and associated work equivalent to at least eight hours a week for two terms.\n",
+    "course_prerequisites": "any two of CHEM3106, CHEM3107, CHEM3205, CHEM3305 and CHEM3504 and permission of the department.",
+    "year_standing": 0
+}]}

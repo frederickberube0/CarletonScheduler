@@ -1,0 +1,363 @@
+{"object": [
+{
+    "course_identifier": "IDES 1000",
+    "course_code": "IDES1000",
+    "course_number": 1000,
+    "course_title": "IDES1000 [0.5 credit]",
+    "course_desc": "The theoretical and historical background of industrial design and design; disciplinary foundations and interdisciplinary connections; methodological aspects and economic and social contexts; contemporary scenarios in design; technological innovation and manufacturing processes.",
+    "course_extra_details": "Also listed as ARCH2006.\nLectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "IDES 1001",
+    "course_code": "IDES1001",
+    "course_number": 1001,
+    "course_title": "IDES1001 [0.5 credit]",
+    "course_desc": "Principles of comparative product design analysis covering marketing and sales, manufacturing techniques and materials, ambiance and qualities of the object/context relationship, and design analysis from the perspective of the designer, the end-user and the environment.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as ARCH2101.\nPrerequisite(s): IDES1000 or ARCH2006.\nLectures three hours a week.\n",
+    "course_prerequisites": "IDES1000 or ARCH2006.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "IDES 1300",
+    "course_code": "IDES1300",
+    "course_number": 1300,
+    "course_title": "IDES1300 [0.5 credit]",
+    "course_desc": "An introduction to the skills and processes of industrial design including drawing and sketching as an aid to design, basics of line, shape, ideation, and visualization, product drawing, presentation techniques, basic model making, studio equipment and practices, introduction to the design process.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): IDES1000 (may be taken concurrently).\nStudio and lectures six hours a week.\n",
+    "course_prerequisites": "IDES1000 (may be taken concurrently).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "IDES 1301",
+    "course_code": "IDES1301",
+    "course_number": 1301,
+    "course_title": "IDES1301 [0.5 credit]",
+    "course_desc": "Aspects of industrial design theory and practice, specifically those dealing with principles of product development, fundamentals of form and colour and case studies. Students will explore the design process with emphasis on creative problem-solving techniques and visual communication in design.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): IDES1300.\nStudio and lectures six hours a week.\n",
+    "course_prerequisites": "IDES1300.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "IDES 2101",
+    "course_code": "IDES2101",
+    "course_number": 2101,
+    "course_title": "IDES2101 [0.5 credit]",
+    "course_desc": "Transformation techniques applied to manufacturing materials. Part-design requirements and cost factors for manufacturing processes. Influences and role of assembly, finishing, production tooling, and costing.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): IDES1001, IDES1301.\nLecture and tutorials three hours a week, laboratory three hours a week.\n",
+    "course_prerequisites": "IDES1001, IDES1301.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "IDES 2102",
+    "course_code": "IDES2102",
+    "course_number": 2102,
+    "course_title": "IDES2102 [0.5 credit]",
+    "course_desc": "Continuation of IDES 2101. Transformation techniques applied to manufacturing materials. Part-design requirements and cost factors for manufacturing processes. The influences and role of assembly, finishing, production tooling, costing are addressed.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): IDES2101 or permission of the School of Industrial Design.\nLecture and tutorials three hours a week, laboratory three hours a week.\n",
+    "course_prerequisites": "IDES2101 or permission of the School of Industrial Design.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "IDES 2104",
+    "course_code": "IDES2104",
+    "course_number": 2104,
+    "course_title": "IDES2104 [0.5 credit]",
+    "course_desc": "Provides industrial design students with working knowledge of design related 2D computer applications, such as graphic manipulation, illustration software, and 2D Computer-Aided Design (CAD). Labs and projects are oriented towards building a foundation in software and group work skills for studio courses.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): IDES1301.\nLecture and tutorials three hours a week.\n",
+    "course_prerequisites": "IDES1301.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "IDES 2105",
+    "course_code": "IDES2105",
+    "course_number": 2105,
+    "course_title": "IDES2105 [0.5 credit]",
+    "course_desc": "Provides industrial design students with working knowledge of design related three-dimensional (3D) computer applications, such as surface and solids modelling computer-aided-design (CAD) software. Labs and projects are oriented towards building a foundation in software and group work skills for studio courses.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): IDES1301.\nLecture and tutorials three hours a week.\n",
+    "course_prerequisites": "IDES1301.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "IDES 2205",
+    "course_code": "IDES2205",
+    "course_number": 2205,
+    "course_title": "IDES2205 [0.5 credit]",
+    "course_desc": "An exploration of multi-sensory qualities derived from and designed into products to optimize product-interaction experiences. Visual, tactile, auditory, and other related sensory aspects of design and design principles that contribute to the product multi-sensory characteristics while adding meaning and emotional value.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for IDES 2203 (no longer offered).\nPrerequisite(s): IDES1001 or permission of the School of Industrial Design.\nLectures and tutorials three hours a week.\n",
+    "course_prerequisites": "IDES1001 or permission of the School of Industrial Design.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "IDES 2300",
+    "course_code": "IDES2300",
+    "course_number": 2300,
+    "course_title": "IDES2300 [0.5 credit]",
+    "course_desc": "Principles of design sketching used in the industrial design process. Topics include: sketching as a tool for problem definition; idea exploration and form development; rendering techniques and the communication of design concepts; basic physical prototyping and modeling-making techniques.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): IDES1001 and IDES1301, or permission of the School of Industrial Design.\nStudio and lectures six hours a week.\n",
+    "course_prerequisites": "IDES1001 and IDES1301, or permission of the School of Industrial Design.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "IDES 2302",
+    "course_code": "IDES2302",
+    "course_number": 2302,
+    "course_title": "IDES2302 [0.5 credit]",
+    "course_desc": "Introduction to the design principles associated with adapting products to an existing product semantic. Topics covered: principles of design, product semantics, design analysis, design synthesis, design evaluation, and modeling techniques. The design project(s) explore some or all of the design principles covered in the lectures.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): IDES2300 or permission of the School of Industrial Design.\nStudio and lectures six hours a week.\n",
+    "course_prerequisites": "IDES2300 or permission of the School of Industrial Design.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "IDES 2600",
+    "course_code": "IDES2600",
+    "course_number": 2600,
+    "course_title": "IDES2600 [0.5 credit]",
+    "course_desc": "Foundation course in human factors/ergonomics providing an overview of physical and cognitive considerations in product design and related design fields. Anthropometrics, biomechanical considerations, cognition, social interaction, and emotional interaction are introduced in relation to supporting user experience, health and safety, performance and productivity.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): PSYC1001 and PSYC1002, or  PSYC 1000.\nLectures and discussion three hours a week.\n",
+    "course_prerequisites": "PSYC1001 and PSYC1002, or  PSYC 1000.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "IDES 3104",
+    "course_code": "IDES3104",
+    "course_number": 3104,
+    "course_title": "IDES3104 [0.5 credit]",
+    "course_desc": "Exhibition design is explored through lectures, case studies, field trips and guest lectures. Students participate in exercises and apply design skills to a variety of exhibition design realms. Introduces students to the potential of the built environment for exploring a range of diverse exhibit applications.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): IDES2302 or permission of the School of Industrial Design.\nLectures and tutorials three hours a week.\n",
+    "course_prerequisites": "IDES2302 or permission of the School of Industrial Design.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "IDES 3105",
+    "course_code": "IDES3105",
+    "course_number": 3105,
+    "course_title": "IDES3105 [0.5 credit]",
+    "course_desc": "A survey of visual communication and package design principles relevant to industrial designers. Product/brand definition and corporate identity through package design.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): IDES2302 or permission of the School of Industrial Design.\nLectures and tutorials three hours a week.\n",
+    "course_prerequisites": "IDES2302 or permission of the School of Industrial Design.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "IDES 3106",
+    "course_code": "IDES3106",
+    "course_number": 3106,
+    "course_title": "IDES3106 [0.5 credit]",
+    "course_desc": "Examination of complex product geometry utilizing 3D computer applications. Topics include spline, surface and solids construction, surface verification tools, and rendering tools and techniques. Workflow, robust design, reverse design techniques and 3D printing will be explored through exercises.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): IDES2105. Third or Fourth Year standing or permission of the School of Industrial Design.\nLecture and tutorials three hours a week.\n",
+    "course_prerequisites": "IDES2105. Third or Fourth Year standing or permission of the School of Industrial Design.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "IDES 3107",
+    "course_code": "IDES3107",
+    "course_number": 3107,
+    "course_title": "IDES3107 [0.5 credit]",
+    "course_desc": "Explores the industrial designer's role in creating more environmentally and socially responsible products.  Addresses imperatives and drivers for integrating sustainability into products. Includes: sustainable design strategies, strategies and tools, sustainable design business case, circular economy model for designed products, and case studies.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): IDES IDES2302 and Third or Fourth Year standing or permission of the School of Industrial Design.\nLectures and tutorials three hours a week.\n",
+    "course_prerequisites": "IDES IDES2302 and Third or Fourth Year standing or permission of the School of Industrial Design.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "IDES 3202",
+    "course_code": "IDES3202",
+    "course_number": 3202,
+    "course_title": "IDES3202 [0.5 credit]",
+    "course_desc": "Students may continue the research and study encountered in IDES 2205, IDES 2300 and IDES 2302 by doing advanced research in the phenomena of form and/or colour and their communicative functions in products. Directed Study.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): IDES2302 or permission of the School of Industrial Design.\nLecture and tutorials three hours a week.\n",
+    "course_prerequisites": "IDES2302 or permission of the School of Industrial Design.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "IDES 3302",
+    "course_code": "IDES3302",
+    "course_number": 3302,
+    "course_title": "IDES3302 [0.5 credit]",
+    "course_desc": "Introduction to the principles of innovation as found in industrial design. Invention, innovation, entrepreneurship, basic mechanisms. The design project(s) explore some or all of the design principles covered in the lectures.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for IDES 3301 (no longer offered).\nPrerequisite(s): IDES 3300 or IDES3310 or permission of the School of Industrial Design.\nStudio and lectures six hours a week. \n",
+    "course_prerequisites": "IDES 3300 or IDES3310 or permission of the School of Industrial Design.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "IDES 3305",
+    "course_code": "IDES3305",
+    "course_number": 3305,
+    "course_title": "IDES3305 [0.5 credit]",
+    "course_desc": "Special Industrial Design Studies deal with specific projects, which may differ from year to year depending on the availability of specialists in a particular field or study opportunities as they present themselves.",
+    "course_extra_details": "Prerequisite(s): IDES2302 and Third or Fourth Year standing or permission of the School of Industrial Design.\nLectures, tutorials, laboratory and studio three hours a week or equivalent.\n",
+    "course_prerequisites": "IDES2302 and Third or Fourth Year standing or permission of the School of Industrial Design.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "IDES 3306",
+    "course_code": "IDES3306",
+    "course_number": 3306,
+    "course_title": "IDES3306 [0.5 credit]",
+    "course_desc": "Special Industrial Design Studies deal with specific projects, which may differ from year to year depending on the availability of specialists in a particular field or study opportunities as they present themselves.",
+    "course_extra_details": "Prerequisite(s): IDES2302 and Third or Fourth Year standing or permission of the School of Industrial Design.\nLectures, tutorials, laboratory and studio three hours a week or equivalent.\n",
+    "course_prerequisites": "IDES2302 and Third or Fourth Year standing or permission of the School of Industrial Design.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "IDES 3310",
+    "course_code": "IDES3310",
+    "course_number": 3310,
+    "course_title": "IDES3310 [0.5 credit]",
+    "course_desc": "Introduction to the design principles associated with the evaluation and re-design of an existing product. Topics include: user/machine relationship, component packaging, and manufacturability. The design project(s) explore some or all of the design principles covered in the lectures.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for IDES 3300 (no longer offered).\nPrerequisite(s): IDES2302 or permission of the School of Industrial Design.\nStudio and lectures twelve hours a week.\n",
+    "course_prerequisites": "IDES2302 or permission of the School of Industrial Design.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "IDES 3502",
+    "course_code": "IDES3502",
+    "course_number": 3502,
+    "course_title": "IDES3502 [0.5 credit]",
+    "course_desc": "Cultural subjects which have an influence on contemporary industrial design. The perspective of the course is anthropological: the context and cultural relevance of industrial design.",
+    "course_extra_details": "Prerequisite(s): IDES1000 (ARCH2006) and Third or Fourth year standing.\nLectures and tutorials three hours a week.\n",
+    "course_prerequisites": "IDES1000 (ARCH2006) and Third or Fourth year standing.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "IDES 3601",
+    "course_code": "IDES3601",
+    "course_number": 3601,
+    "course_title": "IDES3601 [0.5 credit]",
+    "course_desc": "Basic design research techniques to foster design exploration. Methods focus on understanding context and user experience to produce meaningful, actionable insights and design opportunities. Processes include qualitative and quantitative research, as well as creative and evaluative research with people. Teamwork and collaboration are explored.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): IDES2600 and Third or Fourth Year Standing.\nLectures or laboratory three hours a week.\n",
+    "course_prerequisites": "IDES2600 and Third or Fourth Year Standing.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "IDES 3999",
+    "course_code": "IDES3999",
+    "course_number": 3999,
+    "course_title": "IDES3999 [0.0 credit]",
+    "course_desc": "Includes: Experiential Learning Activity ",
+    "course_extra_details": "Includes: Experiential Learning Activity\n \n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "IDES 4001",
+    "course_code": "IDES4001",
+    "course_number": 4001,
+    "course_title": "IDES4001 [0.5 credit]",
+    "course_desc": "Topics vary yearly and address key contemporary industrial design issues. There is a focus on writing, discussion, and debate. Students organize a seminar with design professionals and other community experts including student and professional presentations, interaction, and discussion.",
+    "course_extra_details": "Prerequisite(s): IDES3302 or permission of the School of Industrial Design.\nSeminar three hours a week.\n",
+    "course_prerequisites": "IDES3302 or permission of the School of Industrial Design.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "IDES 4002",
+    "course_code": "IDES4002",
+    "course_number": 4002,
+    "course_title": "IDES4002 [0.5 credit]",
+    "course_desc": "The organizational aspects of consultancies and client responsibilities within the framework of corporate management.  Topics include: the form of contracts for consultancy, determination of fees, legal implications, patents and copyrights.  Guest lecturers.",
+    "course_extra_details": "Precludes additional credit for IDES 3503 (no longer offered).\nPrerequisite(s): IDES 3300 or IDES3310 or permission of the School of Industrial Design.\nLectures and discussion three hours a week.\n",
+    "course_prerequisites": "IDES 3300 or IDES3310 or permission of the School of Industrial Design.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "IDES 4101",
+    "course_code": "IDES4101",
+    "course_number": 4101,
+    "course_title": "IDES4101 [0.5 credit]",
+    "course_desc": "Advanced manufacturing concepts and workflows are examined through a series of workshops and minor projects utilizing state-of-the-art equipment.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): IDES2101 and IDES2102.\nLectures or laboratory three hours a week.\n",
+    "course_prerequisites": "IDES2101 and IDES2102.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "IDES 4200",
+    "course_code": "IDES4200",
+    "course_number": 4200,
+    "course_title": "IDES4200 [0.5 credit]",
+    "course_desc": "Using form organization as a tool to design, the definition and prescription of monolithic solids by means of an abstract system; making and verifying materialized approximations of such solids.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): IDES2300 and IDES2302 or permission of the School of Industrial Design.\nLectures, tutorials and laboratory six hours a week.\n",
+    "course_prerequisites": "IDES2300 and IDES2302 or permission of the School of Industrial Design.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "IDES 4301",
+    "course_code": "IDES4301",
+    "course_number": 4301,
+    "course_title": "IDES4301 [0.5 credit]",
+    "course_desc": "Advanced skills-based course that enhances student experience in novel, experimental processes and techniques in design. Workshop-style activities and short projects focus on increasing skill competence and versatility in a variety of fields. Emphasis on time management and the ability to work independently.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): IDES3302 or permission of the School of Industrial Design.\nStudio and lectures six hours a week. \n",
+    "course_prerequisites": "IDES3302 or permission of the School of Industrial Design.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "IDES 4305",
+    "course_code": "IDES4305",
+    "course_number": 4305,
+    "course_title": "IDES4305 [0.5 credit]",
+    "course_desc": "Like the third-year Special Industrial Design Studies, those of fourth year deal with specific projects, which may differ each year depending on the availability of specialists among the faculty of the School of Industrial Design or on particular opportunities as they present themselves.",
+    "course_extra_details": "Prerequisite(s): IDES3302 or permission of the School of Industrial Design.\nLectures, tutorials, laboratory and studio three hours a week or equivalent.\n",
+    "course_prerequisites": "IDES3302 or permission of the School of Industrial Design.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "IDES 4306",
+    "course_code": "IDES4306",
+    "course_number": 4306,
+    "course_title": "IDES4306 [0.5 credit]",
+    "course_desc": "Like the third-year Special Industrial Design Studies, those of fourth year deal with specific projects, which may differ each year depending on the availability of specialists among the faculty of the School of Industrial Design or on particular opportunities as they present themselves.",
+    "course_extra_details": "Prerequisite(s): IDES3302 or permission of the School of Industrial Design.\nLectures, tutorials, laboratory and studio three hours a week or equivalent.\n",
+    "course_prerequisites": "IDES3302 or permission of the School of Industrial Design.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "IDES 4310",
+    "course_code": "IDES4310",
+    "course_number": 4310,
+    "course_title": "IDES4310 [1.5 credit]",
+    "course_desc": "Application of design principles in a comprehensive design project. Problem area should be product-oriented and of sufficient complexity. Normally undertaken in consultation with off-campus organizations and/or industry. Supervised by faculty and/or sessional members.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for IDES 4300 (no longer offered).\nPrerequisite(s): IDES3302 or permission of the School of Industrial Design.\nStudio and lectures six hours a week in Fall and twelve hours a week in Winter.\n",
+    "course_prerequisites": "IDES3302 or permission of the School of Industrial Design.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "IDES 4400",
+    "course_code": "IDES4400",
+    "course_number": 4400,
+    "course_title": "IDES4400 [0.5 credit]",
+    "course_desc": "Work experience related to industrial design. Following the internship period, normally 12 weeks, a comprehensive report describing observations and insights will be submitted. Graded Sat or Uns.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): IDES 3300 or IDES3310 or permission of the School of Industrial Design.\nTutorial hours arranged.\n",
+    "course_prerequisites": "IDES 3300 or IDES3310 or permission of the School of Industrial Design.",
+    "year_standing": 0
+}]}

@@ -1,0 +1,55 @@
+{"object": [
+{
+    "course_identifier": "ESLA 1300",
+    "course_code": "ESLA1300",
+    "course_number": 1300,
+    "course_title": "ESLA1300 [1.0 credit]",
+    "course_desc": "For students with little or no experience with academic English. Introduction to integrated language strategies, critical thinking, and basic research techniques for success at university. Attendance and participation are compulsory.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): placement by an approved English language proficiency test, as determined by the School. Not open to native speakers of English.\nSix hours a week (one term), plus a two-hour weekly lab.\n",
+    "course_prerequisites": "placement by an approved English language proficiency test, as determined by the School. Not open to native speakers of English.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ESLA 1500",
+    "course_code": "ESLA1500",
+    "course_number": 1500,
+    "course_title": "ESLA1500 [1.0 credit]",
+    "course_desc": "For students with moderate experience with academic English. Development and application of academic language conventions, critical thinking and research strategies for success at university. Attendance and participation are compulsory.",
+    "course_extra_details": "Prerequisite(s): grade of C or higher in ESLA1300 or placement by an approved English language proficiency test, as determined by the School. Not open to native speakers of English.\nSix hours a week (one term).\n",
+    "course_prerequisites": "grade of C or higher in ESLA1300 or placement by an approved English language proficiency test, as determined by the School. Not open to native speakers of English.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ESLA 1900",
+    "course_code": "ESLA1900",
+    "course_number": 1900,
+    "course_title": "ESLA1900 [1.0 credit]",
+    "course_desc": "For students needing further refinement of academic English. Analysis and synthesis of academic texts and consolidation of academic language and research practices. Attendance and participation are compulsory.",
+    "course_extra_details": "Prerequisite(s): grade of C+ or higher in ESLA1500 or placement by an approved English language proficiency test, as determined by the School. Not open to native speakers of English.\nSix hours a week (one term).\n",
+    "course_prerequisites": "grade of C+ or higher in ESLA1500 or placement by an approved English language proficiency test, as determined by the School. Not open to native speakers of English.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ESLA 2000",
+    "course_code": "ESLA2000",
+    "course_number": 2000,
+    "course_title": "ESLA2000 [0.5 credit]",
+    "course_desc": "For students in designated programs. Designed primarily for students whose first language is not English. Topics to be determined.",
+    "course_extra_details": "Prerequisite(s): permission of the School.\nThree hours a week.\n",
+    "course_prerequisites": "permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ESLA 3000",
+    "course_code": "ESLA3000",
+    "course_number": 3000,
+    "course_title": "ESLA3000 [0.5 credit]",
+    "course_desc": "For students in designated programs. Designed primarily for students whose first language is not English. Topics to be determined.",
+    "course_extra_details": "Prerequisite(s): permission of the School.\nThree hours a week.\n",
+    "course_prerequisites": "permission of the School.",
+    "year_standing": 0
+}]}

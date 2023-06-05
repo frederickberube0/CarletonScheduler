@@ -1,0 +1,330 @@
+{"object": [
+{
+    "course_identifier": "NET 1001",
+    "course_code": "NET 001",
+    "course_number": 1001,
+    "course_title": "NET1001 [0.5 credit]",
+    "course_desc": "Construction and function of PCs. Introduces technical concepts and terminology relating to system boards, system busses, input/output devices, memory, microprocessors and peripherals. Interaction of software and hardware; data storage; performance issues.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): restricted to students in the B.I.T. degree program.\nLectures two hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "restricted to students in the B.I.T. degree program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NET 1002",
+    "course_code": "NET 002",
+    "course_number": 1002,
+    "course_title": "NET1002 [0.5 credit]",
+    "course_desc": "Foundation knowledge for computer networks and communications. Topics include basic network design, layered communications models, IP addressing and subnets, and industry standards for networking media and protocols, with an emphasis on TCP/IP protocol suite and Ethernet environments.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): restricted to students in the B.I.T. degree program.\nLectures three hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "restricted to students in the B.I.T. degree program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NET 1006",
+    "course_code": "NET 006",
+    "course_number": 1006,
+    "course_title": "NET1006 [0.5 credit]",
+    "course_desc": "Introduction to routing and switching concepts including, static and dynamic routing, trunking and VLANs. Topics include configuring routers and switches and resolving common configuration and reachability issues.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): NET1002.\nLecture three hours a week, tutorial/laboratory three hours a week.\n",
+    "course_prerequisites": "NET1002.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NET 2000",
+    "course_code": "NET 000",
+    "course_number": 2000,
+    "course_title": "NET2000 [0.5 credit]",
+    "course_desc": "Architecture, components and operations of routers and switches in Enterprise networks. Topics include configuration and troubleshooting of OSPF, including Multi-area, redundancy, NAT and troubleshooting techniques.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): NET1006.\nLectures three hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "NET1006.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NET 2007",
+    "course_code": "NET 007",
+    "course_number": 2007,
+    "course_title": "NET2007 [0.5 credit]",
+    "course_desc": "Introduction to the fundamentals of information transmissions systems used in physical layer of the Internet. Covers time- and frequency-domain concepts, digital and analog transmission, signal encoding, sampling, modulation, demodulation, error detection and correction. Examples: DSL, Cable modem, and wireless LAN. Includes: Experiential Learning Activity.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BIT1001 and BIT1007.\nLectures three hours a week, tutorial/laboratory three hours a week.\n",
+    "course_prerequisites": "BIT1001 and BIT1007.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NET 2008",
+    "course_code": "NET 008",
+    "course_number": 2008,
+    "course_title": "NET2008 [0.5 credit]",
+    "course_desc": "Exposure to unifying software development (Dev) and software operation (Ops). Use of Python to monitor and automate network management tasks.",
+    "course_extra_details": "Prerequisite(s): BIT2400.\nLectures three hours a week, tutorial/laboratory three hours a week.\n",
+    "course_prerequisites": "BIT2400.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NET 2010",
+    "course_code": "NET 010",
+    "course_number": 2010,
+    "course_title": "NET2010 [0.5 credit]",
+    "course_desc": "Using Linux and Windows Server, study of the basic features such as file system, system utilities, memory management, boot process troubleshooting and UI customizations. Client-Server architecture is examined with a focus on basic Server configuration and administration. Includes: Experiential Learning Activity.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for NET 2002 (no longer offered).\nPrerequisite(s): NET1001.\nLecture two hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "NET1001.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NET 2011",
+    "course_code": "NET 011",
+    "course_number": 2011,
+    "course_title": "NET2011 [0.5 credit]",
+    "course_desc": "Using Unix and Linux Operating systems, study of the command line and network Server operating environments.  Configuring Services and Protocols such as DNS, NTP, SSH, SMB, SMTP, POP3, IMAP, HTTP, and DHCP. Basic Server security using firewalls is also introduced. Includes: Experiential Learning Activity.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for NET 2003 (no longer offered).\nPrerequisite(s): NET2010.\nLecture two hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "NET2010.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NET 2012",
+    "course_code": "NET 012",
+    "course_number": 2012,
+    "course_title": "NET2012 [0.5 credit]",
+    "course_desc": "Enterprise technologies and QoS mechanisms used for networks access. Topics include virtualization, and automation concepts. Software-defined networking, controller-based architectures and how application programming interfaces (APIs) enable network automation.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for NET 2001 (no longer offered).\nPrerequisite(s): NET2000.\nLectures three hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "NET2000.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NET 2013",
+    "course_code": "NET 013",
+    "course_number": 2013,
+    "course_title": "NET2013 [0.5 credit]",
+    "course_desc": "Introduction to the design and implementation of digital circuits and microprocessors. Topics include: binary numbers and arithmetic, fundamentals of boolean algebra, combinational circuits, sequential circuits, computer architecture and organization: CPU, cache, memory, input/output, bus structures, interrupts, computer arithmetic, CPU assembly instruction sets.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for NET 1004 (no longer offered), PLT 1007 (no longer offered), NET 2009 (no longer offered), PLT 2009 (no longer offered), OSS2009.\nPrerequisite(s): BIT2400.\nLectures three hours a week, tutorial/laboratory one hour a week.\n",
+    "course_prerequisites": "BIT2400.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NET 3000",
+    "course_code": "NET 000",
+    "course_number": 3000,
+    "course_title": "NET3000 [0.5 credit]",
+    "course_desc": "Concepts and fundamentals of relational database systems. Students learn how to design relational databases starting from a conceptual data model, following accepted logical and physical design principles. Topics include normalisation, referential integrity, SQL, DDL and SQL DML &amp; ODBC and data extraction/filtering techniques.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): second-year standing in the Networking program.\nLecture two hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "second-year standing in the Networking program.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "NET 3001",
+    "course_code": "NET 001",
+    "course_number": 3001,
+    "course_title": "NET3001 [0.5 credit]",
+    "course_desc": "Principles of event-driven systems, review of computer organization; parallel and serial interfaces; programmable timer; I/O methods; polling and interrupts. Real-time kernels. Critical design consideration: concurrency, dead lock, synchronization. Maintaining and improving system performance. Programming exercises in low and high level languages.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as OSS3001.\nPrerequisite(s): NET2013.\nLectures three hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "NET2013.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NET 3004",
+    "course_code": "NET 004",
+    "course_number": 3004,
+    "course_title": "NET3004 [0.5 credit]",
+    "course_desc": "Specification and design of abstract data types and their implementation as stacks, queues, trees, tables and graphs. Common and useful examples. Parsing and finite state machines. Analysis of algorithms, recursion, re-entrance. Special focus: abstraction, interface specification and hierarchical design using object-oriented programming.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as OSS3004.\nPrecludes additional credit for PLT 3010 (no longer offered).\nPrerequisite(s): BIT2400.\nLectures three hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "BIT2400.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NET 3006",
+    "course_code": "NET 006",
+    "course_number": 3006,
+    "course_title": "NET3006 [0.5 credit]",
+    "course_desc": "Key network management models (FCAPS, TMN), protocols and standards, such as SNMP. Introduction to and use of various management tools and methodologies. Current trends in network management and measurement. Security issues in collecting networking management information.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): NET3000 and NET3004.\nLectures three hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "NET3000 and NET3004.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NET 3007",
+    "course_code": "NET 007",
+    "course_number": 3007,
+    "course_title": "NET3007 [0.5 credit]",
+    "course_desc": "Basics of network security. Students are introduced to the goals of IT security, common threats and countermeasures including firewalls, intrusion detection and prevention systems (IDPS) and virtual private networks. Several operating environments will be studied as examples. Also includes a section on computer ethics.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): NET2012.\nLectures three hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "NET2012.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NET 3008",
+    "course_code": "NET 008",
+    "course_number": 3008,
+    "course_title": "NET3008 [0.5 credit]",
+    "course_desc": "Routing IP at the enterprise level, within and between, autonomous systems. Advanced control and optimization of routing protocols and manipulation of traffic paths with multiple routing protocols. Working knowledge of Internet reachability via BGP.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): NET2012.\nLectures three hours a week, tutorial/laboratory three hours a week.\n",
+    "course_prerequisites": "NET2012.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NET 3010",
+    "course_code": "NET 010",
+    "course_number": 3010,
+    "course_title": "NET3010 [0.5 credit]",
+    "course_desc": "Architectures, protocols, and languages used to develop dynamic Web content, including Hypertext Markup and Hypertext Formatting Languages (HTML, XML, CSS), Universal Resource Identifiers (URI), and the Hypertext Transport Protocol (HTTP). JavaScript and PHP are used to model cross-platform web programming.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BIT2400, NET3000.\nLectures three hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "BIT2400, NET3000.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NET 3011",
+    "course_code": "NET 011",
+    "course_number": 3011,
+    "course_title": "NET3011 [0.5 credit]",
+    "course_desc": "VLANs and inter-VLAN routing in a multilayer switched environment. Variants of STP and the use of related enhancements. Techniques for network redundancy and load balancing. Securing a switched infrastructure. Architectures and techniques for delivering converged traffic in an enterprise environment.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): NET2012.\nLectures three hours a week, tutorial/laboratory three hours a week.\n",
+    "course_prerequisites": "NET2012.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NET 3012",
+    "course_code": "NET 012",
+    "course_number": 3012,
+    "course_title": "NET3012 [0.5 credit]",
+    "course_desc": "An exploration of deployment options that can be implemented atop of a MPLS network. The focus is on technologies and architectures that serve to enhance IP delivery, or IP service leveraging the MPLS infrastructure. Includes Layer 2 and 3 tunneling techniques. Includes: Experiential Learning Activity.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): NET3008.\nLectures three hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "NET3008.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NET 3900",
+    "course_code": "NET 900",
+    "course_number": 3900,
+    "course_title": "NET3900 [0.5 credit]",
+    "course_desc": "Design and configuration of Wi-Fi networks as used in commercial and enterprise venues. Topics include 802.11 family of protocols, wireless transmission, RF design, security methods and protocols, and system design. Topologies include campus, bridge and remote access.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): NET2007.\nLectures two hours a week, tutorial/laboratory three hours a week.\n",
+    "course_prerequisites": "NET2007.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NET 4000",
+    "course_code": "NET 000",
+    "course_number": 4000,
+    "course_title": "NET4000 [0.5 credit]",
+    "course_desc": "Overview of technologies, protocols and techniques related to Information Technology networking that are either in their early stage of adoption or are not yet mainstream (i.e. beta or prototype stage). Focus will vary from year to year to reflect the evolutionary nature of this domain.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing in the Networking  program or permission of the instructor.\nAlso offered at the graduate level, with different requirements, as ITEC5110, for which additional credit is precluded.\nLectures three hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "fourth-year standing in the Networking  program or permission of the instructor.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "NET 4001",
+    "course_code": "NET 001",
+    "course_number": 4001,
+    "course_title": "NET4001 [0.5 credit]",
+    "course_desc": "Introduction to discrete event simulation and network modeling; fundamental stochastic models for networking; introduction to queueing theory; random numbers; analysis of simulation data; confidence intervals. Use of different software tools to plan and perform simulations.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): BIT2000.\nAlso offered at the graduate level, with different requirements, as ITEC5113, for which additional credit is precluded.\nLectures three hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "BIT2000.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NET 4003",
+    "course_code": "NET 003",
+    "course_number": 4003,
+    "course_title": "NET4003 [0.5 credit]",
+    "course_desc": "History and evolution of computers. Models and functional descriptions of CPU, bus, memory, I/O. Internal data transfer and storage concepts. Bus protocols. Memory organization and cache principles.  Digital logic and simple logic designs of CPU, buses, memory. Concepts of virtual machines, parallel computing, cloud computing.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third year standing in the Networking program, NET 2003 and NET3001.\nLectures three hours a week, tutorial/laboratory one hour a week.\n",
+    "course_prerequisites": "third year standing in the Networking program, NET 2003 and NET3001.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NET 4005",
+    "course_code": "NET 005",
+    "course_number": 4005,
+    "course_title": "NET4005 [0.5 credit]",
+    "course_desc": "Architectures for computing in modern data networks that adopt the Internet architecture. Topics covered include socket programming, RPC and RMI. Client-server and peer-to-peer models. Emerging application architectures.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): NET3004 and NET3010.\nAlso offered at the graduate level, with different requirements, as ITEC5114, for which additional credit is precluded.\nLectures three hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "NET3004 and NET3010.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NET 4007",
+    "course_code": "NET 007",
+    "course_number": 4007,
+    "course_title": "NET4007 [0.5 credit]",
+    "course_desc": "Audio and video compression. H.261, JPEG, MPEG and DVI. Accessing audio and video from a web server. Real Time Streaming Protocol (RTSP). Multimedia operating systems. Multimedia database. Network support for multimedia applications. Multimedia synchronization.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing in Networking program or permission of the instructor.\nAlso offered at the graduate level, with different requirements, as ITEC5111, for which additional credit is precluded.\nLectures three hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "fourth-year standing in Networking program or permission of the instructor.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "NET 4009",
+    "course_code": "NET 009",
+    "course_number": 4009,
+    "course_title": "NET4009 [0.5 credit]",
+    "course_desc": "Integrates planned maintenance and troubleshooting techniques, including, tools, applications and formalized methodologies. Study of issues in focused areas (such as routed vs. switched environments, addressing services, performance, security, VPN), culminating in problem resolution throughout a complex enterprise network.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): NET3011, NET3008.\nLectures three hours a week, tutorial/laboratory three hours a week.\n",
+    "course_prerequisites": "NET3011, NET3008.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NET 4010",
+    "course_code": "NET 010",
+    "course_number": 4010,
+    "course_title": "NET4010 [0.5 credit]",
+    "course_desc": "The concept, principle and rationale of mobile networking. Mobile network architecture, protocols, mobility management, routing and mobile TCP/IP; Security challenges, vulnerabilities and threats in mobile networks; Security defense techniques and countermeasures in mobile networks.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing in Networking program or permission of the instructor.\nAlso offered at the graduate level, with different requirements, as ITEC5112, for which additional credit is precluded.\nLectures three hours a week, tutorial/laboratory one hour a week.\n",
+    "course_prerequisites": "fourth-year standing in Networking program or permission of the instructor.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "NET 4011",
+    "course_code": "NET 011",
+    "course_number": 4011,
+    "course_title": "NET4011 [0.5 credit]",
+    "course_desc": "Understanding classes of advanced attacks. Building secure networks. Adversarial Machine Learning. Security in clouds, virtualized networks, and IoT. Understanding impact of OS and software security issues. Security in next generation networks such as 5G.",
+    "course_extra_details": "Prerequisite(s): NET3007.\nLectures three hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "NET3007.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NET 4012",
+    "course_code": "NET 012",
+    "course_number": 4012,
+    "course_title": "NET4012 [0.5 credit]",
+    "course_desc": "The basics of cloud computing and its driving technology behind: virtualization. Topics include how virtual machines and containers are deployed and orchestrated; how various resources and networks are virtualized and managed; hypervisor technology; virtual network management and micro-segmentation; cloud service provisioning; cloud security.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): NET2013 and NET3006.\nLectures three hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "NET2013 and NET3006.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NET 4901",
+    "course_code": "NET 901",
+    "course_number": 4901,
+    "course_title": "NET4901 [1.0 credit]",
+    "course_desc": "This course provides the opportunity to apply knowledge gained in previous courses towards the design and implementation of a major Networking related project. Working in teams or as individuals under the direction of faculty members, students undertake projects internally or in collaboration with industry.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing in the Networking program.\nTutorial hours arranged.\n",
+    "course_prerequisites": "fourth-year standing in the Networking program.",
+    "year_standing": 4
+}]}

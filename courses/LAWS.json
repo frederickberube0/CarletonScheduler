@@ -1,0 +1,1023 @@
+{"object": [
+{
+    "course_identifier": "LAWS 1001",
+    "course_code": "LAWS1001",
+    "course_number": 1001,
+    "course_title": "LAWS1001 [0.5 credit]",
+    "course_desc": "Introduction to legal studies: concepts, sources, nature and functions of law; historical, cultural and constitutional foundations of Canadian legal system; common and civil law traditions; statutory interpretation; precedent; legal institutions; frameworks for analyzing formal and informal conceptions of law and its role in society.",
+    "course_extra_details": "Lectures and discussion three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 1002",
+    "course_code": "LAWS1002",
+    "course_number": 1002,
+    "course_title": "LAWS1002 [0.5 credit]",
+    "course_desc": "Introduction to legal rules and theoretical approaches for critically understanding the creation, interpretation and enforcement of those rules; the role of judges, juries, lawyers, and lay persons; adjudication and alternative dispute resolution; relationship of law with social change and justice; challenges of access to justice.",
+    "course_extra_details": "Lectures and discussion three hours a week. \n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 2105",
+    "course_code": "LAWS2105",
+    "course_number": 2105,
+    "course_title": "LAWS2105 [0.5 credit]",
+    "course_desc": "Theories and practices of law and social justice. Issues examined may include: civil democracy and repression; global governance and the rule of law; democratic movements and social power; human rights instruments, regimes and remedies; armed conflict; and humanitarian intervention.",
+    "course_extra_details": "Prerequisite(s): 1.0 credit from LAWS1001, LAWS1002, or HRSJ1001 [1.0], or PAPM1001 and PSCI2003.\nLectures three hours a week.\n",
+    "course_prerequisites": "1.0 credit from LAWS1001, LAWS1002, or HRSJ1001 [1.0], or PAPM1001 and PSCI2003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 2201",
+    "course_code": "LAWS2201",
+    "course_number": 2201,
+    "course_title": "LAWS2201 [0.5 credit]",
+    "course_desc": "Origins and scope of the concept of person in law and how concepts of legal personality change over time.  Origins and scope of the concept of property and how concepts of property change over time.",
+    "course_extra_details": "Prerequisite(s): LAWS1001 and LAWS1002.\nLectures three hours a week.\n",
+    "course_prerequisites": "LAWS1001 and LAWS1002.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 2202",
+    "course_code": "LAWS2202",
+    "course_number": 2202,
+    "course_title": "LAWS2202 [0.5 credit]",
+    "course_desc": "The concepts employed by the law for creating and enforcing legal obligations between persons within society, including contract, tort, fiduciary obligation and restitution.  Consideration is given to the role of persons and the role of the state in ordering private legal obligations.",
+    "course_extra_details": "Prerequisite(s): LAWS1001 and LAWS1002.\nLectures three hours a week.\n",
+    "course_prerequisites": "LAWS1001 and LAWS1002.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 2301",
+    "course_code": "LAWS2301",
+    "course_number": 2301,
+    "course_title": "LAWS2301 [0.5 credit]",
+    "course_desc": "The institutional and social production of criminal law in Canada.  Processes, personnel, and agencies in the criminal legal system. The role of discretion and mechanisms of accountability. The accused and the place of the victim.  Issues and problems in sentencing and punishment.",
+    "course_extra_details": "Prerequisite(s): LAWS1001 and LAWS1002.\nLectures three hours a week.\n",
+    "course_prerequisites": "LAWS1001 and LAWS1002.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 2302",
+    "course_code": "LAWS2302",
+    "course_number": 2302,
+    "course_title": "LAWS2302 [0.5 credit]",
+    "course_desc": "The legal and social dimensions of criminal liability and responsibility in Canada, including issues and problems surrounding mens rea, actus reus, and the attachment of liability. Excuses and justifications, the Canadian Criminal Code and the role of the Charter in the criminal legal system.",
+    "course_extra_details": "Prerequisite(s): LAWS1001 and LAWS1002.\nLectures three hours a week.\n",
+    "course_prerequisites": "LAWS1001 and LAWS1002.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 2501",
+    "course_code": "LAWS2501",
+    "course_number": 2501,
+    "course_title": "LAWS2501 [0.5 credit]",
+    "course_desc": "Law relating to the state, society and the constitution, with a focus on the historical framework, federalism, and constitutional reform in Canada.",
+    "course_extra_details": "Prerequisite(s): 1.0 credit from LAWS1001 and LAWS1002 or PAPM1001 and PSCI2003.\nLectures three hours a week.\n",
+    "course_prerequisites": "1.0 credit from LAWS1001 and LAWS1002 or PAPM1001 and PSCI2003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 2502",
+    "course_code": "LAWS2502",
+    "course_number": 2502,
+    "course_title": "LAWS2502 [0.5 credit]",
+    "course_desc": "Law relating to the state and its relationship to individuals and groups in society, with a focus on the administrative process, basic values and the Charter.",
+    "course_extra_details": "Prerequisite(s): 1.0 credit from LAWS1001 and LAWS1002 or PAPM1001 and PSCI2003.\nLectures three hours a week.\n",
+    "course_prerequisites": "1.0 credit from LAWS1001 and LAWS1002 or PAPM1001 and PSCI2003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 2601",
+    "course_code": "LAWS2601",
+    "course_number": 2601,
+    "course_title": "LAWS2601 [0.5 credit]",
+    "course_desc": "Examination of the role of law in contemporary international relations.  Nature, history and sources of international law; international personality of states; status of international organizations and individuals; creation and effect of international obligations; importance and functions of law in the settlement of international disputes.",
+    "course_extra_details": "Prerequisite(s): 1.0 credit from LAWS1001 and LAWS1002 or PAPM1001 and PSCI2003.\nLectures three hours a week.\n",
+    "course_prerequisites": "1.0 credit from LAWS1001 and LAWS1002 or PAPM1001 and PSCI2003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 2908",
+    "course_code": "LAWS2908",
+    "course_number": 2908,
+    "course_title": "LAWS2908 [0.5 credit]",
+    "course_desc": "Introduction to the legal research process and analysis of legal methodology; finding and analyzing primary and secondary legal sources. Students are strongly encouraged to take this course in the second year of their program.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): LAWS1001 and LAWS1002.\nLectures and tutorials three hours a week.\n",
+    "course_prerequisites": "LAWS1001 and LAWS1002.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3001",
+    "course_code": "LAWS3001",
+    "course_number": 3001,
+    "course_title": "LAWS3001 [0.5 credit]",
+    "course_desc": "How the legal process has affected the status of women. Areas of concentration within the Canadian context include the criminal law, citizenship and immigration, education, employment, and welfare and social services.",
+    "course_extra_details": "Prerequisite(s): 1.0 credit in LAWS at the 2000 level.\nLectures three hours a week.\n",
+    "course_prerequisites": "1.0 credit in LAWS at the 2000 level.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3003",
+    "course_code": "LAWS3003",
+    "course_number": 3003,
+    "course_title": "LAWS3003 [0.5 credit]",
+    "course_desc": "The enforcement of promises and agreements; basic doctrines and underlying principles of the law of contract are studied from formation of the contract to remedies for breach of contract; role of contract for economic and social purposes is also considered.",
+    "course_extra_details": "Prerequisite(s): LAWS2202 and 0.5 credit in LAWS at the 2000 level.\nLectures three hours a week.\n",
+    "course_prerequisites": "LAWS2202 and 0.5 credit in LAWS at the 2000 level.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3005",
+    "course_code": "LAWS3005",
+    "course_number": 3005,
+    "course_title": "LAWS3005 [0.5 credit]",
+    "course_desc": "Definitions and goals of regulation; contemporary theories and debates about legal and non-legal approaches to regulation. Approaches studied may include market mechanisms, public agency regulation, self-regulation and governance in co-operation with associations in civil society.",
+    "course_extra_details": "Prerequisite(s): 1.0 credit from LAWS2201, LAWS2202, LAWS2501, LAWS2502.\nLectures three hours a week.\n",
+    "course_prerequisites": "1.0 credit from LAWS2201, LAWS2202, LAWS2501, LAWS2502.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3006",
+    "course_code": "LAWS3006",
+    "course_number": 3006,
+    "course_title": "LAWS3006 [0.5 credit]",
+    "course_desc": "Theory and practice of mediation; historical roots and influences; contrasts with formal litigation and other dispute resolution processes; issues of social and legal control; critiques, including feminist, Marxist and critical race theory; issues of power, gender, race and class; application to contemporary issues and disputes.",
+    "course_extra_details": "Prerequisite(s): (LAWS1001 and LAWS1002) and (1.0 credit in LAWS at the 2000 level or 0.5 credit in LAWS at the 2000 level and BUSI2601).\nLectures three hours a week.\n",
+    "course_prerequisites": "(LAWS1001 and LAWS1002) and (1.0 credit in LAWS at the 2000 level or 0.5 credit in LAWS at the 2000 level and BUSI2601).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3101",
+    "course_code": "LAWS3101",
+    "course_number": 3101,
+    "course_title": "LAWS3101 [0.5 credit]",
+    "course_desc": "The concept of law, leading theories of law and related concepts such as rules and obligations, power and authority, coercion, and justice.",
+    "course_extra_details": "Prerequisite(s): 1.0 credit in LAWS at the 2000 level.\nLectures three hours a week.\n",
+    "course_prerequisites": "1.0 credit in LAWS at the 2000 level.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3103",
+    "course_code": "LAWS3103",
+    "course_number": 3103,
+    "course_title": "LAWS3103 [0.5 credit]",
+    "course_desc": "Themes, approaches and debates in the field of law, culture and the humanities. Primary materials considered may include theoretical writings/cultural criticism/literary texts/films/video/photography and music. These texts present different modes and means of inquiring into the assumptions and aspirations that we ascribe to law.",
+    "course_extra_details": "Prerequisite(s): 1.0 credit in LAWS at the 2000 level.\nLectures three hours a week.\n",
+    "course_prerequisites": "1.0 credit in LAWS at the 2000 level.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3104",
+    "course_code": "LAWS3104",
+    "course_number": 3104,
+    "course_title": "LAWS3104 [0.5 credit]",
+    "course_desc": "Introduction to the general contours of critical theory as it pertains to law and legal studies. The course will introduce key concepts and controversies in the field, identify specific theoretical debates, and consider what conceptual consequences follow from the elaboration of specific positions or arguments.",
+    "course_extra_details": "Prerequisite(s): 1.0 credit in LAWS at the 2000 level.\nLectures three hours a week.\n",
+    "course_prerequisites": "1.0 credit in LAWS at the 2000 level.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3105",
+    "course_code": "LAWS3105",
+    "course_number": 3105,
+    "course_title": "LAWS3105 [0.5 credit]",
+    "course_desc": "Theories of law and politics; prominent thinkers and schools of thought; influence on legal and political institutions. Topics include law and ethics, justice and equity, positivism and natural law, state absolutism, codifications, and anthropological and historical theories of law and society.",
+    "course_extra_details": "Prerequisite(s): 1.0 credit in LAWS at the 2000 level, or 0.5 credit in LAWS at the 2000 level and PSCI1100.\nLectures three hours a week.\n",
+    "course_prerequisites": "1.0 credit in LAWS at the 2000 level, or 0.5 credit in LAWS at the 2000 level and PSCI1100.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3201",
+    "course_code": "LAWS3201",
+    "course_number": 3201,
+    "course_title": "LAWS3201 [0.5 credit]",
+    "course_desc": "Forms of carrying on business activity: proprietorships, partnerships, corporations and Crown entities. The rights and obligations of such business enterprises both internally and in relation with other persons. The relationship between legal form and economic function. The role of state intervention.",
+    "course_extra_details": "Prerequisite(s): LAWS2201 and LAWS2202.\nLectures three hours a week.\n",
+    "course_prerequisites": "LAWS2201 and LAWS2202.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3202",
+    "course_code": "LAWS3202",
+    "course_number": 3202,
+    "course_title": "LAWS3202 [0.5 credit]",
+    "course_desc": "Critical assessment of copyright, patents, trademarks, trade secrets and other forms of intellectual property; regulation and governance of information technology including self-regulation, standard setting, licensing, competition policy and international dimensions.",
+    "course_extra_details": "Prerequisite(s): 1.0 credit from LAWS2201, LAWS2202, LAWS2501, LAWS2502.\nLectures three hours a week.\n",
+    "course_prerequisites": "1.0 credit from LAWS2201, LAWS2202, LAWS2501, LAWS2502.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3205",
+    "course_code": "LAWS3205",
+    "course_number": 3205,
+    "course_title": "LAWS3205 [0.5 credit]",
+    "course_desc": "Need for consumer protection in the provision of goods and services; traditional legal protection by statute and common law; legislative responses to consumer pressures; judicial response in recent Canadian, English and American law; reform of consumer law.",
+    "course_extra_details": "Prerequisite(s): (LAWS2202 or BUSI2601) and 0.5 credit in LAWS at the 2000 level.\nLectures three hours a week.\n",
+    "course_prerequisites": "(LAWS2202 or BUSI2601) and 0.5 credit in LAWS at the 2000 level.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3206",
+    "course_code": "LAWS3206",
+    "course_number": 3206,
+    "course_title": "LAWS3206 [0.5 credit]",
+    "course_desc": "The law relating to banks and banking; the nature of the legal relationship created; legal rights and duties of the parties involved. Consumer and corporate aspects of banking (including computerization and electronic funds transfers); regulations of banking.",
+    "course_extra_details": "Prerequisite(s): (LAWS2202 or BUSI2601) and 0.5 credit in LAWS at the 2000 level.\nLectures three hours a week.\n",
+    "course_prerequisites": "(LAWS2202 or BUSI2601) and 0.5 credit in LAWS at the 2000 level.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3207",
+    "course_code": "LAWS3207",
+    "course_number": 3207,
+    "course_title": "LAWS3207 [0.5 credit]",
+    "course_desc": "Topics may include: the international sale of goods, finance of transnational transactions, international carriage of goods, insurance, agency and trading houses; other forms of trade, e.g., counter-trade, foreign investment; settlement of international disputes by litigation and arbitration.",
+    "course_extra_details": "Prerequisite(s): (LAWS2202 or BUSI2601) and 0.5 credit in LAWS at the 2000 level.\nLectures three hours a week.\n",
+    "course_prerequisites": "(LAWS2202 or BUSI2601) and 0.5 credit in LAWS at the 2000 level.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3208",
+    "course_code": "LAWS3208",
+    "course_number": 3208,
+    "course_title": "LAWS3208 [0.5 credit]",
+    "course_desc": "International regulation of trade and investment through bilateral, regional and multilateral treaties and agreements. Topics may include: WTO, NAFTA, the EU, UNCTAD, intergovernmental commodity agreements, dispute settlement.",
+    "course_extra_details": "Prerequisite(s): (0.5 credit from LAWS2202, LAWS2501, LAWS2601, BUSI2601) and 0.5 credit in LAWS at the 2000 level.\nLectures three hours a week.\n",
+    "course_prerequisites": "(0.5 credit from LAWS2202, LAWS2501, LAWS2601, BUSI2601) and 0.5 credit in LAWS at the 2000 level.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3209",
+    "course_code": "LAWS3209",
+    "course_number": 3209,
+    "course_title": "LAWS3209 [0.5 credit]",
+    "course_desc": "History of corrections in Canada in the context of the international evolution of western penal systems, Canadian corrections in the twentieth century and expansion of alternatives to prison after WWII; criminological debates about the theoretical and empirical significance of historical milestones in corrections.",
+    "course_extra_details": "Prerequisite(s): LAWS2301 and LAWS2302.\nLectures three hours a week.\n",
+    "course_prerequisites": "LAWS2301 and LAWS2302.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3305",
+    "course_code": "LAWS3305",
+    "course_number": 3305,
+    "course_title": "LAWS3305 [0.5 credit]",
+    "course_desc": "The history of the relationship between the criminal law system and society. Changing issues in the criminal law and the nature of institutional responses, covering medieval to early nineteenth-century England and nineteenth to early twentieth-century Canada.",
+    "course_extra_details": "Also listed as HIST3305.\nPrerequisite(s): 1.0 credit in LAWS at the 2000 level, or 0.5 credit in LAWS at the 2000 level and 0.5 credit in HIST at the 2000 level.\nLectures three hours a week.\n",
+    "course_prerequisites": "1.0 credit in LAWS at the 2000 level, or 0.5 credit in LAWS at the 2000 level and 0.5 credit in HIST at the 2000 level.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3306",
+    "course_code": "LAWS3306",
+    "course_number": 3306,
+    "course_title": "LAWS3306 [0.5 credit]",
+    "course_desc": "Criminal law process in Canada; structure and use of the process examined for fairness, defects, and possible reform initiatives. Issues concerning gender, race and class bias in the implementation and application of the criminal law.",
+    "course_extra_details": "Prerequisite(s): LAWS2301 and LAWS2302.\nLectures three hours a week.\n",
+    "course_prerequisites": "LAWS2301 and LAWS2302.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3307",
+    "course_code": "LAWS3307",
+    "course_number": 3307,
+    "course_title": "LAWS3307 [0.5 credit]",
+    "course_desc": "A review of the Youth Criminal Justice Act within the framework of the Canadian justice system, with particular emphasis on historical and philosophical developments and objectives. Current topics include: constitutional issues, procedure, confessions, transfers, sentencing options, alternative measures, reviews, and possible amendments.",
+    "course_extra_details": "Prerequisite(s): LAWS2301 and LAWS2302.\nLectures three hours a week.\n",
+    "course_prerequisites": "LAWS2301 and LAWS2302.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3308",
+    "course_code": "LAWS3308",
+    "course_number": 3308,
+    "course_title": "LAWS3308 [0.5 credit]",
+    "course_desc": "This course explores justifications and practices of punishment and social control from a socio-legal perspective. Rationalizations and justifications for punishment are considered. Different forms of punishment and control within the law will be examined as well as different theoretical perspectives of punishment.",
+    "course_extra_details": "Prerequisite(s): LAWS2301 and 0.5 credit in LAWS at the 2000 level.\nLectures three hours a week.\n",
+    "course_prerequisites": "LAWS2301 and 0.5 credit in LAWS at the 2000 level.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3401",
+    "course_code": "LAWS3401",
+    "course_number": 3401,
+    "course_title": "LAWS3401 [0.5 credit]",
+    "course_desc": "Legal regulation of the employment relationship; its contractual basis; defining employment; rights and duties of employees and employers; termination of employment; statutory regulation through employment standards legislation, human rights codes, workers' compensation acts, occupational health and safety and related statutes.",
+    "course_extra_details": "Prerequisite(s): (0.5 credit from LAWS2201, LAWS2202, LAWS2501, LAWS2502, BUSI2601) and 0.5 credit in LAWS at the 2000 level.\nLectures three hours a week.\n",
+    "course_prerequisites": "(0.5 credit from LAWS2201, LAWS2202, LAWS2501, LAWS2502, BUSI2601) and 0.5 credit in LAWS at the 2000 level.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3405",
+    "course_code": "LAWS3405",
+    "course_number": 3405,
+    "course_title": "LAWS3405 [0.5 credit]",
+    "course_desc": "Role of law in industrial relations; effect of law on collective bargaining relationships; recognition of bargaining agent; regulation of bargaining; administration of the collective agreement; methods of conflict resolution.",
+    "course_extra_details": "Prerequisite(s): (0.5 credit from LAWS2201, LAWS2202, LAWS2501, LAWS2502, BUSI2601) and 0.5 credit in LAWS at the 2000 level.\nLectures three hours a week.\n",
+    "course_prerequisites": "(0.5 credit from LAWS2201, LAWS2202, LAWS2501, LAWS2502, BUSI2601) and 0.5 credit in LAWS at the 2000 level.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3500",
+    "course_code": "LAWS3500",
+    "course_number": 3500,
+    "course_title": "LAWS3500 [0.5 credit]",
+    "course_desc": "An investigation of the Canadian constitution. Sovereignty, the nature and units of executive, legislative, and judicial power in Canada as interpreted by the courts. The distribution of powers under the Canadian constitution, including an investigation of contemporary problems of federalism. Problems of judicial review.",
+    "course_extra_details": "Prerequisite(s): (LAWS2501 or PSCI2003) and 0.5 credit in LAWS at the 2000 level.\nLectures three hours a week.\n",
+    "course_prerequisites": "(LAWS2501 or PSCI2003) and 0.5 credit in LAWS at the 2000 level.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3501",
+    "course_code": "LAWS3501",
+    "course_number": 3501,
+    "course_title": "LAWS3501 [0.5 credit]",
+    "course_desc": "Legal responses to challenges of the information society. Topics may include privacy, surveillance and monitoring, access to information, freedom of expression, control of objectionable content, Charter and human rights issues, and security.",
+    "course_extra_details": "Prerequisite(s): 1.0 credit in LAWS at the 2000 level.\nLectures three hours a week.\n",
+    "course_prerequisites": "1.0 credit in LAWS at the 2000 level.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3502",
+    "course_code": "LAWS3502",
+    "course_number": 3502,
+    "course_title": "LAWS3502 [0.5 credit]",
+    "course_desc": "The claimed relationship between freedom of expression and Canadian democracy, including the historical development of the right and various limits on it, and the regulatory structures governing contemporary media, criminalized and commercial expression, and use of media in the courtroom.",
+    "course_extra_details": "Prerequisite(s): 1.0 credit in LAWS at the 2000 level.\nLectures three hours a week.\n",
+    "course_prerequisites": "1.0 credit in LAWS at the 2000 level.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3503",
+    "course_code": "LAWS3503",
+    "course_number": 3503,
+    "course_title": "LAWS3503 [0.5 credit]",
+    "course_desc": "Human rights issues and law in Canada; history and present day experiences of discrimination; critical exploration of laws effectiveness in responding to discrimination; meaning(s) of equality and discrimination; focus on Human Rights Codes - interpretation, administration, enforcement with some reference to s.15 of the Charter.",
+    "course_extra_details": "Prerequisite(s): (0.5 credit from LAWS2105, LAWS2302, LAWS2502) and 0.5 credit in LAWS at the 2000 level.\nLectures three hours a week.\n",
+    "course_prerequisites": "(0.5 credit from LAWS2105, LAWS2302, LAWS2502) and 0.5 credit in LAWS at the 2000 level.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3504",
+    "course_code": "LAWS3504",
+    "course_number": 3504,
+    "course_title": "LAWS3504 [0.5 credit]",
+    "course_desc": "The legal situation of aboriginal peoples in Canada. Topics include status, aboriginal rights, treaties, legislative jurisdiction and the constitutional framework, aboriginal claims, and self-government. Comparative references to aboriginal policy in other countries.",
+    "course_extra_details": "Prerequisite(s): 1.0 credit in LAWS at the 2000 level.\nLectures three hours a week.\n",
+    "course_prerequisites": "1.0 credit in LAWS at the 2000 level.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3506",
+    "course_code": "LAWS3506",
+    "course_number": 3506,
+    "course_title": "LAWS3506 [0.5 credit]",
+    "course_desc": "Structure and procedure of Canadian administrative authorities; policy, statutory and judicial environments in which they operate. Topics include techniques for implementing public policy and structuring public authorities; statutory interpretation; procedural safeguards; exercise of statutory discretion; reconciling efficiency and fairness.",
+    "course_extra_details": "Prerequisite(s): LAWS2502 and 0.5 credit in LAWS at the 2000 level.\nLectures three hours a week.\n",
+    "course_prerequisites": "LAWS2502 and 0.5 credit in LAWS at the 2000 level.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3508",
+    "course_code": "LAWS3508",
+    "course_number": 3508,
+    "course_title": "LAWS3508 [0.5 credit]",
+    "course_desc": "Legal/ethical issues in health care regulation. Topics may include: regulation of health professions; economics of health care; informed consent/choice; regulation of drugs, devices and research; medical malpractice and other liability; mental health issues; patient/client records.",
+    "course_extra_details": "Prerequisite(s): 1.0 credit in LAWS at the 2000 level.\nLectures three hours a week.\n",
+    "course_prerequisites": "1.0 credit in LAWS at the 2000 level.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3509",
+    "course_code": "LAWS3509",
+    "course_number": 3509,
+    "course_title": "LAWS3509 [0.5 credit]",
+    "course_desc": "Selected issues in the Canadian Charter of Rights and Freedoms. The topics of this course may vary from year to year, and are announced in advance of registration.",
+    "course_extra_details": "Prerequisite(s): (0.5 Credit from LAWS2105, LAWS2201, LAWS2302, LAWS2502) and 0.5 credit in LAWS at the 2000 level.\nLectures three hours a week.\n",
+    "course_prerequisites": "(0.5 Credit from LAWS2105, LAWS2201, LAWS2302, LAWS2502) and 0.5 credit in LAWS at the 2000 level.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3602",
+    "course_code": "LAWS3602",
+    "course_number": 3602,
+    "course_title": "LAWS3602 [0.5 credit]",
+    "course_desc": "The developing international law relating to the protection of human rights. General concepts, rules and institutions. Specific issues include self-determination, aboriginal rights, the refugee problem, and torture. The inherent problems and overall potential of international law.",
+    "course_extra_details": "Precludes additional credit for LAWS 4604 (no longer offered).\nPrerequisite(s): (0.5 credit from LAWS2105, LAWS2502, LAWS2601 or HRSJ2001) and 0.5 credit in LAWS at the 2000 level or PAPM1001 and PSCI2003.\nLectures three hours a week.\n",
+    "course_prerequisites": "(0.5 credit from LAWS2105, LAWS2502, LAWS2601 or HRSJ2001) and 0.5 credit in LAWS at the 2000 level or PAPM1001 and PSCI2003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3604",
+    "course_code": "LAWS3604",
+    "course_number": 3604,
+    "course_title": "LAWS3604 [0.5 credit]",
+    "course_desc": "Nature, character, legal status and jurisdiction of intergovernmental international organizations. Rights and duties of states arising from membership in international organizations. Distinction between international and supra-national institutions. United Nations system, selected subsidiary organs, and specialized agencies; non-governmental organizations at times of crisis.",
+    "course_extra_details": "Prerequisite(s): LAWS2601 and 0.5 credit in LAWS at the 2000 level or PAPM1001 and PSCI2003.\nLectures three hours a week.\n",
+    "course_prerequisites": "LAWS2601 and 0.5 credit in LAWS at the 2000 level or PAPM1001 and PSCI2003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3800",
+    "course_code": "LAWS3800",
+    "course_number": 3800,
+    "course_title": "LAWS3800 [0.5 credit]",
+    "course_desc": "Various aspects of environmental law; pollution control, legal actions and remedies; legal foundations for participation in decision-making processes. Social, economic and political forces influencing the formulation and implementation of environmental law. Alternative forms of regulation that may articulate different demands.",
+    "course_extra_details": "Prerequisite(s): 1.0 credit in LAWS at the 2000 level.\nLectures three hours a week.\n",
+    "course_prerequisites": "1.0 credit in LAWS at the 2000 level.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3804",
+    "course_code": "LAWS3804",
+    "course_number": 3804,
+    "course_title": "LAWS3804 [0.5 credit]",
+    "course_desc": "Legal framework surrounding the family and family relationships in Canadian society. Topics include marriage and cohabitation, matrimonial support, custody and access, and dissolution of marriage. State interventions through law; law and change in family structures; equality issues; dispute resolution processes.",
+    "course_extra_details": "Also listed as SOWK3804.\nPrerequisite(s): LAWS2201 and LAWS2202.\nLectures three hours a week.\n",
+    "course_prerequisites": "LAWS2201 and LAWS2202.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3903",
+    "course_code": "LAWS3903",
+    "course_number": 3903,
+    "course_title": "LAWS3903 [0.5 credit]",
+    "course_desc": "The topics of this course may vary from year to year, and are announced in advance of registration.",
+    "course_extra_details": "Prerequisite(s): 1.0 credit in LAWS at the 2000 level.\nLectures three hours a week.\n",
+    "course_prerequisites": "1.0 credit in LAWS at the 2000 level.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3904",
+    "course_code": "LAWS3904",
+    "course_number": 3904,
+    "course_title": "LAWS3904 [0.5 credit]",
+    "course_desc": "The topics of this course may vary from year to year, and are announced in advance of registration.",
+    "course_extra_details": "Prerequisite(s): 1.0 credit in LAWS at the 2000-level.\nLectures three hours a week.\n",
+    "course_prerequisites": "1.0 credit in LAWS at the 2000-level.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 3908",
+    "course_code": "LAWS3908",
+    "course_number": 3908,
+    "course_title": "LAWS3908 [0.5 credit]",
+    "course_desc": "Advanced approaches to interdisciplinary research and analysis in law and legal studies. Methodological approaches considered will vary by section, and may include theoretical, quantitative, qualitative, literary, or historical approaches.",
+    "course_extra_details": "Prerequisite(s): LAWS2908 and third-year Honours standing. Honours students are strongly encouraged to take this course in the third year of their program.\nLectures three hours a week.\n",
+    "course_prerequisites": "LAWS2908 and third-year Honours standing. Honours students are strongly encouraged to take this course in the third year of their program.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "LAWS 3999",
+    "course_code": "LAWS3999",
+    "course_number": 3999,
+    "course_title": "LAWS3999 [0.0 credit]",
+    "course_desc": "Includes: Experiential Learning ActivityPrerequisite(s): registration in the B.A. Honours (concentration in Business Law or concentration in Law, Policy and Government) Cooperative Program, completion of Co-op preparation classes offered by the Co-op office and permission of the Department. ",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): registration in the B.A. Honours (concentration in Business Law or concentration in Law, Policy and Government) Cooperative Program, completion of Co-op preparation classes offered by the Co-op office and permission of the Department.\n \n",
+    "course_prerequisites": "registration in the B.A. Honours (concentration in Business Law or concentration in Law, Policy and Government) Cooperative Program, completion of Co-op preparation classes offered by the Co-op office and permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LAWS 4001",
+    "course_code": "LAWS4001",
+    "course_number": 4001,
+    "course_title": "LAWS4001 [0.5 credit]",
+    "course_desc": "Relationship between family law and ideology of the family, gender roles and the reproduction of family structures. Social ramifications of family law; potential for family law reform as an agency of social change.",
+    "course_extra_details": "Prerequisite(s): LAWS2908, 0.5 credit from LAWS3001 or LAWS3804, and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908, 0.5 credit from LAWS3001 or LAWS3804, and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4002",
+    "course_code": "LAWS4002",
+    "course_number": 4002,
+    "course_title": "LAWS4002 [0.5 credit]",
+    "course_desc": "The literature comprising feminist perspectives on law; theoretical bases of these perspectives; place of feminist theories within other critiques of law; significance of different feminist theories for equality theory and law reform strategies; unique contributions of the various perspectives.",
+    "course_extra_details": "Prerequisite(s): LAWS2908 and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908 and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4006",
+    "course_code": "LAWS4006",
+    "course_number": 4006,
+    "course_title": "LAWS4006 [0.5 credit]",
+    "course_desc": "Legal nature of the interaction of religion and state within an historical framework. Emphasis on Canada after the Charter of Rights and Freedoms and on religious pluralism and resistance to state intervention in religion. Interdisciplinary readings drawn from legal, historical and theological sources.",
+    "course_extra_details": "Prerequisite(s): LAWS2908 and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908 and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4100",
+    "course_code": "LAWS4100",
+    "course_number": 4100,
+    "course_title": "LAWS4100 [0.5 credit]",
+    "course_desc": "Realist and post-realist legal scholarship; emphasis on Canadian, American and British approaches. Topics include the Canadian treatise tradition, American legal realism, empirical approaches to legal problems, the sociological movement in law, critical and Canadian feminist legal scholarship, Marxian theories of law, normative economic theory.",
+    "course_extra_details": "Prerequisite(s): LAWS2908 and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908 and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4101",
+    "course_code": "LAWS4101",
+    "course_number": 4101,
+    "course_title": "LAWS4101 [0.5 credit]",
+    "course_desc": "Selected major contemporary theories of justice such as those associated with Rawls, Walzer, and Habermas, with emphasis on both their procedural and substantive elements and their concrete ramifications for law, policy and political practice.",
+    "course_extra_details": "Prerequisite(s): LAWS2908 or PAPM3000 and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908 or PAPM3000 and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4102",
+    "course_code": "LAWS4102",
+    "course_number": 4102,
+    "course_title": "LAWS4102 [0.5 credit]",
+    "course_desc": "This course examines selected controversies in rights theories, practices, and/or historiography. Illustrative questions may include: Are rights universal or culturally relative? Can rights be justified after the demise of natural rights philosophy? Do rights undermine difference? Do communities benefit from a rights-based culture?.",
+    "course_extra_details": "Prerequisite(s): LAWS2908 or PAPM3000 and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908 or PAPM3000 and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4105",
+    "course_code": "LAWS4105",
+    "course_number": 4105,
+    "course_title": "LAWS4105 [0.5 credit]",
+    "course_desc": "Selected theories of global justice as they pertain to legality, which may include questions such as the justice of military force and just war theory, global social justice and global inequality, sovereignty and cosmopolitan conceptions of justice, demands for global democracy and human rights.",
+    "course_extra_details": "Prerequisite(s): LAWS2105, LAWS2908 and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2105, LAWS2908 and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4106",
+    "course_code": "LAWS4106",
+    "course_number": 4106,
+    "course_title": "LAWS4106 [0.5 credit]",
+    "course_desc": "Examination of how law defines,  justifies,  and addresses individual,  collective and state violence: contemporary and historical case studies; theoretical inquiries into the relationship between law, legality and different forms of violence.",
+    "course_extra_details": "Prerequisite(s): LAWS2908 or PAPM3000 and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908 or PAPM3000 and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4107",
+    "course_code": "LAWS4107",
+    "course_number": 4107,
+    "course_title": "LAWS4107 [0.5 credit]",
+    "course_desc": "Sociological and legal theory accounts of the changing role and function of law in modern society with particular reference to advanced capitalist societies. Topics include: the welfare state and the use of regulatory law; juridification and legalization; counter-trends, deregulation, informalism, legal pluralism.",
+    "course_extra_details": "Prerequisite(s): LAWS2908 and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908 and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4200",
+    "course_code": "LAWS4200",
+    "course_number": 4200,
+    "course_title": "LAWS4200 [0.5 credit]",
+    "course_desc": "Selected topics in international economic law. May include: the legal regulation of international economic activity; methods of dispute settlement; standardization and development of an autonomous international trade law; and selected conventions and institutions governing international economic law.",
+    "course_extra_details": "Prerequisite(s): LAWS2908, 0.5 credit from LAWS3207 or LAWS3208, and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908, 0.5 credit from LAWS3207 or LAWS3208, and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4202",
+    "course_code": "LAWS4202",
+    "course_number": 4202,
+    "course_title": "LAWS4202 [0.5 credit]",
+    "course_desc": "Role, function, and legal regulation of persons managing business enterprises. Status, social responsibility, fiduciary obligations and rights. Control and accountability of managers, obligations owed to the enterprise unit itself, constitutional rights of members, standards imposed by statutory regulation.",
+    "course_extra_details": "Prerequisite(s): LAWS2908, LAWS3201 and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908, LAWS3201 and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4204",
+    "course_code": "LAWS4204",
+    "course_number": 4204,
+    "course_title": "LAWS4204 [0.5 credit]",
+    "course_desc": "An examination of selected legal topics relevant to the conduct of electronic commerce. Topics include types of regulation, government support, jurisdiction challenges, contract disputes and consumer protection. Court and alternative dispute resolution policy of Domain Names challenges are also included.",
+    "course_extra_details": "Prerequisite(s): LAWS2908, LAWS2201, LAWS2202 and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908, LAWS2201, LAWS2202 and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4209",
+    "course_code": "LAWS4209",
+    "course_number": 4209,
+    "course_title": "LAWS4209 [0.5 credit]",
+    "course_desc": "Examination of a selected advanced topic in business law. The topics of this course may vary from year to year and are announced in advance of registration.",
+    "course_extra_details": "Prerequisite(s): LAWS2908, 0.5 credit from LAWS2201 or LAWS2202, and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908, 0.5 credit from LAWS2201 or LAWS2202, and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4302",
+    "course_code": "LAWS4302",
+    "course_number": 4302,
+    "course_title": "LAWS4302 [0.5 credit]",
+    "course_desc": "Legal, policy and theoretical perspectives on the regulation of corporate crime. Nature and causes of corporate crime. Selected case studies on the role of the state in regulating corporate behaviour. Failure of the criminal justice system to respond to corporate crime.",
+    "course_extra_details": "Prerequisite(s): LAWS2908, CRCJ3001, or CRCJ3002 and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908, CRCJ3001, or CRCJ3002 and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4303",
+    "course_code": "LAWS4303",
+    "course_number": 4303,
+    "course_title": "LAWS4303 [0.5 credit]",
+    "course_desc": "This course explores the state's attempts to control drugs and drug users by exploring different aspects of national and international drug control. The Canadian experience of drug control, viewed from different perspectives, will be explored within a broader socio-legal context.",
+    "course_extra_details": "Prerequisite(s): LAWS2908, CRCJ3001, or CRCJ3002, and 0.5 credit from LAWS2301 or LAWS2302, and fourth-year Honours standing.\nSeminars three hours a week. \n",
+    "course_prerequisites": "LAWS2908, CRCJ3001, or CRCJ3002, and 0.5 credit from LAWS2301 or LAWS2302, and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4304",
+    "course_code": "LAWS4304",
+    "course_number": 4304,
+    "course_title": "LAWS4304 [0.5 credit]",
+    "course_desc": "Theoretical consideration of the emergence and transformation of \u201cpolicing\u201d activities through an examination of law and changes in social relations, with  special attention to the myriad agencies involved in contemporary security provision. Evolving notions of risk, surveillance, the state, and the private-public dichotomy.",
+    "course_extra_details": "Prerequisite(s): LAWS2908, CRCJ3001, or CRCJ3002, and 0.5 credit from LAWS2301 or LAWS2302, and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908, CRCJ3001, or CRCJ3002, and 0.5 credit from LAWS2301 or LAWS2302, and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4305",
+    "course_code": "LAWS4305",
+    "course_number": 4305,
+    "course_title": "LAWS4305 [0.5 credit]",
+    "course_desc": "Social transformation and criminal justice reform. Theoretical and practical reasons for the use of criminal law as an instrument of social control. Specific reform initiatives and processes. Alternate responses to social problems.",
+    "course_extra_details": "Prerequisite(s): LAWS2908, CRCJ3001, or CRCJ3002 and LAWS2301, LAWS2302 and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908, CRCJ3001, or CRCJ3002 and LAWS2301, LAWS2302 and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4306",
+    "course_code": "LAWS4306",
+    "course_number": 4306,
+    "course_title": "LAWS4306 [0.5 credit]",
+    "course_desc": "Selected issues and problems in the area of criminal law. The topics may vary from year to year depending on demand and interest and are announced in advance of registration.",
+    "course_extra_details": "Prerequisite(s): LAWS2908, CRCJ3001, or CRCJ3002 and LAWS2301, LAWS2302 and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908, CRCJ3001, or CRCJ3002 and LAWS2301, LAWS2302 and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4307",
+    "course_code": "LAWS4307",
+    "course_number": 4307,
+    "course_title": "LAWS4307 [0.5 credit]",
+    "course_desc": "Legal-medical issues, conflicts and relationships in the field of social control. Topics include mental disorder and criminal liability, diversion of offenders to civil commitment in hospital, insanity, automatism, fitness to stand trial, prediction of dangerousness, regulation of psychoactive drugs.",
+    "course_extra_details": "Prerequisite(s): LAWS2908, CRCJ3001, or CRCJ3002 and LAWS2301, LAWS2302 and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908, CRCJ3001, or CRCJ3002 and LAWS2301, LAWS2302 and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4308",
+    "course_code": "LAWS4308",
+    "course_number": 4308,
+    "course_title": "LAWS4308 [0.5 credit]",
+    "course_desc": "Theories of sentencing, current sentencing laws and practices, perceptions of sentencing. Data on sentencing practice across Canada. Reforms in other jurisdictions. Critical review of the Canadian Sentencing Commission. Multidisciplinary approach using research and theory in law, criminology, social psychology and sociology.",
+    "course_extra_details": "Prerequisite(s): LAWS2908, CRCJ3001, or CRCJ3002 and LAWS2301, LAWS2302 and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908, CRCJ3001, or CRCJ3002 and LAWS2301, LAWS2302 and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4309",
+    "course_code": "LAWS4309",
+    "course_number": 4309,
+    "course_title": "LAWS4309 [0.5 credit]",
+    "course_desc": "Historical and contemporary analysis of legal responses of Canadian governments to dissent, political opposition, insurrection, etc. Includes trial of political offences (treason, sedition, riot), national security measures (War Measures/Emergencies Act, Official Secrets Act), and other special powers (police, labour, immigration, parliamentary privilege, etc.).",
+    "course_extra_details": "Prerequisite(s): LAWS2908, CRCJ3001, or CRCJ3002 and 0.5 credit from LAWS3305, LAWS3503, LAWS3509, and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908, CRCJ3001, or CRCJ3002 and 0.5 credit from LAWS3305, LAWS3503, LAWS3509, and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4311",
+    "course_code": "LAWS4311",
+    "course_number": 4311,
+    "course_title": "LAWS4311 [0.5 credit]",
+    "course_desc": "Correctional law in the Canadian criminal justice system; competing objectives of punishment and rehabilitation in the context of respect for the rule of law and human rights; protection of human rights of prisoners in Canada and in in international and comparative contexts.",
+    "course_extra_details": "Prerequisite(s): LAWS2908, CRCJ3001, or CRCJ3002 and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908, CRCJ3001, or CRCJ3002 and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4402",
+    "course_code": "LAWS4402",
+    "course_number": 4402,
+    "course_title": "LAWS4402 [0.5 credit]",
+    "course_desc": "Theory and practice of dispute resolution in employment relations; analysis of such techniques as negotiation, grievance and interest arbitration, mediation, investigation and litigation applied to a range of employment disputes such as collective agreements, termination of employment, discrimination, harassment, occupational health and safety,.",
+    "course_extra_details": "Prerequisite(s): LAWS2908, 0.5 credit from LAWS3006, LAWS3401, LAWS3405, and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908, 0.5 credit from LAWS3006, LAWS3401, LAWS3405, and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4503",
+    "course_code": "LAWS4503",
+    "course_number": 4503,
+    "course_title": "LAWS4503 [0.5 credit]",
+    "course_desc": "Exploration of the ways in which law promotes or hinders the inclusion of disabled persons in society.  Consideration of different theories of 'disability' and the creation of barriers faced by disabled persons. Topics may include barriers affecting education, employment, transportation, benefits, and life/death decisions.",
+    "course_extra_details": "Prerequisite(s): LAWS2908 and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908 and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4504",
+    "course_code": "LAWS4504",
+    "course_number": 4504,
+    "course_title": "LAWS4504 [0.5 credit]",
+    "course_desc": "Indigenous peoples and the administration of Canadian criminal justice including policing, courts, corrections and aftercare. Content and effects of past and present policies, processes and laws. Alternatives such as self-government and self-determination; potential approaches to an appropriate justice system for Indigenous peoples.",
+    "course_extra_details": "Prerequisite(s): LAWS2908, CRCJ3001, or CRCJ3002 and LAWS2301, LAWS2302 and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908, CRCJ3001, or CRCJ3002 and LAWS2301, LAWS2302 and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4510",
+    "course_code": "LAWS4510",
+    "course_number": 4510,
+    "course_title": "LAWS4510 [0.5 credit]",
+    "course_desc": "Examination of a selected advanced topic in the area of law, policy and government. The topics of this course may vary from year to year and are announced in advance of registration.",
+    "course_extra_details": "Prerequisite(s): LAWS2501, LAWS2502, LAWS2908 and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2501, LAWS2502, LAWS2908 and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4601",
+    "course_code": "LAWS4601",
+    "course_number": 4601,
+    "course_title": "LAWS4601 [0.5 credit]",
+    "course_desc": "Examination of the role of law in addressing human rights issues that transcend traditional categories of domestic and international law; the potential and limits of law in addressing human rights issues; the growth of transnational approaches to law and human rights.",
+    "course_extra_details": "Prerequisite(s): LAWS2908, 0.5 credit from LAWS3503 or LAWS3602, and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908, 0.5 credit from LAWS3503 or LAWS3602, and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4602",
+    "course_code": "LAWS4602",
+    "course_number": 4602,
+    "course_title": "LAWS4602 [0.5 credit]",
+    "course_desc": "Legal, theoretical, and theological interconnections between religion and human rights. Evaluation of concepts including religious freedom, secularism, public sphere, accommodation and neutrality. Examination of religion and culture, interdependence of legal and religious perspectives, boundaries of religion and state, and religious compulsion. Use of case studies.",
+    "course_extra_details": "Also listed as HUMR 4602, RELI4602.\nPrerequisite(s): LAWS2908, LAWS3602, and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908, LAWS3602, and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4603",
+    "course_code": "LAWS4603",
+    "course_number": 4603,
+    "course_title": "LAWS4603 [0.5 credit]",
+    "course_desc": "Legal and ethical responses to human rights violations in the transition to democracy. Dilemmas of the rule of law; truth and reconciliation; prosecution and punishment; amnesty; retribution and revenge; restorative justice; administrative remedy; reparations; International case studies. Theoretical arguments about justice in context of country.",
+    "course_extra_details": "Prerequisite(s): LAWS2908 or PAPM3000 and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908 or PAPM3000 and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4605",
+    "course_code": "LAWS4605",
+    "course_number": 4605,
+    "course_title": "LAWS4605 [0.5 credit]",
+    "course_desc": "Topics vary from year to year and are announced in advance. May include transnational environmental issues; the international law of armed conflict, peacekeeping and neutrality; the law of international treaties and transnational agreements; state responsibility under international law.",
+    "course_extra_details": "Prerequisite(s): LAWS2908 or PAPM3000, LAWS2601 and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908 or PAPM3000, LAWS2601 and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4606",
+    "course_code": "LAWS4606",
+    "course_number": 4606,
+    "course_title": "LAWS4606 [0.5 credit]",
+    "course_desc": "UN Charter prohibition of the use of force. Exceptional, permissible uses of armed force. Role of Security Council in determining legality of armed intervention. Collective security, peacemaking, peacekeeping, neutrality, prohibited means of warfare. Humanitarian International Law, Geneva Red Cross Conventions, war crimes, International Criminal Court.",
+    "course_extra_details": "Prerequisite(s): LAWS2908 or PAPM3000, LAWS2601 and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908 or PAPM3000, LAWS2601 and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4607",
+    "course_code": "LAWS4607",
+    "course_number": 4607,
+    "course_title": "LAWS4607 [0.5 credit]",
+    "course_desc": "Immigrants and refugees; demographics; Canadian, international and human rights law and policy. The Canadian Immigration Act. Legal and social problems including entry and removal, family reunion, citizenship, remedies, the rights of clandestine migrants; settlement rights; non-discrimination; asylum; a nation's right to determine membership.",
+    "course_extra_details": "Prerequisite(s): LAWS2908 or PAPM3000, LAWS2502 and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908 or PAPM3000, LAWS2502 and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4610",
+    "course_code": "LAWS4610",
+    "course_number": 4610,
+    "course_title": "LAWS4610 [0.5 credit]",
+    "course_desc": "Examination of a selected advanced topic in the area of transnational law and human rights. The topics of this course may vary from year to year and are announced in advance of registration.",
+    "course_extra_details": "Prerequisite(s): LAWS2908 or PAPM3000, LAWS2601 and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908 or PAPM3000, LAWS2601 and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4702",
+    "course_code": "LAWS4702",
+    "course_number": 4702,
+    "course_title": "LAWS4702 [0.5 credit]",
+    "course_desc": "Examination of a selected topic in criminal justice and social policy. Topics to be announced.",
+    "course_extra_details": "Also listed as SOWK4702 and SOCI4702.\nPrerequisite(s): LAWS2908 and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908 and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4800",
+    "course_code": "LAWS4800",
+    "course_number": 4800,
+    "course_title": "LAWS4800 [0.5 credit]",
+    "course_desc": "The potential of environmental law to protect the environment and people while promoting opportunities for informed participation in environmental decision making by groups traditionally excluded from these processes; contemporary issues of social justice raised by legal regulation of the environment.",
+    "course_extra_details": "Prerequisite(s): LAWS2908 and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908 and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4801",
+    "course_code": "LAWS4801",
+    "course_number": 4801,
+    "course_title": "LAWS4801 [0.5 credit]",
+    "course_desc": "Application of risk assessment and management in various legal arenas including insurance, liability and tort, litigation management, environmental protection, and sentencing and parole.",
+    "course_extra_details": "Prerequisite(s): LAWS2908 or PAPM3000 and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908 or PAPM3000 and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4802",
+    "course_code": "LAWS4802",
+    "course_number": 4802,
+    "course_title": "LAWS4802 [0.5 credit]",
+    "course_desc": "Critical analysis of the criminal jury system including its history and context, the role of the judge, jury dynamics and jury composition. Perspectives and roles of the accused, victims, police, defence counsel, Crown attorney, judges, juries, media, politicians and the public.",
+    "course_extra_details": "Prerequisite(s): LAWS2908, CRCJ3001, or CRCJ3002 and LAWS2301, LAWS2302 and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908, CRCJ3001, or CRCJ3002 and LAWS2301, LAWS2302 and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4901",
+    "course_code": "LAWS4901",
+    "course_number": 4901,
+    "course_title": "LAWS4901 [0.5 credit]",
+    "course_desc": "Tutorials or reading courses conducted under the supervision of a faculty member of the Department of Law on a selected topic in which advanced courses are not available (guidelines are posted by the Department).",
+    "course_extra_details": "Prerequisite(s): LAWS3908, fourth-year Honours standing, written acceptance by a faculty member and permission of the Undergraduate Supervisor.\nIndependent work 7-10 hours per week. Regular meetings with supervisor (bi-weekly).  \n",
+    "course_prerequisites": "LAWS3908, fourth-year Honours standing, written acceptance by a faculty member and permission of the Undergraduate Supervisor.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4902",
+    "course_code": "LAWS4902",
+    "course_number": 4902,
+    "course_title": "LAWS4902 [0.5 credit]",
+    "course_desc": "Tutorials or reading courses conducted under the supervision of a faculty member of the Department of Law on a selected topic in which advanced courses are not available (guidelines are posted by the Department).",
+    "course_extra_details": "Prerequisite(s): LAWS3908, fourth-year Honours standing, written acceptance by a faculty member and permission of the Undergraduate Supervisor.\nIndependent work 7-10 hours per week. Regular meetings with supervisor (bi-weekly).\n",
+    "course_prerequisites": "LAWS3908, fourth-year Honours standing, written acceptance by a faculty member and permission of the Undergraduate Supervisor.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4903",
+    "course_code": "LAWS4903",
+    "course_number": 4903,
+    "course_title": "LAWS4903 [0.5 credit]",
+    "course_desc": "The topics of this course vary from year to year and are announced in advance of registration.",
+    "course_extra_details": "Prerequisite(s): LAWS2908 and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908 and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4904",
+    "course_code": "LAWS4904",
+    "course_number": 4904,
+    "course_title": "LAWS4904 [0.5 credit]",
+    "course_desc": "The topics of this course vary from year to year and are announced in advance of registration.",
+    "course_extra_details": "Prerequisite(s): LAWS2908 and fourth-year Honours standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LAWS2908 and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4905",
+    "course_code": "LAWS4905",
+    "course_number": 4905,
+    "course_title": "LAWS4905 [1.0 credit]",
+    "course_desc": "This course gives students the opportunity to work with an organization whose focus relates to law. Participating  students must identify a host organization and a faculty member to provide supervision (guidelines are posted by the Department).",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for LAWS4906, LAWS4907.\nPrerequisite(s): LAWS2908, fourth-year Honours standing in Law with a Law GPA of 9.00 or higher, written acceptance by a faculty member, permission of the Undergraduate Supervisor and the host organization.\nWork at placement site 7-10 hours per week. Regular weekly meetings with on-site supervisor or faculty supervisor. \n",
+    "course_prerequisites": "LAWS2908, fourth-year Honours standing in Law with a Law GPA of 9.00 or higher, written acceptance by a faculty member, permission of the Undergraduate Supervisor and the host organization.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4906",
+    "course_code": "LAWS4906",
+    "course_number": 4906,
+    "course_title": "LAWS4906 [0.5 credit]",
+    "course_desc": "This course gives students the opportunity to work with an organization whose focus relates to law. Participating  students must identify a host organization and a faculty member to provide supervision (guidelines are posted by the Department).",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for LAWS4905 (1.0 credit).\nPrerequisite(s): LAWS2908, fourth-year Honours standing in Law with a Law GPA of 9.00 or higher, written acceptance by a faculty member, permission of the Undergraduate Supervisor and the host organization.\nWork at placement site 7-10 hours per week. Regular weekly meetings with on-site supervisor or faculty supervisor.\n",
+    "course_prerequisites": "LAWS2908, fourth-year Honours standing in Law with a Law GPA of 9.00 or higher, written acceptance by a faculty member, permission of the Undergraduate Supervisor and the host organization.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4907",
+    "course_code": "LAWS4907",
+    "course_number": 4907,
+    "course_title": "LAWS4907 [0.5 credit]",
+    "course_desc": "This course gives students the opportunity to work with an organization whose focus relates to law. Participating  students must identify a host organization and a faculty member to provide supervision (guidelines are posted by the Department).",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for LAWS4905 (1.0 credit).\nPrerequisite(s): LAWS2908, fourth-year Honours standing in Law with a Law GPA of 9.00 or higher, written acceptance by a faculty member, permission of the Undergraduate Supervisor and the host organization.\nWork at placement site 7-10 hours per week. Regular weekly meetings with on-site supervisor or faculty supervisor.\n",
+    "course_prerequisites": "LAWS2908, fourth-year Honours standing in Law with a Law GPA of 9.00 or higher, written acceptance by a faculty member, permission of the Undergraduate Supervisor and the host organization.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LAWS 4908",
+    "course_code": "LAWS4908",
+    "course_number": 4908,
+    "course_title": "LAWS4908 [1.0 credit]",
+    "course_desc": "Students in the BA Honours Law program may write an Honours paper under the supervision of a faculty member of the Department of Law (guidelines are posted by the Department). Students intending to undertake graduate studies are encouraged to complete an Honours paper.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): LAWS3908, fourth-year Honours standing in Law with a Law GPA of 9.00 or higher and written acceptance by a faculty member.\nIndependent work 7-10 hours per week. Regular meetings with supervisor (bi-weekly). \n",
+    "course_prerequisites": "LAWS3908, fourth-year Honours standing in Law with a Law GPA of 9.00 or higher and written acceptance by a faculty member.",
+    "year_standing": 4
+}]}

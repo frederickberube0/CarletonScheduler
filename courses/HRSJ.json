@@ -1,0 +1,374 @@
+{"object": [
+{
+    "course_identifier": "HRSJ 1001",
+    "course_code": "HRSJ1001",
+    "course_number": 1001,
+    "course_title": "HRSJ1001 [1.0 credit]",
+    "course_desc": "Human rights from an interdisciplinary perspective. Topics may include the foundations and nature of rights, roots of inequality and oppression, aboriginal rights, racism, women and rights, sexual orientation, state and corporate power, economic exploitation, the environment and rights, warfare, torture, and social movements.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for FYSM1104, HUMR 1001 (no longer offered).\nLecture and discussion groups/tutorials three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "HRSJ 2001",
+    "course_code": "HRSJ2001",
+    "course_number": 2001,
+    "course_title": "HRSJ2001 [0.5 credit]",
+    "course_desc": "Historical overview of the theoretical and philosophical approaches underlying the human rights movement and relevant to the normative ideals and aspirations of human rights and to the strategies of their implementation.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for HUMR 2001 (no longer offered).\nPrerequisite(s): second-year standing.\nLectures and discussion groups/tutorials three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "HRSJ 2102",
+    "course_code": "HRSJ2102",
+    "course_number": 2102,
+    "course_title": "HRSJ2102 [0.5 credit]",
+    "course_desc": "Historical and contemporary analysis of surveillance, security, and regulation of sexuality, race, class, and gender. Students will critically examine how \u2018subversives\u2019 were created through discourse and administrative logics such as policy and law.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as SXST2102.\nPrecludes additional credit for HUMR 2102 (no longer offered).\nPrerequisite(s): second year standing or permission from the Institute.\nLectures and discussions three hours a week.\n",
+    "course_prerequisites": "second year standing or permission from the Institute.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "HRSJ 2202",
+    "course_code": "HRSJ2202",
+    "course_number": 2202,
+    "course_title": "HRSJ2202 [0.5 credit]",
+    "course_desc": "The study of power from a critical, transnational perspective; the impact on human rights of different forms and modalities of power, including those emanating from the state and corporations and those implicated in socio-economic and other hierarchical relations.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for HUMR 2202 (no longer offered).\nPrerequisite(s): second-year standing.\nLectures and discussion groups/tutorials three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "HRSJ 2301",
+    "course_code": "HRSJ2301",
+    "course_number": 2301,
+    "course_title": "HRSJ2301 [0.5 credit]",
+    "course_desc": "Human rights issues in various cultural contexts concerning sex and/or gender, with attention to sexual minorities such as gay, lesbian, and transgendered persons. Forms of discrimination against sexual minorities and the mechanisms and strategies for redress.",
+    "course_extra_details": "Precludes additional credit for HUMR 2301 (no longer offered).\nPrerequisite(s): second-year standing.\nLectures and discussion groups three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "HRSJ 2401",
+    "course_code": "HRSJ2401",
+    "course_number": 2401,
+    "course_title": "HRSJ2401 [0.5 credit]",
+    "course_desc": "Canada is home-in-exile to many who have faced severe and often life-threatening political repression such as imprisonment, torture, surveillance, population transfer, etc. This course examines the impacts on survivors of political repression, and strategies used to overcome its legacies.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for HUMR 2401 (no longer offered).\nPrerequisite(s): second-year standing.\nLectures and discussion groups three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "HRSJ 2502",
+    "course_code": "HRSJ2502",
+    "course_number": 2502,
+    "course_title": "HRSJ2502 [0.5 credit]",
+    "course_desc": "The underlying conditions and developments of historical and contemporary social and political movements; specific social movements such as civil rights or gay rights.",
+    "course_extra_details": "Precludes additional credit for HUMR 2502 (no longer offered).\nPrerequisite(s): second-year standing.\nLectures and discussion groups three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "HRSJ 3001",
+    "course_code": "HRSJ3001",
+    "course_number": 3001,
+    "course_title": "HRSJ3001 [0.5 credit]",
+    "course_desc": "This advanced seminar will cover current and topical issues and/or debates in human rights, and will enable students to engage in focused discussions and analyses of these issues. Topics will vary from year to year.",
+    "course_extra_details": "Precludes additional credit for HUMR 3001 (no longer offered).\nPrerequisite(s): third-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "HRSJ 3002",
+    "course_code": "HRSJ3002",
+    "course_number": 3002,
+    "course_title": "HRSJ3002 [0.5 credit]",
+    "course_desc": "\u201cThe right to the city\u201d as an emerging focus of advocacy and analysis in urban movements for social justice around especially the local and transnational dimensions of the \u201cright to the city\u201d movement.",
+    "course_extra_details": "Precludes additional credit for HUMR 3001 if taken prior to 2013-14, HUMR 3002 (no longer offered).\nPrerequisite(s): third year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "third year standing.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "HRSJ 3202",
+    "course_code": "HRSJ3202",
+    "course_number": 3202,
+    "course_title": "HRSJ3202 [0.5 credit]",
+    "course_desc": "This course problematizes human rights paradigms and critically examines the limitations of the political within liberal democracies. Bringing together theory and politics, alternative approaches to activism are explored. Topics may include struggles grounded in radical democracy, anti-capitalism, and social justice perspectives.",
+    "course_extra_details": "Precludes additional credit for HUMR 3202 (no longer offered).\nPrerequisite(s): third-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "HRSJ 3301",
+    "course_code": "HRSJ3301",
+    "course_number": 3301,
+    "course_title": "HRSJ3301 [0.5 credit]",
+    "course_desc": "The forms and effects of systemic race-based human rights abuses. Topics may include immigration and refugee policies and practices, anti-apartheid regimes, racial profiling, the racial politics of \"nationhood\" and armed conflict, civil rights and resistance movements in differing cultural contexts.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for HUMR 3301 (no longer offered).\nPrerequisite(s): third-year standing.\nSeminar and discussion groups three hours a week.\n",
+    "course_prerequisites": "third-year standing.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "HRSJ 3302",
+    "course_code": "HRSJ3302",
+    "course_number": 3302,
+    "course_title": "HRSJ3302 [0.5 credit]",
+    "course_desc": "The impact of cultural and religious traditions on gender, race, ethnicity and sexuality. Topics may include debates related to power dynamics, historical issues, geopolitics, and cultural relativism.",
+    "course_extra_details": "Precludes additional credit for HUMR 3302 (no longer offered).\nPrerequisite(s): third-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "HRSJ 3303",
+    "course_code": "HRSJ3303",
+    "course_number": 3303,
+    "course_title": "HRSJ3303 [0.5 credit]",
+    "course_desc": "This course examines children\u2019s rights from a range of historical, cultural, and global perspectives. Topics may include the rights for Indigenous children, children with disabilities, female, trans and queer children, children in armed conflict and refugees in Canada and transnational contexts.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as CHST3303.\nPrecludes additional credit for CHST 3901 (no longer offered), HUMR 3303 (no longer offered).\nPrerequisite(s): third-year standing.\nLectures and discussion groups three hours a week.\n",
+    "course_prerequisites": "third-year standing.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "HRSJ 3304",
+    "course_code": "HRSJ3304",
+    "course_number": 3304,
+    "course_title": "HRSJ3304 [0.5 credit]",
+    "course_desc": "A critical approach to the study of disability rights that explores the intersections of disability with race, sexuality, gender, colonialism, \u2018health\u2019, and other discourses.",
+    "course_extra_details": "Precludes additional credit for HUMR 4303 (no longer offered), HUMR 3304 (no longer offered).\nPrerequisite(s): third-year standing.\nLecture three hours a week.\n",
+    "course_prerequisites": "third-year standing.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "HRSJ 3305",
+    "course_code": "HRSJ3305",
+    "course_number": 3305,
+    "course_title": "HRSJ3305 [0.5 credit]",
+    "course_desc": "The course examines conceptual linkages between race, racism and anti-black racism and how anti-Blackness racial prejudice is rooted in Black people\u2019s experience of enslavement and colonization.",
+    "course_extra_details": "Precludes additional credit for HUMR 3305 (no longer offered).\nPrerequisite(s): third-year standing.\nLecture three hours a week\n",
+    "course_prerequisites": "third-year standing.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "HRSJ 3401",
+    "course_code": "HRSJ3401",
+    "course_number": 3401,
+    "course_title": "HRSJ3401 [0.5 credit]",
+    "course_desc": "Case studies in persecution and/or genocide in different cultural contexts. The social, political, and legal conditions that have enabled the institutional or state-sanctioned persecution of targeted groups, and the circumstances that had an impact on their decline.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for HUMR 3401 (no longer offered).\nPrerequisite(s): third-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "HRSJ 3501",
+    "course_code": "HRSJ3501",
+    "course_number": 3501,
+    "course_title": "HRSJ3501 [0.5 credit]",
+    "course_desc": "The development of social, economic and cultural rights, including rights to housing, healthcare, education and employment. Topics may include the international geopolitics of the historical tension between these rights and civil and political rights.",
+    "course_extra_details": "Precludes additional credit for HUMR 3501 (no longer offered).\nPrerequisite(s): third-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "HRSJ 3503",
+    "course_code": "HRSJ3503",
+    "course_number": 3503,
+    "course_title": "HRSJ3503 [0.5 credit]",
+    "course_desc": "Overview of critical debates on environmental issues from a global social justice perspective. Topics may include corporate mining, food sovereignty, poverty, economic exploitation, Indigenous cosmologies and environmental justice, militarization and environmental degradation, privatization of water and climate change.",
+    "course_extra_details": "Precludes additional credit for HUMR 3503 (no longer offered).\nPrerequisite(s): third-year standing.\nLectures and discussion groups three hours a week.\n",
+    "course_prerequisites": "third-year standing.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "HRSJ 3504",
+    "course_code": "HRSJ3504",
+    "course_number": 3504,
+    "course_title": "HRSJ3504 [0.5 credit]",
+    "course_desc": "Through a social-scientific analysis of AIDS, this course explores HIV/AIDS as a case study for understanding the politics of public health. Students will critically interrogate the authority of science and explore avenues for democratizing biomedicine and public health policy in various national and policy contexts.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for HUMR 3001 Section \"A\" if taken in 2013-14 and 2014-15, HUMR 3504 (no longer offered).\nPrerequisite(s): third-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "HRSJ 4201",
+    "course_code": "HRSJ4201",
+    "course_number": 4201,
+    "course_title": "HRSJ4201 [0.5 credit]",
+    "course_desc": "The relationship between citizenship and human rights; how large groups of people, including non-citizens and refugees, are excluded from entitlements to rights. Why human rights rest on citizenship, and with what implications.",
+    "course_extra_details": "Precludes additional credit for HUMR 4201 (no longer offered).\nPrerequisite(s): fourth-year standing.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "HRSJ 4302",
+    "course_code": "HRSJ4302",
+    "course_number": 4302,
+    "course_title": "HRSJ4302 [0.5 credit]",
+    "course_desc": "Critical analyses of human rights through an examination of transgender subjectivities. The systemic erasure of trans people within society and the struggles of some activists to normalize trans identities.",
+    "course_extra_details": "Precludes additional credit for HUMR 4302 (no longer offered).\nPrerequisite(s): fourth-year standing.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "HRSJ 4305",
+    "course_code": "HRSJ4305",
+    "course_number": 4305,
+    "course_title": "HRSJ4305 [0.5 credit]",
+    "course_desc": "An intersectional national/transnational approach to social justice issues such as poverty/exploitation, labour, representation, decolonization, race/racism, sexuality and gender from a critical disability studies perspective.",
+    "course_extra_details": "Precludes additional credit for HUMR 4305 (no longer offered).\nPrerequisite(s): fourth-year standing in Human Rights and Social Justice or Disability Studies.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year standing in Human Rights and Social Justice or Disability Studies.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "HRSJ 4401",
+    "course_code": "HRSJ4401",
+    "course_number": 4401,
+    "course_title": "HRSJ4401 [0.5 credit]",
+    "course_desc": "This seminar critically engages with transnational, gendered, classed, and racialized discursive practices of citizenship, human rights, the geopolitics of knowledge and processes of dehumanization through the lenses of decolonial social justice.",
+    "course_extra_details": "Precludes additional credit for HUMR 4401 (no longer offered).\nPrerequisite(s): fourth-year standing.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "HRSJ 4404",
+    "course_code": "HRSJ4404",
+    "course_number": 4404,
+    "course_title": "HRSJ4404 [0.5 credit]",
+    "course_desc": "Contemporary issues concerning the rights of refugees and displaced persons, from social, political, and legal perspectives; Canadian and international dimensions of these issues.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for HUMR 4404 (no longer offered).\nPrerequisite(s): fourth-year standing.\nSeminar and discussion groups three hours a week.\n",
+    "course_prerequisites": "fourth-year standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "HRSJ 4405",
+    "course_code": "HRSJ4405",
+    "course_number": 4405,
+    "course_title": "HRSJ4405 [0.5 credit]",
+    "course_desc": "The course examines the phenomenon of disinformation or \u2018fake news\u2019 in the era of digital technology, its intent and links to structures of power and oppression, and its impacts on human rights and the social justice.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for HUMR 4405 (no longer offered).\nPrerequisite(s): fourth-year standing.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "HRSJ 4409",
+    "course_code": "HRSJ4409",
+    "course_number": 4409,
+    "course_title": "HRSJ4409 [0.5 credit]",
+    "course_desc": "Examines policies and strategies states and international organizations use to combat global terrorism and the challenges these initiatives pose to the international human rights regime, democratic norms, and social justice.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for HUMR 4409 (no longer offered).\nPrerequisite(s): fourth-year standing.\nSeminar and discussion groups three hours a week.\n",
+    "course_prerequisites": "fourth-year standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "HRSJ 4502",
+    "course_code": "HRSJ4502",
+    "course_number": 4502,
+    "course_title": "HRSJ4502 [0.5 credit]",
+    "course_desc": "Indigenous Peoples contributions to world knowledge through community resistance, social movements and scholarship. How processes of corporate globalization impact Indigenous Peoples lives as an ongoing process of normalizing a reconfigured modern coloniality of power.",
+    "course_extra_details": "Precludes additional credit for HUMR 4502 (no longer offered).\nPrerequisite(s): fourth-year standing.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "HRSJ 4504",
+    "course_code": "HRSJ4504",
+    "course_number": 4504,
+    "course_title": "HRSJ4504 [0.5 credit]",
+    "course_desc": "The course examines conceptual linkages between race, racism and anti-black racism and how anti-Blackness racial prejudice is rooted in Black people\u2019s experience of enslavement and colonization.",
+    "course_extra_details": "Precludes additional credit for HUMR 4504 (no longer offered).\nPrerequisite(s): fourth-year standing.\nSeminar three hours a week\n",
+    "course_prerequisites": "fourth-year standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "HRSJ 4505",
+    "course_code": "HRSJ4505",
+    "course_number": 4505,
+    "course_title": "HRSJ4505 [0.5 credit]",
+    "course_desc": "This course explores how precarious employment and labour arises; the nature and forms of precariousness; how race, citizenship, gender, religion, and location impact precarity; the link between labor and social movements; and types of political and economic initiatives in response to the deepening precarity.",
+    "course_extra_details": "Precludes additional credit for HUMR 4505 (no longer offered).\nPrerequisite(s): fourth-year standing.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "HRSJ 4602",
+    "course_code": "HRSJ4602",
+    "course_number": 4602,
+    "course_title": "HRSJ4602 [0.5 credit]",
+    "course_desc": "Legal, theoretical, and theological interconnec\u019fons between religion and human rights. Evaluation of concepts including religious freedom, secularism, public sphere, accommoda\u019fon and neutrality.Examination of religion and culture, interdependence of legal and religious perspectives, boundaries of religion and state, and religious compulsion. Use of case studies.",
+    "course_extra_details": "Also listed as LAWS4602, RELI4602.\nPrecludes additional credit for HUMR 4602 (no longer offered).\nPrerequisite(s): fourth-year standing.\nSeminars three hours a week. \n",
+    "course_prerequisites": "fourth-year standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "HRSJ 4905",
+    "course_code": "HRSJ4905",
+    "course_number": 4905,
+    "course_title": "HRSJ4905 [0.5 credit]",
+    "course_desc": "This course provides students with the opportunity to spend one day per week (6-8 hours) working and learning at a human rights-related government, research or advocacy organization. A written report is required at the end of the placement. Graded as Sat/Uns.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for HUMR 4905 (no longer offered).\nPrerequisite(s): fourth-year standing in Human Rights and Social Justice or permission of the Institute.\n",
+    "course_prerequisites": "fourth-year standing in Human Rights and Social Justice or permission of the Institute.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "HRSJ 4906",
+    "course_code": "HRSJ4906",
+    "course_number": 4906,
+    "course_title": "HRSJ4906 [0.5 credit]",
+    "course_desc": "This course provides students with the opportunity to spend one day per week (6-8 hours) working and learning at a human rights-related government, research or advocacy organization. A written report is required at the end of the placement. Graded as Sat/Uns.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for HUMR 4906 (no longer offered).\nPrerequisite(s): fourth-year standing in Human Rights and a GPA of 9.8 or higher or permission of the Institute.\n",
+    "course_prerequisites": "fourth-year standing in Human Rights and a GPA of 9.8 or higher or permission of the Institute.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "HRSJ 4907",
+    "course_code": "HRSJ4907",
+    "course_number": 4907,
+    "course_title": "HRSJ4907 [0.5 credit]",
+    "course_desc": "This course features a detailed study of a special topic in any area of Human Rights. Topics and themes will vary from year to year.",
+    "course_extra_details": "Precludes additional credit for HUMR 4907 (no longer offered).\nPrerequisite(s): fourth-year standing.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "HRSJ 4908",
+    "course_code": "HRSJ4908",
+    "course_number": 4908,
+    "course_title": "HRSJ4908 [0.5 credit]",
+    "course_desc": "Essays and/or examinations based on a bibliography constructed by the student in consultation   with an instructor.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for HUMR 4908 (no longer offered).\nPrerequisite(s): Normally restricted to students with at least 3.0 credits of Human Rights courses with at least a CGPA of 9.0 or better in Human Rights courses and permission of the Institute.\n",
+    "course_prerequisites": "Normally restricted to students with at least 3.0 credits of Human Rights courses with at least a CGPA of 9.0 or better in Human Rights courses and permission of the Institute.",
+    "year_standing": 0
+}]}

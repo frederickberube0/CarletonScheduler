@@ -1,0 +1,187 @@
+{"object": [
+{
+    "course_identifier": "GEOM 1004",
+    "course_code": "GEOM1004",
+    "course_number": 1004,
+    "course_title": "GEOM1004 [0.5 credit]",
+    "course_desc": "Introduction to the creation and use of maps using a variety of geospatial tools to better understand and resolve physical, social and environmental problems. Overview of geomatics (cartography and map design, geographic information systems, GPS, remote sensing).",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as ERTH2004.\nPrecludes additional credit for GEOM 2004 (no longer offered).\nLectures and laboratory, four hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "GEOM 2005",
+    "course_code": "GEOM2005",
+    "course_number": 2005,
+    "course_title": "GEOM2005 [0.5 credit]",
+    "course_desc": "Computer programming for geomatics students focusing on storage, manipulation, management, visualization and analysis of geospatial data; Essential coding concepts and best practices including variables, loops, and conditional statements; programmatic handling of raster and vector data structures; batch geoprocessing and map production; GIS tool customization.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nLectures and laboratory, four hours per week. \n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "GEOM 2007",
+    "course_code": "GEOM2007",
+    "course_number": 2007,
+    "course_title": "GEOM2007 [0.5 credit]",
+    "course_desc": "Storage, visualization, manipulation and analysis of vector geospatial data. Vector geoprocessing including buffering, overlays and topological analysis; feature classification and cartographic representation; managing coordinate reference systems for vector layers; selected applications of vector GIS such as urban planning, environmental and resource management and socio-economic mapping.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): GEOM1004 or permission of the Department.\nLectures and laboratory, four hours a week.\n",
+    "course_prerequisites": "GEOM1004 or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "GEOM 2008",
+    "course_code": "GEOM2008",
+    "course_number": 2008,
+    "course_title": "GEOM2008 [0.5 credit]",
+    "course_desc": "Storage, visualization, manipulation, and analysis of gridded geospatial data; 3D visualization; digital terrain analysis; interpolation and filtering; raster geoprocessing and projections; selected topics and applications in raster GIS such as least-cost path analysis, natural hazard assessment, pollution mapping and hotspot analysis for population geography.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): GEOM1004 or permission of the Department.\nLectures and laboratory, four hours per week. \n",
+    "course_prerequisites": "GEOM1004 or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "GEOM 3002",
+    "course_code": "GEOM3002",
+    "course_number": 3002,
+    "course_title": "GEOM3002 [0.5 credit]",
+    "course_desc": "Principles and methods of remote sensing; visual interpretation of air photos and satellite imagery; digital image processing, analysis and classification for thematic mapping; introduction to various active and passive remote sensing imagery types such as optical, hyperspectral, RADAR and LiDAR.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): GEOM2008 and third-year standing, or permission of the Department.\nLectures two hours a week, laboratory two hours a week.\n",
+    "course_prerequisites": "GEOM2008 and third-year standing, or permission of the Department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "GEOM 3005",
+    "course_code": "GEOM3005",
+    "course_number": 3005,
+    "course_title": "GEOM3005 [0.5 credit]",
+    "course_desc": "An advanced course in geospatial analysis theory and practice; geoprocessing; geo-visualization; geostatistics; spatial modelling; working with spatio-temporal data structures; advanced site-suitability and network analysis; intermediate GIS tool customization.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): GEOM2007 and GEOM2008.\nLecture and laboratories five hours a week.\n",
+    "course_prerequisites": "GEOM2007 and GEOM2008.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "GEOM 3007",
+    "course_code": "GEOM3007",
+    "course_number": 3007,
+    "course_title": "GEOM3007 [0.5 credit]",
+    "course_desc": "Principles of and issues in cartography, cartographic communication and map design; practical aspects of cartographic representation using multimedia and online/interactive mapping.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): GEOM2007 or GEOM2008 or permission of the Department.\nLectures and laboratory four hours a week.\n",
+    "course_prerequisites": "GEOM2007 or GEOM2008 or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "GEOM 3999",
+    "course_code": "GEOM3999",
+    "course_number": 3999,
+    "course_title": "GEOM3999 [0.0 credit]",
+    "course_desc": "Includes: Experiential Learning Activity ",
+    "course_extra_details": "Includes: Experiential Learning Activity\n \n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "GEOM 4001",
+    "course_code": "GEOM4001",
+    "course_number": 4001,
+    "course_title": "GEOM4001 [0.5 credit]",
+    "course_desc": "A seminar focusing on selected topics in geomatics including advanced theory and/or application.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year Honours standing in Geomatics or permission of the department.\nLaboratory or seminar three hours a week.\n",
+    "course_prerequisites": "fourth-year Honours standing in Geomatics or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "GEOM 4003",
+    "course_code": "GEOM4003",
+    "course_number": 4003,
+    "course_title": "GEOM4003 [0.5 credit]",
+    "course_desc": "Advanced image enhancement; land cover classification for thematic mapping; biophysical modeling; applications in resources, environment, and urban mapping.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): GEOM3002 and Honours standing, or permission of the Department.\nLectures two hours a week, laboratory two hours a week.\n",
+    "course_prerequisites": "GEOM3002 and Honours standing, or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "GEOM 4005",
+    "course_code": "GEOM4005",
+    "course_number": 4005,
+    "course_title": "GEOM4005 [0.5 credit]",
+    "course_desc": "Students pursue their interest in a selected theme in Geomatics on a tutorial basis with a member of the Department.",
+    "course_extra_details": "Prerequisite(s): permission of the Department.\n \n",
+    "course_prerequisites": "permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "GEOM 4008",
+    "course_code": "GEOM4008",
+    "course_number": 4008,
+    "course_title": "GEOM4008 [0.5 credit]",
+    "course_desc": "Advanced methods and techniques in GIS applications including: positional and attribute error analysis, multiple criteria decision making, interpolation, elevation modeling and ortho-imaging, and spatial pattern measurement.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): GEOM3005 and Honours standing.\nLectures two hours a week, laboratory two hours a week.\n",
+    "course_prerequisites": "GEOM3005 and Honours standing.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "GEOM 4009",
+    "course_code": "GEOM4009",
+    "course_number": 4009,
+    "course_title": "GEOM4009 [0.5 credit]",
+    "course_desc": "Development and implementation of custom geomatics applications and workflows using programming and various geoprocessing tools. Project design, application development, GIS automation and documentation.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): GEOM2005 and (GEOM3002 or GEOM3005 or GEOM3007), or permission of the department.\nWorkshop three hours a week.\n",
+    "course_prerequisites": "GEOM2005 and (GEOM3002 or GEOM3005 or GEOM3007), or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "GEOM 4406",
+    "course_code": "GEOM4406",
+    "course_number": 4406,
+    "course_title": "GEOM4406 [0.5 credit]",
+    "course_desc": "Students apply their knowledge and research skills and gain experience through field placements in government, the private sector, non-government organisations and with community organisations in the environmental field.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as GEOG4406.\nPrerequisite(s): fourth-year Honours standing in Geomatics or Geography and permission of the Department.\nField placement one day a week.\n",
+    "course_prerequisites": "fourth-year Honours standing in Geomatics or Geography and permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "GEOM 4408",
+    "course_code": "GEOM4408",
+    "course_number": 4408,
+    "course_title": "GEOM4408 [0.5 credit]",
+    "course_desc": "Students apply their knowledge and research skills and gain experience through field placements in government, the private sector, non-government organisations and with community organisations in the environmental field.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as GEOG4408.\nPrerequisite(s): fourth-year Honours standing in Geomatics or Geography and permission of the Department.\nField placement one day a week.\n",
+    "course_prerequisites": "fourth-year Honours standing in Geomatics or Geography and permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "GEOM 4906",
+    "course_code": "GEOM4906",
+    "course_number": 4906,
+    "course_title": "GEOM4906 [1.0 credit]",
+    "course_desc": "Candidates for B.Sc. with Concentration in Geomatics undertake a research project within their area of specialization. The project is supervised by a member of the department and a written report must be submitted. The candidate may be examined orally on the report.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for GEOG 4904/GEOM 4904 (no longer offered), GEOG4906, GEOG4909, GEOM4909, ENST4906, and ENST4907.\nPrerequisite(s): fourth-year Honours standing in BSc Geomatics, and an approved research topic and adviser.\nHours to be arranged with faculty adviser.\n",
+    "course_prerequisites": "fourth-year Honours standing in BSc Geomatics, and an approved research topic and adviser.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "GEOM 4909",
+    "course_code": "GEOM4909",
+    "course_number": 4909,
+    "course_title": "GEOM4909 [1.0 credit]",
+    "course_desc": "Independent design and implementation of a research project leading to the submission of a research thesis. Students work with an individual faculty adviser. The subject for research is decided upon in consultation with the supervisor.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for GEOG 4904 / GEOM 4904 (no longer offered), GEOG4906, GEOM4906, GEOG4909, ENST4906 and ENST4907.\nPrerequisite(s): fourth-year Honours standing in B.A. Geomatics, a minimum CGPA of 9.00 in the major or permission of the Department, and an approved research topic and adviser.\nHours to be arranged with faculty adviser.\n",
+    "course_prerequisites": "fourth-year Honours standing in B.A. Geomatics, a minimum CGPA of 9.00 in the major or permission of the Department, and an approved research topic and adviser.",
+    "year_standing": 4
+}]}

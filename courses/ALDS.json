@@ -1,0 +1,495 @@
+{"object": [
+{
+    "course_identifier": "ALDS 1001",
+    "course_code": "ALDS1001",
+    "course_number": 1001,
+    "course_title": "ALDS1001 [0.5 credit]",
+    "course_desc": "Core topics in applied linguistics and discourse studies. First and second language acquisition; sign language; language teaching and assessment; language in society; language, identity and power; discourse analysis; written language and literacy.",
+    "course_extra_details": "Lectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ALDS 2201",
+    "course_code": "ALDS2201",
+    "course_number": 2201,
+    "course_title": "ALDS2201 [0.5 credit]",
+    "course_desc": "Introduction to the analysis of oral language in use; distinctions between spoken and written language; theoretical and methodological approaches such as speech act theory, ethnography of communication, conversation analysis, and discourse analysis; classroom interaction; interaction in first- and second-language acquisition; analysis of spoken language corpora.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ALDS1001 or permission of the instructor.\nLectures three hours a week. \n",
+    "course_prerequisites": "ALDS1001 or permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ALDS 2202",
+    "course_code": "ALDS2202",
+    "course_number": 2202,
+    "course_title": "ALDS2202 [0.5 credit]",
+    "course_desc": "Introduction to the analysis of written language in use, including theoretical and methodological approaches such as rhetorical genre studies (including academic and workplace writing); adult literacy studies; text-structure analysis; discourse analysis (including critical discourse analysis); analysis of textual corpora.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ALDS1001 or FYSM1004 or COMS1001 or permission of the instructor.\nLectures three hours a week.\n",
+    "course_prerequisites": "ALDS1001 or FYSM1004 or COMS1001 or permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ALDS 2203",
+    "course_code": "ALDS2203",
+    "course_number": 2203,
+    "course_title": "ALDS2203 [0.5 credit]",
+    "course_desc": "Critical study of linguistic theory and description applied to second-language learning; a brief consideration of similarities and differences in first- and second-language development, bilingualism and types of linguistic error and their significance.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ALDS 2604",
+    "course_code": "ALDS2604",
+    "course_number": 2604,
+    "course_title": "ALDS2604 [0.5 credit]",
+    "course_desc": "A survey course highlighting a variety of communication differences and disabilities. Specific topics vary from year to year but typically will include speech, language, fluency and hearing differences and disabilities.",
+    "course_extra_details": "Also listed as LING2604.\nPrerequisite(s): second-year standing, or permission of the instructor.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing, or permission of the instructor.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ALDS 2704",
+    "course_code": "ALDS2704",
+    "course_number": 2704,
+    "course_title": "ALDS2704 [0.5 credit]",
+    "course_desc": "The linguistic nature of bilingualism. The structure of bilingual societies and the relation between societal and individual bilingualism. The role of bilingualism in language education.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ALDS 2705",
+    "course_code": "ALDS2705",
+    "course_number": 2705,
+    "course_title": "ALDS2705 [0.5 credit]",
+    "course_desc": "How social conditions engender different linguistic choices. Attention to linguistic resources for expressing ideological beliefs and for maintaining and reinforcing power structures in institutional and social sites.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for FYSM1205.\nPrerequisite(s): second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ALDS 3201",
+    "course_code": "ALDS3201",
+    "course_number": 3201,
+    "course_title": "ALDS3201 [0.5 credit]",
+    "course_desc": "Introduction to cross-cultural communication in social, academic and professional settings. Application of theoretical perspectives to case study analysis; pedagogical/training topics as relevant to students' disciplines; collaborative work with other language and cultural groups as feasible.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing, and one of LING1001 or ALDS1001, or permission of the School.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing, and one of LING1001 or ALDS1001, or permission of the School.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ALDS 3202",
+    "course_code": "ALDS3202",
+    "course_number": 3202,
+    "course_title": "ALDS3202 [0.5 credit]",
+    "course_desc": "The place of language within society; bilingual and multilingual communities; language, social mobility and social stratification; sociolinguistic factors in language change.",
+    "course_extra_details": "Also listed as LING3702.\nPrecludes additional credit for ALDS 2701 (no longer offered).\nPrerequisite(s): ALDS1001 and third-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "ALDS1001 and third-year standing.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ALDS 3205",
+    "course_code": "ALDS3205",
+    "course_number": 3205,
+    "course_title": "ALDS3205 [0.5 credit]",
+    "course_desc": "The origins, development and globalization of the English language. Establishment of Standard English; spread of English in the Inner circle and in expanding circles; world Englishes; linguistic features of English varieties. English as a global language; learning and teaching English as an international language.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ALDS1001 and LING1001.\nSeminars three hours a week.\n",
+    "course_prerequisites": "ALDS1001 and LING1001.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ALDS 3301",
+    "course_code": "ALDS3301",
+    "course_number": 3301,
+    "course_title": "ALDS3301 [0.5 credit]",
+    "course_desc": "A critical introduction to Deaf community and culture as they relate to a social model of disability, to ethnicity, and to issues of diversity and inclusion. Discourse analysis of research and policy in education for Deaf students from early childhood and beyond.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as DBST3301.\nPrecludes additional credit for ALDS 3903A if taken in Winter term 2016 or Winter term 2018, and ALDS 4906A, if taken in Fall term 2016.\nPrerequisite(s): third-year standing in Linguistics or Applied Linguistics and Discourse Studies or enrolment in the Minor in Disability Studies.\nSeminars three hours a week.\n",
+    "course_prerequisites": "third-year standing in Linguistics or Applied Linguistics and Discourse Studies or enrolment in the Minor in Disability Studies.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ALDS 3401",
+    "course_code": "ALDS3401",
+    "course_number": 3401,
+    "course_title": "ALDS3401 [0.5 credit]",
+    "course_desc": "Study of contemporary research and theory (1970s to present) on academic writing in elementary, secondary and post-secondary school, with emphasis on writing in university. Consideration of what academic writing entails, how writing fosters learning, and how instruction can help students develop their writing abilities.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as ENGL3908.\nPrerequisite(s): third-year standing or permission of the instructor.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the instructor.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ALDS 3402",
+    "course_code": "ALDS3402",
+    "course_number": 3402,
+    "course_title": "ALDS3402 [0.5 credit]",
+    "course_desc": "Study of contemporary research and theory (1980s to present) in writing in workplace settings. Consideration of how writing is used in accomplishing work, how novices learn to write effectively, and what the implications are for pedagogy.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as ENGL3909.\nPrerequisite(s): third-year standing or permission of the instructor.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the instructor.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ALDS 3405",
+    "course_code": "ALDS3405",
+    "course_number": 3405,
+    "course_title": "ALDS3405 [0.5 credit]",
+    "course_desc": "Theory and practice of second language (L2) writing: how people learn to write in a second language, and how L2 writing courses for specific groups of learners can be designed.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ALDS 3414",
+    "course_code": "ALDS3414",
+    "course_number": 3414,
+    "course_title": "ALDS3414 [0.5 credit]",
+    "course_desc": "The fundamental skills of professional writing and editing, including writing for specific audiences, document design, revision strategies, copyediting.",
+    "course_extra_details": "Also listed as ENGL3414.\nPrerequisite(s): third-year standing or permission of the instructor.\nSeminars three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the instructor.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ALDS 3604",
+    "course_code": "ALDS3604",
+    "course_number": 3604,
+    "course_title": "ALDS3604 [0.5 credit]",
+    "course_desc": "An in-depth examination of select topics in the field of communication differences and disabilities. An emphasis is placed on theoretical accounts of specific differences and disabilities and the cross-linguistic evidence for these accounts. Specific topics may vary from year to year.",
+    "course_extra_details": "Also listed as LING3604.\nPrerequisite(s): LING1001 and one of ALDS2604 or LING2604.\nLectures three hours a week.\n",
+    "course_prerequisites": "LING1001 and one of ALDS2604 or LING2604.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ALDS 3701",
+    "course_code": "ALDS3701",
+    "course_number": 3701,
+    "course_title": "ALDS3701 [0.5 credit]",
+    "course_desc": "Computer-assisted analysis of electronic collections of naturally occurring language.  Applications in such areas as language variation, grammar, lexicology, phraseology, translation, and learner language.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as LING3701.\nPrerequisite(s): third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ALDS 3705",
+    "course_code": "ALDS3705",
+    "course_number": 3705,
+    "course_title": "ALDS3705 [0.5 credit]",
+    "course_desc": "The extent and social contexts of restricted literacy in Canadian society; approaches to and debates surrounding the teaching and learning of adult literacy.",
+    "course_extra_details": "Prerequisite(s): third-year standing or permission of the instructor.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the instructor.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ALDS 3706",
+    "course_code": "ALDS3706",
+    "course_number": 3706,
+    "course_title": "ALDS3706 [0.5 credit]",
+    "course_desc": "Principles of and studies in discourse analysis, including both conversational and textual/documentary analysis. The major focus is on language use in structuring social relationships.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ALDS 3801",
+    "course_code": "ALDS3801",
+    "course_number": 3801,
+    "course_title": "ALDS3801 [0.5 credit]",
+    "course_desc": "Students explore personal and professional transitions from undergraduate to entering the workforce or graduate school. Topics may include self-assessments, career management skills, and networking. Both academic and practical work, featuring interaction from career specialists, graduate schools, professionals, and employed ALDS graduates.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ALDS 3903C, if taken in Winter 2019; ALDS 3903B, if taken in Fall 2020 or Fall 2021.\nPrerequisite(s): Third-year standing in ALDS or LING or permission of the School.\nSeminars three hours a week.\n",
+    "course_prerequisites": "Third-year standing in ALDS or LING or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ALDS 3900",
+    "course_code": "ALDS3900",
+    "course_number": 3900,
+    "course_title": "ALDS3900 [1.0 credit]",
+    "course_desc": "Research under the supervision of a member of the School. Normally available only to third- and fourth-year students in Applied Linguistics and Discourse Studies.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): permission of the instructor.\n \n",
+    "course_prerequisites": "permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ALDS 3901",
+    "course_code": "ALDS3901",
+    "course_number": 3901,
+    "course_title": "ALDS3901 [0.5 credit]",
+    "course_desc": "Research under the supervision of a member of the School. Normally available only to third- and fourth-year students in Applied Linguistics and Discourse Studies.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): permission of the instructor.\n \n",
+    "course_prerequisites": "permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ALDS 3903",
+    "course_code": "ALDS3903",
+    "course_number": 3903,
+    "course_title": "ALDS3903 [0.5 credit]",
+    "course_desc": "Selected topics in Applied Linguistics and Discourse Studies not ordinarily treated in the regular course program.",
+    "course_extra_details": "Lectures three hours per week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ALDS 4201",
+    "course_code": "ALDS4201",
+    "course_number": 4201,
+    "course_title": "ALDS4201 [0.5 credit]",
+    "course_desc": "The principles of test construction as applied to testing language proficiency, achievement and aptitude. Structural, notional, discrete point and integrative tests. Diagnostic assessment of language development, language disorders, and literacy. Students are expected to create, analyze and evaluate language tests.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ALDS 4203",
+    "course_code": "ALDS4203",
+    "course_number": 4203,
+    "course_title": "ALDS4203 [0.5 credit]",
+    "course_desc": "Integrates theory and description of language learning and teaching with practical work in one of the languages offered by the School. Requires observation in a language classroom, along with practical work facilitating in-class or language lab activities, or developing teaching materials.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ALDS 3803 (no longer offered).\nPrerequisite(s): permission of the language instructor for the language class in which practical work will be conducted; proficiency in the language in question, as determined by either completion of the prerequisites for 4010 of that language, or assessment by the language instructor; or permission of the School.\nSeminars and in-class practicum.\n",
+    "course_prerequisites": "permission of the language instructor for the language class in which practical work will be conducted; proficiency in the language in question, as determined by either completion of the prerequisites for 4010 of that language, or assessment by the language instructor; or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ALDS 4206",
+    "course_code": "ALDS4206",
+    "course_number": 4206,
+    "course_title": "ALDS4206 [1.0 credit]",
+    "course_desc": "Investigates the processes of classroom learning with observation and some teaching experience in ESL classes. Normally taken concurrently with ALDS 4305 and ALDS 4306.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing in the concurrent CTESL program, or enrolment in the post-graduate CTESL program.\n \n",
+    "course_prerequisites": "fourth-year standing in the concurrent CTESL program, or enrolment in the post-graduate CTESL program.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ALDS 4207",
+    "course_code": "ALDS4207",
+    "course_number": 4207,
+    "course_title": "ALDS4207 [0.5 credit]",
+    "course_desc": "The nature of everyday literacy and literacy skills. Analyzing the structure of everyday literacy texts and demands. Issues in literacy for second-language learners.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ALDS 4208",
+    "course_code": "ALDS4208",
+    "course_number": 4208,
+    "course_title": "ALDS4208 [0.5 credit]",
+    "course_desc": "An introduction to Languages for Specific Purposes  - language instruction tailored to specific groups of learners, e.g. English for Science, for Business, for the Workplace, for Academic Purposes. Research and teaching methodology. Emphasis on EAP/ESP research and instruction at Carleton.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor.\nAlso offered at the graduate level, with different requirements, as ALDS5208, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ALDS 4209",
+    "course_code": "ALDS4209",
+    "course_number": 4209,
+    "course_title": "ALDS4209 [0.5 credit]",
+    "course_desc": "An introduction to the principles of teaching language in a foreign-language context; review of teaching approaches; practical examination, development and evaluation of instructional materials.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ALDS4305 and fourth-year standing in the concurrent CTESL program, enrolment in the post-graduate CTESL program, the BGInS Specialization in Teaching English in Global Contexts, or permission of the instructor.\nLectures three hours a week.\n",
+    "course_prerequisites": "ALDS4305 and fourth-year standing in the concurrent CTESL program, enrolment in the post-graduate CTESL program, the BGInS Specialization in Teaching English in Global Contexts, or permission of the instructor.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ALDS 4305",
+    "course_code": "ALDS4305",
+    "course_number": 4305,
+    "course_title": "ALDS4305 [0.5 credit]",
+    "course_desc": "Classification of classroom teaching methods and materials; adaptation of teaching materials for particular situations; creation of teaching materials; teaching techniques and strategies.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ALDS 4205.\nPrerequisite(s): fourth-year standing in the concurrent CTESL program, enrolment in the post-graduate CTESL program, or the BGInS Specialization in Teaching English in Global Contexts, or permission of the instructor.\nSeminars four hours a week.\n",
+    "course_prerequisites": "fourth-year standing in the concurrent CTESL program, enrolment in the post-graduate CTESL program, or the BGInS Specialization in Teaching English in Global Contexts, or permission of the instructor.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ALDS 4306",
+    "course_code": "ALDS4306",
+    "course_number": 4306,
+    "course_title": "ALDS4306 [0.5 credit]",
+    "course_desc": "Classification of classroom teaching methods and materials used in an international context; adaptation of teaching materials for particular situations; creation of teaching materials for global English language education; teaching techniques and strategies.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ALDS 4205.\nPrerequisite(s): ALDS4305 and fourth-year standing in the concurrent CTESL program, enrolment in the post-graduate CTESL program, or permission of the instructor.\nSeminars four hours a week.\n",
+    "course_prerequisites": "ALDS4305 and fourth-year standing in the concurrent CTESL program, enrolment in the post-graduate CTESL program, or permission of the instructor.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ALDS 4308",
+    "course_code": "ALDS4308",
+    "course_number": 4308,
+    "course_title": "ALDS4308 [0.5 credit]",
+    "course_desc": "An introduction to English for Specific Purposes \u2013 English language instruction tailored to specific groups of learners (e.g., English for Academic Purposes, and English for a range of specific occupational and professional purposes). This course explores effective practices in course and materials design.",
+    "course_extra_details": "Prerequisite(s): ALDS2203 or ALDS4602 and third-year standing in the BGInS Honours Specialization in Teaching English in Global Contexts, or enrolment in the CTESL program, or permission of the instructor.\nSeminars three hours a week.\n",
+    "course_prerequisites": "ALDS2203 or ALDS4602 and third-year standing in the BGInS Honours Specialization in Teaching English in Global Contexts, or enrolment in the CTESL program, or permission of the instructor.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ALDS 4403",
+    "course_code": "ALDS4403",
+    "course_number": 4403,
+    "course_title": "ALDS4403 [0.5 credit]",
+    "course_desc": "The role of writing in constructing knowledge in academic disciplines, as viewed from contemporary socio-cultural perspectives. Consideration of how the goals, values, and assumptions of different disciplines shape their writing in distinctive ways and what implications this holds for pedagogy.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as ENGL4909.\nPrerequisite(s): third-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ALDS 4404",
+    "course_code": "ALDS4404",
+    "course_number": 4404,
+    "course_title": "ALDS4404 [0.5 credit]",
+    "course_desc": "The role of writing in constructing knowledge in the professions, as viewed from contemporary socio-cultural perspectives. How the goals, values, and assumptions of different professions shape their writing in distinctive ways and the implications for theory, research, and practice.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as ENGL4004.\nPrerequisite(s): third-year standing or permission of the instructor.\nSeminars three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the instructor.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ALDS 4405",
+    "course_code": "ALDS4405",
+    "course_number": 4405,
+    "course_title": "ALDS4405 [0.5 credit]",
+    "course_desc": "Introduction to approaches for teaching writing in elementary and secondary school, in university, and in the workplace, with a focus on socio-cultural theories of language and learning. Discussion of applications of these approaches to classroom and workplace teaching.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as ENGL4515.\nPrerequisite(s): third-year standing, or permission of the instructor.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing, or permission of the instructor.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ALDS 4414",
+    "course_code": "ALDS4414",
+    "course_number": 4414,
+    "course_title": "ALDS4414 [0.5 credit]",
+    "course_desc": "The role of writing in government and NGOs. Consideration of various genres, practices and styles of government and NGO writing, including, grant proposals, administrative reports, press releases, briefing notes, recommendation reports.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as ENGL4414.\nPrerequisite(s): third-year standing or permission of the instructor.\nSeminars three hours a week. May include a work placement.\n",
+    "course_prerequisites": "third-year standing or permission of the instructor.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ALDS 4415",
+    "course_code": "ALDS4415",
+    "course_number": 4415,
+    "course_title": "ALDS4415 [0.5 credit]",
+    "course_desc": "The role of writing in science-related fields and in the health professions. Consideration of various genres, practices and styles of scientific and health-related writing, including, research reports, grant proposals, case reports, popularizations of science, press releases.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as ENGL4415.\nPrerequisite(s): third-year standing or permission of the instructor.\nSeminars three hours a week. May include a work placement.\n",
+    "course_prerequisites": "third-year standing or permission of the instructor.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ALDS 4602",
+    "course_code": "ALDS4602",
+    "course_number": 4602,
+    "course_title": "ALDS4602 [0.5 credit]",
+    "course_desc": "Current issues in second language acquisition; factors influencing success in acquiring a second or additional language, discourse and culture. Emphasis on theoretical concepts, empirical research, and practical implications for language teaching.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ALDS 4606",
+    "course_code": "ALDS4606",
+    "course_number": 4606,
+    "course_title": "ALDS4606 [0.5 credit]",
+    "course_desc": "Application of statistical procedures to analysis of language data and to problems of measurement in experimental linguistics, applied linguistics, psycholinguistics, and related fields.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as LING4606.\nPrecludes additional credit for ALDS4906/LING4009 Section \"B\" if taken Winter 2015 or Winter 2016.\nPrerequisite(s): third-year standing in Linguistics or Applied Linguistics and Discourse Studies or Cognitive Science, or permission of the instructor.\nAlso offered at the graduate level, with different requirements, as ALDS5604 and LING5606, for which additional credit is precluded.\nSeminars three hours a week.\n",
+    "course_prerequisites": "third-year standing in Linguistics or Applied Linguistics and Discourse Studies or Cognitive Science, or permission of the instructor.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ALDS 4709",
+    "course_code": "ALDS4709",
+    "course_number": 4709,
+    "course_title": "ALDS4709 [0.5 credit]",
+    "course_desc": "Functions of language in the exchange of meanings between people in a wide variety of communicative situations. Semantic and syntactic resources at risk in these different contexts. Interactions between language and the social context.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing in Applied Linguistics and Discourse Studies, or Linguistics, or Journalism, or Communication Studies, or permission of the instructor.\nAlso offered at the graduate level, with different requirements, as ALDS5102, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing in Applied Linguistics and Discourse Studies, or Linguistics, or Journalism, or Communication Studies, or permission of the instructor.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ALDS 4801",
+    "course_code": "ALDS4801",
+    "course_number": 4801,
+    "course_title": "ALDS4801 [0.5 credit]",
+    "course_desc": "This course is intended to familiarize students with the structure of the English language, highlighting important contrasts between English and other languages as well as grammatical difficulties for ESL learners.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ALDS 4900",
+    "course_code": "ALDS4900",
+    "course_number": 4900,
+    "course_title": "ALDS4900 [1.0 credit]",
+    "course_desc": "Permits fourth-year Honours students to pursue their interests in a selected area of applied linguistics and discourse studies.",
+    "course_extra_details": "Prerequisite(s): permission of the instructor.\n \n",
+    "course_prerequisites": "permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ALDS 4901",
+    "course_code": "ALDS4901",
+    "course_number": 4901,
+    "course_title": "ALDS4901 [0.5 credit]",
+    "course_desc": "Permits fourth-year Honours students to pursue their interests in a selected area of applied linguistics and discourse studies.",
+    "course_extra_details": "Prerequisite(s): permission of the instructor.\n \n",
+    "course_prerequisites": "permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ALDS 4906",
+    "course_code": "ALDS4906",
+    "course_number": 4906,
+    "course_title": "ALDS4906 [0.5 credit]",
+    "course_desc": "Selected topics in applied linguistics and discourse studies. Contents of this course vary from year to year.",
+    "course_extra_details": "Lectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ALDS 4908",
+    "course_code": "ALDS4908",
+    "course_number": 4908,
+    "course_title": "ALDS4908 [1.0 credit]",
+    "course_desc": "Individually designed intensive practicum or research experience. May involve (a) practicum or work study placement in writing or literacy studies, language syllabus design or test development; (b) intensive research activity in an area of Applied Linguistics and Discourse Studies. All projects include substantial written work.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing in Applied Linguistics and Discourse Studies, a CGPA of 9.00 or better, or permission of the School.\nTutorial hours arranged.\n",
+    "course_prerequisites": "fourth-year standing in Applied Linguistics and Discourse Studies, a CGPA of 9.00 or better, or permission of the School.",
+    "year_standing": 4
+}]}

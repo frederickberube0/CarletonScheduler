@@ -1,0 +1,88 @@
+{"object": [
+{
+    "course_identifier": "KORE 1010",
+    "course_code": "KORE1010",
+    "course_number": 1010,
+    "course_title": "KORE1010 [0.5 credit]",
+    "course_desc": "For students with no knowledge of Korean. Oral skills, reading and writing. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for LANG1010, when the language of instruction was Korean.\nFour hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "KORE 1020",
+    "course_code": "KORE1020",
+    "course_number": 1020,
+    "course_title": "KORE1020 [0.5 credit]",
+    "course_desc": "Continuation of first-year Korean. Oral skills, reading and writing. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for LANG1020, when the language of instruction was Korean.\nPrerequisite(s): grade of C or higher in KORE1010, or in LANG1010 (when the language of instruction was Korean), or permission of the School.\nFour hours a week.\n",
+    "course_prerequisites": "grade of C or higher in KORE1010, or in LANG1010 (when the language of instruction was Korean), or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "KORE 2010",
+    "course_code": "KORE2010",
+    "course_number": 2010,
+    "course_title": "KORE2010 [0.5 credit]",
+    "course_desc": "Further study of Korean to reach a more advanced level of proficiency in a range of situations. Equal emphasis on oral and written language. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for LANG2010, when the language of instruction was Korean.\nPrerequisite(s): grade of C or higher in KORE1020, or in LANG1020 (when the language of instruction was Korean), or permission of the School.\nFour hours a week.\n",
+    "course_prerequisites": "grade of C or higher in KORE1020, or in LANG1020 (when the language of instruction was Korean), or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "KORE 2020",
+    "course_code": "KORE2020",
+    "course_number": 2020,
+    "course_title": "KORE2020 [0.5 credit]",
+    "course_desc": "Continuation of second-year Korean. Further study of Korean to reach a more advanced level of proficiency in a range of situations. Equal emphasis on oral and written language. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for LANG2020, when the language of instruction was Korean.\nPrerequisite(s): grade of C or higher in KORE2010, or in LANG2010 (when the language of instruction was Korean), or permission of the School.\nFour hours a week.\n",
+    "course_prerequisites": "grade of C or higher in KORE2010, or in LANG2010 (when the language of instruction was Korean), or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "KORE 3010",
+    "course_code": "KORE3010",
+    "course_number": 3010,
+    "course_title": "KORE3010 [0.5 credit]",
+    "course_desc": "Continuation of the study of Korean to reach a more advanced level, including the ability to handle authentic materials and primary texts required for academic studies. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for LING3009 (when the language of instruction was Korean).\nPrerequisite(s): grade of C or higher in KORE2020 or LANG2020 (if taken in winter 2017), or permission of the School.\nSeminar three hours a week.\n",
+    "course_prerequisites": "grade of C or higher in KORE2020 or LANG2020 (if taken in winter 2017), or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "KORE 3020",
+    "course_code": "KORE3020",
+    "course_number": 3020,
+    "course_title": "KORE3020 [0.5 credit]",
+    "course_desc": "Continuation of third-year Korean. Progress toward a more advanced level, including the ability to handle authentic materials and primary texts required for academic studies. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for LING3009 (when the language of instruction was Korean).\nPrerequisite(s): grade of C or higher in KORE3010, or permission of the School.\nSeminar three hours a week.\n",
+    "course_prerequisites": "grade of C or higher in KORE3010, or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "KORE 4010",
+    "course_code": "KORE4010",
+    "course_number": 4010,
+    "course_title": "KORE4010 [0.5 credit]",
+    "course_desc": "Development of speaking and writing abilities more complex than those used in daily communication. Development of language use for specific purposes and in specific contexts such as the academic, business and technical domains. Compulsory attendance.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): grade of C or higher in KORE3020, or permission of the School.\nSeminar three hours a week.\n",
+    "course_prerequisites": "grade of C or higher in KORE3020, or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "KORE 4020",
+    "course_code": "KORE4020",
+    "course_number": 4020,
+    "course_title": "KORE4020 [0.5 credit]",
+    "course_desc": "Continuation of Fourth-Year Korean. Further development of speaking and writing abilities more complex than those used in daily communication. Development of language use for specific purposes and in specific contexts such as the academic, business and technical domains. Compulsory attendance.",
+    "course_extra_details": "Prerequisite(s): grade of C or higher in KORE4010, or permission of the School.\nSeminar three hours a week.\n",
+    "course_prerequisites": "grade of C or higher in KORE4010, or permission of the School.",
+    "year_standing": 0
+}]}

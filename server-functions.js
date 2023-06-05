@@ -5,7 +5,7 @@ function verifyCourse(course) {
 
     // Test the string against the pattern
     if(!pattern.test(course)) return false;
-    var filePath = path.join(__dirname, '', 'courses', course.substring(0,4));
+    var filePath = path.join(__dirname, '', 'courses', course.substring(0,4)+".json");
     try {
         // Check if the file exists
         fs.accessSync(filePath, fs.constants.F_OK);
@@ -14,7 +14,7 @@ function verifyCourse(course) {
         
         //attempt with 3 letters
     }
-    var filePath = path.join(__dirname, '', 'courses', course.substring(0,3));
+    var filePath = path.join(__dirname, '', 'courses', course.substring(0,3)+".json");
     try {
         // Check if the file exists
         fs.accessSync(filePath, fs.constants.F_OK);

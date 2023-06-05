@@ -1,0 +1,726 @@
+{"object": [
+{
+    "course_identifier": "RELI 1010",
+    "course_code": "RELI1010",
+    "course_number": 1010,
+    "course_title": "RELI1010 [1.0 credit]",
+    "course_desc": "Elementary study of the language required for studying a religious tradition.",
+    "course_extra_details": "Precludes additional credit for RELI 1902 (no longer offered).\nPrerequisite(s): Major/Minor in Religion or permission of the department.\nTutorial two hours a week.\n",
+    "course_prerequisites": "Major/Minor in Religion or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 1710",
+    "course_code": "RELI1710",
+    "course_number": 1710,
+    "course_title": "RELI1710 [0.5 credit]",
+    "course_desc": "A survey of the history, beliefs and practices of these major religious traditions.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for RELI 1000.\nLecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 1712",
+    "course_code": "RELI1712",
+    "course_number": 1712,
+    "course_title": "RELI1712 [0.5 credit]",
+    "course_desc": "A survey of the history, beliefs, and practices of South and East Asian religious traditions, including Hinduism, Buddhism, Jainism, Sikhism, Daoism, Confucianism, and Shinto.",
+    "course_extra_details": "Precludes additional credit for RELI 1715, RELI 1716.\nLecture three hours per week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 1731",
+    "course_code": "RELI1731",
+    "course_number": 1731,
+    "course_title": "RELI1731 [0.5 credit]",
+    "course_desc": "The variety of religious experiences and their interpretations: myth, literature, art and religious doctrine. Topics include time, self, the other, journey and wisdom. Examples ranging from shamanistic experience to the abstractions of Buddhist philosophy.",
+    "course_extra_details": "Precludes additional credit for RELI 1205, RELI 1206, RELI 1402, and RELI 2002.\nPrerequisite(s): restricted to students registered in the Bachelor of Humanities & Religion program.\nLecture three hours a week.\n",
+    "course_prerequisites": "restricted to students registered in the Bachelor of Humanities & Religion program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 1741",
+    "course_code": "RELI1741",
+    "course_number": 1741,
+    "course_title": "RELI1741 [0.5 credit]",
+    "course_desc": "An introduction to major issues in the study of religion in global contexts, drawing on historical and contemporary examples.",
+    "course_extra_details": "Lecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 2010",
+    "course_code": "RELI2010",
+    "course_number": 2010,
+    "course_title": "RELI2010 [1.0 credit]",
+    "course_desc": "Intermediate study of the language required for studying a religious tradition. Restricted to students registered in a Religion program.",
+    "course_extra_details": "Precludes additional credit for RELI 2902 (no longer offered).\nPrerequisite(s): RELI 1902 or RELI1010 or permission of the department.\nTutorial two hours a week.\n",
+    "course_prerequisites": "RELI 1902 or RELI1010 or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 2110",
+    "course_code": "RELI2110",
+    "course_number": 2110,
+    "course_title": "RELI2110 [0.5 credit]",
+    "course_desc": "The history of Judaism and the Jewish people from the Second Temple until the present day. The organization, basic beliefs, social and ethical practices of the Jews and Judaism.",
+    "course_extra_details": "Precludes additional credit for RELI 1008 and RELI 2508.\nLecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 2121",
+    "course_code": "RELI2121",
+    "course_number": 2121,
+    "course_title": "RELI2121 [0.5 credit]",
+    "course_desc": "Introduces the Hebrew Bible within historical and religious frameworks.  All texts are in English.",
+    "course_extra_details": "Precludes additional credit for RELI 3505C taught in 2007-2008.\nPrerequisite(s): RELI1710 or RELI 1000 or RELI2110 or RELI 2508 or permission of the department.\nLecture three hours a week.\n",
+    "course_prerequisites": "RELI1710 or RELI 1000 or RELI2110 or RELI 2508 or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 2200",
+    "course_code": "RELI2200",
+    "course_number": 2200,
+    "course_title": "RELI2200 [0.5 credit]",
+    "course_desc": "An introduction to the history, beliefs, traditions, practices, and diversity of Christianity from its beginnings to the present day.",
+    "course_extra_details": "Lecture three hours per week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 2220",
+    "course_code": "RELI2220",
+    "course_number": 2220,
+    "course_title": "RELI2220 [0.5 credit]",
+    "course_desc": "Introduction to the critical study of the writings of the New Testament with discussion of their Hellenistic and Jewish background, the historical Jesus, Paul and his letters, and historical and sociological explanations for the rise of the early church and interpretation of its writings.",
+    "course_extra_details": "Precludes additional credit for RELI 1003, RELI 1200 and RELI 2207.\nLecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 2230",
+    "course_code": "RELI2230",
+    "course_number": 2230,
+    "course_title": "RELI2230 [0.5 credit]",
+    "course_desc": "Survey of recent and current Christian movements around the world, both by region and thematically, with emphasis on institutions and networks that connect Christian communities across national boundaries. Special consideration is given to the cultural and political capacities of such Christian communities and networks.",
+    "course_extra_details": "Lecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 2310",
+    "course_code": "RELI2310",
+    "course_number": 2310,
+    "course_title": "RELI2310 [0.5 credit]",
+    "course_desc": "The study of Muslim religious tradition and investigation of its organization, basic beliefs, social and ethical principles and practices.",
+    "course_extra_details": "Precludes additional credit for RELI 1009 and RELI 2509.\nLecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 2330",
+    "course_code": "RELI2330",
+    "course_number": 2330,
+    "course_title": "RELI2330 [0.5 credit]",
+    "course_desc": "An examination of the Qur'an's content, form, style, central themes, canonization, and classical and contemporary interpretive traditions.",
+    "course_extra_details": "Prerequisite(s): second-year standing.\nLecture three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "RELI 2410",
+    "course_code": "RELI2410",
+    "course_number": 2410,
+    "course_title": "RELI2410 [0.5 credit]",
+    "course_desc": "Basic beliefs and practices of the Buddhist tradition and a brief survey of its development and transformations in India, Sri Lanka, Southeast Asia, Tibet, China and Japan.",
+    "course_extra_details": "Precludes additional credit for RELI 1006 and RELI 2106.\nLecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 2510",
+    "course_code": "RELI2510",
+    "course_number": 2510,
+    "course_title": "RELI2510 [0.5 credit]",
+    "course_desc": "Basic beliefs, practices, and social structures of the Hindu tradition as reflected in Hindu scriptures, myths and symbols, and philosophical schools.",
+    "course_extra_details": "Precludes additional credit for RELI 1005 and RELI 2005.\nLecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 2515",
+    "course_code": "RELI2515",
+    "course_number": 2515,
+    "course_title": "RELI2515 [0.5 credit]",
+    "course_desc": "Myths and symbols of the Indian tradition expressed in Hindu and Buddhist art. Hindu theories of beauty and the interface of the arts with the spiritual traditions of India.",
+    "course_extra_details": "Precludes additional credit for RELI 2005 (if taken before 2007-2008) and RELI 2008.\nPrerequisite(s): second-year standing.\nLecture three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "RELI 2535",
+    "course_code": "RELI2535",
+    "course_number": 2535,
+    "course_title": "RELI2535 [0.5 credit]",
+    "course_desc": "An exploration of issues related to gender and religion in historical and contemporary contexts.",
+    "course_extra_details": "Lectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 2600",
+    "course_code": "RELI2600",
+    "course_number": 2600,
+    "course_title": "RELI2600 [0.5 credit]",
+    "course_desc": "Survey of the origins, development, and diffusion of Chinese religious traditions, including Confucianism, Daoism, Chinese Buddhism and popular religion(s).",
+    "course_extra_details": "Includes: Experiential Learning Activity\nLecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 2710",
+    "course_code": "RELI2710",
+    "course_number": 2710,
+    "course_title": "RELI2710 [1.0 credit]",
+    "course_desc": "The early history, literature and ideas of Judaism, Christianity and Islam from 200 BCE to 750 CE.",
+    "course_extra_details": "Precludes additional credit for RELI 2208.\nPrerequisite(s): restricted to students in the Bachelor of Humanities & Religion program.\nLecture three hours per week.\n",
+    "course_prerequisites": "restricted to students in the Bachelor of Humanities & Religion program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 2711",
+    "course_code": "RELI2711",
+    "course_number": 2711,
+    "course_title": "RELI2711 [0.5 credit]",
+    "course_desc": "An exploration of love as expressed in religious literatures and religious practices.",
+    "course_extra_details": "Lectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 2712",
+    "course_code": "RELI2712",
+    "course_number": 2712,
+    "course_title": "RELI2712 [0.5 credit]",
+    "course_desc": "An historical survey emphasizing the interactions of various religious traditions in Canada, including indigenous religions, Christian missionary and colonial traditions, immigrant and global diaspora religions.",
+    "course_extra_details": "Precludes additional credit for RELI 2307 Section A (2007-2008).\nLectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 2713",
+    "course_code": "RELI2713",
+    "course_number": 2713,
+    "course_title": "RELI2713 [0.5 credit]",
+    "course_desc": "An historical and functional study of mystical experiences in their religious contexts, relying on examples from selected traditions such as the Christian, Buddhist, Hindu, Jewish and Muslim.",
+    "course_extra_details": "Precludes additional credit for RELI 2300.\nLecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 2720",
+    "course_code": "RELI2720",
+    "course_number": 2720,
+    "course_title": "RELI2720 [0.5 credit]",
+    "course_desc": "Religions of Inuit, First Nations and M\u00e9tis peoples, past and present. Considerations include concepts of tradition, syncretism and \u201ccreative ritual.\u201d Primary sources may include textual, visual and oral materials. Course may include fieldwork, as well as in-class presentations by community elders.",
+    "course_extra_details": "Lecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 2732",
+    "course_code": "RELI2732",
+    "course_number": 2732,
+    "course_title": "RELI2732 [0.5 credit]",
+    "course_desc": "The meaning of death and afterlife in some religious traditions and secular philosophies with emphasis on the Hindu teaching of the immortal soul; the Hebraic idea of collective survival; the Christian doctrine of resurrection of the body; the Buddhist conception of no-soul and nirvana.",
+    "course_extra_details": "Precludes additional credit for RELI 2308.\nLecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 2735",
+    "course_code": "RELI2735",
+    "course_number": 2735,
+    "course_title": "RELI2735 [0.5 credit]",
+    "course_desc": "A study of religion in ancient Greece.",
+    "course_extra_details": "Also listed as CLCV2103.\nPrecludes additional credit for CLCV 2102, RELI 2734, RELI 2102.\nLecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 2736",
+    "course_code": "RELI2736",
+    "course_number": 2736,
+    "course_title": "RELI2736 [0.5 credit]",
+    "course_desc": "Cross-cultural survey of religious institutions, focusing on theories and methodologies in the study of religion. Topics may include myth, totemism, cults, ritual, belief systems, altered states of consciousness, new religious and/or new age movements and the relationship of religion with other social institutions and processes.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as ANTH2550.\nLectures and workshop three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 2737",
+    "course_code": "RELI2737",
+    "course_number": 2737,
+    "course_title": "RELI2737 [0.5 credit]",
+    "course_desc": "A study of religion in ancient Rome.",
+    "course_extra_details": "Also listed as CLCV2104.\nPrecludes additional credit for CLCV 2102 and RELI 2734 and RELI 2102.\nLecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 2738",
+    "course_code": "RELI2738",
+    "course_number": 2738,
+    "course_title": "RELI2738 [0.5 credit]",
+    "course_desc": "A study of philosophical issues arising from religion. Topics may include: arguments for and against the existence of God, religious experience, death and the afterlife, miracles, God and evil, the relationship between religion and science, and the relationship between religion and ethics.",
+    "course_extra_details": "Also listed as PHIL2601.\nPrerequisite(s): a course in philosophy or second-year standing.\nLecture three hours a week.\n",
+    "course_prerequisites": "a course in philosophy or second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "RELI 2741",
+    "course_code": "RELI2741",
+    "course_number": 2741,
+    "course_title": "RELI2741 [0.5 credit]",
+    "course_desc": "In this Inquiry course, students will be introduced to a specific topic in Religious Studies (e.g., ritual, narrative, space) and develop a research project related to it. Focus on fostering intellectual curiosity and developing practical skills of reading, writing and research fundamentals.",
+    "course_extra_details": "Precludes additional credit for RELI 2002 (no longer offered), RELI 1205 (no longer offered), RELI 1402 (no longer offered), and RELI 1730 (no longer offered).\nSeminar three hours per week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 2750",
+    "course_code": "RELI2750",
+    "course_number": 2750,
+    "course_title": "RELI2750 [0.5 credit]",
+    "course_desc": "An examination of the basic beliefs, practices, and social structures of the Sikh tradition as reflected in Sikh scriptures, history and philosophical schools.",
+    "course_extra_details": "Lecture three hours a week\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 2800",
+    "course_code": "RELI2800",
+    "course_number": 2800,
+    "course_title": "RELI2800 [0.5 credit]",
+    "course_desc": "This course illuminates a recent category of \u201cWorld Religions\u201d by examining cases from all five continents, as well as in diaspora (e.g., Brazilian Candombl\u00e9, Roma/Sinti religion). Considerations include the study of minority religions, religion in oral cultures, myth & ritual studies, colonialism, globalization.",
+    "course_extra_details": "Precludes additional credit for RELI 1720 (no longer offered).\nLecture three hours per week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 2810",
+    "course_code": "RELI2810",
+    "course_number": 2810,
+    "course_title": "RELI2810 [0.5 credit]",
+    "course_desc": "Examination of interactions between religion and popular culture in the form of music, film, video games, literature, and other media. Topic and focus will vary year to year; please check departmental website for information. May be repeated for credit when the topic changes.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nLecture three hours per week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 2811",
+    "course_code": "RELI2811",
+    "course_number": 2811,
+    "course_title": "RELI2811 [0.5 credit]",
+    "course_desc": "Attitudes in the major world religions to nature and the environment and recent responses by religious traditions to ecological degradation and crisis. Includes examination of religious sensibilities expressed in environmentalism.",
+    "course_extra_details": "Precludes additional credit for RELI 3710.\nLecture three hours per week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 2840",
+    "course_code": "RELI2840",
+    "course_number": 2840,
+    "course_title": "RELI2840 [0.5 credit]",
+    "course_desc": "Content of this course may vary from year to year.  Please check departmental website for information on the topic.",
+    "course_extra_details": "Precludes additional credit for repeated topics.\nLecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 3000",
+    "course_code": "RELI3000",
+    "course_number": 3000,
+    "course_title": "RELI3000 [0.5 credit]",
+    "course_desc": "This course examines some aspects of the intersection between religion(s) and public life, broadly construed, including social, economic, political, institutional aspects, either in the contemporary world or focused on a particular historical period.",
+    "course_extra_details": "Seminar three hours per week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 3010",
+    "course_code": "RELI3010",
+    "course_number": 3010,
+    "course_title": "RELI3010 [1.0 credit]",
+    "course_desc": "Advanced study of the language required for studying a religious tradition.",
+    "course_extra_details": "Precludes additional credit for RELI 3902 (no longer offered).\nPrerequisite(s): RELI 2902 (no longer offered) or RELI2010 or permission of the department.\nTutorial two hours a week.\n",
+    "course_prerequisites": "RELI 2902 (no longer offered) or RELI2010 or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 3101",
+    "course_code": "RELI3101",
+    "course_number": 3101,
+    "course_title": "RELI3101 [0.5 credit]",
+    "course_desc": "Discussion of the embodiment of religious ideas in life, law, and practice, for example in food consumption, gender ideologies, sexuality, adornment, and death rituals. Topic will vary year to year; please check departmental website for information. May be repeated for credit when the topic changes.",
+    "course_extra_details": "Precludes additional credit for RELI 3130 (no longer offered), RELI 3131 (no longer offered), RELI 3331 (no longer offered), RELI 3734 (no longer offered).\nLecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 3140",
+    "course_code": "RELI3140",
+    "course_number": 3140,
+    "course_title": "RELI3140 [0.5 credit]",
+    "course_desc": "Introduction to the historical and religious dimensions of the Holocaust.  The foundations, perpetration and consequences of the Nazi Final Solution through primary sources including survivor testimony will be examined.",
+    "course_extra_details": "Also listed as HIST3714.\nPrerequisite(s): third-year standing or permission of the department.\n Lecture three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "RELI 3220",
+    "course_code": "RELI3220",
+    "course_number": 3220,
+    "course_title": "RELI3220 [0.5 credit]",
+    "course_desc": "A history of the Protestant and Catholic Reformations of the sixteenth century, with emphasis on the theological disputes of the protagonists and the impact of these disputes on the social, political and cultural developments of the era.",
+    "course_extra_details": "Also listed as HIST3708.\nPrecludes additional credit for RELI 3708 (no longer offered).\nPrerequisite(s): 0.5 credit at the 2000-level in HIST or third-year standing.\nLecture three hours a week.\n",
+    "course_prerequisites": "0.5 credit at the 2000-level in HIST or third-year standing.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "RELI 3225",
+    "course_code": "RELI3225",
+    "course_number": 3225,
+    "course_title": "RELI3225 [0.5 credit]",
+    "course_desc": "This course examines the development of Christian practices and teachings from late antiquity to early modernity, with a special emphasis on their historical diversity and the complex dynamics of church formation. Students should expect to read (in English) both primary and secondary sources.",
+    "course_extra_details": "Precludes additional credit for RELI 2210 (no longer offered), RELI 2225 (no longer offered).\nLecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 3226",
+    "course_code": "RELI3226",
+    "course_number": 3226,
+    "course_title": "RELI3226 [0.5 credit]",
+    "course_desc": "Developments in Christian practices and teachings over the early modern and modern periods, especially in relation to social changes commonly associated with modernity including: urbanization, state formation, industrialization, colonization, the development of capitalist economies.",
+    "course_extra_details": "Precludes additional credit for RELI 2210 (no longer offered), RELI 2226 (no longer offered).\nLecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 3230",
+    "course_code": "RELI3230",
+    "course_number": 3230,
+    "course_title": "RELI3230 [0.5 credit]",
+    "course_desc": "A study of the historical records of the life of Jesus, the methods used to interpret them, and the resulting images of Jesus.",
+    "course_extra_details": "Precludes additional credit for RELI 2205, RELI 3208 and RELI 3105.\nPrerequisite(s): RELI 2207 or RELI2220 or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "RELI 2207 or RELI2220 or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 3231",
+    "course_code": "RELI3231",
+    "course_number": 3231,
+    "course_title": "RELI3231 [0.5 credit]",
+    "course_desc": "The social, religious, and historical context of Paul, the communities he founded, and the letters he wrote to them.",
+    "course_extra_details": "Precludes additional credit for RELI 3300 and RELI 3106.\nPrerequisite(s): RELI 2207 or RELI2220 or permission of the department.\nLecture three hours a week.\n",
+    "course_prerequisites": "RELI 2207 or RELI2220 or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 3232",
+    "course_code": "RELI3232",
+    "course_number": 3232,
+    "course_title": "RELI3232 [0.5 credit]",
+    "course_desc": "An historical survey of key Christian thought and practices at the individual and collective level.  Topics may include self-discipline, body discipline, monastic discipline, church discipline and social discipline.",
+    "course_extra_details": "Precludes additional credit for RELI 3302 Section \"A\" taught in 2007-2008.\nPrerequisite(s): third-year standing or permission of the department.\n \n",
+    "course_prerequisites": "third-year standing or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "RELI 3250",
+    "course_code": "RELI3250",
+    "course_number": 3250,
+    "course_title": "RELI3250 [0.5 credit]",
+    "course_desc": "The development of some protestant Christianities in relation to material factors, such as colonialism, industrial or consumer capitalism, imperialism, and in relation to major ideological trends, such as nationalism, economic or political liberalism and atheism.",
+    "course_extra_details": "Lecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 3301",
+    "course_code": "RELI3301",
+    "course_number": 3301,
+    "course_title": "RELI3301 [0.5 credit]",
+    "course_desc": "An examination of the integral role music plays in religion and sacred ritual in different world cultures and religions. Through various case studies, the course broadly considers how sacred soundscapes shape people\u2019s worldviews, identities, and experiences within and outside of their communities.",
+    "course_extra_details": "Also listed as MUSI3301.\nPrerequisite(s): second-year standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "RELI 3330",
+    "course_code": "RELI3330",
+    "course_number": 3330,
+    "course_title": "RELI3330 [0.5 credit]",
+    "course_desc": "An introduction to the main practical and theoretical dimensions of Islam's mystical tradition as seen through the life and work of its key representatives.",
+    "course_extra_details": "Prerequisite(s): RELI2710 or RELI2713 or permission of the department.\nLecture three hours a week.\n",
+    "course_prerequisites": "RELI2710 or RELI2713 or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 3333",
+    "course_code": "RELI3333",
+    "course_number": 3333,
+    "course_title": "RELI3333 [0.5 credit]",
+    "course_desc": "Studies in issues related to magic, witchcraft and/or the occult in various historical, religious, and cultural contexts.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing, or 0.5 credit in RELI, or permission of the department.\nLectures 3 hours a week.\n",
+    "course_prerequisites": "third-year standing, or 0.5 credit in RELI, or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "RELI 3340",
+    "course_code": "RELI3340",
+    "course_number": 3340,
+    "course_title": "RELI3340 [0.5 credit]",
+    "course_desc": "Overview of the life and teaching of the Prophet Muhammad, and the most salient motifs and features of Muslim devotion to him.",
+    "course_extra_details": "Precludes additional credit for RELI 2340.\nPrerequisite(s): RELI1710 or RELI2310 or permission of the department.\nLecture three hours a week.\n",
+    "course_prerequisites": "RELI1710 or RELI2310 or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 3360",
+    "course_code": "RELI3360",
+    "course_number": 3360,
+    "course_title": "RELI3360 [0.5 credit]",
+    "course_desc": "A focus on post-Qur'anic Islamic literature and interpretive traditions (e.g. tafsir, hadith); texts and topics will vary from year to year;  please check departmental website for information. May be repeated for credit when the topic changes.",
+    "course_extra_details": "Prerequisite(s): RELI2310 or RELI2330.\nLecture three hours per week.\n",
+    "course_prerequisites": "RELI2310 or RELI2330.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 3420",
+    "course_code": "RELI3420",
+    "course_number": 3420,
+    "course_title": "RELI3420 [0.5 credit]",
+    "course_desc": "An exploration of the development of early Buddhist philosophy, psychology, religious texts, and practices.",
+    "course_extra_details": "Precludes additional credit for RELI 3215.\nPrerequisite(s): RELI 2106 or RELI2410 or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "RELI 2106 or RELI2410 or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 3422",
+    "course_code": "RELI3422",
+    "course_number": 3422,
+    "course_title": "RELI3422 [0.5 credit]",
+    "course_desc": "The rise of the Mahayana and the dissemination and development of Buddhist thought and practice outside of India.",
+    "course_extra_details": "Precludes additional credit for RELI 3217.\nPrerequisite(s): RELI 2106 or RELI2410 or permission of the department.\nLecture three hours a week.\n",
+    "course_prerequisites": "RELI 2106 or RELI2410 or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 3520",
+    "course_code": "RELI3520",
+    "course_number": 3520,
+    "course_title": "RELI3520 [0.5 credit]",
+    "course_desc": "A historical survey of Hinduism from the Vedic era to the development of devotional Hinduism.  Vedic religion and developments in early Hindu Philosophy and sectarian Hinduism.",
+    "course_extra_details": "Precludes additional credit for RELI 3015.\nLecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 3522",
+    "course_code": "RELI3522",
+    "course_number": 3522,
+    "course_title": "RELI3522 [0.5 credit]",
+    "course_desc": "A survey of major developments in Hinduism since the period of colonial British rule.  The development of \u201creform\u201d Hinduism in the 18th and 19th centuries, and the emergence of Hindu nationalist movements in the 20th century.",
+    "course_extra_details": "Precludes additional credit for RELI 3007.\nLecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 3722",
+    "course_code": "RELI3722",
+    "course_number": 3722,
+    "course_title": "RELI3722 [0.5 credit]",
+    "course_desc": "A thematic course that examines putative cases of \u201creligion and violence\u201d from a range of world traditions, but also interrogates aspects of the \u201creligion and violence\u201d rubric itself.",
+    "course_extra_details": "Prerequisite(s): third-year standing or permission of the department.\nLecture three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "RELI 3732",
+    "course_code": "RELI3732",
+    "course_number": 3732,
+    "course_title": "RELI3732 [0.5 credit]",
+    "course_desc": "A study of period or theme in the art and archaeology of Ancient Greece. Topics may vary from year to year.",
+    "course_extra_details": "Also listed as ARTH3102, CLCV3306.\nPrerequisite(s): second-year standing or permission of the unit. Permission of the unit required to repeat.\nLecture three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the unit. Permission of the unit required to repeat.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "RELI 3733",
+    "course_code": "RELI3733",
+    "course_number": 3733,
+    "course_title": "RELI3733 [0.5 credit]",
+    "course_desc": "A study of a period or theme in the art and archaeology of the ancient Romans. Topics may vary from year to year.",
+    "course_extra_details": "Also listed as ARTH3105, CLCV3307.\nPrerequisite(s): second-year standing or permission of the unit. Permission of the unit required to repeat.\nLecture three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the unit. Permission of the unit required to repeat.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "RELI 3741",
+    "course_code": "RELI3741",
+    "course_number": 3741,
+    "course_title": "RELI3741 [0.5 credit]",
+    "course_desc": "Examination of reflection on the nature and origin of religion from the ancient world up to key figures and founders of the discipline of the systematic, critical, and scientific study of religion in the nineteenth and early twentieth century.",
+    "course_extra_details": "Prerequisite(s): second-year standing.\nLecture three hours per week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "RELI 3840",
+    "course_code": "RELI3840",
+    "course_number": 3840,
+    "course_title": "RELI3840 [0.5 credit]",
+    "course_desc": "Content of this course may vary from year to year.  Please check departmental website for information on the topic.",
+    "course_extra_details": "Precludes additional credit for repeated topics.\nLecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 3850",
+    "course_code": "RELI3850",
+    "course_number": 3850,
+    "course_title": "RELI3850 [0.5 credit]",
+    "course_desc": "This travel course explores religion in its historical and/or contemporary contexts in a particular geographic locale.  Travel destinations, religious traditions studied, course content, and themes vary from year to year.",
+    "course_extra_details": "Prerequisite(s): third year standing and 1.0 credit of study in the area related to the year's topic religion, and permission of the department. Permission of the department is required to repeat this course.\nHours to be arranged. Costs associated with the course are borne by the student.\n",
+    "course_prerequisites": "third year standing and 1.0 credit of study in the area related to the year's topic religion, and permission of the department. Permission of the department is required to repeat this course.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RELI 4602",
+    "course_code": "RELI4602",
+    "course_number": 4602,
+    "course_title": "RELI4602 [0.5 credit]",
+    "course_desc": "Legal, theoretical, and theological interconnections between religion and human rights. Evaluation of concepts including religious freedom, secularism, public sphere, accommodation and neutrality. Examination of religion and culture, interdependence of legal and religious perspectives, boundaries of religion and state, and religious compulsion. Use of case studie.",
+    "course_extra_details": "Also listed as HUMR 4602, RELI4602.\nPrerequisite(s): LAWS2908, LAWS3602, and fourth-year Honours standing.\nSeminar\n",
+    "course_prerequisites": "LAWS2908, LAWS3602, and fourth-year Honours standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "RELI 4741",
+    "course_code": "RELI4741",
+    "course_number": 4741,
+    "course_title": "RELI4741 [0.5 credit]",
+    "course_desc": "This course engages with the real world implications of late twentieth and twenty-first century scholarship on religion with a focus on applied learning and developing employable skills that facilitate transition from academia to a career.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for RELI3301, RELI 4301, RELI 4740 (no longer offered).\nPrerequisite(s): fourth-year standing in the Honours B.A. Religion program, or permission of the department.\nSeminar three hours per week.\n",
+    "course_prerequisites": "fourth-year standing in the Honours B.A. Religion program, or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "RELI 4840",
+    "course_code": "RELI4840",
+    "course_number": 4840,
+    "course_title": "RELI4840 [0.5 credit]",
+    "course_desc": "A tutorial on a topic in religious studies. Contents of the tutorial to be arranged with the supervising faculty member.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing in the Honours B.A. Religion program, or permission of the department.\n \n",
+    "course_prerequisites": "fourth-year standing in the Honours B.A. Religion program, or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "RELI 4850",
+    "course_code": "RELI4850",
+    "course_number": 4850,
+    "course_title": "RELI4850 [0.5 credit]",
+    "course_desc": "Content of this course may vary from year to year.  Please consult the departmental website for information on the topic.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing in the Honours B.A. Religion program, or permission of the department.\nAlso offered at the graduate level, with different requirements, as RELI5850, for which additional credit is precluded.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year standing in the Honours B.A. Religion program, or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "RELI 4860",
+    "course_code": "RELI4860",
+    "course_number": 4860,
+    "course_title": "RELI4860 [0.5 credit]",
+    "course_desc": "Critical reflection on the theme of religion and public life as evidenced in today's Ottawa. Experiential learning via a 30-hour placement, contextualized through readings and in-class sessions (in weeks 3, 6, 12), and culminating in a reflective final project.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing in BA Honours or BA Combined Honours Religion program, and 10.0 Major CGPA, and 1.0 credit in the area in which the practicum will take place, and permission of the Department.\nField placement with weekly synchronous check-ins.\n",
+    "course_prerequisites": "fourth-year standing in BA Honours or BA Combined Honours Religion program, and 10.0 Major CGPA, and 1.0 credit in the area in which the practicum will take place, and permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "RELI 4990",
+    "course_code": "RELI4990",
+    "course_number": 4990,
+    "course_title": "RELI4990 [1.0 credit]",
+    "course_desc": "Honours research paper (approx. 40 pages) is due on the last day of winter term classes. Written proposal due to the Proposal Board on the first day of fall term classes.  Please consult department document for full requirements and information.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for RELI 4908 and RELI 4909.\nPrerequisite(s): 10.0 CGPA and fourth-year standing in the Honours B.A. Religion program, or permission of the department.\n \n",
+    "course_prerequisites": "10.0 CGPA and fourth-year standing in the Honours B.A. Religion program, or permission of the department.",
+    "year_standing": 4
+}]}

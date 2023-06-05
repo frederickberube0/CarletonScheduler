@@ -1,0 +1,374 @@
+{"object": [
+{
+    "course_identifier": "CIVE 2004",
+    "course_code": "CIVE2004",
+    "course_number": 2004,
+    "course_title": "CIVE2004 [0.5 credit]",
+    "course_desc": "Engineering geometry and spatial graphics. Fundamentals of surveys. Digital surveying tools; total station, GPS. Computer-Aided Drafting (CAD). Geographic Information Systems (GIS). Spatial referencing. Building Information Modelling (BIM). Integrated design using digital tools. Field exercises using software to process and evaluate spatial data.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): Second-year status in Engineering or (GEOM1004 for students in BSc in Geomatics).\nLectures three hours a week, problem analysis and laboratories three hours a week.\n",
+    "course_prerequisites": "Second-year status in Engineering or (GEOM1004 for students in BSc in Geomatics).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CIVE 2005",
+    "course_code": "CIVE2005",
+    "course_number": 2005,
+    "course_title": "CIVE2005 [0.5 credit]",
+    "course_desc": "Technical issues involved in architectural design of buildings from ancient times to the present. Technological innovation and materials related to structural developments, and the organization and design of structures. Basic concepts of calculus, equilibrium, and mechanics of materials.",
+    "course_extra_details": "Precludes additional credit for Not eligible for use for Bachelor of Engineering degree requirements.\nPrerequisite(s): ARCC2202.\nLectures three hours a week, laboratory three hours a week.\n",
+    "course_prerequisites": "ARCC2202.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CIVE 2101",
+    "course_code": "CIVE2101",
+    "course_number": 2101,
+    "course_title": "CIVE2101 [0.5 credit]",
+    "course_desc": "Virtual work. Friction. Relative motion of particles. Kinematics of a rigid body: translation, rotation; general plane motion; absolute and relative motion. Kinetics of a rigid body: equations of motion; work-energy; impulse-momentum; conservation of momentum and energy. Conservative forces and potential energy.",
+    "course_extra_details": "Precludes additional credit for MAAE2101.\nPrerequisite(s): MATH1004, MATH1104 and second-year status in Engineering.\nLectures three hours a week, problem analysis three hours a week.\n",
+    "course_prerequisites": "MATH1004, MATH1104 and second-year status in Engineering.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "CIVE 2200",
+    "course_code": "CIVE2200",
+    "course_number": 2200,
+    "course_title": "CIVE2200 [0.5 credit]",
+    "course_desc": "Stress and strain. Stress-strain relationship: Hooke's law. Torsion of circular shafts. Bending moment and shear force distribution. Flexural stresses. Deflection. Shear stress in beams. Stresses in thin- walled cylinders. Transformation of 2D stress and strain: Mohr's circle. Buckling of columns.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for MAAE2202.\nPrerequisite(s): MATH1004 and second-year status in Engineering for B.Eng. or CIVE2005 for B.A.S. with Concentration in Conservation and Sustainability.\nLectures three hours a week, problem analysis and laboratory three hours a week.\n",
+    "course_prerequisites": "MATH1004 and second-year status in Engineering for B.Eng. or CIVE2005 for B.A.S. with Concentration in Conservation and Sustainability.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "CIVE 2700",
+    "course_code": "CIVE2700",
+    "course_number": 2700,
+    "course_title": "CIVE2700 [0.5 credit]",
+    "course_desc": "Introduction to material science. Structure of atoms. Crystallography. Crystal Imperfections. Characteristics, behaviour and use of Civil Engineering materials: steel, concrete, asphalt, wood, polymers, composites. Specifications. Physical, chemical and mechanical properties. Quality control and material tests. Fatigue. Corrosion. Applications in construction and rehabilitation of structures.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for MAAE2700.\nPrerequisite(s): second year status for students in an Engineering program or second year standing in a B.A.S. major in Conservation and Sustainability.\nLectures three hours a week, problem analysis and laboratory three hours a week.\n",
+    "course_prerequisites": "second year status for students in an Engineering program or second year standing in a B.A.S. major in Conservation and Sustainability.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CIVE 3202",
+    "course_code": "CIVE3202",
+    "course_number": 3202,
+    "course_title": "CIVE3202 [0.5 credit]",
+    "course_desc": "Shear flow. Definition of shear centre, Saint Venant and warping torsional constants. Behaviour, governing differential equations and solutions for torsion, beam-columns, lateral torsional buckling of doubly symmetric beams, axially loaded doubly symmetric, singly symmetric and asymmetric columns. Failure criterion, fatigue and fracture.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for MAAE3202.\nPrerequisite(s): CIVE2200.\nLectures three hours a week, laboratory/problem analysis three hours alternate weeks.\n",
+    "course_prerequisites": "CIVE2200.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CIVE 3203",
+    "course_code": "CIVE3203",
+    "course_number": 3203,
+    "course_title": "CIVE3203 [0.5 credit]",
+    "course_desc": "Concepts and assumptions for structural analysis: framed structures; joints; supports; compatibility and equilibrium; stability and determinacy; generalized forces and displacements. Principle of Virtual Work: unknown force calculations; influence lines. Complementary Virtual Work: displacement calculations, indeterminate analysis. Introduction to the Stiffness Method of Analysis.",
+    "course_extra_details": "Prerequisite(s): CIVE2200 and MATH1004.\nLectures three hours a week, problem analysis three hours alternate weeks.\n",
+    "course_prerequisites": "CIVE2200 and MATH1004.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CIVE 3204",
+    "course_code": "CIVE3204",
+    "course_number": 3204,
+    "course_title": "CIVE3204 [0.5 credit]",
+    "course_desc": "Building systems and structural form. Design Philosophy and design process. Limit states design. National Building Code of Canada. Determination of dead, live, snow, wind, and earthquake loads.",
+    "course_extra_details": "Prerequisite(s): CIVE2200.\nLectures three hours a week, problem analysis three hours alternate weeks.\n",
+    "course_prerequisites": "CIVE2200.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CIVE 3205",
+    "course_code": "CIVE3205",
+    "course_number": 3205,
+    "course_title": "CIVE3205 [0.5 credit]",
+    "course_desc": "Introduction to CAN/CSA - S16, design and behaviour concepts; shear lag, block shear, local plate buckling, lateral torsional buckling, instantaneous centre, inelastic strength and stability. Design of tension members, axially loaded columns, beams, beam-columns, simple bolted and welded connections.",
+    "course_extra_details": "Prerequisite(s): CIVE2200 and CIVE2700. Recommended prerequisite: CIVE3204.\nLectures three hours a week, problem analysis three hours alternate weeks.\n",
+    "course_prerequisites": "CIVE2200 and CIVE2700. Recommended prerequisite: CIVE3204.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CIVE 3206",
+    "course_code": "CIVE3206",
+    "course_number": 3206,
+    "course_title": "CIVE3206 [0.5 credit]",
+    "course_desc": "Introduction to CAN/CSA - A23.3; design and behaviour concepts; flexural analysis at service loads;  shear, bond, Whitney stress block, under, over reinforced behaviour, ultimate strength. Flexural design of singly reinforced, doubly reinforced T-beams, one-way slabs. Shear design for beams. One-way, two-way slab systems, columns.",
+    "course_extra_details": "Prerequisite(s): CIVE2200 and CIVE2700. Recommended prerequisite: CIVE3204.\nLectures three hours a week, problem analysis three hours alternate weeks.\n",
+    "course_prerequisites": "CIVE2200 and CIVE2700. Recommended prerequisite: CIVE3204.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CIVE 3207",
+    "course_code": "CIVE3207",
+    "course_number": 3207,
+    "course_title": "CIVE3207 [0.5 credit]",
+    "course_desc": "Methods of heritage documentation including hand recording, photography, rectified photography, total station, gps, photogrammetry, and laser scanning.  Non-destructive testing techniques; environmental assessment tools for determining air quality and energy efficiency.  Multidisciplinary teams for all project work.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as ACSE3207, ARCN4100.\nPrerequisite(s): third-year status in B.Eng. in Architectural Conservation and Sustainability Engineering.\nLectures three hours a week, lab or field work two hours a week.\n",
+    "course_prerequisites": "third-year status in B.Eng. in Architectural Conservation and Sustainability Engineering.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "CIVE 3208",
+    "course_code": "CIVE3208",
+    "course_number": 3208,
+    "course_title": "CIVE3208 [0.5 credit]",
+    "course_desc": "Soil composition and soil classification. Soil properties, compaction, seepage and permeability. Concepts of pore water pressure, capillary pressure and hydraulic head. Principle of effective stress, stress-deformation and strength characteristics of soils, consolidation, stress distribution with soils, and settlement. Laboratory testing.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as ERTH4107.\nPrerequisite(s): third-year status in Engineering, or permission of the department. Additional recommended background: ERTH2404 or equivalent.\nLectures three hours a week, laboratory three hours alternate weeks.\n",
+    "course_prerequisites": "third-year status in Engineering, or permission of the department. Additional recommended background: ERTH2404 or equivalent.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "CIVE 3209",
+    "course_code": "CIVE3209",
+    "course_number": 3209,
+    "course_title": "CIVE3209 [0.5 credit]",
+    "course_desc": "Building envelope design and analysis; applied heat transfer and moisture transport; solar radiation; hygrothermal modelling; control of rain, air, vapour, and heat; materials for wall, window, curtain wall, roof, and foundation systems; building envelope retrofit case studies; building code; envelope construction.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as ACSE3209.\nPrerequisite(s): MAAE2400 and Civil Engineering.\nLectures three hours a week, problem analysis three hours alternate weeks.\n",
+    "course_prerequisites": "MAAE2400 and Civil Engineering.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CIVE 3304",
+    "course_code": "CIVE3304",
+    "course_number": 3304,
+    "course_title": "CIVE3304 [0.5 credit]",
+    "course_desc": "Transportation and the socio-economic environment; modal and intermodal systems and components; vehicle motion, human factors, system and facility design; traffic flow; capacity analysis; planning methodology; environmental impacts; evaluation methods.",
+    "course_extra_details": "Also listed as GEOG4304.\nPrerequisite(s): third-year status in Engineering, or permission of the Department.\nLectures three hours a week, problem analysis three hours alternate weeks.\n",
+    "course_prerequisites": "third-year status in Engineering, or permission of the Department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "CIVE 3999",
+    "course_code": "CIVE3999",
+    "course_number": 3999,
+    "course_title": "CIVE3999 [0.0 credit]",
+    "course_desc": "Includes: Experiential Learning Activity ",
+    "course_extra_details": "Includes: Experiential Learning Activity\n \n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CIVE 4200",
+    "course_code": "CIVE4200",
+    "course_number": 4200,
+    "course_title": "CIVE4200 [0.5 credit]",
+    "course_desc": "Review of basic structural concepts. Betti's law and applications. Matrix flexibility method, flexibility influence coefficients. Development of stiffness influence coefficients. Stiffness method of analysis: beams; plane trusses and frames; space trusses and frames. Introduction to the finite element method.",
+    "course_extra_details": "Prerequisite(s): CIVE3203.\nLectures three hours a week, problem analysis three hours alternate weeks.\n",
+    "course_prerequisites": "CIVE3203.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CIVE 4201",
+    "course_code": "CIVE4201",
+    "course_number": 4201,
+    "course_title": "CIVE4201 [0.5 credit]",
+    "course_desc": "Introduction to the theory and application of finite element methods. The relationship with virtual work, Rayleigh-Ritz, system of linear equations, polynomial interpolation, numerical integration, and theory of elasticity is explored. Isoparametric formulations of structural and plane elements are examined. Geotechnical and nonlinear problems are introduced.",
+    "course_extra_details": "Prerequisite(s): CIVE2200 and fourth year status in engineering.\nLectures three hours a week, problem analysis three hours alternate weeks.\n",
+    "course_prerequisites": "CIVE2200 and fourth year status in engineering.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CIVE 4202",
+    "course_code": "CIVE4202",
+    "course_number": 4202,
+    "course_title": "CIVE4202 [0.5 credit]",
+    "course_desc": "Structural design in timber. Properties, anatomy of wood, wood products, factors affecting strength and behaviour, strength evaluation and testing. Design of columns, beams and beam-columns. Design of trusses, frames, glulam structures, plywood components, formwork, foundations, connections and connectors. Inspection, maintenance and repair.",
+    "course_extra_details": "Prerequisite(s): CIVE2200, CIVE2700 and third-year status in B.Eng.\nLectures three hours a week, problem analysis three hours alternate weeks.\n",
+    "course_prerequisites": "CIVE2200, CIVE2700 and third-year status in B.Eng.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "CIVE 4208",
+    "course_code": "CIVE4208",
+    "course_number": 4208,
+    "course_title": "CIVE4208 [0.5 credit]",
+    "course_desc": "Strength of soils, steady state seepage, flownets and piping. Stress distribution in soils. Earth pressures: at rest, active and passive. Design of flexible and rigid retaining structures. Stability of excavations, slopes and embankments. Settlement of foundations. Bearing capacity of footings.",
+    "course_extra_details": "Prerequisite(s): CIVE3208.\nLectures three hours a week, problem analysis three hours alternate weeks.\n",
+    "course_prerequisites": "CIVE3208.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CIVE 4209",
+    "course_code": "CIVE4209",
+    "course_number": 4209,
+    "course_title": "CIVE4209 [0.5 credit]",
+    "course_desc": "Highway planning; highway location and geometric design; traffic engineering; highway capacity; soil classifications; subgrade and base materials; highway drainage; frost action; structural design of rigid and flexible pavements; highway economics and finance; maintenance and rehabilitation.",
+    "course_extra_details": "Prerequisite(s): Fourth year status in engineering. Recommended prerequisites: CIVE2004, CIVE3304 and CIVE3208.\nLectures three hours a week, problem analysis three hours alternate weeks.\n",
+    "course_prerequisites": "Fourth year status in engineering. Recommended prerequisites: CIVE2004, CIVE3304 and CIVE3208.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CIVE 4301",
+    "course_code": "CIVE4301",
+    "course_number": 4301,
+    "course_title": "CIVE4301 [0.5 credit]",
+    "course_desc": "A critical study of the theories in soil mechanics and their application to the solution of geotechnical engineering problems. Field investigations, laboratory and field testing, shallow foundations, special footings, mat foundations, pile foundations and excavations. Discussion of new methods and current research.",
+    "course_extra_details": "Prerequisite(s): CIVE4208.\nLectures three hours a week, laboratory three hours alternate weeks.\n",
+    "course_prerequisites": "CIVE4208.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CIVE 4302",
+    "course_code": "CIVE4302",
+    "course_number": 4302,
+    "course_title": "CIVE4302 [0.5 credit]",
+    "course_desc": "Reinforced concrete shear and torsion design. Two-way slab design by Direct Design and Equivalent Frame Method. Behaviour and design of slender reinforced concrete columns. Prestressed concrete concepts; flexural analysis and design; shear design; anchorage zone design; deflection and prestress loss determination.",
+    "course_extra_details": "Prerequisite(s): CIVE3203 and CIVE3206.\nLectures three hours a week, problem analysis three hours alternate weeks.\n",
+    "course_prerequisites": "CIVE3203 and CIVE3206.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CIVE 4303",
+    "course_code": "CIVE4303",
+    "course_number": 4303,
+    "course_title": "CIVE4303 [0.5 credit]",
+    "course_desc": "A systematic approach to urban planning; urban sprawl; data collection; forecasting; standards; space requirements; land use; zoning; transportation; land development; site selection; land capability; layout; evaluation; housing; urban renewal and new towns.",
+    "course_extra_details": "Prerequisite(s): fourth-year status in Engineering, second-year standing in B.A.S. (Urbanism), or permission of the Department.\nLectures three hours a week, problem analysis three hours alternate weeks.\n",
+    "course_prerequisites": "fourth-year status in Engineering, second-year standing in B.A.S. (Urbanism), or permission of the Department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "CIVE 4307",
+    "course_code": "CIVE4307",
+    "course_number": 4307,
+    "course_title": "CIVE4307 [0.5 credit]",
+    "course_desc": "Fluid flow fundamentals. Hydraulics of pipe systems. Open channel flow. Prediction of sanitary and storm sewage, flow rates. Design of water distribution systems, culverts, sanitary and storm sewers. Pumps and measuring devices. Hydraulic and flow control structures.",
+    "course_extra_details": "Prerequisite(s): MAAE2300.\nLectures three hours a week, problem analysis one and a half hours a week.\n",
+    "course_prerequisites": "MAAE2300.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CIVE 4308",
+    "course_code": "CIVE4308",
+    "course_number": 4308,
+    "course_title": "CIVE4308 [0.5 credit]",
+    "course_desc": "Behaviour and design of open web steel joists, steel and composite decks, composite beams and columns, stud girders, and plate girders. Design of moment connections, base plates and anchor bolts, and bracing connections. Stability of rigid and braced frames. Design for lateral load effects.",
+    "course_extra_details": "Prerequisite(s): CIVE3205 and fourth-year status in Engineering.\nLectures three hours a week, problem analysis three hours alternate weeks.\n",
+    "course_prerequisites": "CIVE3205 and fourth-year status in Engineering.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "CIVE 4400",
+    "course_code": "CIVE4400",
+    "course_number": 4400,
+    "course_title": "CIVE4400 [0.5 credit]",
+    "course_desc": "Systems approach to project planning and control. Analysis of alternative network planning methods: CPM, precedence and PERT; planning procedure; computer techniques and estimating; physical, economic and financial feasibility; implementation feedback and control; case studies.",
+    "course_extra_details": "Prerequisite(s): fourth-year status in Engineering.\nLectures three hours a week, problem analysis three hours alternate weeks.\n",
+    "course_prerequisites": "fourth-year status in Engineering.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "CIVE 4403",
+    "course_code": "CIVE4403",
+    "course_number": 4403,
+    "course_title": "CIVE4403 [0.5 credit]",
+    "course_desc": "Introduction to structural design in masonry. Properties of masonry materials and assemblages. Behaviour and design of beams, walls and columns. Selected topics including veneer wall systems, differential movement, workmanship, specifications, inspection, maintenance and repair. Lowrise and highrise building design.",
+    "course_extra_details": "Prerequisite(s): CIVE3204, CIVE3206 and fourth-year status in Engineering or permission of the Department.\nAlso offered at the graduate level, with different requirements, as CIVE5200, for which additional credit is precluded.\nLectures three hours a week, problem analysis three hours alternate weeks.\n",
+    "course_prerequisites": "CIVE3204, CIVE3206 and fourth-year status in Engineering or permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "CIVE 4407",
+    "course_code": "CIVE4407",
+    "course_number": 4407,
+    "course_title": "CIVE4407 [0.5 credit]",
+    "course_desc": "Introduction to fundamentals of municipal engineering. Water quality: physical, chemical and biological parameters. Water treatment: softening mixing, flocculation, sedimentation, filtration, disinfection, fluoridation. Biological processes. Wastewater treatment: primary, secondary and tertiary treatment. Sludge disposal and wastewater reuse. Solid waste management.",
+    "course_extra_details": "Prerequisite(s): fourth-year status in Engineering.\nLectures three hours a week, problem analysis one and a half hours a week\n",
+    "course_prerequisites": "fourth-year status in Engineering.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "CIVE 4500",
+    "course_code": "CIVE4500",
+    "course_number": 4500,
+    "course_title": "CIVE4500 [0.5 credit]",
+    "course_desc": "Advanced software development for Civil Engineering applications. Examples may be chosen from surveying, transportation, geotechnical and/or structural engineering. Software technologies include object-oriented programming, data base management, Internet-based applications and graphical user interfaces.",
+    "course_extra_details": "Prerequisite(s): Fourth-year status in Engineering.\nAlso offered at the graduate level, with different requirements, as CIVE 5602, for which additional credit is precluded.\nLectures three hours a week, problem analysis three hours alternate weeks.\n",
+    "course_prerequisites": "Fourth-year status in Engineering.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CIVE 4601",
+    "course_code": "CIVE4601",
+    "course_number": 4601,
+    "course_title": "CIVE4601 [0.5 credit]",
+    "course_desc": "Deterioration mechanisms for concrete, timber, steel and masonry structures.  Identification of design deficiencies; criteria for selection and design of rehabilitation systems.  Design techniques to reduce deterioration in new construction and historical structures.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as ACSE4601, ARCN4200.\nPrerequisite(s): CIVE3207 and fourth-year status in B.Eng. in Architectural Conservation and Sustainability Engineering.\nLectures three hours a week, lab/field work two hours a week.\n",
+    "course_prerequisites": "CIVE3207 and fourth-year status in B.Eng. in Architectural Conservation and Sustainability Engineering.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "CIVE 4614",
+    "course_code": "CIVE4614",
+    "course_number": 4614,
+    "course_title": "CIVE4614 [0.5 credit]",
+    "course_desc": "Understanding fire-structure interaction and the concepts of fire severity and resistance; behaviour of steel, concrete, and timber buildings exposed to fires; compartment fire dynamics; correlations and computer models to predict fire dynamics; fire retardants; laboratory-scale fire experiments; performance-based approach for building fire safety design.",
+    "course_extra_details": "Prerequisite(s): MAAE2400 and fourth-year status in Engineering, or permission of the Department.\nLectures three hours a week, problem analysis and laboratories one and one-half hours per week.\n",
+    "course_prerequisites": "MAAE2400 and fourth-year status in Engineering, or permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "CIVE 4907",
+    "course_code": "CIVE4907",
+    "course_number": 4907,
+    "course_title": "CIVE4907 [1.0 credit]",
+    "course_desc": "A research project in engineering analysis, design or development carried out by individual students or small teams, for an opportunity to develop initiative, self-reliance, creative ability and engineering judgment and is normally intended for students with high CGPAs and an interest in graduate studies.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for CIVE4917.\nPrerequisite(s): fourth-year status in Engineering and permission of the department.\n \n",
+    "course_prerequisites": "fourth-year status in Engineering and permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "CIVE 4917",
+    "course_code": "CIVE4917",
+    "course_number": 4917,
+    "course_title": "CIVE4917 [0.5 credit]",
+    "course_desc": "Student carries out a study, analysis, and solution of an engineering problem which results in a written final report. Carried out under close supervision of a faculty member. Intended for students interested in pursuing graduate studies. Requires supervising faculty member and proposal from student.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for CIVE4907.\nPrerequisite(s): permission of the Department and completion of, or concurrent registration in, CIVE4918.\nSelf study.\n",
+    "course_prerequisites": "permission of the Department and completion of, or concurrent registration in, CIVE4918.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CIVE 4918",
+    "course_code": "CIVE4918",
+    "course_number": 4918,
+    "course_title": "CIVE4918 [1.0 credit]",
+    "course_desc": "Teams of students develop professional level experience through a design project that incorporates fundamentals acquired in previous mathematics, science, engineering, and complementary studies courses. A final report and oral presentations are required.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ACSE4918, ENVE4918.\nPrerequisite(s): ECOR3800 and fourth-year status in Engineering.  Certain projects may have additional requirements.\nLectures two hours alternate weeks, problem analysis three hours a week.\n",
+    "course_prerequisites": "ECOR3800 and fourth-year status in Engineering.  Certain projects may have additional requirements.",
+    "year_standing": 4
+}]}

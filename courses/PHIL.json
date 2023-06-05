@@ -1,0 +1,1188 @@
+{"object": [
+{
+    "course_identifier": "PHIL 1000",
+    "course_code": "PHIL1000",
+    "course_number": 1000,
+    "course_title": "PHIL1000 [0.5 credit]",
+    "course_desc": "What is metaphysics? Who was Socrates? What is Freedom? This  introduction sketches many branches of philosophy and the important problems associated with each. It introduces great philosophers, present and past, and traces enduring philosophical themes.",
+    "course_extra_details": "Precludes additional credit for FYSM 1208 (no longer offered), FYSM1211, PHIL1100. This course is not suitable for students with previous formal study of philosophy.\n \n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 1100",
+    "course_code": "PHIL1100",
+    "course_number": 1100,
+    "course_title": "PHIL1100 [1.0 credit]",
+    "course_desc": "Introduction to philosophy: the nature of logical thinking; the existence of God; the objectivity of values; the meaning of life; free will, determinism and responsibility; the relation between mind and body; immortality; the possibility of knowledge.  This course is not intended for Majors.",
+    "course_extra_details": "Precludes additional credit for FYSM 1208 (no longer offered), FYSM1211 and PHIL1000.\nLectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 1200",
+    "course_code": "PHIL1200",
+    "course_number": 1200,
+    "course_title": "PHIL1200 [0.5 credit]",
+    "course_desc": "An introduction to concerns expressed by the perennial philosophical question, \"What is the meaning of life?\"  Students will be familiarized with the major philosophical approaches to life's meaning through a consideration of various contemporary and late modern works in the philosophy of life.",
+    "course_extra_details": "Lectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 1301",
+    "course_code": "PHIL1301",
+    "course_number": 1301,
+    "course_title": "PHIL1301 [0.5 credit]",
+    "course_desc": "Introduction to a variety of philosophical works, including contemporary, on such topics as: the nature of being, the mental, the external, consciousness, perception, experience, meaning, truth, the nature of knowledge, scientific understanding, and how language and thought represent the world.",
+    "course_extra_details": "Precludes additional credit for PHIL 1006 (no longer offered), PHIL 1501 (no longer offered).\nLectures three hours per week.  \n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 1500",
+    "course_code": "PHIL1500",
+    "course_number": 1500,
+    "course_title": "PHIL1500 [1.0 credit]",
+    "course_desc": "Moral theories, atheism or theism, feminism, and free will. Moral arguments concerning abortion, affirmative action, racism, human rights, children's rights, world hunger, capital punishment, euthanasia, censorship, pornography, legal paternalism, animal rights and environmental protection.",
+    "course_extra_details": "Precludes additional credit for FYSM 1209 and PHIL1550.\nLectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 1550",
+    "course_code": "PHIL1550",
+    "course_number": 1550,
+    "course_title": "PHIL1550 [0.5 credit]",
+    "course_desc": "An introduction to understanding, assessing, and formulating ethical arguments concerning controversial issues. Particular issues studied may include, world hunger, capital punishment, terrorism, euthanasia, abortion, pornography and hate speech, animal rights, the environment, and topics in theories of race, gender and disability.",
+    "course_extra_details": "Precludes additional credit for FYSM1212 and PHIL1500.\nLectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 1610",
+    "course_code": "PHIL1610",
+    "course_number": 1610,
+    "course_title": "PHIL1610 [0.5 credit]",
+    "course_desc": "Major figures and developments in philosophy from the early Greeks to the year 1400.  Descriptive and comparative approach, providing an understanding of the place of philosophers in the history of thought.  Appreciation of critical reasoning is included for comprehending philosophical developments.",
+    "course_extra_details": "Precludes additional credit for FYSM1300, PHIL 1600.\nLectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 1620",
+    "course_code": "PHIL1620",
+    "course_number": 1620,
+    "course_title": "PHIL1620 [0.5 credit]",
+    "course_desc": "Major figures and developments in philosophy after the year 1400.  Descriptive and comparative approach, providing an understanding of the place of philosophers in the history of thought.  Appreciation of critical reasoning is included for comprehending philosophical developments.",
+    "course_extra_details": "Precludes additional credit for FYSM1300, PHIL 1600.\nLectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 1700",
+    "course_code": "PHIL1700",
+    "course_number": 1700,
+    "course_title": "PHIL1700 [0.5 credit]",
+    "course_desc": "A survey of philosophical classics, on themes of romantic love, self-love, altruistic love, sexuality, eroticism and the passion/reason dichotomy, from Plato's Symposium to Foucault's History of Sexuality; and an examination of related contemporary issues in light of these perspectives.",
+    "course_extra_details": "Lectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 2001",
+    "course_code": "PHIL2001",
+    "course_number": 2001,
+    "course_title": "PHIL2001 [0.5 credit]",
+    "course_desc": "An introduction to the techniques and philosophical implications of formal logic with emphasis on translation of expressions into symbolic form, testing for logical correctness, the formulation and application of rules of inference, and the relation between logic and language.  Open to first-year students.",
+    "course_extra_details": "Lectures three hours a week. Tutorials may be offered in selected terms.  \n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 2003",
+    "course_code": "PHIL2003",
+    "course_number": 2003,
+    "course_title": "PHIL2003 [0.5 credit]",
+    "course_desc": "Assessment of reasoning and the development of cogent patterns of thinking. Reference to formal logic is minimal. Practice in criticizing examples of reasoning and in formulating one's own reasons correctly and clearly.  Open to first-year students.",
+    "course_extra_details": "Lectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 2005",
+    "course_code": "PHIL2005",
+    "course_number": 2005,
+    "course_title": "PHIL2005 [1.0 credit]",
+    "course_desc": "An exploration of ancient philosophy as a search for wisdom and happiness from its Presocratic beginnings in Greece to its development in the Hellenistic world and Imperial Rome. Emphasis on philosophy as a contemplative activity and as a way of life.",
+    "course_extra_details": "Also listed as CLCV2105.\nPrecludes additional credit for PHIL 2006, CLCV 2006, PHIL 2007, CLCV 2007 (no longer offered).\nPrerequisite(s): 0.5 credit in PHIL, or second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "0.5 credit in PHIL, or second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "PHIL 2010",
+    "course_code": "PHIL2010",
+    "course_number": 2010,
+    "course_title": "PHIL2010 [0.5 credit]",
+    "course_desc": "Issues drawn from epistemology, metaphysics, philosophy of mind, philosophy of language, and related fields will be examined through careful study of significant philosophical texts after 1900, along with some ensuing debates.",
+    "course_extra_details": "Prerequisite(s): enrolment in Honours or Combined Honours Philosophy programs, or in philosophy, Ethics, and Public Affairs, or permission of the Department.\nLectures and discussion three hours a week.\n",
+    "course_prerequisites": "enrolment in Honours or Combined Honours Philosophy programs, or in philosophy, Ethics, and Public Affairs, or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 2020",
+    "course_code": "PHIL2020",
+    "course_number": 2020,
+    "course_title": "PHIL2020 [0.5 credit]",
+    "course_desc": "Issues drawn from ethics, social and political philosophy, and related fields will be examined through careful study of significant philosophical texts , along with some ensuing debates.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): enrolment in Honours or Combined Honours Philosophy programs, or in philosophy, Ethics, and Public Affairs, or permission of the Department.\nLectures and discussion three hours a week.\n",
+    "course_prerequisites": "enrolment in Honours or Combined Honours Philosophy programs, or in philosophy, Ethics, and Public Affairs, or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 2101",
+    "course_code": "PHIL2101",
+    "course_number": 2101,
+    "course_title": "PHIL2101 [0.5 credit]",
+    "course_desc": "An introduction to ethical theories through a study of some of the major figures in moral philosophy, such as Aristotle, Hume, Kant and Mill.",
+    "course_extra_details": "Prerequisite(s): 0.5 credit in philosophy or second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "0.5 credit in philosophy or second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "PHIL 2103",
+    "course_code": "PHIL2103",
+    "course_number": 2103,
+    "course_title": "PHIL2103 [0.5 credit]",
+    "course_desc": "Philosophical introduction to human rights sources, concepts, justifications, consequences, and challenges to them. Evolution of selected human rights as a) demands made in political struggles; b) declarations supported by moral or political principles and arguments; c) codes ratified and implemented by governments and international organizations.",
+    "course_extra_details": "Prerequisite(s): a course in philosophy or second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "a course in philosophy or second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "PHIL 2106",
+    "course_code": "PHIL2106",
+    "course_number": 2106,
+    "course_title": "PHIL2106 [0.5 credit]",
+    "course_desc": "An exploration of ethical issues that arise in the Age of Information. Topics to be discussed may include technology, surveillance and privacy, social media and privacy, social media and cognitive bias, bias in algorithms, AI ethics, intellectual property, and freedom of expression and assembly.",
+    "course_extra_details": "Precludes additional credit for PHIL 2104 (no longer offered).\nPrerequisite(s): a course in philosophy or second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "a course in philosophy or second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "PHIL 2120",
+    "course_code": "PHIL2120",
+    "course_number": 2120,
+    "course_title": "PHIL2120 [0.5 credit]",
+    "course_desc": "Philosophical investigations of the nature of technology and the influence it has on our relationships with others, the natural world, and ourselves. Key themes may include the relation between technology and science and the role of technology in personal identity, social justice, and well-being.",
+    "course_extra_details": "Prerequisite(s): a course in philosophy or second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "a course in philosophy or second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "PHIL 2201",
+    "course_code": "PHIL2201",
+    "course_number": 2201,
+    "course_title": "PHIL2201 [0.5 credit]",
+    "course_desc": "The evolution of Marx's social and political views in the setting of 18 th - and 19 th - century anarchism, liberalism and conservatism. Themes of humanism, freedom, rights, the state, democracy, alienation, and inequality, primarily as they develop into the theory of historical materialism.",
+    "course_extra_details": "Precludes additional credit for PHIL 2200.\nPrerequisite(s): 0.5 credit in philosophy or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "0.5 credit in philosophy or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 2202",
+    "course_code": "PHIL2202",
+    "course_number": 2202,
+    "course_title": "PHIL2202 [0.5 credit]",
+    "course_desc": "The dialectical materialism of Marx, Engels, and Lenin is compared with traditional materialist, idealist, and mechanist philosophy. Marxist views on issues such as equality, ethical objectivity, human well-being, matter and mind, the existence of God, knowledge versus skepticism, freedom of the will, and justice.",
+    "course_extra_details": "Precludes additional credit for PHIL 2200.\nPrerequisite(s): PHIL2201 or 0.5 credit in the history of philosophy at the 2000-level or above.\nLectures three hours a week.\n",
+    "course_prerequisites": "PHIL2201 or 0.5 credit in the history of philosophy at the 2000-level or above.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 2301",
+    "course_code": "PHIL2301",
+    "course_number": 2301,
+    "course_title": "PHIL2301 [0.5 credit]",
+    "course_desc": "Philosophical issues arising out of the attempt to understand the world scientifically. Topics may include: scientific methodology, revolution, observation, explanation, causation, induction, reduction, the difference between natural and social scientific understanding, realism, instrumentalism, constructivism.",
+    "course_extra_details": "Prerequisite(s): a course in philosophy or second-year standing.\n \n",
+    "course_prerequisites": "a course in philosophy or second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "PHIL 2306",
+    "course_code": "PHIL2306",
+    "course_number": 2306,
+    "course_title": "PHIL2306 [0.5 credit]",
+    "course_desc": "A study of philosophical issues arising from feminism. The course includes discussions of the historical roots of feminism, the role of reason and emotion, key concepts such as oppression, sexism, equality and difference, feminism and philosophies of race and of disability, and selected moral/political issues.",
+    "course_extra_details": "Prerequisite(s): 0.5 credit in philosophy or second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "0.5 credit in philosophy or second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "PHIL 2307",
+    "course_code": "PHIL2307",
+    "course_number": 2307,
+    "course_title": "PHIL2307 [0.5 credit]",
+    "course_desc": "Topics may include gender and sex in the history of philosophy, intersections between the politics and theories of gender, sexuality, and race, the place of the body in philosophical theory, the influence of gender and sex on science/social science, and queer/trans issues and politics.",
+    "course_extra_details": "Prerequisite(s): a course in philosophy or second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "a course in philosophy or second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "PHIL 2320",
+    "course_code": "PHIL2320",
+    "course_number": 2320,
+    "course_title": "PHIL2320 [0.5 credit]",
+    "course_desc": "An exploration of issues at the nexus of philosophy, children\u2019s literature, and childhood studies.  Topics may include an examination of children\u2019s books and young adult literature through a philosophical lens, as well as a critical examination of the \u201cphilosophy with children\u201d movement.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): 0.5 credit in philosophy or second-year standing in a philosophy program, or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "0.5 credit in philosophy or second-year standing in a philosophy program, or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "PHIL 2330",
+    "course_code": "PHIL2330",
+    "course_number": 2330,
+    "course_title": "PHIL2330 [0.5 credit]",
+    "course_desc": "A philosophical exploration of what makes a good human life. Topics may include the role of happiness, well-being, and flourishing in a good life, the relations between these aspects, and the extent to which they depend on luck and social considerations.",
+    "course_extra_details": "Lectures three hours a week. \n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 2340",
+    "course_code": "PHIL2340",
+    "course_number": 2340,
+    "course_title": "PHIL2340 [0.5 credit]",
+    "course_desc": "Philosophy is all around us, it permeates culture. This course explores philosophical questions through the lens of popular culture. The material used may include films, shows, music, novels, video games, advertising, comic books, and so on.",
+    "course_extra_details": "Lectures three hours a week.  \n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 2380",
+    "course_code": "PHIL2380",
+    "course_number": 2380,
+    "course_title": "PHIL2380 [0.5 credit]",
+    "course_desc": "Major questions in environmental ethics: How should human beings view their relationship to the rest of nature? Is responsible stewardship of the environment compatible with current technology? Must future generations be protected? Do animals, other life forms, endangered species, ecosystems and/or the biosphere have value/rights?.",
+    "course_extra_details": "Precludes additional credit for PHIL 1804.\nLectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 2405",
+    "course_code": "PHIL2405",
+    "course_number": 2405,
+    "course_title": "PHIL2405 [0.5 credit]",
+    "course_desc": "Examination of claims, concepts, theories and methods in parapsychology. Their scientific character and the relation of paranormal phenomena to philosophical issues such as survival of death, human nature, time, space, causality and perception.",
+    "course_extra_details": "Prerequisite(s): 0.5 credit in philosophy or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "0.5 credit in philosophy or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 2408",
+    "course_code": "PHIL2408",
+    "course_number": 2408,
+    "course_title": "PHIL2408 [0.5 credit]",
+    "course_desc": "Ethical and political issues in medicine, public health, biotechnology, and the life sciences. Topics may include reproductive ethics, research on human subjects, animal research and treatment, justice and health care, physician-patient relationships, death and the end of life, and genetic engineering.",
+    "course_extra_details": "Precludes additional credit for PHIL 3408.\nPrerequisite(s): a course in philosophy or second-year standing.\nLectures three hours a week. Tutorials may be offered in selected terms.  \n",
+    "course_prerequisites": "a course in philosophy or second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "PHIL 2501",
+    "course_code": "PHIL2501",
+    "course_number": 2501,
+    "course_title": "PHIL2501 [0.5 credit]",
+    "course_desc": "An introduction to major philosophical issues concerning human cognition. Topics may include: the relation of mind to body, knowledge of other minds, the relation of mental states to personhood and personal identity, mental illness, consciousness, intentionality, action, mental realism.",
+    "course_extra_details": "Precludes additional credit for PHIL 2502.\nPrerequisite(s): a course in philosophy or second-year standing.\n \n",
+    "course_prerequisites": "a course in philosophy or second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "PHIL 2504",
+    "course_code": "PHIL2504",
+    "course_number": 2504,
+    "course_title": "PHIL2504 [0.5 credit]",
+    "course_desc": "Some of the central topics in the study of language and communication as pursued by linguists and philosophers. The nature of meaning; the connections between language, communication and cognition; language as a social activity.",
+    "course_extra_details": "Also listed as COMS2504, LING2504.\nPrecludes additional credit for COMM 2800, LALS 2504, LALS 2800 and PHIL 2800.\nPrerequisite(s): second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "PHIL 2520",
+    "course_code": "PHIL2520",
+    "course_number": 2520,
+    "course_title": "PHIL2520 [0.5 credit]",
+    "course_desc": "An introduction to features of rational thinking activity, its expression, and its relation to the world, focusing on such topics as predication, truth, negation, necessity, entailment, logical form, or quantification.",
+    "course_extra_details": "Prerequisite(s): a course in philosophy or second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "a course in philosophy or second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "PHIL 2540",
+    "course_code": "PHIL2540",
+    "course_number": 2540,
+    "course_title": "PHIL2540 [0.5 credit]",
+    "course_desc": "Philosophical perspectives on personal identity, the self, and the underlying issue of the relationship of the mind to the body. Both philosophical and psychological concepts of identity are discussed, as are related issues such as memory, introspection, and self-knowledge.",
+    "course_extra_details": "Precludes additional credit for PHIL 2502.\nPrerequisite(s): a course in philosophy or second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "a course in philosophy or second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "PHIL 2550",
+    "course_code": "PHIL2550",
+    "course_number": 2550,
+    "course_title": "PHIL2550 [0.5 credit]",
+    "course_desc": "An examination of psychological underpinnings of morality, focusing on studies at the intersection of philosophy, psychiatry, and psychology.",
+    "course_extra_details": "Prerequisite(s): a course in philosophy or second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "a course in philosophy or second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "PHIL 2601",
+    "course_code": "PHIL2601",
+    "course_number": 2601,
+    "course_title": "PHIL2601 [0.5 credit]",
+    "course_desc": "A study of philosophical issues arising from religion. Topics may include: arguments for and against the existence of God, religious experience, death and the afterlife, miracles, God and evil, the relationship between religion and science, and the relationship between religion and ethics.",
+    "course_extra_details": "Also listed as RELI2738.\nPrerequisite(s): a course in philosophy or second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "a course in philosophy or second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "PHIL 2700",
+    "course_code": "PHIL2700",
+    "course_number": 2700,
+    "course_title": "PHIL2700 [0.5 credit]",
+    "course_desc": "An examination of South Asian and East Asian philosophical texts, from the period of the Upanishads and early Buddhism in India to modern philosophical movements. Historical sources may include Hindu, Buddhist, Jain, Confucian or Taoist texts, with a focus on metaphysical, epistemological or ethical themes.",
+    "course_extra_details": "Prerequisite(s): second-year standing.\nLectures three hours a week. May be offered as an online course in selected terms.  \n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "PHIL 2807",
+    "course_code": "PHIL2807",
+    "course_number": 2807,
+    "course_title": "PHIL2807 [0.5 credit]",
+    "course_desc": "Philosophical approaches to the study of art. Topics such as: the nature of art and artistic value; representation and symbolism in art; art and artifice; art and the emotions; art, culture and ideology; post-structuralism and art; theories of creativity; relationship between artworks and audiences.",
+    "course_extra_details": "Also listed as ARTH2807.\nLecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 2901",
+    "course_code": "PHIL2901",
+    "course_number": 2901,
+    "course_title": "PHIL2901 [0.5 credit]",
+    "course_desc": "Ancient and modern techniques of persuasion from analytical, ethical and jurisprudential perspectives.  Objectivity and bias, advertising and public relations ethics, the viability of democracy in the light of pressures on and within the modern mass media.",
+    "course_extra_details": "Precludes additional credit for PHIL 2900 (no longer offered).\nPrerequisite(s): 0.5 credit in PHIL or second-year standing.\nLectures three hours per week.\n",
+    "course_prerequisites": "0.5 credit in PHIL or second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "PHIL 3000",
+    "course_code": "PHIL3000",
+    "course_number": 3000,
+    "course_title": "PHIL3000 [0.5 credit]",
+    "course_desc": "A study of philosophers, texts, problems and issues in ancient philosophy, generally with a focus on Plato and Aristotle.",
+    "course_extra_details": "Also listed as CLCV3011.\nPrerequisite(s): 0.5 credit in philosophy and second-year standing, or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "0.5 credit in philosophy and second-year standing, or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "PHIL 3001",
+    "course_code": "PHIL3001",
+    "course_number": 3001,
+    "course_title": "PHIL3001 [0.5 credit]",
+    "course_desc": "A study of the pre-Socratic Greek philosophers and of the Sophists and Socrates.",
+    "course_extra_details": "Also listed as CLCV3001.\nPrerequisite(s): CLCV2105 or PHIL2005 or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "CLCV2105 or PHIL2005 or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 3002",
+    "course_code": "PHIL3002",
+    "course_number": 3002,
+    "course_title": "PHIL3002 [0.5 credit]",
+    "course_desc": "European philosophy of the 17 th  century. Representative works of writers such as Francis Bacon, Descartes, Spinoza, Leibniz, and Locke.",
+    "course_extra_details": "Prerequisite(s): 0.5 credit in philosophy and second-year standing in a philosophy program, or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "0.5 credit in philosophy and second-year standing in a philosophy program, or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "PHIL 3003",
+    "course_code": "PHIL3003",
+    "course_number": 3003,
+    "course_title": "PHIL3003 [0.5 credit]",
+    "course_desc": "European philosophy of the 18 th  century. Representative works of writers such as Berkeley, Hume, and Kant.",
+    "course_extra_details": "Prerequisite(s): 0.5 credit in philosophy and second-year standing in a philosophy program, or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "0.5 credit in philosophy and second-year standing in a philosophy program, or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "PHIL 3005",
+    "course_code": "PHIL3005",
+    "course_number": 3005,
+    "course_title": "PHIL3005 [0.5 credit]",
+    "course_desc": "European philosophy in the 19 th  century. May include Hegel, Marx, Schopenhauer, Kierkegaard, Nietzsche, Mill.",
+    "course_extra_details": "Precludes additional credit for PHIL  3007.\nPrerequisite(s): 0.5 credit in philosophy and second-year standing in a philosophy program, or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "0.5 credit in philosophy and second-year standing in a philosophy program, or permission of the Department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "PHIL 3009",
+    "course_code": "PHIL3009",
+    "course_number": 3009,
+    "course_title": "PHIL3009 [0.5 credit]",
+    "course_desc": "A study of philosophers, texts, problems and issues in any period of European philosophy.",
+    "course_extra_details": "Prerequisite(s): 0.5 credit in philosophy or second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "0.5 credit in philosophy or second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "PHIL 3010",
+    "course_code": "PHIL3010",
+    "course_number": 3010,
+    "course_title": "PHIL3010 [0.5 credit]",
+    "course_desc": "A study of philosophers, texts, and doctrines beyond the Western tradition. Traditions covered will vary but may include Asian, African, Muslim or Indigenous philosophy, possibly with critical comparison to Western counterparts.",
+    "course_extra_details": "Precludes additional credit for PHIL 2004.\nPrerequisite(s): 0.5 credit in philosophy or second-year standing.\n Lectures three hours a week.\n",
+    "course_prerequisites": "0.5 credit in philosophy or second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "PHIL 3102",
+    "course_code": "PHIL3102",
+    "course_number": 3102,
+    "course_title": "PHIL3102 [0.5 credit]",
+    "course_desc": "Legal reasoning and analysis of concepts of particular significance to the law, including justice, rights and duties, liability, punishment, ownership and possession.",
+    "course_extra_details": "Also listed as LAWS 3102.\nPrerequisite(s): 0.5 credit in philosophy or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "0.5 credit in philosophy or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 3104",
+    "course_code": "PHIL3104",
+    "course_number": 3104,
+    "course_title": "PHIL3104 [0.5 credit]",
+    "course_desc": "In the context of the work of such writers as Frege and Bradley, a discussion of early philosophical works of Russell, Moore and Wittgenstein. In addition some early representatives of positivism and pragmatism may be examined.",
+    "course_extra_details": "Prerequisite(s): 0.5 credit in philosophy and second-year standing in a philosophy program, or permission of the department.\nLectures and seminar three hours a week.\n",
+    "course_prerequisites": "0.5 credit in philosophy and second-year standing in a philosophy program, or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "PHIL 3140",
+    "course_code": "PHIL3140",
+    "course_number": 3140,
+    "course_title": "PHIL3140 [0.5 credit]",
+    "course_desc": "Fundamental issues concerning the relation between evidence, rationality, and knowledge. Topics may include: skepticism, the nature of belief, the structure of justification, the relative contributions of reason and sense experience to knowledge, innate knowledge, the problem of induction, and the knowledge of other minds.",
+    "course_extra_details": "Precludes additional credit for PHIL 2300.\nPrerequisite(s): 0.5 credit in philosophy and third-year standing in a philosophy program or permission of the department.\n \n",
+    "course_prerequisites": "0.5 credit in philosophy and third-year standing in a philosophy program or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "PHIL 3150",
+    "course_code": "PHIL3150",
+    "course_number": 3150,
+    "course_title": "PHIL3150 [0.5 credit]",
+    "course_desc": "Philosophical issues concerning the fundamental nature of being. Topics may include: time and temporality, space, substance, universals/particulars, identity, causation, freedom/determinism, the nature of norms.",
+    "course_extra_details": "Precludes additional credit for PHIL 2302.\nPrerequisite(s): 0.5 credit in philosophy and third-year standing in a philosophy program, or permission of the department.\n \n",
+    "course_prerequisites": "0.5 credit in philosophy and third-year standing in a philosophy program, or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "PHIL 3301",
+    "course_code": "PHIL3301",
+    "course_number": 3301,
+    "course_title": "PHIL3301 [0.5 credit]",
+    "course_desc": "Selected topic(s) in the philosophy of science, such as its relationship to values, or in the philosophy of a particular science (such as philosophy of mathematics, philosophy of physics, philosophy of biology, and philosophy of the social sciences).",
+    "course_extra_details": "Prerequisite(s): PHIL2301 or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "PHIL2301 or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 3306",
+    "course_code": "PHIL3306",
+    "course_number": 3306,
+    "course_title": "PHIL3306 [0.5 credit]",
+    "course_desc": "A review of the basic techniques of propositional and predicate logic. Natural deduction and consistency trees. Soundness and completeness. Alternative semantics. Extensions to basic logic: identity, modal logic with possible world semantics, three valued systems, deontic logic.",
+    "course_extra_details": "Precludes additional credit for PHIL 3305.\nPrerequisite(s): PHIL2001 or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "PHIL2001 or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 3320",
+    "course_code": "PHIL3320",
+    "course_number": 3320,
+    "course_title": "PHIL3320 [0.5 credit]",
+    "course_desc": "Critical study of modern ethical theories, their views on the nature of morality and the justification of moral claims. Topics may include utilitarianism, libertarianism, communitarianism, egoism, neo-Kantianism, virtue ethics, social contract ethics, feminist ethics, and moral rights.",
+    "course_extra_details": "Precludes additional credit for PHIL 2102.\nPrerequisite(s): PHIL2020 or PHIL2101 or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "PHIL2020 or PHIL2101 or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 3330",
+    "course_code": "PHIL3330",
+    "course_number": 3330,
+    "course_title": "PHIL3330 [0.5 credit]",
+    "course_desc": "A critical examination of selected topics and perspectives in the history of social and political philosophy.",
+    "course_extra_details": "Precludes additional credit for PHIL 3300.\nPrerequisite(s): a course in philosophy or second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "a course in philosophy or second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "PHIL 3340",
+    "course_code": "PHIL3340",
+    "course_number": 3340,
+    "course_title": "PHIL3340 [0.5 credit]",
+    "course_desc": "A critical examination of some contemporary approaches to topics in social and political philosophy, such as liberalism, feminism, contractarianism, Marxism, libertarianism, and communitarianism.",
+    "course_extra_details": "Precludes additional credit for PHIL 3300.\nPrerequisite(s): a course in philosophy or second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "a course in philosophy or second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "PHIL 3350",
+    "course_code": "PHIL3350",
+    "course_number": 3350,
+    "course_title": "PHIL3350 [0.5 credit]",
+    "course_desc": "Advanced study of a set of public policy issues, a particular theory or group of theories, or a particular philosopher, concerning philosophical and ethical aspects of public affairs.",
+    "course_extra_details": "Prerequisite(s): third-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "PHIL 3360",
+    "course_code": "PHIL3360",
+    "course_number": 3360,
+    "course_title": "PHIL3360 [0.5 credit]",
+    "course_desc": "The course explores issues at the intersection of philosophy and economics, with a special focus on socially and politically relevant issues. Topics may include: efficiency, cooperation, equity and distributive justice, commodification and the moral limits of markets.",
+    "course_extra_details": "Prerequisite(s): third-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "PHIL 3380",
+    "course_code": "PHIL3380",
+    "course_number": 3380,
+    "course_title": "PHIL3380 [0.5 credit]",
+    "course_desc": "Advanced treatment of ethical issues concerning technologies and environments, including: sustainable development, women and the environment, biological diversity, intrinsic or natural value or rights of non-humans, humans' relation to the rest of the natural world, obligations to future generations, liberty versus equality.",
+    "course_extra_details": "Precludes additional credit for PHIL 2804.\nPrerequisite(s): PHIL 1804 or PHIL2380 and third-year standing, or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "PHIL 1804 or PHIL2380 and third-year standing, or permission of the Department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "PHIL 3450",
+    "course_code": "PHIL3450",
+    "course_number": 3450,
+    "course_title": "PHIL3450 [0.5 credit]",
+    "course_desc": "Topics may include theories of aesthetic norms and valuation from ancient Greece onward, or applications of aesthetic theory to various genres of art.",
+    "course_extra_details": "Precludes additional credit for PHIL 2400, PHIL 3400, PHIL 3401, and PHIL 3402.\nPrerequisite(s): At least 0.5 credit in philosophy, or HUMS1000, or ARTH2807, or permission of the Department.\nSeminar two hours a week.\n",
+    "course_prerequisites": "At least 0.5 credit in philosophy, or HUMS1000, or ARTH2807, or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 3501",
+    "course_code": "PHIL3501",
+    "course_number": 3501,
+    "course_title": "PHIL3501 [0.5 credit]",
+    "course_desc": "Philosophical issues arising from cognitive science. Topics may include: the proper methodology for studying the mind, the very possibility of a \u201cscience of mind\u201d, the computer model of the mind and reactions to it.",
+    "course_extra_details": "Prerequisite(s): PHIL2501 or PHIL 2502 or second-year standing in Cognitive Science, or permission of the department.\n \n",
+    "course_prerequisites": "PHIL2501 or PHIL 2502 or second-year standing in Cognitive Science, or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "PHIL 3502",
+    "course_code": "PHIL3502",
+    "course_number": 3502,
+    "course_title": "PHIL3502 [0.5 credit]",
+    "course_desc": "Philosophical thought concerning the relation between mentality and agency. Topics may include: the relation between belief, desire, and behaviour; rationality and normativity; representing and doing; subjectivity and intersubjectivity; physical and psychological laws; mental causation. Authors may include: Wittgenstein, Heidegger, Ryle, Sellars, Anscombe, Davidson, Taylor, McDowell.",
+    "course_extra_details": "Prerequisite(s): PHIL2501 or PHIL 2502, or permission of the Department.\n \n",
+    "course_prerequisites": "PHIL2501 or PHIL 2502, or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 3503",
+    "course_code": "PHIL3503",
+    "course_number": 3503,
+    "course_title": "PHIL3503 [0.5 credit]",
+    "course_desc": "Topics examined through the lens of philosophy and cognitive science may include humans\u2019 obligations towards AI, sentient AI, implications of AI for models of cognition, designing ethical AI systems, implications of using AI in healthcare, and social inequality and job displacement related to AI.",
+    "course_extra_details": "Also listed as CGSC3603.\nPrerequisite(s): CGSC2001 or PHIL2501 and third-year standing in Cognitive Science or Philosophy.\nSeminar 3 hours per week.\n",
+    "course_prerequisites": "CGSC2001 or PHIL2501 and third-year standing in Cognitive Science or Philosophy.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "PHIL 3504",
+    "course_code": "PHIL3504",
+    "course_number": 3504,
+    "course_title": "PHIL3504 [0.5 credit]",
+    "course_desc": "The study of language use in its conversational and cultural contexts. Topics include: conversational implicature; deixis; the semantics-pragmatics boundary; speaker's reference; speech acts. May include cross-cultural pragmatics.",
+    "course_extra_details": "Also listed as LING3504.\nPrecludes additional credit for LALS 2800 [1.0], LALS 3504, MCOM 2800 [1.0], MCOM 3504 and PHIL 2800 [1.0].\nPrerequisite(s): third-year standing, and one of FYSM  1206, LALS 1000, LALS 1001, LING1001, PHIL2001, PHIL/LALS/LING/COMM/MCOM 2504 or LALS/LING3505/PHIL3506; or permission of the Department of Philosophy or School of Linguistics and Applied Language Studies.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing, and one of FYSM  1206, LALS 1000, LALS 1001, LING1001, PHIL2001, PHIL/LALS/LING/COMM/MCOM 2504 or LALS/LING3505/PHIL3506; or permission of the Department of Philosophy or School of Linguistics and Applied Language Studies.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "PHIL 3506",
+    "course_code": "PHIL3506",
+    "course_number": 3506,
+    "course_title": "PHIL3506 [0.5 credit]",
+    "course_desc": "Study of language meaning. Lexical meaning and meanings of larger linguistic expressions, including nominal units, verbal units, and sentences. Meaning relationships between utterances. Relationship between linguistic meaning (semantics) and contextual meaning (pragmatics). Basic formal treatments of semantics.",
+    "course_extra_details": "Also listed as LING3505.\nPrecludes additional credit for LALS 3505.\nPrerequisite(s): third-year standing, and one of LALS 1000, LALS 1001, LING1001, PHIL2001, PHIL/LALS/LING/COMM/MCOM 2504 or PHIL/LALS/LING3504; or permission of the Department of Philosophy or School of Linguistics and Applied Language Studies.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing, and one of LALS 1000, LALS 1001, LING1001, PHIL2001, PHIL/LALS/LING/COMM/MCOM 2504 or PHIL/LALS/LING3504; or permission of the Department of Philosophy or School of Linguistics and Applied Language Studies.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "PHIL 3530",
+    "course_code": "PHIL3530",
+    "course_number": 3530,
+    "course_title": "PHIL3530 [0.5 credit]",
+    "course_desc": "An intensive introduction to philosophy of language. Topics may include meaning, reference and truth, speech acts, the nature of concepts, language learning, metaphor, compositionality, context-sensitivity.",
+    "course_extra_details": "Prerequisite(s): third-year standing, and one of FYSM  1206, LALS 1000, LALS 1001, LING1001, PHIL2001, PHIL/LALS/LING/COMM/MCOM 2504 or LALS/LING3504 or LALS/LING3505/PHIL3506; or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing, and one of FYSM  1206, LALS 1000, LALS 1001, LING1001, PHIL2001, PHIL/LALS/LING/COMM/MCOM 2504 or LALS/LING3504 or LALS/LING3505/PHIL3506; or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "PHIL 3540",
+    "course_code": "PHIL3540",
+    "course_number": 3540,
+    "course_title": "PHIL3540 [0.5 credit]",
+    "course_desc": "Emotions are central to human experience and widely studied in philosophy and science. In order to better understand them and their role in our lives, this course explores philosophical questions about emotions as they arise in philosophy of mind and cognitive science, ethics, and aesthetics.",
+    "course_extra_details": "Prerequisite(s): PHIL2501, or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "PHIL2501, or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 3901",
+    "course_code": "PHIL3901",
+    "course_number": 3901,
+    "course_title": "PHIL3901 [0.5 credit]",
+    "course_desc": "Essays and/or examinations based on a list of readings provided by the instructor.",
+    "course_extra_details": "Prerequisite(s): normally restricted to students with at least 3.0 credits in philosophy and with high standing in philosophy courses and permission of the Department.\n \n",
+    "course_prerequisites": "normally restricted to students with at least 3.0 credits in philosophy and with high standing in philosophy courses and permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 3902",
+    "course_code": "PHIL3902",
+    "course_number": 3902,
+    "course_title": "PHIL3902 [0.5 credit]",
+    "course_desc": "Essays and/or examinations based on a list of readings provided by the instructor.",
+    "course_extra_details": "Prerequisite(s): normally restricted to students with at least 3.0 credits in philosophy and with high standing in philosophy courses and permission of the Department.\n \n",
+    "course_prerequisites": "normally restricted to students with at least 3.0 credits in philosophy and with high standing in philosophy courses and permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 3903",
+    "course_code": "PHIL3903",
+    "course_number": 3903,
+    "course_title": "PHIL3903 [0.5 credit]",
+    "course_desc": "Essays and/or examinations based on a list of readings provided by the instructor.",
+    "course_extra_details": "Prerequisite(s): normally restricted to students with at least 3.0 credits in philosophy and with high standing in philosophy courses and permission of the Department.\n \n",
+    "course_prerequisites": "normally restricted to students with at least 3.0 credits in philosophy and with high standing in philosophy courses and permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 3906",
+    "course_code": "PHIL3906",
+    "course_number": 3906,
+    "course_title": "PHIL3906 [0.5 credit]",
+    "course_desc": "Essays and/or examinations based on a bibliography constructed by the student in consultation with the instructor.",
+    "course_extra_details": "Prerequisite(s): normally restricted to students with at least 3.0 credits in philosophy and with high standing in philosophy courses and permission of the Department.\n \n",
+    "course_prerequisites": "normally restricted to students with at least 3.0 credits in philosophy and with high standing in philosophy courses and permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 3907",
+    "course_code": "PHIL3907",
+    "course_number": 3907,
+    "course_title": "PHIL3907 [0.5 credit]",
+    "course_desc": "Essays and/or examinations based on a bibliography constructed by the student in consultation with the instructor.",
+    "course_extra_details": "Prerequisite(s): normally restricted to students with at least 3.0 credits in philosophy and with high standing in philosophy courses and permission of the Department.\n \n",
+    "course_prerequisites": "normally restricted to students with at least 3.0 credits in philosophy and with high standing in philosophy courses and permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 3908",
+    "course_code": "PHIL3908",
+    "course_number": 3908,
+    "course_title": "PHIL3908 [0.5 credit]",
+    "course_desc": "Essays and/or examinations based on a bibliography constructed by the student in consultation with the instructor.",
+    "course_extra_details": "Prerequisite(s): normally restricted to students with at least 3.0 credits in philosophy and with high standing in philosophy courses and permission of the Department.\n \n",
+    "course_prerequisites": "normally restricted to students with at least 3.0 credits in philosophy and with high standing in philosophy courses and permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 4003",
+    "course_code": "PHIL4003",
+    "course_number": 4003,
+    "course_title": "PHIL4003 [0.5 credit]",
+    "course_desc": "Detailed study of selected philosophers or issues in philosophy before the modern period.",
+    "course_extra_details": "Prerequisite(s): eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.\nAlso offered at the graduate level, with different requirements, as PHIL5600, for which additional credit is precluded.\nSeminar three hours a week.\n",
+    "course_prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PHIL 4004",
+    "course_code": "PHIL4004",
+    "course_number": 4004,
+    "course_title": "PHIL4004 [0.5 credit]",
+    "course_desc": "Detailed study of selected philosophers or issues in philosophy before the modern period.",
+    "course_extra_details": "Prerequisite(s): eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.\nAlso offered at the graduate level, with different requirements, as PHIL5600, for which additional credit is precluded.\nSeminar three hours a week.\n",
+    "course_prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PHIL 4005",
+    "course_code": "PHIL4005",
+    "course_number": 4005,
+    "course_title": "PHIL4005 [0.5 credit]",
+    "course_desc": "Detailed study of selected philosophers or issues in modern philosophy.",
+    "course_extra_details": "Prerequisite(s): eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.\nAlso offered at the graduate level, with different requirements, as PHIL5600, for which additional credit is precluded.\nSeminar three hours a week.\n",
+    "course_prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PHIL 4006",
+    "course_code": "PHIL4006",
+    "course_number": 4006,
+    "course_title": "PHIL4006 [0.5 credit]",
+    "course_desc": "Detailed study of selected philosophers or issues in modern philosophy.",
+    "course_extra_details": "Prerequisite(s): eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.\nAlso offered at the graduate level, with different requirements, as PHIL5600, for which additional credit is precluded.\nSeminar three hours a week.\n",
+    "course_prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PHIL 4007",
+    "course_code": "PHIL4007",
+    "course_number": 4007,
+    "course_title": "PHIL4007 [0.5 credit]",
+    "course_desc": "Detailed study of selected philosophers or issues in contemporary philosophy.",
+    "course_extra_details": "Prerequisite(s): eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.\nAlso offered at the graduate level, with different requirements, as PHIL5500, for which additional credit is precluded.\nSeminar three hours a week.\n",
+    "course_prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PHIL 4008",
+    "course_code": "PHIL4008",
+    "course_number": 4008,
+    "course_title": "PHIL4008 [0.5 credit]",
+    "course_desc": "Detailed study of selected philosophers or issues in contemporary philosophy.",
+    "course_extra_details": "Prerequisite(s): eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.\nAlso offered at the graduate level, with different requirements, as PHIL5500, for which additional credit is precluded.\nSeminar three hours a week.\n",
+    "course_prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PHIL 4055",
+    "course_code": "PHIL4055",
+    "course_number": 4055,
+    "course_title": "PHIL4055 [0.5 credit]",
+    "course_desc": "Study of the meaning of words. Topics may include lexical decomposition, meaning variation, lexical relations, and lexical aspect.",
+    "course_extra_details": "Also listed as LING4510.\nPrecludes additional credit for LING 4055 (no longer offered).\nPrerequisite(s): LING3505 or PHIL3506.\nAlso offered at the graduate level, with different requirements, as LING5510 and PHIL5660, for which additional credit is precluded.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LING3505 or PHIL3506.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 4100",
+    "course_code": "PHIL4100",
+    "course_number": 4100,
+    "course_title": "PHIL4100 [0.5 credit]",
+    "course_desc": "Detailed study of a special topic in philosophy.",
+    "course_extra_details": "Prerequisite(s): eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.\nAlso offered at the graduate level, with different requirements, as PHIL5000, for which additional credit is precluded.\nSeminar three hours a week.\n",
+    "course_prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PHIL 4210",
+    "course_code": "PHIL4210",
+    "course_number": 4210,
+    "course_title": "PHIL4210 [0.5 credit]",
+    "course_desc": "Detailed study of selected issues or the work of selected philosophers in philosophy of language or on philosophical topics in linguistics.",
+    "course_extra_details": "Prerequisite(s): eligibility for fourth year standing in a Philosophy Honours programme or permission of the Department.\nAlso offered at the graduate level, with different requirements, as PHIL5200, for which additional credit is precluded.\nSeminar three hours a week.\n",
+    "course_prerequisites": "eligibility for fourth year standing in a Philosophy Honours programme or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 4220",
+    "course_code": "PHIL4220",
+    "course_number": 4220,
+    "course_title": "PHIL4220 [0.5 credit]",
+    "course_desc": "Detailed study of selected issues or the work of selected philosophers in philosophy of mind or philosophical aspects of cognition.",
+    "course_extra_details": "Prerequisite(s): eligibility for fourth year standing in a Philosophy Honours programme or permission of the Department.\nAlso offered at the graduate level, with different requirements, as PHIL5200, for which additional credit is precluded.\nSeminar three hours a week.\n",
+    "course_prerequisites": "eligibility for fourth year standing in a Philosophy Honours programme or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 4230",
+    "course_code": "PHIL4230",
+    "course_number": 4230,
+    "course_title": "PHIL4230 [0.5 credit]",
+    "course_desc": "Detailed study of selected issues or the work of selected philosophers in metaphysics, epistemology, or philosophy of science.",
+    "course_extra_details": "Prerequisite(s): eligibility for fourth year standing in a Philosophy Honours programme or permission of the Department.\nAlso offered at the graduate level, with different requirements, as PHIL5250, for which additional credit is precluded.\nSeminar three hours a week.\n",
+    "course_prerequisites": "eligibility for fourth year standing in a Philosophy Honours programme or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 4300",
+    "course_code": "PHIL4300",
+    "course_number": 4300,
+    "course_title": "PHIL4300 [0.5 credit]",
+    "course_desc": "Detailed study of selected issues pertaining to ethical theory or issues of meta-ethics such as realism, relativism, moral knowledge.",
+    "course_extra_details": "Prerequisite(s): eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.\nAlso offered at the graduate level, with different requirements, as PHIL5300, for which additional credit is precluded.\nSeminar three hours a week.\n",
+    "course_prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PHIL 4320",
+    "course_code": "PHIL4320",
+    "course_number": 4320,
+    "course_title": "PHIL4320 [0.5 credit]",
+    "course_desc": "Detailed study of selected issues in ethics or moral philosophy.",
+    "course_extra_details": "Prerequisite(s): eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.\nAlso offered at the graduate level, with different requirements, as PHIL5350, for which additional credit is precluded.\nSeminar three hours a week.\n",
+    "course_prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PHIL 4330",
+    "course_code": "PHIL4330",
+    "course_number": 4330,
+    "course_title": "PHIL4330 [0.5 credit]",
+    "course_desc": "Detailed study of selected issues in social or political philosophy.",
+    "course_extra_details": "Prerequisite(s): eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.\nAlso offered at the graduate level, with different requirements, as PHIL5350, for which additional credit is precluded.\nSeminar three hours a week.\n",
+    "course_prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PHIL 4403",
+    "course_code": "PHIL4403",
+    "course_number": 4403,
+    "course_title": "PHIL4403 [0.5 credit]",
+    "course_desc": "Detailed study of a special topic in applied ethics.",
+    "course_extra_details": "Prerequisite(s): eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.\nSeminar two hours a week.\n",
+    "course_prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PHIL 4404",
+    "course_code": "PHIL4404",
+    "course_number": 4404,
+    "course_title": "PHIL4404 [0.5 credit]",
+    "course_desc": "Detailed study of a special topic in applied ethics.",
+    "course_extra_details": "Prerequisite(s): eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.\nSeminar two hours a week.\n",
+    "course_prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PHIL 4405",
+    "course_code": "PHIL4405",
+    "course_number": 4405,
+    "course_title": "PHIL4405 [0.5 credit]",
+    "course_desc": "Detailed study of a special issue or a single author in aesthetics and/or philosophy of art.",
+    "course_extra_details": "Prerequisite(s): eligibility for fourth-year standing in philosophy Honours program or permission of the Department.\nSeminar two hours a week.\n",
+    "course_prerequisites": "eligibility for fourth-year standing in philosophy Honours program or permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PHIL 4406",
+    "course_code": "PHIL4406",
+    "course_number": 4406,
+    "course_title": "PHIL4406 [0.5 credit]",
+    "course_desc": "Detailed study of a special issue or a single author in aesthetics and/or philosophy of art.",
+    "course_extra_details": "Prerequisite(s): eligibility for fourth-year standing in philosophy Honours program or permission of the Department.\nSeminar two hours a week.\n",
+    "course_prerequisites": "eligibility for fourth-year standing in philosophy Honours program or permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PHIL 4407",
+    "course_code": "PHIL4407",
+    "course_number": 4407,
+    "course_title": "PHIL4407 [0.5 credit]",
+    "course_desc": "Detailed study of a special topic in philosophy of law.",
+    "course_extra_details": "Also listed as LAWS 4103.\nPrerequisite(s): eligibility for fourth-year standing in a Law or Philosophy Honours program or permission of either Department.\nSeminars three hours a week.\n",
+    "course_prerequisites": "eligibility for fourth-year standing in a Law or Philosophy Honours program or permission of either Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PHIL 4408",
+    "course_code": "PHIL4408",
+    "course_number": 4408,
+    "course_title": "PHIL4408 [0.5 credit]",
+    "course_desc": "Detailed study of a special topic in philosophy of law.",
+    "course_extra_details": "Also listed as LAWS 4104.\nPrerequisite(s): eligibility for fourth-year standing in a Law or Philosophy Honours program or permission of either Department.\nSeminars three hours a week.\n",
+    "course_prerequisites": "eligibility for fourth-year standing in a Law or Philosophy Honours program or permission of either Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PHIL 4503",
+    "course_code": "PHIL4503",
+    "course_number": 4503,
+    "course_title": "PHIL4503 [0.5 credit]",
+    "course_desc": "Detailed study of a special topic in philosophy of computing.",
+    "course_extra_details": "Prerequisite(s): eligibility for fourth-year standing in philosophy Honours program or permission of the Department.\nSeminar two hours a week.\n",
+    "course_prerequisites": "eligibility for fourth-year standing in philosophy Honours program or permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PHIL 4504",
+    "course_code": "PHIL4504",
+    "course_number": 4504,
+    "course_title": "PHIL4504 [0.5 credit]",
+    "course_desc": "Detailed study of a special topic in philosophy of computing.",
+    "course_extra_details": "Prerequisite(s): eligibility for fourth-year standing in philosophy Honours program or permission of the Department.\nSeminar two hours a week.\n",
+    "course_prerequisites": "eligibility for fourth-year standing in philosophy Honours program or permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PHIL 4505",
+    "course_code": "PHIL4505",
+    "course_number": 4505,
+    "course_title": "PHIL4505 [0.5 credit]",
+    "course_desc": "Advanced topics in compositional semantics and its interfaces. Topics may include: logic, semantic types, lambda calculus, intentional contexts, possible world semantics, interfaces with syntax and pragmatics quantification, anaphora, presupposition, implicatures, scope and binding, and model theory.",
+    "course_extra_details": "Also listed as LING4505.\nPrecludes additional credit for LALS 4507 (no longer offered).\nPrerequisite(s): LALS 3505 or LING3505 or PHIL3506 or permission of the Department of Philosophy or School of Linguistics and Language Studies.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LALS 3505 or LING3505 or PHIL3506 or permission of the Department of Philosophy or School of Linguistics and Language Studies.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 4603",
+    "course_code": "PHIL4603",
+    "course_number": 4603,
+    "course_title": "PHIL4603 [0.5 credit]",
+    "course_desc": "Detailed study of a special topic in feminist philosophy.",
+    "course_extra_details": "Prerequisite(s): eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.\nSeminar two hours a week.\n",
+    "course_prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PHIL 4604",
+    "course_code": "PHIL4604",
+    "course_number": 4604,
+    "course_title": "PHIL4604 [0.5 credit]",
+    "course_desc": "Detailed study of a special topic in feminist philosophy.",
+    "course_extra_details": "Prerequisite(s): eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.\nSeminar two hours a week.\n",
+    "course_prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PHIL 4606",
+    "course_code": "PHIL4606",
+    "course_number": 4606,
+    "course_title": "PHIL4606 [0.5 credit]",
+    "course_desc": "Prerequisite(s): eligibility for fourth-year standing in philosophy Honours program or permission of the Department.Seminar two hours a week.",
+    "course_extra_details": "Prerequisite(s): eligibility for fourth-year standing in philosophy Honours program or permission of the Department.\nSeminar two hours a week.\n",
+    "course_prerequisites": "eligibility for fourth-year standing in philosophy Honours program or permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PHIL 4607",
+    "course_code": "PHIL4607",
+    "course_number": 4607,
+    "course_title": "PHIL4607 [0.5 credit]",
+    "course_desc": "Prerequisite(s): eligibility for fourth-year standing in philosophy Honours program or permission of the Department.Seminar two hours a week.",
+    "course_extra_details": "Prerequisite(s): eligibility for fourth-year standing in philosophy Honours program or permission of the Department.\nSeminar two hours a week.\n",
+    "course_prerequisites": "eligibility for fourth-year standing in philosophy Honours program or permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PHIL 4701",
+    "course_code": "PHIL4701",
+    "course_number": 4701,
+    "course_title": "PHIL4701 [0.5 credit]",
+    "course_desc": "Detailed study of a special topic in Logic.",
+    "course_extra_details": "Prerequisite(s): eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.\nSeminar two hours a week.\n",
+    "course_prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PHIL 4702",
+    "course_code": "PHIL4702",
+    "course_number": 4702,
+    "course_title": "PHIL4702 [0.5 credit]",
+    "course_desc": "Detailed study of a special topic in Logic.",
+    "course_extra_details": "Prerequisite(s): eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.\nSeminar two hours a week.\n",
+    "course_prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PHIL 4703",
+    "course_code": "PHIL4703",
+    "course_number": 4703,
+    "course_title": "PHIL4703 [0.5 credit]",
+    "course_desc": "Detailed study of a special topic in Philosophical Logic.",
+    "course_extra_details": "Prerequisite(s): eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.\nSeminar two hours a week.\n",
+    "course_prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PHIL 4704",
+    "course_code": "PHIL4704",
+    "course_number": 4704,
+    "course_title": "PHIL4704 [0.5 credit]",
+    "course_desc": "Detailed study of a special topic in Philosophical Logic.",
+    "course_extra_details": "Prerequisite(s): eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.\nSeminar two hours a week.\n",
+    "course_prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PHIL 4900",
+    "course_code": "PHIL4900",
+    "course_number": 4900,
+    "course_title": "PHIL4900 [1.0 credit]",
+    "course_desc": "Prerequisite(s): permission of the Department. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration. ",
+    "course_extra_details": "Prerequisite(s): permission of the Department. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration.\n \n",
+    "course_prerequisites": "permission of the Department. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 4901",
+    "course_code": "PHIL4901",
+    "course_number": 4901,
+    "course_title": "PHIL4901 [0.5 credit]",
+    "course_desc": "Prerequisite(s): permission of the Department. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration. ",
+    "course_extra_details": "Prerequisite(s): permission of the Department. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration.\n \n",
+    "course_prerequisites": "permission of the Department. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 4902",
+    "course_code": "PHIL4902",
+    "course_number": 4902,
+    "course_title": "PHIL4902 [0.5 credit]",
+    "course_desc": "Prerequisite(s): permission of the Department. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration. ",
+    "course_extra_details": "Prerequisite(s): permission of the Department. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration.\n \n",
+    "course_prerequisites": "permission of the Department. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 4903",
+    "course_code": "PHIL4903",
+    "course_number": 4903,
+    "course_title": "PHIL4903 [0.5 credit]",
+    "course_desc": "Prerequisite(s): permission of the Department. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration. ",
+    "course_extra_details": "Prerequisite(s): permission of the Department. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration.\n \n",
+    "course_prerequisites": "permission of the Department. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 4904",
+    "course_code": "PHIL4904",
+    "course_number": 4904,
+    "course_title": "PHIL4904 [0.5 credit]",
+    "course_desc": "Prerequisite(s): permission of the Department. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration. ",
+    "course_extra_details": "Prerequisite(s): permission of the Department. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration.\n \n",
+    "course_prerequisites": "permission of the Department. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHIL 4906",
+    "course_code": "PHIL4906",
+    "course_number": 4906,
+    "course_title": "PHIL4906 [0.5 credit]",
+    "course_desc": "Prerequisite(s): permission of the Department. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration. ",
+    "course_extra_details": "Prerequisite(s): permission of the Department. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration.\n \n",
+    "course_prerequisites": "permission of the Department. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration.",
+    "year_standing": 0
+}]}

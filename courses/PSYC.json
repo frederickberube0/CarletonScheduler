@@ -1,0 +1,748 @@
+{"object": [
+{
+    "course_identifier": "PSYC 1001",
+    "course_code": "PSYC1001",
+    "course_number": 1001,
+    "course_title": "PSYC1001 [0.5 credit]",
+    "course_desc": "A survey of topics associated with psychology's role as a natural science, including neuroscience, cognition, and learning.",
+    "course_extra_details": "Precludes additional credit for PSYC 1000.\nLecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 1002",
+    "course_code": "PSYC1002",
+    "course_number": 1002,
+    "course_title": "PSYC1002 [0.5 credit]",
+    "course_desc": "A survey of topics associated with psychology's role as a social science, including social psychology, personality, clinical psychology, and mental health.",
+    "course_extra_details": "Precludes additional credit for PSYC 1000.\nPrerequisite(s): PSYC1001.\nLecture three hours a week.\n",
+    "course_prerequisites": "PSYC1001.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 2001",
+    "course_code": "PSYC2001",
+    "course_number": 2001,
+    "course_title": "PSYC2001 [0.5 credit]",
+    "course_desc": "A general introduction to research methodologies employed within contemporary psychology. Topics covered include research designs (experimental, quasi-experimental) and techniques (observations, surveys), basic descriptive statistics, and how to interpret and report research findings.",
+    "course_extra_details": "Precludes additional credit for NEUR2001 and PSYC 2000 (no longer offered).\nPrerequisite(s): PSYC1001 and PSYC1002.\nLecture three hours a week. May include laboratories.\n",
+    "course_prerequisites": "PSYC1001 and PSYC1002.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 2002",
+    "course_code": "PSYC2002",
+    "course_number": 2002,
+    "course_title": "PSYC2002 [0.5 credit]",
+    "course_desc": "A general introduction to statistical techniques employed within contemporary psychology. Topics include basic data analysis using descriptive and inferential statistics (t-tests, ANOVA, correlation, chi-square).",
+    "course_extra_details": "Precludes additional credit for NEUR2002.\nPrerequisite(s): PSYC2001.\nLecture three hours a week. May include laboratories.\n",
+    "course_prerequisites": "PSYC2001.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 2100",
+    "course_code": "PSYC2100",
+    "course_number": 2100,
+    "course_title": "PSYC2100 [0.5 credit]",
+    "course_desc": "Introduction to social psychology, including a survey of theories, issues, methods, and findings. This course will explore how social situations may influence people's thoughts, feelings, and behaviours. Topics may include social cognition, self-knowledge, persuasion, interpersonal attraction, aggression, and prosocial behaviour.",
+    "course_extra_details": "Precludes additional credit for SOCI2150.\nPrerequisite(s): PSYC1001 and PSYC1002.\nLectures three hours a week.\n",
+    "course_prerequisites": "PSYC1001 and PSYC1002.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 2301",
+    "course_code": "PSYC2301",
+    "course_number": 2301,
+    "course_title": "PSYC2301 [0.5 credit]",
+    "course_desc": "Introduction to health psychology, including a survey of theories, issues, methods, and findings. Using a multidisciplinary approach, topics may include the reciprocal interactions among physical health and illness, and psychological factors, including emotional well-being, coping and appraisal processes.",
+    "course_extra_details": "Precludes additional credit for PSYC 3406.\nPrerequisite(s): PSYC1001 and PSYC1002.\nLectures three hours a week.\n",
+    "course_prerequisites": "PSYC1001 and PSYC1002.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 2307",
+    "course_code": "PSYC2307",
+    "course_number": 2307,
+    "course_title": "PSYC2307 [0.5 credit]",
+    "course_desc": "Introduction to study of brain-behaviour relationships, including a survey of theories, issues, methods, and findings. Topics may include basic anatomy and physiology of the human nervous system, including sensory and motor functions. Neural basis of language, perception, emotion, learning, memory, decision making and social cognition.",
+    "course_extra_details": "Prerequisite(s): PSYC1001 and PSYC1002.\nLectures three hours a week.\n",
+    "course_prerequisites": "PSYC1001 and PSYC1002.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 2400",
+    "course_code": "PSYC2400",
+    "course_number": 2400,
+    "course_title": "PSYC2400 [0.5 credit]",
+    "course_desc": "Introduction to forensic psychology, including a survey of theories, issues, methods, and findings. Topics covered may include development of offending, eyewitness testimony, victim studies, risk assessment, offender rehabilitation, offender classification, and police studies.",
+    "course_extra_details": "Prerequisite(s): PSYC1001 and PSYC1002.\nLectures three hours a week.\n",
+    "course_prerequisites": "PSYC1001 and PSYC1002.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 2500",
+    "course_code": "PSYC2500",
+    "course_number": 2500,
+    "course_title": "PSYC2500 [0.5 credit]",
+    "course_desc": "Introduction to developmental psychology, including a survey of theories, issues, methods, and findings. Topics may include biological underpinnings and genetics, as well as selected aspects of language, cognitive, moral, emotional, and social development.",
+    "course_extra_details": "Prerequisite(s): PSYC1001 and PSYC1002.\nLectures three hours a week.\n",
+    "course_prerequisites": "PSYC1001 and PSYC1002.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 2600",
+    "course_code": "PSYC2600",
+    "course_number": 2600,
+    "course_title": "PSYC2600 [0.5 credit]",
+    "course_desc": "Introduction to the study of personality, including a survey of theories, issues, methods, and findings. Explores the factors that contribute to people\u2019s personality and influence how they interact with others. Topics may include traits, motives, the self, physiology, the unconscious, relationships, stress and coping.",
+    "course_extra_details": "Prerequisite(s): PSYC1001 and PSYC1002.\nLectures three hours a week.\n",
+    "course_prerequisites": "PSYC1001 and PSYC1002.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 2700",
+    "course_code": "PSYC2700",
+    "course_number": 2700,
+    "course_title": "PSYC2700 [0.5 credit]",
+    "course_desc": "Introduction to cognitive processes, including a survey of theories, issues, methods and findings. Topics covered may include pattern recognition, attention, imagery, learning (animal and human), memory, language, and thinking.",
+    "course_extra_details": "Prerequisite(s): PSYC1001 and PSYC1002.\nLectures three hours a week.\n",
+    "course_prerequisites": "PSYC1001 and PSYC1002.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 2801",
+    "course_code": "PSYC2801",
+    "course_number": 2801,
+    "course_title": "PSYC2801 [0.5 credit]",
+    "course_desc": "Introduction to the study of organizational psychology, including a survey of theories, issues, methods, and findings. Examines individual and group behaviour in organizational settings. Topics may include understanding work-related attitudes, behaviour, motivation, and stress, personnel selection, personality in the workplace, organizational justice, and leadership.",
+    "course_extra_details": "Precludes additional credit for PSYC 3105, PSYC 3803 (no longer offered).\nPrerequisite(s): PSYC1001 and PSYC1002.\nLectures three hours per week.\n",
+    "course_prerequisites": "PSYC1001 and PSYC1002.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 3000",
+    "course_code": "PSYC3000",
+    "course_number": 3000,
+    "course_title": "PSYC3000 [1.0 credit]",
+    "course_desc": "Techniques in data analysis, probability, sampling distributions, and procedures of estimation. Topics include classical, Bayesian, and distribution free approaches to hypothesis testing, linear regression and curve fitting, and analysis of variance methods in experimental design. Techniques are applied with appropriate statistical software (e.g., SPSS, Excel).",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing, PSYC2001, and PSYC2002.\nLectures and tutorial four hours a week.\n",
+    "course_prerequisites": "third-year standing, PSYC2001, and PSYC2002.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "PSYC 3001",
+    "course_code": "PSYC3001",
+    "course_number": 3001,
+    "course_title": "PSYC3001 [0.5 credit]",
+    "course_desc": "An introduction to theory and issues pertaining to psychological tests. Topics include the creation, assessment, scoring, and interpretation of results across different testing formats (questionnaires, surveys, structured interviews, performance-based measurements). Classical and modern techniques will be incorporated. Students will apply psychological testing theory through assignments.",
+    "course_extra_details": "Prerequisite(s): PSYC2001 and PSYC2002.\nLectures three hours a week.\n",
+    "course_prerequisites": "PSYC2001 and PSYC2002.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 3100",
+    "course_code": "PSYC3100",
+    "course_number": 3100,
+    "course_title": "PSYC3100 [1.0 credit]",
+    "course_desc": "An introduction to theory and research in social psychology. Activities include reading and assessing the appropriate literature, designing studies and experiments, conducting data analyses, and producing APA style reports. Research ethics and graduate studies are also addressed. Taught in preparation of fourth year thesis.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): PSYC2001, PSYC2002, PSYC2100, third-year Honours standing in Psychology with a CGPA of 9.0 or higher in the major and permission of the Department.\nSeminars and laboratories six hours a week.\n",
+    "course_prerequisites": "PSYC2001, PSYC2002, PSYC2100, third-year Honours standing in Psychology with a CGPA of 9.0 or higher in the major and permission of the Department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "PSYC 3104",
+    "course_code": "PSYC3104",
+    "course_number": 3104,
+    "course_title": "PSYC3104 [0.5 credit]",
+    "course_desc": "In-depth coverage of the social psychology of relations within and between large societal groups. Topics may include social identity, stereotyping, prejudice, and intergroup emotions, with emphasis on their role in promoting conflict and paths to pro-social intergroup relations.",
+    "course_extra_details": "Also listed as SOWK 3103.\nPrecludes additional credit for PSYC 3103 (no longer offered).\nPrerequisite(s): PSYC2100.\nLectures three hours per week.\n",
+    "course_prerequisites": "PSYC2100.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 3106",
+    "course_code": "PSYC3106",
+    "course_number": 3106,
+    "course_title": "PSYC3106 [0.5 credit]",
+    "course_desc": "A consideration of relationship science, with a focus on social psychological theory and empirical approaches to the study of close relationships such as dating and marital relationships, and friendships. Topics may include relationship initiation, relationship maintenance, and coping with the dissolution of relationships.",
+    "course_extra_details": "Prerequisite(s): PSYC2100.\nLectures three hours per week.\n",
+    "course_prerequisites": "PSYC2100.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 3300",
+    "course_code": "PSYC3300",
+    "course_number": 3300,
+    "course_title": "PSYC3300 [1.0 credit]",
+    "course_desc": "An applied introduction to theory and research in health psychology. Activities include reading and assessing the appropriate literature, designing studies and experiments, conducting data analyses, and producing APA style reports. Research ethics and graduate studies are also addressed. Taught in preparation of fourth year thesis.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): PSYC2001, PSYC2002, PSYC2301, third-year Honours standing in Psychology with a CGPA of 9.0 or higher in the major and permission of the Department.\nSeminars and laboratories six hours a week.\n",
+    "course_prerequisites": "PSYC2001, PSYC2002, PSYC2301, third-year Honours standing in Psychology with a CGPA of 9.0 or higher in the major and permission of the Department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "PSYC 3301",
+    "course_code": "PSYC3301",
+    "course_number": 3301,
+    "course_title": "PSYC3301 [0.5 credit]",
+    "course_desc": "How psychological processes influence outcomes across sport and performance environments. Topics may include self-confidence, goal-setting, arousal regulation, imagery, group dynamics, burnout, injury recovery, and how person and situational factors affect the pursuit of excellence.",
+    "course_extra_details": "Prerequisite(s): one of PSYC2100, PSYC2301, PSYC2500, PSYC2600.\nLectures three hours a week.\n",
+    "course_prerequisites": "one of PSYC2100, PSYC2301, PSYC2500, PSYC2600.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 3302",
+    "course_code": "PSYC3302",
+    "course_number": 3302,
+    "course_title": "PSYC3302 [0.5 credit]",
+    "course_desc": "A review of theoretical, historical, and empirical scholarship in positive psychology. Drawing widely across traditional sub-disciplines, content focuses on human strengths, well-being, resilience, and virtue to understand internal, external, and developmental contributors to health and happiness.",
+    "course_extra_details": "Prerequisite(s): one of PSYC2100, PSYC2301, PSYC2500, PSYC2600.\nLectures three hours a week.\n",
+    "course_prerequisites": "one of PSYC2100, PSYC2301, PSYC2500, PSYC2600.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 3307",
+    "course_code": "PSYC3307",
+    "course_number": 3307,
+    "course_title": "PSYC3307 [0.5 credit]",
+    "course_desc": "Cortical metabolism and research methods for assessment of cortical function, neuropsychological testing in the context of neurological, psychiatric and cognitive disorders caused by nervous system damage or genetic anomaly.",
+    "course_extra_details": "Precludes additional credit for PSYC 3207 (no longer offered).\nPrerequisite(s): PSYC2307.\nLectures three hours a week.\n",
+    "course_prerequisites": "PSYC2307.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 3400",
+    "course_code": "PSYC3400",
+    "course_number": 3400,
+    "course_title": "PSYC3400 [1.0 credit]",
+    "course_desc": "An applied introduction to theory and research in forensic psychology. Activities include reading and assessing the appropriate literature, designing studies and experiments, conducting data analyses, and producing APA style reports. Research ethics and graduate studies are also addressed. Taught in preparation of fourth year thesis.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): PSYC2001, PSYC2002, PSYC2400, third-year Honours standing in Psychology with a CGPA of 9.0 or higher in the major and permission of the Department.\nSeminars and laboratories six hours a week.\n",
+    "course_prerequisites": "PSYC2001, PSYC2002, PSYC2400, third-year Honours standing in Psychology with a CGPA of 9.0 or higher in the major and permission of the Department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "PSYC 3402",
+    "course_code": "PSYC3402",
+    "course_number": 3402,
+    "course_title": "PSYC3402 [0.5 credit]",
+    "course_desc": "A review of theoretical and empirical research in the study of criminal behaviour. Examination of offender assessment and classification, prevalence and types of offenders, and effectiveness of offender treatment including understanding specific populations of offenders such as Indigenous offenders, women offenders and violent offenders.",
+    "course_extra_details": "Prerequisite(s): PSYC2400.\nLectures three hours a week.\n",
+    "course_prerequisites": "PSYC2400.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 3403",
+    "course_code": "PSYC3403",
+    "course_number": 3403,
+    "course_title": "PSYC3403 [0.5 credit]",
+    "course_desc": "Neurobiological and social bases of drug and behavioural addictions. Contemporary theoretical approaches to addiction; approaches to current prevention and treatment.",
+    "course_extra_details": "Prerequisite(s): one of PSYC2301, PSYC2307, PSYC2400.\nLectures three hours a week.\n",
+    "course_prerequisites": "one of PSYC2301, PSYC2307, PSYC2400.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 3404",
+    "course_code": "PSYC3404",
+    "course_number": 3404,
+    "course_title": "PSYC3404 [0.5 credit]",
+    "course_desc": "Critical examination of theory and empirical research in the area of police psychology. Topics covered may include police culture, police selection, police suicide, police personality, stress debriefing, fitness evaluations, police training, crisis negotiations, and investigative techniques.",
+    "course_extra_details": "Precludes additional credit for PSYC 4402 (no longer offered).\nPrerequisite(s): PSYC2400.\nLectures three hours per week.\n",
+    "course_prerequisites": "PSYC2400.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 3405",
+    "course_code": "PSYC3405",
+    "course_number": 3405,
+    "course_title": "PSYC3405 [0.5 credit]",
+    "course_desc": "This course will explore motivational and emotional factors involved in human behaviour emphasizing various perspectives, theories, and research pertaining to physiological, cognitive, and social needs. Topics may include what factors motivates people, how motivation changes over time, and how one person can motivate another individual.",
+    "course_extra_details": "Prerequisite(s): PSYC1001 and PSYC1002.\nLectures three hours a week.\n",
+    "course_prerequisites": "PSYC1001 and PSYC1002.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 3500",
+    "course_code": "PSYC3500",
+    "course_number": 3500,
+    "course_title": "PSYC3500 [1.0 credit]",
+    "course_desc": "An introduction to theory and research in developmental psychology. Activities include reading and assessing the appropriate literature, designing studies and experiments, conducting data analyses, and producing APA style reports. Research ethics and graduate studies are also addressed. Taught in preparation of fourth year thesis.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): PSYC2001, PSYC2002, PSYC2500, third-year Honours standing in Psychology with a CGPA of 9.0 or higher in the major and permission of the Department.\nSeminars and laboratories six hours a week.\n",
+    "course_prerequisites": "PSYC2001, PSYC2002, PSYC2500, third-year Honours standing in Psychology with a CGPA of 9.0 or higher in the major and permission of the Department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "PSYC 3505",
+    "course_code": "PSYC3505",
+    "course_number": 3505,
+    "course_title": "PSYC3505 [0.5 credit]",
+    "course_desc": "An overview of childhood exceptionalities including intellectual differences, communication disorders, sensory and physical impairments, developmental and behavioural problems.",
+    "course_extra_details": "Prerequisite(s): PSYC2500.\nLectures three hours a week.\n",
+    "course_prerequisites": "PSYC2500.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 3506",
+    "course_code": "PSYC3506",
+    "course_number": 3506,
+    "course_title": "PSYC3506 [0.5 credit]",
+    "course_desc": "Human cognitive development is examined with a focus on memory, thinking and language through the life span. Topics may include perceptual and language development, emergent literacy, development of strategies and development of reading and arithmetic skills.",
+    "course_extra_details": "Prerequisite(s): PSYC2500 or PSYC2700.\nLectures three hours a week.\n",
+    "course_prerequisites": "PSYC2500 or PSYC2700.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 3507",
+    "course_code": "PSYC3507",
+    "course_number": 3507,
+    "course_title": "PSYC3507 [0.5 credit]",
+    "course_desc": "Development of the individual with a focus on social cognition and social behaviour. Topics may include the role of temperament in development, parental roles, siblings and peers in social/emotional development, development of prosocial and aggressive behaviour, moral development and development of self and other understanding.",
+    "course_extra_details": "Prerequisite(s): PSYC2500.\nLectures three hours a week.\n",
+    "course_prerequisites": "PSYC2500.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 3508",
+    "course_code": "PSYC3508",
+    "course_number": 3508,
+    "course_title": "PSYC3508 [0.5 credit]",
+    "course_desc": "Milestones associated with the development of grammatical,pragmatic and metalinguistic competence from birth to about age ten, and the relative contributions of the environment, cognitive development and inborn knowledge to this development.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as LING3603.\nPrecludes additional credit for LALS 2603 (no longer offered).\nPrerequisite(s): LING1001 and second-year standing, or permission of the instructor.\nLectures three hours per week.\n",
+    "course_prerequisites": "LING1001 and second-year standing, or permission of the instructor.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "PSYC 3509",
+    "course_code": "PSYC3509",
+    "course_number": 3509,
+    "course_title": "PSYC3509 [0.5 credit]",
+    "course_desc": "The physical, cognitive, social and moral development of adolescents and emerging adults in multiple contexts including family, peers, media and culture.  Major theories and contemporary issues and concerns.",
+    "course_extra_details": "Prerequisite(s): PSYC2500.\nLectures three hours a week.\n",
+    "course_prerequisites": "PSYC2500.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 3600",
+    "course_code": "PSYC3600",
+    "course_number": 3600,
+    "course_title": "PSYC3600 [1.0 credit]",
+    "course_desc": "An introduction to theory and research in personality psychology. Activities include reading and assessing the appropriate literature, designing studies and experiments, conducting data analyses, and producing APA style reports. Research ethics and graduate studies are also addressed. Taught in preparation of fourth year thesis.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): PSYC2001, PSYC2002, PSYC2600, third-year Honours standing in Psychology with a CGPA of 9.0 or higher in the major and permission of the Department.\nSeminars and laboratories six hours a week.\n",
+    "course_prerequisites": "PSYC2001, PSYC2002, PSYC2600, third-year Honours standing in Psychology with a CGPA of 9.0 or higher in the major and permission of the Department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "PSYC 3603",
+    "course_code": "PSYC3603",
+    "course_number": 3603,
+    "course_title": "PSYC3603 [0.5 credit]",
+    "course_desc": "An examination of theories and research regarding the similarities and differences in women's and men's psychological processes. Psychological issues relevant to women (e.g., women's health concerns, women's sexuality, violence toward women and children) will be examined as well as feminist and traditional research methods.",
+    "course_extra_details": "Prerequisite(s): one of PSYC2100, PSYC2500, PSYC2600.\nLectures three hours a week.\n",
+    "course_prerequisites": "one of PSYC2100, PSYC2500, PSYC2600.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 3604",
+    "course_code": "PSYC3604",
+    "course_number": 3604,
+    "course_title": "PSYC3604 [0.5 credit]",
+    "course_desc": "History of the concept of mental illness. Theory and selected research dealing with the nature and etiology of mental illness.",
+    "course_extra_details": "Prerequisite(s): PSYC2301, PSYC2500 or PSYC2600.\nLectures three hours a week.\n",
+    "course_prerequisites": "PSYC2301, PSYC2500 or PSYC2600.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 3700",
+    "course_code": "PSYC3700",
+    "course_number": 3700,
+    "course_title": "PSYC3700 [1.0 credit]",
+    "course_desc": "An introduction to theory and research in cognitive psychology. Activities include reading and assessing the appropriate literature, designing studies and experiments, conducting data analyses, and producing APA style reports. Research ethics and graduate studies are also addressed. Taught in preparation of fourth year thesis.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): PSYC2001, PSYC2002, PSYC2700, third-year Honours standing in Psychology with a CGPA of 9.0 or higher in the major and permission of the Department.\nSeminars and laboratories six hours a week.\n",
+    "course_prerequisites": "PSYC2001, PSYC2002, PSYC2700, third-year Honours standing in Psychology with a CGPA of 9.0 or higher in the major and permission of the Department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "PSYC 3702",
+    "course_code": "PSYC3702",
+    "course_number": 3702,
+    "course_title": "PSYC3702 [0.5 credit]",
+    "course_desc": "Introduction to theory, research methods and principles associated with the study of perceptual processes. Examples of how perceptual principles can be applied to solve problems in communications, transportation, medicine, industrial design, manufacturing, marketing, food and beverage industries (flavoring, blending, and scenting, etc.).",
+    "course_extra_details": "Precludes additional credit for NEUR 3202.\nPrerequisite(s): PSYC1001 and PSYC1002.\nLectures three hours a week.\n",
+    "course_prerequisites": "PSYC1001 and PSYC1002.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 3709",
+    "course_code": "PSYC3709",
+    "course_number": 3709,
+    "course_title": "PSYC3709 [0.5 credit]",
+    "course_desc": "Introduction to adult language processing and neurolinguistics. Psychological processes underlying speech production and perception, word recognition and sentence processing. Biological foundation and neuro-cognitive mechanisms of language. Experimental techniques and methodologies of current psycholinguistic studies.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as LING3601.\nPrecludes additional credit for LALS 2601 and LALS 3601 (no longer offered).\nPrerequisite(s): LALS 1000 or LALS 1001 or LING1001 or PSYC2700 and second-year standing, or permission of the instructor.\nLectures three hours a week.\n",
+    "course_prerequisites": "LALS 1000 or LALS 1001 or LING1001 or PSYC2700 and second-year standing, or permission of the instructor.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "PSYC 3710",
+    "course_code": "PSYC3710",
+    "course_number": 3710,
+    "course_title": "PSYC3710 [0.5 credit]",
+    "course_desc": "Theoretical foundation, philosophy and practical application of techniques for analyzing from a psychological perspective how people interact with designed environments. A major goal is to determine how these environments should be designed to suit human capabilities.",
+    "course_extra_details": "Precludes additional credit for PSYC 2800 (no longer offered).\nPrerequisite(s): PSYC2001 and PSYC2002.\nLecture three hours a week.\n",
+    "course_prerequisites": "PSYC2001 and PSYC2002.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 3801",
+    "course_code": "PSYC3801",
+    "course_number": 3801,
+    "course_title": "PSYC3801 [0.5 credit]",
+    "course_desc": "Advanced coverage of the current theory and practices in Organizational Psychology. Selected topics may include workplace socialization, job attitudes, deviant work behaviours, leadership, teams and group dynamics, work-related stress and health, and organizational change and development.",
+    "course_extra_details": "Prerequisite(s): PSYC2801.\nLectures three hours per week.\n",
+    "course_prerequisites": "PSYC2801.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 3802",
+    "course_code": "PSYC3802",
+    "course_number": 3802,
+    "course_title": "PSYC3802 [0.5 credit]",
+    "course_desc": "Within the context of an active learning environment, examines traditional and current models in career psychology. Topics may include the concepts of change and transitions, self-assessments, vocational psychology, and workplace onboarding. Students will examine their personal and professional transition from university to the work world.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third or fourth year standing in Psychology.\nLectures three hours a week.\n",
+    "course_prerequisites": "third or fourth year standing in Psychology.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 3901",
+    "course_code": "PSYC3901",
+    "course_number": 3901,
+    "course_title": "PSYC3901 [0.5 credit]",
+    "course_desc": "Experiential learning in psychology via field placement. Students pursue personal learning outcomes focused on the application of psychology within the community. Assignments promote ongoing reflection and the sharing of what has been learned with colleagues.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): Third- or fourth-year standing in Psychology with a CGPA of 7.0 or higher in the major and permission of the Department.\n \n",
+    "course_prerequisites": "Third- or fourth-year standing in Psychology with a CGPA of 7.0 or higher in the major and permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PSYC 3902",
+    "course_code": "PSYC3902",
+    "course_number": 3902,
+    "course_title": "PSYC3902 [0.5 credit]",
+    "course_desc": "Experiential learning in psychology via field placement. Students pursue personal learning outcomes focused on the application of psychology within the community. Assignments promote ongoing reflection and the sharing of what has been learned with colleagues.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): Third- or fourth-year standing in Psychology with a CGPA of 7.0 or higher in the major and permission of the Department.\n \n",
+    "course_prerequisites": "Third- or fourth-year standing in Psychology with a CGPA of 7.0 or higher in the major and permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PSYC 3905",
+    "course_code": "PSYC3905",
+    "course_number": 3905,
+    "course_title": "PSYC3905 [1.0 credit]",
+    "course_desc": "Experiential learning in psychology via field placement. Students pursue personal learning outcomes focused on the application of psychology within the community. Assignments promote ongoing reflection and the sharing of what has been learned with colleagues.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): Third- or fourth-year standing in Psychology with a CGPA of 7.0 or higher in the major and permission of the Department.\n",
+    "course_prerequisites": "Third- or fourth-year standing in Psychology with a CGPA of 7.0 or higher in the major and permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PSYC 3999",
+    "course_code": "PSYC3999",
+    "course_number": 3999,
+    "course_title": "PSYC3999 [0.0 credit]",
+    "course_desc": "Co-operative Work Term.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nWork Term.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 4001",
+    "course_code": "PSYC4001",
+    "course_number": 4001,
+    "course_title": "PSYC4001 [0.5 credit]",
+    "course_desc": "Each section of PSYC 4001 deals with a different topic. Topics change yearly. Students may register in more than one section of PSYC 4001 but can register in each section only once.",
+    "course_extra_details": "Prerequisite(s): each section will have its own.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "each section will have its own.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PSYC 4003",
+    "course_code": "PSYC4003",
+    "course_number": 4003,
+    "course_title": "PSYC4003 [0.5 credit]",
+    "course_desc": "An overview of the evolution of psychology, with an emphasis on psychology as a specialized area of knowledge and practice in the late-nineteenth and twentieth centuries. Topics covered may include the history of a particular period, content area, or cultural context.",
+    "course_extra_details": "Precludes additional credit for PSYC 2003.\nPrerequisite(s): third or fourth-year standing in a Psychology Honours program.\nLectures or seminars three hours per week.\n",
+    "course_prerequisites": "third or fourth-year standing in a Psychology Honours program.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PSYC 4100",
+    "course_code": "PSYC4100",
+    "course_number": 4100,
+    "course_title": "PSYC4100 [0.5 credit]",
+    "course_desc": "In-depth exploration of theoretical and empirical issues related to selected topics in Social psychology. The specific content for this course will vary from year to year.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing and PSYC2100.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "fourth-year standing and PSYC2100.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PSYC 4235",
+    "course_code": "PSYC4235",
+    "course_number": 4235,
+    "course_title": "PSYC4235 [0.5 credit]",
+    "course_desc": "An examination of the role that psychological research plays in understanding people\u2019s feelings, thoughts, and behaviour in relation to climate change and its associated problems. Strategies and interventions that help people cope with climate change and promote eco-friendly behaviour will also be discussed.",
+    "course_extra_details": "Prerequisite(s): third or fourth-year standing and one PSYC at the 2000-level.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "third or fourth-year standing and one PSYC at the 2000-level.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PSYC 4301",
+    "course_code": "PSYC4301",
+    "course_number": 4301,
+    "course_title": "PSYC4301 [0.5 credit]",
+    "course_desc": "In-depth exploration of theoretical and empirical issues related to selected topics in health psychology. The specific content for this course will vary from year to year.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing and PSYC2301.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "fourth-year standing and PSYC2301.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PSYC 4330",
+    "course_code": "PSYC4330",
+    "course_number": 4330,
+    "course_title": "PSYC4330 [1.0 credit]",
+    "course_desc": "An examination of theory, research, and the practice of approaches to support peers and their well-being. Students will apply the concepts learned during the seminars in field placements.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year Honours standing in Psychology, Mental Health and Well-Being Stream.\nSeminar three hours per week.\n",
+    "course_prerequisites": "fourth-year Honours standing in Psychology, Mental Health and Well-Being Stream.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PSYC 4333",
+    "course_code": "PSYC4333",
+    "course_number": 4333,
+    "course_title": "PSYC4333 [0.5 credit]",
+    "course_desc": "An advanced seminar on clinical psychology and mental health. Students will learn about frequently used treatment modalities and common factors across treatments. Research methodology and recent advances dealing with a variety of common mental disorders will also be reviewed and discussed.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year Honours standing in Psychology and PSYC3604.\nLecture or seminar three hours per week.\n",
+    "course_prerequisites": "fourth-year Honours standing in Psychology and PSYC3604.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PSYC 4335",
+    "course_code": "PSYC4335",
+    "course_number": 4335,
+    "course_title": "PSYC4335 [0.5 credit]",
+    "course_desc": "Climate change is a major global health threat that is related to mental health through changes to people\u2019s environment, physical security, and socioeconomic structures. Research focusing on the relationship between climate change and individuals' well-being will be discussed.",
+    "course_extra_details": "Prerequisite(s): third- or fourth-year standing and PSYC2301.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "third- or fourth-year standing and PSYC2301.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PSYC 4400",
+    "course_code": "PSYC4400",
+    "course_number": 4400,
+    "course_title": "PSYC4400 [0.5 credit]",
+    "course_desc": "In-depth exploration of theoretical and empirical issues related to selected topics in Forensic psychology. The specific content for this course will vary from year to year.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing and PSYC2400.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "fourth-year standing and PSYC2400.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PSYC 4403",
+    "course_code": "PSYC4403",
+    "course_number": 4403,
+    "course_title": "PSYC4403 [0.5 credit]",
+    "course_desc": "Feminist and social learning approaches to the assessment and treatment of female offenders. Theories and research relevant to selected patterns of law breaking and selected female offender types.",
+    "course_extra_details": "Prerequisite(s): third- or fourth-year standing and PSYC3402.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "third- or fourth-year standing and PSYC3402.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PSYC 4404",
+    "course_code": "PSYC4404",
+    "course_number": 4404,
+    "course_title": "PSYC4404 [0.5 credit]",
+    "course_desc": "Theory and research concerning the etiology and maintenance of sexual offending; assessment, treatment, and management of sex offenders. Introduction to fundamental issues and controversies in the area.",
+    "course_extra_details": "Prerequisite(s): third- or fourth-year standing, PSYC2400, and PSYC3402.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "third- or fourth-year standing, PSYC2400, and PSYC3402.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PSYC 4410",
+    "course_code": "PSYC4410",
+    "course_number": 4410,
+    "course_title": "PSYC4410 [0.5 credit]",
+    "course_desc": "This course will explore psychological factors affecting child witnesses and victims as they interact within the criminal justice system. The course will survey the intersection of psychology and law within the areas of eyewitness memory, police procedures, and the criminal justice system.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing, and PSYC2400 or PSYC2500.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "fourth-year standing, and PSYC2400 or PSYC2500.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PSYC 4500",
+    "course_code": "PSYC4500",
+    "course_number": 4500,
+    "course_title": "PSYC4500 [0.5 credit]",
+    "course_desc": "In-depth exploration of theoretical and empirical issues related to selected topics in developmental psychology. The specific content for this course will vary from year to year.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing, and one of  PSYC3500, PSYC3505, PSYC3506, PSYC3507.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "fourth-year standing, and one of  PSYC3500, PSYC3505, PSYC3506, PSYC3507.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PSYC 4600",
+    "course_code": "PSYC4600",
+    "course_number": 4600,
+    "course_title": "PSYC4600 [0.5 credit]",
+    "course_desc": "In-depth exploration of theoretical and empirical issues related to selected topics in personality psychology. The specific content for this course will vary from year to year.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing and PSYC2600.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "fourth-year standing and PSYC2600.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PSYC 4700",
+    "course_code": "PSYC4700",
+    "course_number": 4700,
+    "course_title": "PSYC4700 [0.5 credit]",
+    "course_desc": "In-depth exploration of theoretical and empirical issues related to selected topics in cognitive psychology. The specific content for this course will vary from year to year.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing, and PSYC2700.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "fourth-year standing, and PSYC2700.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PSYC 4801",
+    "course_code": "PSYC4801",
+    "course_number": 4801,
+    "course_title": "PSYC4801 [0.5 credit]",
+    "course_desc": "The application of psychological knowledge to enhance employee physical and mental health, safety and well-being, and more broadly, to enrich organizational life. Students will be able to learn and analyze critically the relevant methodological, theoretical, and empirical Occupational Health Psychology literature.",
+    "course_extra_details": "Prerequisite(s): third or fourth-year standing and one of PSYC2100, PSYC2301, PSYC2801.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "third or fourth-year standing and one of PSYC2100, PSYC2301, PSYC2801.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PSYC 4802",
+    "course_code": "PSYC4802",
+    "course_number": 4802,
+    "course_title": "PSYC4802 [0.5 credit]",
+    "course_desc": "In-depth exploration of theoretical and empirical issues related to selected topics in organizational psychology. The specific content for this course will vary from year to year.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing and PSYC2801.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "fourth-year standing and PSYC2801.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PSYC 4900",
+    "course_code": "PSYC4900",
+    "course_number": 4900,
+    "course_title": "PSYC4900 [0.5 credit]",
+    "course_desc": "A reading or research course for selected students who wish to investigate a particular topic of interest. Normally, students may not include more than one credit of independent study in their total program.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third- or fourth-year standing in Psychology and permission of the Department.\nMentored work.\n",
+    "course_prerequisites": "third- or fourth-year standing in Psychology and permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PSYC 4902",
+    "course_code": "PSYC4902",
+    "course_number": 4902,
+    "course_title": "PSYC4902 [0.5 credit]",
+    "course_desc": "A reading or research course for selected students who wish to investigate a particular topic of interest. Normally, students may not include more than one credit of independent study in their total program.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third- or fourth-year standing in Psychology and permission of the Department.\nMentored work.\n",
+    "course_prerequisites": "third- or fourth-year standing in Psychology and permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PSYC 4907",
+    "course_code": "PSYC4907",
+    "course_number": 4907,
+    "course_title": "PSYC4907 [1.0 credit]",
+    "course_desc": "A thesis supervised by a Faculty Adviser. Students review the appropriate literature, contribute to the design of a study or experiment, conduct data analyses, and produce an APA style written report. Students may also present a research poster at the Psychology Undergraduate Research Event.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PSYC 4906 (no longer offered).\nPrerequisite(s): fourth-year Honours standing in Psychology with a major CGPA of 10.0, PSYC3000; one of PSYC3100, PSYC3300, PSYC3400, PSYC3500, PSYC3600, PSYC3700 or PSYC 3805; and permission of the Department.\nLectures during the fall term given by the course instructor and mentored work arranged by the Faculty Adviser.\n",
+    "course_prerequisites": "fourth-year Honours standing in Psychology with a major CGPA of 10.0, PSYC3000; one of PSYC3100, PSYC3300, PSYC3400, PSYC3500, PSYC3600, PSYC3700 or PSYC 3805; and permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PSYC 4908",
+    "course_code": "PSYC4908",
+    "course_number": 4908,
+    "course_title": "PSYC4908 [1.0 credit]",
+    "course_desc": "A thesis supervised by a Faculty Adviser. Students review the appropriate literature, contribute to the design of a study or experiment, conduct data analyses, and produce an APA style written report. Students may also present a research poster at the Psychology Undergraduate Research Event.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PSYC 4905 (no longer offered).\nPrerequisite(s): fourth-year Honours standing in Psychology with a major CGPA of 10.0, PSYC3000; one of PSYC3100, PSYC3300, PSYC3400, PSYC3500, PSYC3600, PSYC3700, PSYC 3805; and permission of the Department.\nLectures during the fall term given by the course instructor and mentored work arranged by the Faculty Adviser.\n",
+    "course_prerequisites": "fourth-year Honours standing in Psychology with a major CGPA of 10.0, PSYC3000; one of PSYC3100, PSYC3300, PSYC3400, PSYC3500, PSYC3600, PSYC3700, PSYC 3805; and permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PSYC 4909",
+    "course_code": "PSYC4909",
+    "course_number": 4909,
+    "course_title": "PSYC4909 [1.0 credit]",
+    "course_desc": "Within an active learning environment, students develop oral presentations and written documents that may include annotated bibliographies, essays, and presentation slides. They must also present a research poster at the Psychology Undergraduate Research Event. Students select an area of psychological research of interest to them.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PSYC 4906 (no longer offered), PSYC4907, and PSYC4908.\nPrerequisite(s): fourth-year standing in B.Sc. (Honours) in Psychology, and PSYC3000.\nSeminars three hours a week.\n",
+    "course_prerequisites": "fourth-year standing in B.Sc. (Honours) in Psychology, and PSYC3000.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PSYC 4910",
+    "course_code": "PSYC4910",
+    "course_number": 4910,
+    "course_title": "PSYC4910 [1.0 credit]",
+    "course_desc": "Within an active learning environment, students develop oral presentations and written documents that may include annotated bibliographies, essays, and presentation slides. They must also present a research poster at the Psychology Undergraduate Research Event. Students select an area of psychological research of interest to them.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PSYC 4905 (no longer offered), PSYC4907 and PSYC4908.\nPrerequisite(s): fourth-year standing in B.A (Honours) in Psychology, and PSYC3000.\nSeminars three hours a week.\n",
+    "course_prerequisites": "fourth-year standing in B.A (Honours) in Psychology, and PSYC3000.",
+    "year_standing": 4
+}]}

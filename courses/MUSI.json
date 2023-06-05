@@ -1,0 +1,1199 @@
+{"object": [
+{
+    "course_identifier": "MUSI 1000",
+    "course_code": "MUSI1000",
+    "course_number": 1000,
+    "course_title": "MUSI1000 [0.5 credit]",
+    "course_desc": "Introduction to issues and methods in the study of music. Development of writing and research skills; methodological approaches in all academic areas of music (historical musicology, ethnomusicology, popular music studies, music theory).",
+    "course_extra_details": "Prerequisite(s): first-year enrolment in the B.Mus., B.A. Music or B.A. Hons. Music program.\nLectures three hours a week.\n",
+    "course_prerequisites": "first-year enrolment in the B.Mus., B.A. Music or B.A. Hons. Music program.",
+    "year_standing": 1
+},
+
+{
+    "course_identifier": "MUSI 1001",
+    "course_code": "MUSI1001",
+    "course_number": 1001,
+    "course_title": "MUSI1001 [0.5 credit]",
+    "course_desc": "Western classical music from the medieval period to the present. Major historical periods (Medieval, Renaissance, Baroque, Classical, Romantic, Modern, Postmodern) are examined through representative music ranging from Gregorian chant to contemporary experimental trends.",
+    "course_extra_details": "Lectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 1002",
+    "course_code": "MUSI1002",
+    "course_number": 1002,
+    "course_title": "MUSI1002 [0.5 credit]",
+    "course_desc": "History of world popular music from the 19th century until the present. Topics may include the growth of the music industry, the impact of technology, stardom, world music, the role of the press, copyright, censorship, and sexuality.",
+    "course_extra_details": "Lectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 1003",
+    "course_code": "MUSI1003",
+    "course_number": 1003,
+    "course_title": "MUSI1003 [0.5 credit]",
+    "course_desc": "Through musical examples drawn from diverse cultures and historical periods, students develop the ability to describe and analyze different aspects of music and deepen their appreciation of music as a cultural experience. No credit for students in B.Mus, B.A. Honours Music or B.A. Music.",
+    "course_extra_details": "Lectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 1107",
+    "course_code": "MUSI1107",
+    "course_number": 1107,
+    "course_title": "MUSI1107 [0.5 credit]",
+    "course_desc": "An introduction to the rudiments of music and aural training. Successful completion of this course will fulfil the prerequisite for entry into MUSI 1700. Not available to B.Mus. students for credit.",
+    "course_extra_details": "Lectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 1700",
+    "course_code": "MUSI1700",
+    "course_number": 1700,
+    "course_title": "MUSI1700 [0.5 credit]",
+    "course_desc": "An introduction to the organizational principles underlying tonal music including intervals, scales, rhythm, metre, chords, counterpoint, form, cadences, and harmonic progressions.",
+    "course_extra_details": "Prerequisite(s): permission of the Discipline.\nLectures three hours a week.\n",
+    "course_prerequisites": "permission of the Discipline.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 1701",
+    "course_code": "MUSI1701",
+    "course_number": 1701,
+    "course_title": "MUSI1701 [0.5 credit]",
+    "course_desc": "A study of the harmonic, melodic, rhythmic and formal structures of music of the common-practice period, with emphasis on the development of analytical and written skills of diatonic music.",
+    "course_extra_details": "Prerequisite(s): MUSI1700 or permission of the Discipline.\nLectures three hours a week.\n",
+    "course_prerequisites": "MUSI1700 or permission of the Discipline.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 1710",
+    "course_code": "MUSI1710",
+    "course_number": 1710,
+    "course_title": "MUSI1710 [0.5 credit]",
+    "course_desc": "A study of ear training, sight singing, and basic keyboard skills in relation to classical and popular musics, with emphasis on melodic, harmonic, and formal structures.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): permission of the Discipline.\nLectures three hours a week.\n",
+    "course_prerequisites": "permission of the Discipline.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 1711",
+    "course_code": "MUSI1711",
+    "course_number": 1711,
+    "course_title": "MUSI1711 [0.5 credit]",
+    "course_desc": "A study of the rhythm of selected classical, popular, and world musics, with emphasis on applied performance, movement, and dictation.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): permission of the Discipline.\nLectures and workshops three hours a week.\n",
+    "course_prerequisites": "permission of the Discipline.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 1900",
+    "course_code": "MUSI1900",
+    "course_number": 1900,
+    "course_title": "MUSI1900 [0.5 credit]",
+    "course_desc": "Individual vocal or instrumental instruction in classical, traditional or popular idioms, in addition to individual performances and group class instruction.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): audition and enrolment in the B.Mus. program; first-year standing or permission of the Discipline.\n \n",
+    "course_prerequisites": "audition and enrolment in the B.Mus. program; first-year standing or permission of the Discipline.",
+    "year_standing": 1
+},
+
+{
+    "course_identifier": "MUSI 1901",
+    "course_code": "MUSI1901",
+    "course_number": 1901,
+    "course_title": "MUSI1901 [0.5 credit]",
+    "course_desc": "Individual vocal or instrumental instruction in classical, traditional or popular idioms, in addition to individual performances and group class instruction.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): MUSI1900 and enrolment in the B.Mus. program; first-year standing or permission of the Discipline.\n \n",
+    "course_prerequisites": "MUSI1900 and enrolment in the B.Mus. program; first-year standing or permission of the Discipline.",
+    "year_standing": 1
+},
+
+{
+    "course_identifier": "MUSI 1912",
+    "course_code": "MUSI1912",
+    "course_number": 1912,
+    "course_title": "MUSI1912 [0.0 credit]",
+    "course_desc": "Participation in a choral ensemble, by arrangement with the Supervisor of Performance and Practical Studies. Registration, but not participation, is restricted to students in the B.Mus. program. Graded Sat/Uns.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): first-year standing in the B.Mus. program and permission of the Choral Director.\nEnsemble work approximately two hours a week throughout either the fall or winter term and participation in concerts.\n",
+    "course_prerequisites": "first-year standing in the B.Mus. program and permission of the Choral Director.",
+    "year_standing": 1
+},
+
+{
+    "course_identifier": "MUSI 1913",
+    "course_code": "MUSI1913",
+    "course_number": 1913,
+    "course_title": "MUSI1913 [0.0 credit]",
+    "course_desc": "A continuation of MUSI 1912. Registration, but not participation, is restricted to students in the B.Mus. program. Graded Sat/Uns.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): first-year standing in the B.Mus. program and permission of the Choral Director.\nEnsemble work approximately two hours a week throughout either the fall or winter term and participation in concerts.\n",
+    "course_prerequisites": "first-year standing in the B.Mus. program and permission of the Choral Director.",
+    "year_standing": 1
+},
+
+{
+    "course_identifier": "MUSI 1914",
+    "course_code": "MUSI1914",
+    "course_number": 1914,
+    "course_title": "MUSI1914 [0.0 credit]",
+    "course_desc": "Participation in an instrumental ensemble, by arrangement with the Supervisor of Performance and Practical Studies. Registration, but not participation, is restricted to students in the B.Mus. program. Graded Sat/Uns.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): first-year standing in the B.Mus. program and permission of the Ensemble Director.\nEnsemble work approximately two hours a week throughout either the fall or winter term and participation in concerts.\n",
+    "course_prerequisites": "first-year standing in the B.Mus. program and permission of the Ensemble Director.",
+    "year_standing": 1
+},
+
+{
+    "course_identifier": "MUSI 1915",
+    "course_code": "MUSI1915",
+    "course_number": 1915,
+    "course_title": "MUSI1915 [0.0 credit]",
+    "course_desc": "A continuation of MUSI 1914. Registration, but not participation, is restricted to students in the B.Mus. program. Graded Sat/Uns.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): first-year standing in the B.Mus. program and permission of the Ensemble Director.\nEnsemble work approximately two hours a week throughout either the fall or winter term and participation in concerts.\n",
+    "course_prerequisites": "first-year standing in the B.Mus. program and permission of the Ensemble Director.",
+    "year_standing": 1
+},
+
+{
+    "course_identifier": "MUSI 2005",
+    "course_code": "MUSI2005",
+    "course_number": 2005,
+    "course_title": "MUSI2005 [0.5 credit]",
+    "course_desc": "A survey of ragtime and jazz from their roots in pre-twentieth-century black music and white music to contemporary jazz idioms, including an examination of New Orleans jazz and Dixieland, swing, bebop, cool jazz, and free jazz.",
+    "course_extra_details": "Precludes additional credit for MUSI 2205.\nPrerequisite(s): second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 2006",
+    "course_code": "MUSI2006",
+    "course_number": 2006,
+    "course_title": "MUSI2006 [0.5 credit]",
+    "course_desc": "Selected aspects of the development of Anglo-American popular musics from their roots in the nineteenth century until the shifts and tensions which led to the advent of rock-and-roll and soul in the 1950s. Genres to be examined include blues, country, the sentimental ballad, Broadway music.",
+    "course_extra_details": "Precludes additional credit for MUSI 2203, MUSI 2206, MUSI 2208.\nPrerequisite(s): second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 2007",
+    "course_code": "MUSI2007",
+    "course_number": 2007,
+    "course_title": "MUSI2007 [0.5 credit]",
+    "course_desc": "Selected aspects of the development of Anglo-American and world popular musics from the advent of rock `n' roll and soul to the present. Early rock `n' roll, British rhythm `n' blues, Motown, West Coast music, punk, heavy metal, new wave, disco and country.",
+    "course_extra_details": "Precludes additional credit for MUSI 2207, MUSI 2208, MUSI 2209.\nPrerequisite(s): second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 2008",
+    "course_code": "MUSI2008",
+    "course_number": 2008,
+    "course_title": "MUSI2008 [0.5 credit]",
+    "course_desc": "A survey of musical traditions from various regions of the world, with an emphasis on the sociocultural contexts in which those musics are created and performed.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for MUSI 2300.\nPrerequisite(s): second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 2009",
+    "course_code": "MUSI2009",
+    "course_number": 2009,
+    "course_title": "MUSI2009 [0.5 credit]",
+    "course_desc": "A comparative and analytical study of music in Asia, including India, China, Korea, Indonesia, Japan, and the Arabic world, through an examination of the music, musical instruments and theoretical systems.",
+    "course_extra_details": "Precludes additional credit for MUSI 2301.\nPrerequisite(s): second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 2102",
+    "course_code": "MUSI2102",
+    "course_number": 2102,
+    "course_title": "MUSI2102 [0.5 credit]",
+    "course_desc": "The Baroque (1600-1750) was simultaneously shaped by absolutist regimes, competing religions, and an emerging public sphere. Music and culture from Monteverdi to Bach and Handel are investigated in the contexts of power, (geo)politics, religion, aesthetics, gender, socio-economics, dissemination, genre, and compositional practices.",
+    "course_extra_details": "Precludes additional credit for MUSI 2001.\nPrerequisite(s): second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 2103",
+    "course_code": "MUSI2103",
+    "course_number": 2103,
+    "course_title": "MUSI2103 [0.5 credit]",
+    "course_desc": "Peace and revolution, faith and secularism, noble privilege and bourgeois commerce: fundamental contradictions underlying the creative work of Mozart, Haydn, and Beethoven. This course studies their compositions\u2014operas, sacred works, symphonies, chamber music\u2014within the political, social and cultural institutions of their times (ca. 1730-1815).",
+    "course_extra_details": "Precludes additional credit for MUSI 2002.\nPrerequisite(s): second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 2601",
+    "course_code": "MUSI2601",
+    "course_number": 2601,
+    "course_title": "MUSI2601 [0.5 credit]",
+    "course_desc": "Introduction to the fundamentals of effective and professional arranging. All aspects of the various instruments of the orchestra and matters having to do with the practicalities of orchestration for both small and large ensembles, and accepted professional standards of score presentation.",
+    "course_extra_details": "Prerequisite(s): MUSI1701 and MUSI1710 and MUSI1711, or permission of the instructor.\nLecture three hours a week. \n",
+    "course_prerequisites": "MUSI1701 and MUSI1710 and MUSI1711, or permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 2602",
+    "course_code": "MUSI2602",
+    "course_number": 2602,
+    "course_title": "MUSI2602 [0.5 credit]",
+    "course_desc": "Introduction to theories and technicalities involved in original creative writing through the preparation of individual assignments; based in the practice of recent music in the Western Classical tradition while allowing for the music of other Western styles and traditions to be addressed.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): MUSI1701 and MUSI1710 and MUSI1711, or permission of the instructor. MUSI2601 is recommended.\nLectures and workshops three hours a week.\n",
+    "course_prerequisites": "MUSI1701 and MUSI1710 and MUSI1711, or permission of the instructor. MUSI2601 is recommended.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 2605",
+    "course_code": "MUSI2605",
+    "course_number": 2605,
+    "course_title": "MUSI2605 [0.5 credit]",
+    "course_desc": "Introduction to the special stylistic features of choral music from the Renaissance to the present as well as to a variety of practical techniques (vocal production, gesture, conducting patterns, diction, etc.).",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): second-year standing in the B.Mus. program or permission of the instructor.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing in the B.Mus. program or permission of the instructor.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 2608",
+    "course_code": "MUSI2608",
+    "course_number": 2608,
+    "course_title": "MUSI2608 [0.5 credit]",
+    "course_desc": "Introduction to the theory and practice of electronic music creation, focusing on audio editing, synthesis, sampling, beat-making, signal processing, and sound design, using a variety of professional-grade software packages.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for MUSI 2603 (no longer offered).\nPrerequisite(s): Enrolment in the BMus or BA Music program and second-year standing, or permission of the instructor.\nLectures three hours a week, plus individual studio time.\n",
+    "course_prerequisites": "Enrolment in the BMus or BA Music program and second-year standing, or permission of the instructor.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 2609",
+    "course_code": "MUSI2609",
+    "course_number": 2609,
+    "course_title": "MUSI2609 [0.5 credit]",
+    "course_desc": "Computer-based music-making with an emphasis on collaborative approaches and performance-oriented tools and techniques. Introduces practices of remixing, live sound manipulation, preparation of original material for performance, and the use of hardware controllers in live performance and real-time musical collaboration using mobile technologies.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for MUSI 2603 (no longer offered).\nPrerequisite(s): Enrolment in the BMus or BA Music program and second-year standing, or permission of the instructor.\nLectures three hours a week, plus individual studio time.\n",
+    "course_prerequisites": "Enrolment in the BMus or BA Music program and second-year standing, or permission of the instructor.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 2700",
+    "course_code": "MUSI2700",
+    "course_number": 2700,
+    "course_title": "MUSI2700 [0.5 credit]",
+    "course_desc": "A continuation of the study of the harmonic, melodic, rhythmic and formal structures of music of the common-practice period and early twentieth century, with emphasis on chromaticism and the development of analytical and written skills.",
+    "course_extra_details": "Prerequisite(s): MUSI1701 or permission of the instructor.\nLectures three hours a week.\n",
+    "course_prerequisites": "MUSI1701 or permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 2701",
+    "course_code": "MUSI2701",
+    "course_number": 2701,
+    "course_title": "MUSI2701 [0.5 credit]",
+    "course_desc": "A study of the rhythmic, melodic, harmonic and formal structures of popular musics.",
+    "course_extra_details": "Prerequisite(s): MUSI1700 or permission of the instructor.\nLectures three hours a week.\n",
+    "course_prerequisites": "MUSI1700 or permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 2703",
+    "course_code": "MUSI2703",
+    "course_number": 2703,
+    "course_title": "MUSI2703 [0.5 credit]",
+    "course_desc": "A practical study of rhythm, harmony and melody on the keyboard, with an emphasis on vocal and instrumental accompaniment and the development of improvisation skills in a variety of styles.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): MUSI1701 and MUSI1710 and MUSI1711, or permission of the instructor.\nLabs three hours a week.\n",
+    "course_prerequisites": "MUSI1701 and MUSI1710 and MUSI1711, or permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 2710",
+    "course_code": "MUSI2710",
+    "course_number": 2710,
+    "course_title": "MUSI2710 [0.5 credit]",
+    "course_desc": "A continuation of the study of ear training, sight singing, and basic keyboard skills in relation to classical and popular musics, with emphasis on melodic, harmonic, and formal structures.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): MUSI1701, MUSI1710.\nLectures three hours a week.\n",
+    "course_prerequisites": "MUSI1701, MUSI1710.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 2711",
+    "course_code": "MUSI2711",
+    "course_number": 2711,
+    "course_title": "MUSI2711 [0.5 credit]",
+    "course_desc": "A continuation of the study of the rhythm of common-practice and world musics, with emphasis on applied performance, movement, and dictation.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): MUSI1700, MUSI1711.\nLectures and workshops three hours per week.\n",
+    "course_prerequisites": "MUSI1700, MUSI1711.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 2900",
+    "course_code": "MUSI2900",
+    "course_number": 2900,
+    "course_title": "MUSI2900 [0.5 credit]",
+    "course_desc": "A continuation of MUSI 1901.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): second-year standing in the B.Mus. program and MUSI1901 with a C+ or higher, or permission of the Discipline.\n \n",
+    "course_prerequisites": "second-year standing in the B.Mus. program and MUSI1901 with a C+ or higher, or permission of the Discipline.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 2901",
+    "course_code": "MUSI2901",
+    "course_number": 2901,
+    "course_title": "MUSI2901 [0.5 credit]",
+    "course_desc": "A continuation of MUSI 2900.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): second-year standing in the B.Mus. program and MUSI2900 with a B- or higher, or permission of the Discipline.\n \n",
+    "course_prerequisites": "second-year standing in the B.Mus. program and MUSI2900 with a B- or higher, or permission of the Discipline.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 2912",
+    "course_code": "MUSI2912",
+    "course_number": 2912,
+    "course_title": "MUSI2912 [0.0 credit]",
+    "course_desc": "A continuation of MUSI 1913. Registration, but not participation, is restricted to students in the B.Mus. program. Graded Sat/Uns.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): second-year standing in the B.Mus. program and permission of the Choral Director.\nEnsemble work approximately two hours a week throughout either the fall or winter term and participation in concerts.\n",
+    "course_prerequisites": "second-year standing in the B.Mus. program and permission of the Choral Director.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 2913",
+    "course_code": "MUSI2913",
+    "course_number": 2913,
+    "course_title": "MUSI2913 [0.0 credit]",
+    "course_desc": "A continuation of MUSI 2912. Registration, but not participation, is restricted to students in the B.Mus. program. Graded Sat/Uns.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): second-year standing in the B.Mus. program and permission of the Choral Director.\nEnsemble work approximately two hours a week throughout either the fall or winter term and participation in concerts.\n",
+    "course_prerequisites": "second-year standing in the B.Mus. program and permission of the Choral Director.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 2914",
+    "course_code": "MUSI2914",
+    "course_number": 2914,
+    "course_title": "MUSI2914 [0.0 credit]",
+    "course_desc": "A continuation of MUSI 1915. Registration, but not participation, is restricted to students in the B.Mus. program. Graded Sat/Uns.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): second-year standing in the B.Mus. program and permission of the Ensemble Director.\nEnsemble work approximately two hours a week through either the fall or winter term, and participation in concerts.\n",
+    "course_prerequisites": "second-year standing in the B.Mus. program and permission of the Ensemble Director.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 2915",
+    "course_code": "MUSI2915",
+    "course_number": 2915,
+    "course_title": "MUSI2915 [0.0 credit]",
+    "course_desc": "A continuation of MUSI 2914. Registration, but not participation, is restricted to students in the B.Mus. program. Graded Sat/Uns.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): second-year standing in the B.Mus. program and permission of the Ensemble Director.\nEnsemble work approximately two hours a week throughout either the fall or winter term and participation in concerts.\n",
+    "course_prerequisites": "second-year standing in the B.Mus. program and permission of the Ensemble Director.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 3103",
+    "course_code": "MUSI3103",
+    "course_number": 3103,
+    "course_title": "MUSI3103 [0.5 credit]",
+    "course_desc": "Through an examination of many genres and styles including classical, folk, popular, and jazz, this course explores the ways that music participates in shaping complex and often conflicting ideas about nation, place, and identity in Canada.",
+    "course_extra_details": "Precludes additional credit for MUSI 3100 (no longer offered).\nPrerequisite(s): second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 3104",
+    "course_code": "MUSI3104",
+    "course_number": 3104,
+    "course_title": "MUSI3104 [0.5 credit]",
+    "course_desc": "A survey of popular musics in Canada from early colonial times to the present.  The course will consider a wide range of musical styles and genres, along with related cultural and historical issues.",
+    "course_extra_details": "Precludes additional credit for MUSI 3100.\nPrerequisite(s): second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 3106",
+    "course_code": "MUSI3106",
+    "course_number": 3106,
+    "course_title": "MUSI3106 [0.5 credit]",
+    "course_desc": "Through a series of case studies, this course examines the impacts of globalization, colonialism and media in music-making and consumption of popular music practices found around the world.",
+    "course_extra_details": "Prerequisite(s): second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 3107",
+    "course_code": "MUSI3107",
+    "course_number": 3107,
+    "course_title": "MUSI3107 [0.5 credit]",
+    "course_desc": "An introduction to the history and theory of classical Indian music including ragas, instruments, rhythm and improvisation.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): second-year standing, or permission of the instructor.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing, or permission of the instructor.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 3108",
+    "course_code": "MUSI3108",
+    "course_number": 3108,
+    "course_title": "MUSI3108 [0.5 credit]",
+    "course_desc": "An examination of various musics, devotional traditions, and shifting cultural and art movements in the region, resulting from processes of globalization, political change, and technological innovation. Course sessions will include close and critical discussion of selected texts, audio-visual examples, and ethnomusicological documentary films.",
+    "course_extra_details": "Prerequisite(s): second-year standing.\nSeminars three hours a week. \n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 3200",
+    "course_code": "MUSI3200",
+    "course_number": 3200,
+    "course_title": "MUSI3200 [0.5 credit]",
+    "course_desc": "Courses focusing on one selected aspect of music, in the area of musicology, theory or composition. The course offerings change from year to year.",
+    "course_extra_details": "Prerequisite(s): permission of the instructor.\nLectures and seminars three hours a week.\n",
+    "course_prerequisites": "permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 3201",
+    "course_code": "MUSI3201",
+    "course_number": 3201,
+    "course_title": "MUSI3201 [0.5 credit]",
+    "course_desc": "Courses focusing on one selected aspect of music, in the area of musicology, theory or composition. The course offerings change from year to year.",
+    "course_extra_details": "Prerequisite(s): permission of the instructor.\nLectures and seminars three hours a week.\n",
+    "course_prerequisites": "permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 3205",
+    "course_code": "MUSI3205",
+    "course_number": 3205,
+    "course_title": "MUSI3205 [0.5 credit]",
+    "course_desc": "Courses designed for Music Honours students who have acquired an extensive background through courses in theory, musicology, or composition. Course offerings change from year to year.",
+    "course_extra_details": "Prerequisite(s): permission of the department, and a minimum GPA of 9.0 in Music.\nIndividual instruction. \n",
+    "course_prerequisites": "permission of the department, and a minimum GPA of 9.0 in Music.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 3206",
+    "course_code": "MUSI3206",
+    "course_number": 3206,
+    "course_title": "MUSI3206 [0.5 credit]",
+    "course_desc": "Courses designed for Music Honours students who have acquired an extensive background through performance. Course offerings change from year to year.",
+    "course_extra_details": "Prerequisite(s): permission of the Department, and a minimum CGPA of 9.0 in Music.\nIndividual instruction. \n",
+    "course_prerequisites": "permission of the Department, and a minimum CGPA of 9.0 in Music.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 3301",
+    "course_code": "MUSI3301",
+    "course_number": 3301,
+    "course_title": "MUSI3301 [0.5 credit]",
+    "course_desc": "An examination of the integral role music plays in religion and sacred ritual in different world cultures and religions. Through various case studies, the course broadly considers how sacred soundscapes shape people\u2019s worldviews, identities, and experiences within and outside of their communities.",
+    "course_extra_details": "Also listed as RELI3301.\nPrerequisite(s): second-year standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 3302",
+    "course_code": "MUSI3302",
+    "course_number": 3302,
+    "course_title": "MUSI3302 [0.5 credit]",
+    "course_desc": "The role of gender in the theory and practice of music in western and non-western cultures.",
+    "course_extra_details": "Prerequisite(s): second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 3303",
+    "course_code": "MUSI3303",
+    "course_number": 3303,
+    "course_title": "MUSI3303 [0.5 credit]",
+    "course_desc": "Literature, practice and theory of music therapy. The use of music (improvisation, the voice, and reception) with various populations, including children and adults with special needs, people in long term care, people with neurological disorders, and in palliative care.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the instructor.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the instructor.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 3400",
+    "course_code": "MUSI3400",
+    "course_number": 3400,
+    "course_title": "MUSI3400 [0.5 credit]",
+    "course_desc": "A survey of the development of opera from the beginnings to about 1800. The major monuments of Italian, French, German and English opera, by such composers as Monteverdi, Cavalli, Scarlatti, Purcell, Lully, Gluck, Rameau, Mozart and Haydn.",
+    "course_extra_details": "Prerequisite(s): second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 3401",
+    "course_code": "MUSI3401",
+    "course_number": 3401,
+    "course_title": "MUSI3401 [0.5 credit]",
+    "course_desc": "A study of romantic and contemporary opera through an examination of selected works from Weber's Der Freisch\u00fctz to Britten's Peter Grimes, including an investigation of national styles from Wagnerian music drama and Italian verismo to Russian realism and German expressionism.",
+    "course_extra_details": "Prerequisite(s): second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 3402",
+    "course_code": "MUSI3402",
+    "course_number": 3402,
+    "course_title": "MUSI3402 [0.5 credit]",
+    "course_desc": "The use of music in film, from the silent era to the present day, studying the techniques, styles and theory of film music through the examination of selected scenes.",
+    "course_extra_details": "Also listed as FILM3402.\nPrerequisite(s): second-year standing.\nLectures three hours a week, screening two hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 3403",
+    "course_code": "MUSI3403",
+    "course_number": 3403,
+    "course_title": "MUSI3403 [0.5 credit]",
+    "course_desc": "An introduction to the structure and history of the music industries.",
+    "course_extra_details": "Also listed as COMS3404.\nPrerequisite(s): second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 3405",
+    "course_code": "MUSI3405",
+    "course_number": 3405,
+    "course_title": "MUSI3405 [0.5 credit]",
+    "course_desc": "A survey of the styles, works, and artists of the musical theatre genre as well as the artistic elements that comprise musical theatre.",
+    "course_extra_details": "Prerequisite(s): second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 3406",
+    "course_code": "MUSI3406",
+    "course_number": 3406,
+    "course_title": "MUSI3406 [0.5 credit]",
+    "course_desc": "Origins and development of orchestral music from its beginnings as an independent form in the 18th century to the present. Major symphonies and symphonic poems by composers like Haydn, Beethoven, Liszt, Brahms, Strauss, and Shostakovich. Brief examination of concerto and ballet music.",
+    "course_extra_details": "Prerequisite(s): second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 3407",
+    "course_code": "MUSI3407",
+    "course_number": 3407,
+    "course_title": "MUSI3407 [0.5 credit]",
+    "course_desc": "History of chamber music and the cultural contexts within which it rose to prominence in Europe and North America in the 18th, 19th and 20th centuries. Genres by representative composers including the sonata, duos, trios, quartets, quintets, sextets, divertimenti, and works for small chamber orchestra.",
+    "course_extra_details": "Prerequisite(s): second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 3408",
+    "course_code": "MUSI3408",
+    "course_number": 3408,
+    "course_title": "MUSI3408 [0.5 credit]",
+    "course_desc": "This course examines European art music of the nineteenth century, a revolutionary period of socio-political change when inspiration, subjectivity, radical idealism, expressive intensity, cultural nationalism, and the primacy of the individual creative voice were held up as primary aesthetic ideals.",
+    "course_extra_details": "Prerequisite(s): Third-year standing or permission of the instructor.\nSeminars three hours a week.\n",
+    "course_prerequisites": "Third-year standing or permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 3409",
+    "course_code": "MUSI3409",
+    "course_number": 3409,
+    "course_title": "MUSI3409 [0.5 credit]",
+    "course_desc": "A study of western art music of the 20th century. Musical works, compositional techniques and performance practices are examined in the context of musical innovation, social change, political upheaval, and stylistic pluralism in a rapidly changing \u201cmodern\u201d world.",
+    "course_extra_details": "Prerequisite(s): Third-year standing or permission of the instructor.\nSeminars three hours a week. \n",
+    "course_prerequisites": "Third-year standing or permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 3602",
+    "course_code": "MUSI3602",
+    "course_number": 3602,
+    "course_title": "MUSI3602 [0.5 credit]",
+    "course_desc": "Designed to enable students to develop abilities in the writing of original music. The study and appreciation of modern and contemporary styles and techniques are encouraged.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for MUSI 3600 (no longer offered).\nPrerequisite(s): MUSI2601, MUSI2602, and MUSI2700, or permission of the instructor.\nLectures, workshops, and individual consultations three hours a week.\n",
+    "course_prerequisites": "MUSI2601, MUSI2602, and MUSI2700, or permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 3603",
+    "course_code": "MUSI3603",
+    "course_number": 3603,
+    "course_title": "MUSI3603 [0.5 credit]",
+    "course_desc": "An introduction to the techniques of sound synthesis primarily through practical experience at the digital synthesizer and computer. The basics of machine operations, software and computer applications to composition and synthesis. Enrolment is limited.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): Enrolment in the BMus or BA Music program and second-year standing and either MUSI2608 or MUSI2609, or permission of the instructor.\nLectures three hours a week, plus individual studio time.\n",
+    "course_prerequisites": "Enrolment in the BMus or BA Music program and second-year standing and either MUSI2608 or MUSI2609, or permission of the instructor.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 3604",
+    "course_code": "MUSI3604",
+    "course_number": 3604,
+    "course_title": "MUSI3604 [0.5 credit]",
+    "course_desc": "Examination of the various applications of digital equipment through the realization of original projects. Students may focus on studio composition, software development or analytic research. Appropriate compositional techniques and problem solving strategies are also discussed. Enrolment is limited.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): second-year standing, and either MUSI 2603 (no longer offered) or MUSI2608 or MUSI2609, or permission of the instructor.\nLectures three hours a week, plus individual studio time.\n",
+    "course_prerequisites": "second-year standing, and either MUSI 2603 (no longer offered) or MUSI2608 or MUSI2609, or permission of the instructor.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 3605",
+    "course_code": "MUSI3605",
+    "course_number": 3605,
+    "course_title": "MUSI3605 [0.5 credit]",
+    "course_desc": "Introduction to the practice of conducting Instrumental music from the Classical era to the present as well as to a variety of practical techniques (rehearsal techniques, gesture, conducting patterns, score study, etc.).",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): second-year standing in the B.Mus. program or permission of the instructor.\n",
+    "course_prerequisites": "second-year standing in the B.Mus. program or permission of the instructor.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 3606",
+    "course_code": "MUSI3606",
+    "course_number": 3606,
+    "course_title": "MUSI3606 [0.5 credit]",
+    "course_desc": "Theoretical, practical and technical requirements of audio production in live settings are explored through lectures, demonstrations and workshops. Students develop skills in critical listening, pre-production planning, microphone selection and placement, signal routing, audio processing, monitoring and mixing for live event venues. Prior experience not required.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nLectures and workshops three hours a week. \n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 3700",
+    "course_code": "MUSI3700",
+    "course_number": 3700,
+    "course_title": "MUSI3700 [0.5 credit]",
+    "course_desc": "Selected topic in music theory. Topics will change yearly and may include: methods of music analysis, analysis of selected works, styles and structures of common practice or post common practice period, music,  modal, tonal, or post-tonal counterpoint, history of music theory.",
+    "course_extra_details": "Precludes additional credit for MUSI 3500.\nPrerequisite(s): MUSI2700 or permission of the instructor.\nSeminars three hours a week.\n",
+    "course_prerequisites": "MUSI2700 or permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 3701",
+    "course_code": "MUSI3701",
+    "course_number": 3701,
+    "course_title": "MUSI3701 [0.5 credit]",
+    "course_desc": "Techniques of arranging and composition for small and large ensembles will be studied through the examination of selected works drawn from the jazz repertoire. Works will be selected for stylistic and theoretical analysis, for exercises in aural recognition, and for arranging purposes.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for MUSI 4203 (taken in 1994-95) or MUSI 4204 (taken in 1995-96).\nPrerequisite(s): MUSI2701 or permission of the instructor.\nWorkshops three hours a week.\n",
+    "course_prerequisites": "MUSI2701 or permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 3702",
+    "course_code": "MUSI3702",
+    "course_number": 3702,
+    "course_title": "MUSI3702 [0.5 credit]",
+    "course_desc": "Basic topics in physics and psychoacoustics, with an emphasis on those concepts that are most useful for music performance, analysis, composition, and musicology.",
+    "course_extra_details": "Prerequisite(s): second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MUSI 3703",
+    "course_code": "MUSI3703",
+    "course_number": 3703,
+    "course_title": "MUSI3703 [0.5 credit]",
+    "course_desc": "Selected forms of improvisation from diverse musical and cultural traditions.  In addition to weekly seminar meetings, the class will engage in experiential forms of learning by actively improvising in a weekly performance-oriented seminar.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing.\nDiscussion and performance seminars three hours a week. \n",
+    "course_prerequisites": "third-year standing.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "MUSI 3900",
+    "course_code": "MUSI3900",
+    "course_number": 3900,
+    "course_title": "MUSI3900 [0.5 credit]",
+    "course_desc": "A continuation of MUSI 2901.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing in B. Mus. and MUSI2901 with a B- or higher, or permission of the Discipline.\n \n",
+    "course_prerequisites": "third-year standing in B. Mus. and MUSI2901 with a B- or higher, or permission of the Discipline.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "MUSI 3901",
+    "course_code": "MUSI3901",
+    "course_number": 3901,
+    "course_title": "MUSI3901 [0.5 credit]",
+    "course_desc": "A continuation of MUSI 3900.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing in the B.Mus. program and MUSI3900 with a B- or higher, or permission of the Discipline.\n \n",
+    "course_prerequisites": "third-year standing in the B.Mus. program and MUSI3900 with a B- or higher, or permission of the Discipline.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "MUSI 3912",
+    "course_code": "MUSI3912",
+    "course_number": 3912,
+    "course_title": "MUSI3912 [0.0 credit]",
+    "course_desc": "A continuation of MUSI 2913. Registration, but not participation, is restricted to students in the B.Mus. program. Graded Sat/Uns.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing in  the B.Mus. program and permission of the Choral Director.\nEnsemble work approximately two hours a week throughout either the fall or winter term and participation in concerts.\n",
+    "course_prerequisites": "third-year standing in  the B.Mus. program and permission of the Choral Director.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "MUSI 3913",
+    "course_code": "MUSI3913",
+    "course_number": 3913,
+    "course_title": "MUSI3913 [0.0 credit]",
+    "course_desc": "A continuation of MUSI 3912. Registration, but not participation, is restricted to students in the B.Mus. program. Graded Sat/Uns.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing in the B.Mus. program and permission of the Choral Director.\nEnsemble work approximately two hours a week throughout either the fall or winter term and participation in concerts.\n",
+    "course_prerequisites": "third-year standing in the B.Mus. program and permission of the Choral Director.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "MUSI 3914",
+    "course_code": "MUSI3914",
+    "course_number": 3914,
+    "course_title": "MUSI3914 [0.0 credit]",
+    "course_desc": "A continuation of MUSI 2915. Registration, but not participation, is restricted to students in the B.Mus. program. Graded Sat/Uns.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing in the B.Mus. program and permission of the Ensemble Director.\nEnsemble work approximately two hours a week throughout either the fall or winter term and participation in concerts.\n",
+    "course_prerequisites": "third-year standing in the B.Mus. program and permission of the Ensemble Director.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "MUSI 3915",
+    "course_code": "MUSI3915",
+    "course_number": 3915,
+    "course_title": "MUSI3915 [0.0 credit]",
+    "course_desc": "A continuation of MUSI 3914. Registration, but not participation, is restricted to students in the B.Mus. program. Graded Sat/Uns.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing in the B.Mus. program and permission of the Ensemble Director.\nEnsemble work approximately two hours a week throughout either the fall or winter term and participation in concerts.\n",
+    "course_prerequisites": "third-year standing in the B.Mus. program and permission of the Ensemble Director.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "MUSI 4000",
+    "course_code": "MUSI4000",
+    "course_number": 4000,
+    "course_title": "MUSI4000 [0.5 credit]",
+    "course_desc": "This is an optional performance course for B.Mus. students with high academic standing.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for MUSI 4900, MUSI 4901, MUSI 4907.\nPrerequisite(s): fourth-year standing in B.Mus., MUSI3901, A- or higher average in second- and third-year MUSI performance courses, and permission of the Music performance supervisor.\nIndividual instruction. \n",
+    "course_prerequisites": "fourth-year standing in B.Mus., MUSI3901, A- or higher average in second- and third-year MUSI performance courses, and permission of the Music performance supervisor.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "MUSI 4001",
+    "course_code": "MUSI4001",
+    "course_number": 4001,
+    "course_title": "MUSI4001 [0.5 credit]",
+    "course_desc": "This is an optional performance course for B.Mus. students with high academic standing.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for MUSI4002, MUSI4003, MUSI 4900 (no longer offered), MUSI 4901, MUSI 4907.\nPrerequisite(s): fourth-year standing in B.Mus. standing, MUSI4000 with A- or higher, and permission of the Music performance supervisor.\nIndividual instruction. \n",
+    "course_prerequisites": "fourth-year standing in B.Mus. standing, MUSI4000 with A- or higher, and permission of the Music performance supervisor.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "MUSI 4002",
+    "course_code": "MUSI4002",
+    "course_number": 4002,
+    "course_title": "MUSI4002 [0.5 credit]",
+    "course_desc": "A graduation recording of substantial duration arranged in consultation with the discipline. A proposal must be submitted one week before the last day for course changes. All recording costs must be borne by the student.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for MUSI4001, MUSI4003, MUSI 4900 (no longer offered), MUSI 4901 (no longer offered), MUSI 4907.\nPrerequisite(s): fourth-year standing in B.Mus., MUSI4000 with a grade of A- or higher, and permission of both the relevant associate music instructor and the music performance supervisor.\nIndividual instruction. \n",
+    "course_prerequisites": "fourth-year standing in B.Mus., MUSI4000 with a grade of A- or higher, and permission of both the relevant associate music instructor and the music performance supervisor.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "MUSI 4003",
+    "course_code": "MUSI4003",
+    "course_number": 4003,
+    "course_title": "MUSI4003 [0.5 credit]",
+    "course_desc": "Public recital arranged in consultation with the Supervisor of Performance and Practical Studies. An outline of the program must be submitted one week before the last day for course changes.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for MUSI4001, MUSI4002, MUSI 4900, MUSI 4901, MUSI 4907.\nPrerequisite(s): fourth-year standing in B.Mus., MUSI4000 with A- or higher, and permission of both the relevant associate music instructor and the Music performance supervisor.\nIndividual instruction.\n",
+    "course_prerequisites": "fourth-year standing in B.Mus., MUSI4000 with A- or higher, and permission of both the relevant associate music instructor and the Music performance supervisor.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "MUSI 4005",
+    "course_code": "MUSI4005",
+    "course_number": 4005,
+    "course_title": "MUSI4005 [0.5 credit]",
+    "course_desc": "An examination of key issues in the study of jazz including history/historiography, gender, genre, race, politics, identity and performance.",
+    "course_extra_details": "Prerequisite(s): MUSI2005 and third-year standing.\n \n",
+    "course_prerequisites": "MUSI2005 and third-year standing.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "MUSI 4006",
+    "course_code": "MUSI4006",
+    "course_number": 4006,
+    "course_title": "MUSI4006 [0.5 credit]",
+    "course_desc": "An introduction to current issues in the study of popular music. The course will be organized around a series of case studies.",
+    "course_extra_details": "Prerequisite(s): third-year standing, MUSI1002, and at least one of MUSI2005, 2006, or 2007.\nSeminars three hours a week.\n",
+    "course_prerequisites": "third-year standing, MUSI1002, and at least one of MUSI2005, 2006, or 2007.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "MUSI 4007",
+    "course_code": "MUSI4007",
+    "course_number": 4007,
+    "course_title": "MUSI4007 [0.5 credit]",
+    "course_desc": "Examination of the life and music of a selected composer, and the historical, social, cultural, and political factors that shaped the context within which they worked. Focus on history, biography, musical style and analysis.",
+    "course_extra_details": "Prerequisite(s): Fourth-year standing or permission of the instructor.\nLectures and seminars three hours a week.\n",
+    "course_prerequisites": "Fourth-year standing or permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 4102",
+    "course_code": "MUSI4102",
+    "course_number": 4102,
+    "course_title": "MUSI4102 [0.5 credit]",
+    "course_desc": "In this course students learn and apply research methods common to ethnomusicological research, developing an individual ethnographic project that draws on critical contemporary theories in ethnomusicology.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing, or permission of the instructor.\nSeminars three hours a week.\n",
+    "course_prerequisites": "fourth-year standing, or permission of the instructor.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "MUSI 4103",
+    "course_code": "MUSI4103",
+    "course_number": 4103,
+    "course_title": "MUSI4103 [0.5 credit]",
+    "course_desc": "Critical analyses of diversity and multiculturalism narratives in Canada and the ways that settler-colonialism influenced and continues to inform music creation and expression. Various case studies examine the diversity of musics found in Canada and the ways that music facilitates belonging and/or exclusion to community.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing or permission of the instructor.\nAlso offered at the graduate level, with different requirements, as MUSI5015, for which additional credit is precluded.\nSeminars three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission of the instructor.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "MUSI 4104",
+    "course_code": "MUSI4104",
+    "course_number": 4104,
+    "course_title": "MUSI4104 [0.5 credit]",
+    "course_desc": "This course examines the role of Indigenous music and musicians in various contemporary issues and priorities for First Peoples in Canada, including political activism, language and cultural maintenance and revitalization, environmental justice and the land, reconciliation and decolonization.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing or permission of the instructor.\nAlso offered at the graduate level, with different requirements, as MUSI5016, for which additional credit is precluded.\nSeminars three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission of the instructor.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "MUSI 4105",
+    "course_code": "MUSI4105",
+    "course_number": 4105,
+    "course_title": "MUSI4105 [0.5 credit]",
+    "course_desc": "This course explores musics in Africa, engaging with issues of colonialism, ownership and copyright, politics and protest, social change, and global relationships.",
+    "course_extra_details": "Prerequisite(s): third year standing, or permission of the instructor.\nLectures and seminars three hours a week.\n",
+    "course_prerequisites": "third year standing, or permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 4200",
+    "course_code": "MUSI4200",
+    "course_number": 4200,
+    "course_title": "MUSI4200 [0.5 credit]",
+    "course_desc": "Courses focusing on one selected aspect of music, in the area of either musicology, theory or composition. The course offerings change from year to year.",
+    "course_extra_details": "Prerequisite(s): permission of the instructor.\nLectures and seminars three hours a week.\n",
+    "course_prerequisites": "permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 4201",
+    "course_code": "MUSI4201",
+    "course_number": 4201,
+    "course_title": "MUSI4201 [0.5 credit]",
+    "course_desc": "Courses focusing on one selected aspect of music, in the area of either musicology, theory or composition. Course offerings change from year to year.",
+    "course_extra_details": "Prerequisite(s): permission of the instructor.\nLectures and seminars three hours a week.\n",
+    "course_prerequisites": "permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 4205",
+    "course_code": "MUSI4205",
+    "course_number": 4205,
+    "course_title": "MUSI4205 [0.5 credit]",
+    "course_desc": "Courses designed for Music Honours students who have acquired an extensive background through courses in theory, musicology, or composition. Course offerings change from year to year.",
+    "course_extra_details": "Prerequisite(s): permission of the department, and a minimum CGPA of 9.0 in Music.\nIndividual instruction. \n",
+    "course_prerequisites": "permission of the department, and a minimum CGPA of 9.0 in Music.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 4206",
+    "course_code": "MUSI4206",
+    "course_number": 4206,
+    "course_title": "MUSI4206 [0.5 credit]",
+    "course_desc": "Courses designed for Music Honours students who have acquired an extensive background through performance. Course offerings change from year to year.",
+    "course_extra_details": "Prerequisite(s): permission of the department, and a minimum CGPA of 9.0 in Music.\nIndividual instruction. \n",
+    "course_prerequisites": "permission of the department, and a minimum CGPA of 9.0 in Music.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 4209",
+    "course_code": "MUSI4209",
+    "course_number": 4209,
+    "course_title": "MUSI4209 [1.0 credit]",
+    "course_desc": "A course designed for Music Honours students who have acquired an extensive background through courses in theory, musicology or composition. Course offerings change from year to year.",
+    "course_extra_details": "Prerequisite(s): permission of the instructor.\n \n",
+    "course_prerequisites": "permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 4304",
+    "course_code": "MUSI4304",
+    "course_number": 4304,
+    "course_title": "MUSI4304 [0.5 credit]",
+    "course_desc": "Examining music\u2019s role in the multifaceted and complex processes of globalization. Drawing on case studies of \u201cworld musics\u201d, this course explores how sound and music negotiate histories of post/colonialism, cultural and economic imperialism, and constructions of sameness and difference in \u201cworld music\u201d contexts.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing or permission of the instructor.\nAlso offered at the graduate level, with different requirements, as MUSI5017, for which additional credit is precluded.\nSeminars three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission of the instructor.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "MUSI 4306",
+    "course_code": "MUSI4306",
+    "course_number": 4306,
+    "course_title": "MUSI4306 [0.5 credit]",
+    "course_desc": "An examination of the ways in which music contributes to mental, social and physical wellbeing throughout the world, drawing from the fields of neuroscience, medical ethnomusicology, community music and cross-cultural studies.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing or permission of the instructor.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission of the instructor.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "MUSI 4307",
+    "course_code": "MUSI4307",
+    "course_number": 4307,
+    "course_title": "MUSI4307 [0.5 credit]",
+    "course_desc": "The music of the \u201cdark ages\u201d is illuminated in the context of politics, spectacle, devotion, celebration, compositional process, manuscript culture, dissemination, musical notation, plague, and courtly love. \u201cMedievalism\u201d is examined as an aesthetic of the era (ca. 400-1400) and as reinterpreted in our modern world.",
+    "course_extra_details": "Prerequisite(s): Fourth-year standing or permission of the instructor.\nSeminar three hours a week.\n",
+    "course_prerequisites": "Fourth-year standing or permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 4308",
+    "course_code": "MUSI4308",
+    "course_number": 4308,
+    "course_title": "MUSI4308 [0.5 credit]",
+    "course_desc": "This course brings to life the Renaissance (1400-1600), when music played a vital role in lavish courts, grand cathedrals, and vibrant cities. Madrigals, masses, and motets are examined in the context of politics, religion, gender, manuscript and print culture, rhetoric, art, and architecture.",
+    "course_extra_details": "Prerequisite(s): Fourth-year standing or permission of the instructor.\nSeminar three hours a week.\n",
+    "course_prerequisites": "Fourth-year standing or permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 4602",
+    "course_code": "MUSI4602",
+    "course_number": 4602,
+    "course_title": "MUSI4602 [0.5 credit]",
+    "course_desc": "A continuation of MUSI 3602, focusing on the development of creative individual approaches to music composition.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for MUSI 3600 (no longer offered).\nPrerequisite(s): MUSI3602, or permission of the instructor.\nLectures, workshops, and individual consultations three hours a week.\n",
+    "course_prerequisites": "MUSI3602, or permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 4700",
+    "course_code": "MUSI4700",
+    "course_number": 4700,
+    "course_title": "MUSI4700 [0.5 credit]",
+    "course_desc": "A study of a selected topic in music theory. Topics will change yearly and may include: methods of music analysis; analysis of selected works; styles and structures of common practice or post common practice period music; modal, tonal, or post-tonal counterpoint; history of music theory.",
+    "course_extra_details": "Prerequisite(s): MUSI2700 or permission of the instructor.\nSeminars three hours a week.\n",
+    "course_prerequisites": "MUSI2700 or permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 4701",
+    "course_code": "MUSI4701",
+    "course_number": 4701,
+    "course_title": "MUSI4701 [0.5 credit]",
+    "course_desc": "The art of arranging for small and large jazz ensembles is introduced through analysis of recordings by artists such as Duke Ellington, Fletcher Henderson, Count Basie, Rob McConnell, and Maria Schneider. Topics may include 2-, 3-, and 4-voice writing in a jazz idiom.",
+    "course_extra_details": "Prerequisite(s): MUSI3701 or permission of the instructor.\nSeminars three hours a week.\n",
+    "course_prerequisites": "MUSI3701 or permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 4702",
+    "course_code": "MUSI4702",
+    "course_number": 4702,
+    "course_title": "MUSI4702 [0.5 credit]",
+    "course_desc": "Selected advanced topics in the perception and cognition of music.  Where appropriate, emphasis will be placed upon areas of overlap between psychological research and issues in aesthetics and cultural theory.",
+    "course_extra_details": "Prerequisite(s): third-year standing and MUSI3702, or permission of the department.\nSeminars three hours a week.\n",
+    "course_prerequisites": "third-year standing and MUSI3702, or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "MUSI 4704",
+    "course_code": "MUSI4704",
+    "course_number": 4704,
+    "course_title": "MUSI4704 [0.5 credit]",
+    "course_desc": "This course deals with the development of writing skills and knowledge of counterpoint as manifest in the Baroque era. Topics may include invention, canon, fugue, dance forms, the compositional language of J. S. Bach, and contrapuntal techniques in the late 18th century and beyond.",
+    "course_extra_details": "Prerequisite(s): MUSI2700, or permission of the instructor.\nLectures and seminars three hours a week.\n",
+    "course_prerequisites": "MUSI2700, or permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 4705",
+    "course_code": "MUSI4705",
+    "course_number": 4705,
+    "course_title": "MUSI4705 [0.5 credit]",
+    "course_desc": "Fundamentals of post-tonal music theory and analysis. Neo-tonal, atonal, twelve-tone and third-stream jazz.  Students will develop the critical skills to understand these theoretical tools and be conversant with some of the aesthetic precepts associated with them.",
+    "course_extra_details": "Prerequisite(s): MUSI2700 or permission of the instructor.\nLectures and seminars three hours a week.\n",
+    "course_prerequisites": "MUSI2700 or permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 4800",
+    "course_code": "MUSI4800",
+    "course_number": 4800,
+    "course_title": "MUSI4800 [0.5 credit]",
+    "course_desc": "Practical experience in music-specific projects such as recording studios, librarianship, research, multimedia, etc. at local institutions. A maximum of one credit of practicum may be offered in fulfilment of Music requirements.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): Honours Music registration with third- or fourth-year standing and a B+ or better average in Music courses; and permission of the Practica Supervisor.\n \n",
+    "course_prerequisites": "Honours Music registration with third- or fourth-year standing and a B+ or better average in Music courses; and permission of the Practica Supervisor.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "MUSI 4801",
+    "course_code": "MUSI4801",
+    "course_number": 4801,
+    "course_title": "MUSI4801 [0.5 credit]",
+    "course_desc": "Practical experience in music-specific projects such as recording studios, librarianship, research, multimedia, etc. at local institutions. A maximum of one credit of practicum may be offered in fulfilment of Music requirements.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): Honours Music registration with third- or fourth-year standing and a B +  or better average in Music courses; and permission of the Practica Supervisor.\n \n",
+    "course_prerequisites": "Honours Music registration with third- or fourth-year standing and a B +  or better average in Music courses; and permission of the Practica Supervisor.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "MUSI 4906",
+    "course_code": "MUSI4906",
+    "course_number": 4906,
+    "course_title": "MUSI4906 [1.0 credit]",
+    "course_desc": "The course requires the composition of an original work of substantial proportions, with an accompanying analytical paper. Application to the Discipline for permission to register must be received by September 1.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for MUSI 4600.\nPrerequisite(s): fourth-year standing, MUSI 3600 and permission of the Discipline.\n \n",
+    "course_prerequisites": "fourth-year standing, MUSI 3600 and permission of the Discipline.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "MUSI 4908",
+    "course_code": "MUSI4908",
+    "course_number": 4908,
+    "course_title": "MUSI4908 [1.0 credit]",
+    "course_desc": "An Honours research essay of approximately 50 pages. A written outline of the project must be submitted to the Honours committee changes by the first day of classes.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing, A- or higher average, and permission of the Discipline.\n \n",
+    "course_prerequisites": "fourth-year standing, A- or higher average, and permission of the Discipline.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "MUSI 4909",
+    "course_code": "MUSI4909",
+    "course_number": 4909,
+    "course_title": "MUSI4909 [1.0 credit]",
+    "course_desc": "The course requires the creation of an original work (or works) of substantial proportions using applications in the electronic studios. A high level of independence and originality will be required. Requests to the Discipline for permission to register must be received by September 1.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): permission of the instructor.\n \n",
+    "course_prerequisites": "permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MUSI 4912",
+    "course_code": "MUSI4912",
+    "course_number": 4912,
+    "course_title": "MUSI4912 [0.0 credit]",
+    "course_desc": "A continuation of MUSI 3913. Registration, but not participation, is restricted to students in the B.Mus. program. Graded Sat/Uns.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing in the B.Mus. program and permission of the Choral Director.\nEnsemble work approximately two hours a week throughout either the fall or winter term and participation in concerts.\n",
+    "course_prerequisites": "fourth-year standing in the B.Mus. program and permission of the Choral Director.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "MUSI 4913",
+    "course_code": "MUSI4913",
+    "course_number": 4913,
+    "course_title": "MUSI4913 [0.0 credit]",
+    "course_desc": "A continuation of MUSI 4912. Registration, but not participation, is restricted to students in the B. Mus. program. Graded Sat/Uns.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing in the B.Mus. program and permission of the Choral Director.\nEnsemble work approximately two hours a week throughout either the fall or winter term and participation in concerts.\n",
+    "course_prerequisites": "fourth-year standing in the B.Mus. program and permission of the Choral Director.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "MUSI 4914",
+    "course_code": "MUSI4914",
+    "course_number": 4914,
+    "course_title": "MUSI4914 [0.0 credit]",
+    "course_desc": "A continuation of MUSI 3915. Registration, but not participation, is restricted to students in the B.Mus. program Graded Sat/Uns.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing in the  B.Mus. program and  permission of the Ensemble Director.\nEnsemble work approximately two hours a week throughout either the fall or winter term and participation in concerts.\n",
+    "course_prerequisites": "fourth-year standing in the  B.Mus. program and  permission of the Ensemble Director.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "MUSI 4915",
+    "course_code": "MUSI4915",
+    "course_number": 4915,
+    "course_title": "MUSI4915 [0.0 credit]",
+    "course_desc": "A continuation of MUSI 4914. Registration, but not participation, is restricted to students in the B.Mus. program. Graded Sat/Uns.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing in the B.Mus. program  and permission of the Ensemble Director.\nEnsemble work approximately two hours a week throughout either the fall or winter term participation in concerts.\n",
+    "course_prerequisites": "fourth-year standing in the B.Mus. program  and permission of the Ensemble Director.",
+    "year_standing": 4
+}]}

@@ -1,0 +1,165 @@
+{"object": [
+{
+    "course_identifier": "RUSS 1010",
+    "course_code": "RUSS1010",
+    "course_number": 1010,
+    "course_title": "RUSS1010 [0.5 credit]",
+    "course_desc": "For students with no knowledge of Russian. Oral skills, reading and writing. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for RUSS1110.\nFour hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RUSS 1020",
+    "course_code": "RUSS1020",
+    "course_number": 1020,
+    "course_title": "RUSS1020 [0.5 credit]",
+    "course_desc": "Continuation of first-year Russian. Oral skills, reading and writing. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for RUSS1110.\nPrerequisite(s): grade of C or higher in RUSS1010, or permission of the School.\nFour hours a week.\n",
+    "course_prerequisites": "grade of C or higher in RUSS1010, or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RUSS 1110",
+    "course_code": "RUSS1110",
+    "course_number": 1110,
+    "course_title": "RUSS1110 [1.0 credit]",
+    "course_desc": "For students with no knowledge of Russian. Oral skills, reading and writing. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for RUSS1010 and RUSS1020.\n Eight hours a week (one term).\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RUSS 2010",
+    "course_code": "RUSS2010",
+    "course_number": 2010,
+    "course_title": "RUSS2010 [0.5 credit]",
+    "course_desc": "Further study of Russian to reach a more advanced level of proficiency in a range of situations. Equal emphasis on oral and written language. Compulsory attendance.",
+    "course_extra_details": "Prerequisite(s): grade of C or higher in RUSS1020 or RUSS1110, or permission of the School.\nFour hours a week.\n",
+    "course_prerequisites": "grade of C or higher in RUSS1020 or RUSS1110, or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RUSS 2020",
+    "course_code": "RUSS2020",
+    "course_number": 2020,
+    "course_title": "RUSS2020 [0.5 credit]",
+    "course_desc": "Continuation of second-year Russian. Further study of Russian to reach a more advanced level of proficiency in a range of situations. Equal emphasis on oral and written language. Compulsory attendance.",
+    "course_extra_details": "Prerequisite(s): grade of C or higher in RUSS2010, or permission of the School.\nFour hours a week.\n",
+    "course_prerequisites": "grade of C or higher in RUSS2010, or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RUSS 3010",
+    "course_code": "RUSS3010",
+    "course_number": 3010,
+    "course_title": "RUSS3010 [0.5 credit]",
+    "course_desc": "Further study of Russian to reach a more advanced level, including the ability to handle authentic materials and primary texts required for academic studies. Compulsory attendance.",
+    "course_extra_details": "Prerequisite(s): grade of C or higher in RUSS2020, or permission of the School.\nThree hours a week.\n",
+    "course_prerequisites": "grade of C or higher in RUSS2020, or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RUSS 3015",
+    "course_code": "RUSS3015",
+    "course_number": 3015,
+    "course_title": "RUSS3015 [0.5 credit]",
+    "course_desc": "For students who have attained Russian language proficiency in informal settings or who completed elementary school in a Russian speaking country. The course builds literacy skills, formalizes grammar awareness, and develops writing and reading language skills in a formal academic setting.",
+    "course_extra_details": "Precludes additional credit for all 1000 through 3000 level Russian courses.\nPrerequisite(s): Permission of the School.\nOnline.\n",
+    "course_prerequisites": "Permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RUSS 3020",
+    "course_code": "RUSS3020",
+    "course_number": 3020,
+    "course_title": "RUSS3020 [0.5 credit]",
+    "course_desc": "Continuation of third-year Russian. Progress toward a more advanced level, including the ability to handle authentic materials and primary texts required for academic studies. Compulsory attendance.",
+    "course_extra_details": "Prerequisite(s): grade of C or higher in RUSS3010, or permission of the School.\nThree hours a week.\n",
+    "course_prerequisites": "grade of C or higher in RUSS3010, or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RUSS 3025",
+    "course_code": "RUSS3025",
+    "course_number": 3025,
+    "course_title": "RUSS3025 [0.5 credit]",
+    "course_desc": "Further study of Russian to enhance students\u2019 literacy skills and formalize grammar awareness in a formal academic setting. Emphasis on the use of formal and academic language in oral and written form; further development of writing and reading skills.",
+    "course_extra_details": "Precludes additional credit for all 1000 through 3000 level Russian courses.\nPrerequisite(s): RUSS3015 or permission of the School.\nOnline.\n",
+    "course_prerequisites": "RUSS3015 or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RUSS 4010",
+    "course_code": "RUSS4010",
+    "course_number": 4010,
+    "course_title": "RUSS4010 [0.5 credit]",
+    "course_desc": "Advanced spoken and written Russian with intensive practice in aural comprehension and speaking in a range of situations and contexts, in reading and in composition in a range of modes and genres. Metalinguistic study. Compulsory attendance.",
+    "course_extra_details": "Prerequisite(s): grade of C or higher in RUSS3020, or permission of the School.\nThree hours a week.\n",
+    "course_prerequisites": "grade of C or higher in RUSS3020, or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RUSS 4020",
+    "course_code": "RUSS4020",
+    "course_number": 4020,
+    "course_title": "RUSS4020 [0.5 credit]",
+    "course_desc": "Continuation of fourth-year Russian. Advanced spoken and written Russian with intensive practice in aural comprehension and speaking in a range of situations and contexts, in reading and in composition in a range of modes and genres. Metalinguistic study. Compulsory attendance.",
+    "course_extra_details": "Prerequisite(s): grade of C or higher in RUSS4010, or permission of the School.\nThree hours a week.\n",
+    "course_prerequisites": "grade of C or higher in RUSS4010, or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RUSS 4115",
+    "course_code": "RUSS4115",
+    "course_number": 4115,
+    "course_title": "RUSS4115 [0.5 credit]",
+    "course_desc": "Russian language skills for translation of modern history and social science texts from Russian into English, with an emphasis on syntax. Compulsory attendance.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for Russian translation offered under EURR4901.\nPrerequisite(s): permission of the School. Not open to students with native-like Russian proficiency.\nThree hours a week.\n",
+    "course_prerequisites": "permission of the School. Not open to students with native-like Russian proficiency.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RUSS 4120",
+    "course_code": "RUSS4120",
+    "course_number": 4120,
+    "course_title": "RUSS4120 [0.5 credit]",
+    "course_desc": "Russian language skills for conducting research in modern history and social sciences, with an emphasis on practice and theory of translation from Russian into English. Compulsory attendance.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for Russian translation offered under EURR4902.\nPrerequisite(s): grade of C in RUSS4115, or permission of the School. Not open to students with native-like Russian proficiency.\nThree hours a week.\n",
+    "course_prerequisites": "grade of C in RUSS4115, or permission of the School. Not open to students with native-like Russian proficiency.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "RUSS 4900",
+    "course_code": "RUSS4900",
+    "course_number": 4900,
+    "course_title": "RUSS4900 [1.0 credit]",
+    "course_desc": "Research in a topic in Russian language, literature or linguistics under the supervision of a member of the School.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third- or fourth-year standing and enrolment in the Minor in Russian, grade of C or higher in RUSS3020 or equivalent, or permission of the School.\n \n",
+    "course_prerequisites": "third- or fourth-year standing and enrolment in the Minor in Russian, grade of C or higher in RUSS3020 or equivalent, or permission of the School.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "RUSS 4901",
+    "course_code": "RUSS4901",
+    "course_number": 4901,
+    "course_title": "RUSS4901 [0.5 credit]",
+    "course_desc": "Research in a topic in Russian language, literature or linguistics under the supervision of a member of the School.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third- or fourth-year standing and enrolment in the Minor in Russian, grade of C or higher in RUSS3020, or equivalent, or permission of the School.\n \n",
+    "course_prerequisites": "third- or fourth-year standing and enrolment in the Minor in Russian, grade of C or higher in RUSS3020, or equivalent, or permission of the School.",
+    "year_standing": 4
+}]}

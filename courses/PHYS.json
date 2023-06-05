@@ -1,0 +1,572 @@
+{"object": [
+{
+    "course_identifier": "PHYS 1001",
+    "course_code": "PHYS1001",
+    "course_number": 1001,
+    "course_title": "PHYS1001 [0.5 credit]",
+    "course_desc": "This calculus-based course on classical mechanics covers  kinematics, dynamics, gravitation, and oscillatory motion. This is a specialist course for students intending to take further courses in physics.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for BIT1002, BIT1203, PHYS1003, PHYS1007.\nPrerequisite(s): Grade 12 Mathematics: Advanced Functions and Grade 12 Mathematics: Calculus and Vectors or equivalent, plus one of MATH1004 or MATH 1002 or MATH1052 (the MATH course may be taken concurrently); or permission of the Physics Department. Grade 12 Physics is strongly recommended.\nLectures three hours a week, laboratory or tutorial three hours a week.\n",
+    "course_prerequisites": "Grade 12 Mathematics: Advanced Functions and Grade 12 Mathematics: Calculus and Vectors or equivalent, plus one of MATH1004 or MATH 1002 or MATH1052 (the MATH course may be taken concurrently); or permission of the Physics Department. Grade 12 Physics is strongly recommended.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 1002",
+    "course_code": "PHYS1002",
+    "course_number": 1002,
+    "course_title": "PHYS1002 [0.5 credit]",
+    "course_desc": "An introduction to electricity, magnetism, electromagnetic fields, and wave motion. This is a specialist course for students intending to take further courses in physics.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for BIT 1003 (no longer offered), BIT1007, BIT1204, PHYS1004, PHYS1008.\nPrerequisite(s): PHYS1001, or PHYS1003, or PHYS1007 with a grade of B-; MATH1004 or MATH 1002 (may be taken concurrently) or MATH2052 (may be taken concurrently); or permission of the Department.\nLectures three hours a week, laboratory or tutorial three hours a week.\n",
+    "course_prerequisites": "PHYS1001, or PHYS1003, or PHYS1007 with a grade of B-; MATH1004 or MATH 1002 (may be taken concurrently) or MATH2052 (may be taken concurrently); or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 1003",
+    "course_code": "PHYS1003",
+    "course_number": 1003,
+    "course_title": "PHYS1003 [0.5 credit]",
+    "course_desc": "Mechanics, gravitation, oscillations, and thermodynamics. The application of calculus to solve problems in these areas of physics is introduced. This course is intended for students in the physical sciences and engineering.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for BIT1002, BIT1203, PHYS1001, PHYS1007.\nPrerequisite(s): Grade 12 Physics or equivalent, plus Grade 12 Mathematics: Advanced Functions or equivalent, plus one of MATH1004 or MATH 1002 or MATH1052 (the MATH course may be taken concurrently).  Note that Grade 12 Mathematics: Calculus and Vectors is strongly recommended.\nLectures three hours a week, laboratory or tutorial three hours a week.\n",
+    "course_prerequisites": "Grade 12 Physics or equivalent, plus Grade 12 Mathematics: Advanced Functions or equivalent, plus one of MATH1004 or MATH 1002 or MATH1052 (the MATH course may be taken concurrently).  Note that Grade 12 Mathematics: Calculus and Vectors is strongly recommended.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 1004",
+    "course_code": "PHYS1004",
+    "course_number": 1004,
+    "course_title": "PHYS1004 [0.5 credit]",
+    "course_desc": "This calculus-based course introduces potential energy, work, electricity, magnetism, oscillations and waves.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for BIT 1003 (no longer offered), BIT1007, BIT1204, PHYS1002, PHYS1008.\nPrerequisite(s): MATH1004, ECOR1101 or ECOR1053 or (ECOR1045 and ECOR1048) (the ECOR courses may be taken concurrently) or PHYS1001 or PHYS1003 or PHYS1007 (a grade of at least B- is required for PHYS1007), or permission of the Department.\nLectures three hours a week, laboratory or tutorial three hours a week.\n",
+    "course_prerequisites": "MATH1004, ECOR1101 or ECOR1053 or (ECOR1045 and ECOR1048) (the ECOR courses may be taken concurrently) or PHYS1001 or PHYS1003 or PHYS1007 (a grade of at least B- is required for PHYS1007), or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 1007",
+    "course_code": "PHYS1007",
+    "course_number": 1007,
+    "course_title": "PHYS1007 [0.5 credit]",
+    "course_desc": "Mechanics, properties of matter, thermodynamics. Applications chosen in part from the life sciences. For students who lack the prerequisites for PHYS 1001 or PHYS 1003, or who do not intend to take upper-year courses in physics.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for BIT1002, BIT1203, PHYS1001, PHYS1003.\nPrerequisite(s): (i) Grade 12 Mathematics: Advanced Functions or equivalent, or MATH0107 (may be taken concurrently); or (ii) Grade 12 Mathematics: Calculus and Vectors or equivalent, or MATH1007 (may be taken concurrently; or (iii) permission of the Physics Department.\nLectures three hours a week, laboratory or tutorial three hours per week.\n",
+    "course_prerequisites": "(i) Grade 12 Mathematics: Advanced Functions or equivalent, or MATH0107 (may be taken concurrently); or (ii) Grade 12 Mathematics: Calculus and Vectors or equivalent, or MATH1007 (may be taken concurrently; or (iii) permission of the Physics Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 1008",
+    "course_code": "PHYS1008",
+    "course_number": 1008,
+    "course_title": "PHYS1008 [0.5 credit]",
+    "course_desc": "Electricity and magnetism, DC and AC circuits, wave motion and light. Elements of modern physics. Applications chosen in part from the life sciences.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for BIT 1003 (no longer offered), BIT1007, BIT1204, PHYS1002, PHYS1004.\nPrerequisite(s): PHYS1001 or PHYS1003 or PHYS1007.\nLectures three hours a week, laboratory or tutorial three hours per week.\n",
+    "course_prerequisites": "PHYS1001 or PHYS1003 or PHYS1007.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 1901",
+    "course_code": "PHYS1901",
+    "course_number": 1901,
+    "course_title": "PHYS1901 [0.5 credit]",
+    "course_desc": "Description of the known stellar, galactic and extra-galactic systems together with the instruments used to study them. Modern ideas concerning the structure, origin and evolution of our own planet. Formation of the Moon - Earth system. Study of the planets in our solar system.",
+    "course_extra_details": "Precludes additional credit for PHYS2203.\nLectures two and one-half hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 1902",
+    "course_code": "PHYS1902",
+    "course_number": 1902,
+    "course_title": "PHYS1902 [0.5 credit]",
+    "course_desc": "Starting with the Sun, the course studies its composition and source of power, then compares our Sun with the other stars in the galaxy and beyond. Modern ideas concerning the structure, origin and evolution of the universe, pulsars and supernovae are examined.",
+    "course_extra_details": "Precludes additional credit for PHYS2203.\nLectures two and one-half hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 1905",
+    "course_code": "PHYS1905",
+    "course_number": 1905,
+    "course_title": "PHYS1905 [0.5 credit]",
+    "course_desc": "Examination of the physics behind everyday life. Topics may include transportation, sports, weather and climate, electricity, and sustainable energy. No science background is required. Faculty of Science students may only take this course as a free elective.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nOnline Course.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 2004",
+    "course_code": "PHYS2004",
+    "course_number": 2004,
+    "course_title": "PHYS2004 [0.5 credit]",
+    "course_desc": "Introduction to aspects of modern physics relevant to engineering.  Thermal radiation.  Concepts of relativistic kinematics.  Wave-particle duality.  Elements of quantum mechanics.  Optical and x-ray spectra, lasers.  Nuclear physics and applications.  Condensed matter physics.",
+    "course_extra_details": "Precludes additional credit for PHYS2604.\nPrerequisite(s): PHYS1002 or PHYS1004 or PHYS1008 with a grade of B- or better, plus MATH1004 and MATH1104 or equivalent.  Restricted to B.Eng. students not in the Engineering Physics program.  Students in programs other than B.Eng. must obtain permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "PHYS1002 or PHYS1004 or PHYS1008 with a grade of B- or better, plus MATH1004 and MATH1104 or equivalent.  Restricted to B.Eng. students not in the Engineering Physics program.  Students in programs other than B.Eng. must obtain permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 2101",
+    "course_code": "PHYS2101",
+    "course_number": 2101,
+    "course_title": "PHYS2101 [0.5 credit]",
+    "course_desc": "Equations of motion for a single particle. Harmonic oscillation. Noninertial reference frames. Orbits in a central force field. Motion of systems of particles and of rigid bodies. Introduction to special relativity. Laboratory experiments in classical mechanics and properties of matter.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): PHYS1001 and PHYS1002, or PHYS1003 and PHYS1004, alternatively PHYS1007 and PHYS1008 with an overall average of B- or better; MATH1004 and MATH1104, or MATH 1002 and MATH 1102.\nLectures three hours a week, laboratory three hours a week, tutorials (optional) once a week.\n",
+    "course_prerequisites": "PHYS1001 and PHYS1002, or PHYS1003 and PHYS1004, alternatively PHYS1007 and PHYS1008 with an overall average of B- or better; MATH1004 and MATH1104, or MATH 1002 and MATH 1102.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 2202",
+    "course_code": "PHYS2202",
+    "course_number": 2202,
+    "course_title": "PHYS2202 [0.5 credit]",
+    "course_desc": "Geometrical optics. Types of waves, vibrating string and the classical wave equation. General solutions for traveling waves. Superposition and interference, coherence, wave packets, waves in 2 and 3 dimensions. Propagation of electromagnetic waves. Light and physical optics, oscillator model for dispersion, diffraction, polarization, and refraction.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): PHYS1001 and PHYS1002, or PHYS1003 and PHYS1004 (PHYS1007 and PHYS1008 are also acceptable provided a minimum average grade of B- is presented); plus MATH1104 or MATH 1102 or MATH2152, and MATH2004 or MATH2000 (MATH2000 may be taken concurrently).\nLectures three hours a week, laboratory three hours a week.\n",
+    "course_prerequisites": "PHYS1001 and PHYS1002, or PHYS1003 and PHYS1004 (PHYS1007 and PHYS1008 are also acceptable provided a minimum average grade of B- is presented); plus MATH1104 or MATH 1102 or MATH2152, and MATH2004 or MATH2000 (MATH2000 may be taken concurrently).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 2203",
+    "course_code": "PHYS2203",
+    "course_number": 2203,
+    "course_title": "PHYS2203 [0.5 credit]",
+    "course_desc": "The observational basis of astronomy. The history of astronomy, properties of light, solar system observations and stellar astronomy.",
+    "course_extra_details": "Precludes additional credit for PHYS1901 and PHYS1902.\nPrerequisite(s): PHYS1002 or PHYS1004 or permission of the department. PHYS1008 with a grade of B- or better may also be used if MATH1004 or MATH1007 or MATH 1002 or MATH2052 have been successfully completed.\nLectures three hours a week.\n",
+    "course_prerequisites": "PHYS1002 or PHYS1004 or permission of the department. PHYS1008 with a grade of B- or better may also be used if MATH1004 or MATH1007 or MATH 1002 or MATH2052 have been successfully completed.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 2305",
+    "course_code": "PHYS2305",
+    "course_number": 2305,
+    "course_title": "PHYS2305 [0.5 credit]",
+    "course_desc": "Electrostatic field and potential, Gauss\u2019 law. Properties of conductors. Magnetic effects from currents. Motion of charges in electric and magnetic fields. Energy in electric and magnetic fields. Electromagnetic induction. Maxwell\u2019s equations in vacuum using vector differential and integral calculus.",
+    "course_extra_details": "Prerequisite(s): PHYS1001, PHYS1002, or PHYS1003 and PHYS1004, alternatively PHYS1007 and PHYS1008 with an overall grade of B- or higher; MATH2004 or MATH2000 (MATH2000 may be taken concurrently).\nLectures three hours a week.\n",
+    "course_prerequisites": "PHYS1001, PHYS1002, or PHYS1003 and PHYS1004, alternatively PHYS1007 and PHYS1008 with an overall grade of B- or higher; MATH2004 or MATH2000 (MATH2000 may be taken concurrently).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 2306",
+    "course_code": "PHYS2306",
+    "course_number": 2306,
+    "course_title": "PHYS2306 [0.5 credit]",
+    "course_desc": "D.C. and A.C. circuit theory. Resonant circuits. Basic measuring devices, the oscilloscope; impedances, bandwidth, noise; vacuum tubes, transistors, useful approximations for circuit design; feedback, amplifiers, oscillators; operational circuits; digital circuits. Lectures emphasize the physical basis of instrument design. Laboratory emphasizes modern digital instrumentation.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): PHYS1001, PHYS1002 or PHYS1003 and PHYS1004, alternatively PHYS1007 and PHYS1008 with an overall grade of B- or better.\nLectures three hours a week, laboratory three hours a week.\n",
+    "course_prerequisites": "PHYS1001, PHYS1002 or PHYS1003 and PHYS1004, alternatively PHYS1007 and PHYS1008 with an overall grade of B- or better.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 2401",
+    "course_code": "PHYS2401",
+    "course_number": 2401,
+    "course_title": "PHYS2401 [0.5 credit]",
+    "course_desc": "Introduction to thermodynamics and statistical mechanics. Temperature and thermodynamic equilibrium. Work, internal energy and heat; first law. Kinetic  theory of gases.  Basic probability theory. Microscopic states and entropy.  Absolute temperature, reversibility and the second law of thermodynamics. Thermodynamic processes and applications.",
+    "course_extra_details": "Prerequisite(s): PHYS1001 and PHYS1002, or PHYS1003 and PHYS1004, (PHYS1007 and PHYS1008 are also acceptable provided  a minimum average grade of B-) ; plus MATH1004 and MATH1104 or MATH 1002 (no longer offered) and MATH 1102 (no longer offered), or MATH2052 and MATH2152.\nLectures three hours a week.\n",
+    "course_prerequisites": "PHYS1001 and PHYS1002, or PHYS1003 and PHYS1004, (PHYS1007 and PHYS1008 are also acceptable provided  a minimum average grade of B-) ; plus MATH1004 and MATH1104 or MATH 1002 (no longer offered) and MATH 1102 (no longer offered), or MATH2052 and MATH2152.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 2604",
+    "course_code": "PHYS2604",
+    "course_number": 2604,
+    "course_title": "PHYS2604 [0.5 credit]",
+    "course_desc": "The course is designed to provide a logical transition from classical to modern physics. Special relativity. Rutherford scattering, atomic models. Thermal radiation. Photoelectric effect, Compton scattering. Bohr theory of the hydrogen atom. Atomic energy states, optical spectra, lasers. X-rays. Radioactivity. Quantum Mechanics.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PHYS2004.\nPrerequisite(s): PHYS1001 and PHYS1002, or PHYS1003 and PHYS1004 (PHYS1007 and PHYS1008 are also acceptable provided a minimum average grade of B- is presented); plus MATH1004 and MATH1104, or MATH 1002 (no longer offered) and MATH 1102 (no longer offered) or MATH2052 and MATH2152.\nLectures three hours a week, laboratory three hours a week.\n",
+    "course_prerequisites": "PHYS1001 and PHYS1002, or PHYS1003 and PHYS1004 (PHYS1007 and PHYS1008 are also acceptable provided a minimum average grade of B- is presented); plus MATH1004 and MATH1104, or MATH 1002 (no longer offered) and MATH 1102 (no longer offered) or MATH2052 and MATH2152.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 2903",
+    "course_code": "PHYS2903",
+    "course_number": 2903,
+    "course_title": "PHYS2903 [0.5 credit]",
+    "course_desc": "From classical phenomena to aspects of modern physics and recent advances. Topics may include light and colour, music and sound, cell phones, the galaxy and beyond. No science background is required. Faculty of Science students may only take this course as a free elective.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): second-year standing.\nOnline course.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "PHYS 3007",
+    "course_code": "PHYS3007",
+    "course_number": 3007,
+    "course_title": "PHYS3007 [0.5 credit]",
+    "course_desc": "Students complete a small number of experiments selected from modern optics, holography, atomic physics, nuclear spectroscopy, radiation, etc. An exercise on literature searches and student seminars on experimental and numerical methods are included.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PHYS3008, PHYS3009.\nPrerequisite(s): PHYS2202 and PHYS2604, or permission of the Department.\nSix hours a week.\n",
+    "course_prerequisites": "PHYS2202 and PHYS2604, or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 3008",
+    "course_code": "PHYS3008",
+    "course_number": 3008,
+    "course_title": "PHYS3008 [0.5 credit]",
+    "course_desc": "Students complete a small number of experiments selected from modern optics, holography, atomic physics, nuclear spectroscopy, radiation, etc. Instruction on instrumentation building techniques will be given.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PHYS3007, PHYS3009.\nPrerequisite(s): PHYS2202 and PHYS2604, or permission of the department.\nSix hours a week.\n",
+    "course_prerequisites": "PHYS2202 and PHYS2604, or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 3009",
+    "course_code": "PHYS3009",
+    "course_number": 3009,
+    "course_title": "PHYS3009 [0.5 credit]",
+    "course_desc": "Students complete a small number of experiments selected from astronomy, astrophysics, modern optics, holography, atomic physics, nuclear spectroscopy, radiation, etc. At least one astronomy/astrophysics related experiment is required. An exercise on literature searches and student seminars on experimental and numerical methods are included.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PHYS3007, PHYS3008.\nPrerequisite(s): PHYS2202,  PHYS2604 and PHYS2203 or permission of the Department.\nSix hours a week.\n",
+    "course_prerequisites": "PHYS2202,  PHYS2604 and PHYS2203 or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 3207",
+    "course_code": "PHYS3207",
+    "course_number": 3207,
+    "course_title": "PHYS3207 [0.5 credit]",
+    "course_desc": "Introduction to biophysics. Random motion of molecules and diffusion; viscosity and the circulatory system; laws of thermodynamics and physical forces responsible for chemical reactions, molecular self-assembly and recognition; enzyme kinetics and molecular machines; nerve impulse and its propagation.",
+    "course_extra_details": "Prerequisite(s): PHYS2604 or permission of the Department.\nLectures three hours a week, tutorial or seminar one hour a week.\n",
+    "course_prerequisites": "PHYS2604 or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 3308",
+    "course_code": "PHYS3308",
+    "course_number": 3308,
+    "course_title": "PHYS3308 [0.5 credit]",
+    "course_desc": "Electrostatics feld and magnetostatics in the presence of matter. Solving Laplace's and Poisson's equations. Multipole expansions. Vector potential. Faraday's laws of induction; Maxwell's equations in matter. Waves in vacuum and dielectric media, guided waves.",
+    "course_extra_details": "Precludes additional credit for ELEC3909.\nPrerequisite(s): PHYS2202, PHYS2604, PHYS2305, MATH2004 or MATH2008, and MATH3705, or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "PHYS2202, PHYS2604, PHYS2305, MATH2004 or MATH2008, and MATH3705, or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 3402",
+    "course_code": "PHYS3402",
+    "course_number": 3402,
+    "course_title": "PHYS3402 [0.5 credit]",
+    "course_desc": "Zeroth, First, Second and Third Laws of Thermodynamics; enthalpy, Helmholtz and Gibbs functions and the Maxwell relations; phase transitions; thermodynamics of magnetism; cryogenics cooling by Joule-Thompson effect, adiabatic expansion of a gas, adiabatic demagnetization, helium dilution refrigeration; black body radiation; negative temperatures.",
+    "course_extra_details": "Prerequisite(s): PHYS2101 and PHYS2305, MATH2007, MATH2008, MATH2107 and MATH 2401 or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "PHYS2101 and PHYS2305, MATH2007, MATH2008, MATH2107 and MATH 2401 or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 3606",
+    "course_code": "PHYS3606",
+    "course_number": 3606,
+    "course_title": "PHYS3606 [0.5 credit]",
+    "course_desc": "Elements of condensed matter physics, semiconductors, superconductivity. Elements of nuclear physics, fission, fusion, power generation. Introduction to particle physics. Ionizing radiation: production, interactions, detection. Medical physics: radiation biophysics, cancer therapy, imaging.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as PHYS3608.\nPrerequisite(s): PHYS2604 and PHYS3701, or permission of the Department.\nLectures three hours a week, laboratory two hours a week.\n",
+    "course_prerequisites": "PHYS2604 and PHYS3701, or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 3608",
+    "course_code": "PHYS3608",
+    "course_number": 3608,
+    "course_title": "PHYS3608 [0.5 credit]",
+    "course_desc": "Elements of condensed matter physics, semiconductors, superconductivity. Modern optics. Elements of nuclear physics, fission, fusion, power generation. Ionizing radiation: production, interactions, detection. Medical physics: radiation biophysics, cancer therapy, imaging.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as PHYS3606.\nPrerequisite(s): PHYS2604 and PHYS3701, or permission of the Department.\nLectures three hours a week, laboratory three hours a week.\n",
+    "course_prerequisites": "PHYS2604 and PHYS3701, or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 3701",
+    "course_code": "PHYS3701",
+    "course_number": 3701,
+    "course_title": "PHYS3701 [0.5 credit]",
+    "course_desc": "Analysis of interference experiments with waves and particles; fundamental concepts of quantum mechanics, Schr\u00f6dinger equation; angular momentum, atomic beams; hydrogen atom; atomic and molecular spectroscopy; Pauli principle; simple applications in the physics of elementary particles.",
+    "course_extra_details": "Prerequisite(s): PHYS2604, MATH2000 [1.0] (may be taken concurrently), or MATH2004 or MATH2008,  and MATH3705 (may be taken concurrently), or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "PHYS2604, MATH2000 [1.0] (may be taken concurrently), or MATH2004 or MATH2008,  and MATH3705 (may be taken concurrently), or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 3801",
+    "course_code": "PHYS3801",
+    "course_number": 3801,
+    "course_title": "PHYS3801 [0.5 credit]",
+    "course_desc": "Introduction to Lagrangian and Hamiltonian mechanics: Poisson brackets, tensors and dyadics; rigid body rotations: introductory fluid mechanics coupled systems and normal coordinates; relativistic dynamics.",
+    "course_extra_details": "Prerequisite(s): PHYS2101, PHYS2202, PHYS2305, MATH2007, MATH2008, MATH2107, MATH 2401 or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "PHYS2101, PHYS2202, PHYS2305, MATH2007, MATH2008, MATH2107, MATH 2401 or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 3802",
+    "course_code": "PHYS3802",
+    "course_number": 3802,
+    "course_title": "PHYS3802 [0.5 credit]",
+    "course_desc": "Equations of motion for a single particle. Oscillatory Motion. Lagrangian and Hamiltonian formulations of mechanics. Central force motion. Motion of systems of particles and of rigid bodies.",
+    "course_extra_details": "Prerequisite(s): PHYS2202, PHYS2604, and MATH2004,  or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "PHYS2202, PHYS2604, and MATH2004,  or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 3807",
+    "course_code": "PHYS3807",
+    "course_number": 3807,
+    "course_title": "PHYS3807 [0.5 credit]",
+    "course_desc": "Boundary Value problems involving curvilinear coordinates; spherical harmonics, Bessel functions, Green's functions. Functions of a complex variable: analytic functions, contour integration, residue calculus.",
+    "course_extra_details": "Precludes additional credit for MATH3007 or MATH  3057.\nPrerequisite(s): PHYS2202, MATH2004, MATH3705 or permission of the Department.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "PHYS2202, MATH2004, MATH3705 or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 3808",
+    "course_code": "PHYS3808",
+    "course_number": 3808,
+    "course_title": "PHYS3808 [0.5 credit]",
+    "course_desc": "Solution of second-order total differential equations by Frobenius' method. Sturm-Liouville theory. Special functions: Legendre, Bessel. Hermite, Laguerre and associated functions. Partial differential equations: method of separation of variables, eigenfunctions and eigenvalues and eigenfunction expansions. Green's function techniques for solving inhomogeneous partial differential equations.",
+    "course_extra_details": "Precludes additional credit for MATH 3004, MATH3008, MATH3705, and PHYS 3806.\nPrerequisite(s): PHYS3807 or MATH3007 or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "PHYS3807 or MATH3007 or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 3999",
+    "course_code": "PHYS3999",
+    "course_number": 3999,
+    "course_title": "PHYS3999 [0.0 credit]",
+    "course_desc": "Provides practical experience for students enrolled in the Co-operative option. Students must receive satisfactory evaluations from their work term employer. Written and oral reports will be required. Graded as Sat or Uns.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): registration in the Physics Co-operative education option and permission of the Department.\n \n",
+    "course_prerequisites": "registration in the Physics Co-operative education option and permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 4007",
+    "course_code": "PHYS4007",
+    "course_number": 4007,
+    "course_title": "PHYS4007 [0.5 credit]",
+    "course_desc": "Students complete a small number of experiments selected from modern optics, holography, atomic physics, nuclear spectroscopy, radiation, etc. An exercise on literature searches and student seminars on experimental and numerical methods are included.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): PHYS3606 (or PHYS3608) and registration in the Engineering Physics program.\nLaboratory, six hours a week.\n",
+    "course_prerequisites": "PHYS3606 (or PHYS3608) and registration in the Engineering Physics program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 4008",
+    "course_code": "PHYS4008",
+    "course_number": 4008,
+    "course_title": "PHYS4008 [0.5 credit]",
+    "course_desc": "Students complete a small number of experiments selected from modern optics, holography, atomic physics, nuclear spectroscopy, radiation, etc. Instruction on instrumentation building techniques will be given.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): PHYS3007.\nSix hours a week.\n",
+    "course_prerequisites": "PHYS3007.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 4201",
+    "course_code": "PHYS4201",
+    "course_number": 4201,
+    "course_title": "PHYS4201 [0.5 credit]",
+    "course_desc": "Stellar evolution, including stellar modeling, main sequence stars, red giants and the end states of stars such as neutron stars and black holes. Galactic structure and dynamics. Neutrino astrophysics.",
+    "course_extra_details": "Prerequisite(s): PHYS3701, PHYS3606 or PHYS3608, and PHYS2401 or PHYS4409, or permission of the Department. (PHYS3606 or PHYS3608 and PHYS4409 may be taken concurrently).\nAlso offered at the graduate level, with different requirements, as PHYS5401, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "PHYS3701, PHYS3606 or PHYS3608, and PHYS2401 or PHYS4409, or permission of the Department. (PHYS3606 or PHYS3608 and PHYS4409 may be taken concurrently).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 4202",
+    "course_code": "PHYS4202",
+    "course_number": 4202,
+    "course_title": "PHYS4202 [0.5 credit]",
+    "course_desc": "Observational evidence for the Big Bang. Cosmological space-time, expansion dynamics and contents of the universe. Physical processes in the expanding universe, inflation, nucleosynthesis, the cosmic microwave background, dark matter, and dark energy.",
+    "course_extra_details": "Prerequisite(s): PHYS3701, PHYS3606 or PHYS3608, and PHYS2401 or PHYS4409, or permission of the Department. (PHYS3606 or PHYS3608 and PHYS4409 may be taken concurrently).\nAlso offered at the graduate level, with different requirements, as PHYS5402, for which additional credit is precluded.\nLectures three hours per week.\n",
+    "course_prerequisites": "PHYS3701, PHYS3606 or PHYS3608, and PHYS2401 or PHYS4409, or permission of the Department. (PHYS3606 or PHYS3608 and PHYS4409 may be taken concurrently).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 4203",
+    "course_code": "PHYS4203",
+    "course_number": 4203,
+    "course_title": "PHYS4203 [0.5 credit]",
+    "course_desc": "Fourier transform, convolution. Sampling theorem. Applications to imaging: descriptors of spatial resolution, filtering. Correlation, noise power. Discrete Fourier transform, FFT. Filtering of noisy signals. Image reconstruction in computed tomography and magnetic resonance. Laplace transform. Integral transforms, application to boundary value problems.",
+    "course_extra_details": "Prerequisite(s): MATH3705, or permission of the Department.\nAlso offered at the graduate level, with different requirements, as PHYS5313, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "MATH3705, or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 4208",
+    "course_code": "PHYS4208",
+    "course_number": 4208,
+    "course_title": "PHYS4208 [0.5 credit]",
+    "course_desc": "Electromagnetic wave propagation; reflection, refraction; Gaussian beams, guided waves. Laser theory: stimulated emission, cavity optics, modes, gain and bandwidth; atomic and molecular lasers. Mode locking, Q switching. Diffraction theory, coherence, Fourier optics, holography, laser applications. Optical communication systems, nonlinear effects: devices, fibre sensors, integrated optics.",
+    "course_extra_details": "Prerequisite(s): PHYS2202, PHYS3606 (or PHYS3608), and PHYS3308 or permission of the Department.\nAlso offered at the graduate level, with different requirements, as PHYS5318, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "PHYS2202, PHYS3606 (or PHYS3608), and PHYS3308 or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 4307",
+    "course_code": "PHYS4307",
+    "course_number": 4307,
+    "course_title": "PHYS4307 [0.5 credit]",
+    "course_desc": "Electromagnetic wave propagation in a vacuum, dielectrics, conductors, and ionized gases, reflection, refraction, polarization at the plane boundary between two media; waveguide and transmission line propagation; dipole and quadrupole radiation fields; antenna systems. Electromagnetic mass, radiation pressure. Tensor notation, transformation of the electromagnetic fields.",
+    "course_extra_details": "Prerequisite(s): PHYS3308, PHYS3801, PHYS3807 and PHYS3808 (except for Mathematics and Physics Double Honours students), or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "PHYS3308, PHYS3801, PHYS3807 and PHYS3808 (except for Mathematics and Physics Double Honours students), or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 4407",
+    "course_code": "PHYS4407",
+    "course_number": 4407,
+    "course_title": "PHYS4407 [0.5 credit]",
+    "course_desc": "Equilibrium statistical mechanics and its relation to thermodynamics. Maxwell-Boltzmann, Bose-Einstein and Fermi-Dirac statistics are derived, and applied in appropriate physical situations. Fluctuations. Kinetics and transport processes, including the Boltzmann transport equation and some of its applications.",
+    "course_extra_details": "Prerequisite(s): PHYS3402, PHYS 2602 or PHYS 3601, PHYS3701 or PHYS 3602, PHYS4707 (may be taken concurrently); or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "PHYS3402, PHYS 2602 or PHYS 3601, PHYS3701 or PHYS 3602, PHYS4707 (may be taken concurrently); or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 4409",
+    "course_code": "PHYS4409",
+    "course_number": 4409,
+    "course_title": "PHYS4409 [0.5 credit]",
+    "course_desc": "The three Laws of Thermodynamics, enthalpy, Helmholtz and Gibbs functions. Equilibrium statistical mechanics and its relation to thermodynamics. Maxwell-Boltzmann, Bose-Einstein and Fermi-Dirac statistics.",
+    "course_extra_details": "Precludes additional credit for PHYS3402 and PHYS4407.\nPrerequisite(s): PHYS3701 (may be taken concurrently), MATH2004 and MATH3705,  or permission of the Department.\n \n",
+    "course_prerequisites": "PHYS3701 (may be taken concurrently), MATH2004 and MATH3705,  or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 4508",
+    "course_code": "PHYS4508",
+    "course_number": 4508,
+    "course_title": "PHYS4508 [0.5 credit]",
+    "course_desc": "An introduction to solid state physics. Topics include crystal structure, phonons and lattice vibrations, conductors, semiconductors, insulators and superconductivity.",
+    "course_extra_details": "Prerequisite(s): PHYS3606 or PHYS3608, and PHYS3701, or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "PHYS3606 or PHYS3608, and PHYS3701, or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 4602",
+    "course_code": "PHYS4602",
+    "course_number": 4602,
+    "course_title": "PHYS4602 [0.5 credit]",
+    "course_desc": "Standard Model. Properties of leptons, quarks, hadrons. Fundamental interactions: photon, gluons, W/Z bosons. Higgs boson. Conservation laws, invariance principles, quantum numbers. Decay rates and scattering cross-sections. Quantum electrodynamics and chromodynamics. Resonances. Weak interactions, CKM matrix, parity and CP violation. Neutrino masses and oscillations. Future directions.",
+    "course_extra_details": "Prerequisite(s): PHYS4707 or permission of the Department.\nAlso offered at the graduate level, with different requirements, as PHYS5602, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "PHYS4707 or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 4608",
+    "course_code": "PHYS4608",
+    "course_number": 4608,
+    "course_title": "PHYS4608 [0.5 credit]",
+    "course_desc": "Ground state properties of nuclei. Nuclear models, binding energy, properties of excited nuclei.  Alpha, beta and gamma decay. Passage of radiation through matter, detectors. Nuclear reactions, cross sections, fission, fusion. Elements of neutron physics.",
+    "course_extra_details": "Prerequisite(s): PHYS3606 or PHYS3608 or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "PHYS3606 or PHYS3608 or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 4707",
+    "course_code": "PHYS4707",
+    "course_number": 4707,
+    "course_title": "PHYS4707 [0.5 credit]",
+    "course_desc": "The basic interpretative postulates of quantum mechanics; applications of wave mechanics and operator methods to various quantum mechanical systems; quantum mechanical treatment of angular momentum.",
+    "course_extra_details": "Prerequisite(s): PHYS3701 and PHYS3807 or equivalent, or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "PHYS3701 and PHYS3807 or equivalent, or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 4708",
+    "course_code": "PHYS4708",
+    "course_number": 4708,
+    "course_title": "PHYS4708 [0.5 credit]",
+    "course_desc": "Scattering theory and application; bound state problems; approximation methods.",
+    "course_extra_details": "Prerequisite(s): PHYS4707 or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "PHYS4707 or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 4804",
+    "course_code": "PHYS4804",
+    "course_number": 4804,
+    "course_title": "PHYS4804 [0.5 credit]",
+    "course_desc": "Special relativity using tensor analysis. Curved spacetime with physics applications which may include the solar system, stars, black holes and gravitational waves. Introduction to differential geometry and Einstein's field equations.",
+    "course_extra_details": "Prerequisite(s): PHYS3308, PHYS3802 and PHYS3807 or equivalent, or permission of the Department.\nAlso offered at the graduate level, with different requirements, as PHYS5804, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "PHYS3308, PHYS3802 and PHYS3807 or equivalent, or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 4807",
+    "course_code": "PHYS4807",
+    "course_number": 4807,
+    "course_title": "PHYS4807 [0.5 credit]",
+    "course_desc": "Computational methods used in analysis of experimental data. Introduction to probability and random variables. Monte Carlo methods for simulation of random processes. Statistical methods for parameter estimation and hypothesis tests. Confidence intervals. Multivariate data classification. Unfolding methods. Examples primarily from particle and medical physics.",
+    "course_extra_details": "Prerequisite(s): third year standing in a physics program and an ability to program in Python, Java, C or C++, and permission of the Department.\nAlso offered at the graduate level, with different requirements, as PHYS5002, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "third year standing in a physics program and an ability to program in Python, Java, C or C++, and permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 4901",
+    "course_code": "PHYS4901",
+    "course_number": 4901,
+    "course_title": "PHYS4901 [0.5 credit]",
+    "course_desc": "Each year, at the direction of the Department, a course on a special topic may be offered.",
+    "course_extra_details": "Prerequisite(s): permission of the Department.\n \n",
+    "course_prerequisites": "permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "PHYS 4907",
+    "course_code": "PHYS4907",
+    "course_number": 4907,
+    "course_title": "PHYS4907 [0.5 credit]",
+    "course_desc": "Advanced projects of an experimental or theoretical nature with an orientation towards research. A written mid-term progress report is required and also a written and oral report at the conclusion of the project.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing in an Honours Physics program or equivalent, and permission of the Department.\nProject. Fall term only.\n",
+    "course_prerequisites": "fourth-year standing in an Honours Physics program or equivalent, and permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PHYS 4908",
+    "course_code": "PHYS4908",
+    "course_number": 4908,
+    "course_title": "PHYS4908 [0.5 credit]",
+    "course_desc": "Advanced projects of an experimental or theoretical nature with an orientation towards research. A written mid-term progress report is required and also a written and oral report at the conclusion of the project.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing in an Honours Physics program or equivalent, and permission of the Department.\nProject. Winter term only.\n",
+    "course_prerequisites": "fourth-year standing in an Honours Physics program or equivalent, and permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "PHYS 4909",
+    "course_code": "PHYS4909",
+    "course_number": 4909,
+    "course_title": "PHYS4909 [1.0 credit]",
+    "course_desc": "Advanced projects of an experimental or theoretical nature with an orientation towards research. A written mid-term progress report is required and also a written and oral report at the conclusion of the project.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing in an Honours Physics program or equivalent, and permission of the Department.\nProject\n",
+    "course_prerequisites": "fourth-year standing in an Honours Physics program or equivalent, and permission of the Department.",
+    "year_standing": 4
+}]}

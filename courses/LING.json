@@ -1,0 +1,506 @@
+{"object": [
+{
+    "course_identifier": "LING 1001",
+    "course_code": "LING1001",
+    "course_number": 1001,
+    "course_title": "LING1001 [0.5 credit]",
+    "course_desc": "Nature of language and linguistic knowledge. Formal description and analysis of language: phonetics, phonology, morphology, syntax and semantics.",
+    "course_extra_details": "Lecture and tutorial three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LING 1002",
+    "course_code": "LING1002",
+    "course_number": 1002,
+    "course_title": "LING1002 [0.5 credit]",
+    "course_desc": "Survey of topics in linguistics: language change, sociolinguistics, language acquisition and processing. May include language typology, language contact and writing systems.",
+    "course_extra_details": "Prerequisite(s): LING1001 (may be taken concurrently).\nLectures three hours a week.\n",
+    "course_prerequisites": "LING1001 (may be taken concurrently).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LING 1100",
+    "course_code": "LING1100",
+    "course_number": 1100,
+    "course_title": "LING1100 [0.5 credit]",
+    "course_desc": "This course explores some intriguing mysteries of language  - whether it is unique to humans, how children master its complexities so easily, how the brain handles language, how languages are born and die. These questions lead us to interesting discoveries about the human mind.",
+    "course_extra_details": "Lectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LING 2005",
+    "course_code": "LING2005",
+    "course_number": 2005,
+    "course_title": "LING2005 [0.5 credit]",
+    "course_desc": "Phonological, morphological and syntactic analysis of linguistic data. Coursework consists primarily of practical exercises in data analysis.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): LING1001.\nLecture and tutorial three hours a week.\n",
+    "course_prerequisites": "LING1001.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LING 2007",
+    "course_code": "LING2007",
+    "course_number": 2007,
+    "course_title": "LING2007 [0.5 credit]",
+    "course_desc": "Description of speech sounds; transcription systems; articulation; acoustics of speech sounds; perception of speech sounds; cross-linguistic diversity and phonetic universals; the role of phonetics in grammar.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for LING 2001 (no longer offered).\nPrerequisite(s): LING1001.\nLecture and tutorial three hours a week.\n",
+    "course_prerequisites": "LING1001.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LING 2504",
+    "course_code": "LING2504",
+    "course_number": 2504,
+    "course_title": "LING2504 [0.5 credit]",
+    "course_desc": "Some of the central topics in the study of language and communication as pursued by linguists and philosophers. Topics include: the nature of meaning; the connections between language, communication and cognition; language as a social activity.",
+    "course_extra_details": "Also listed as PHIL2504, COMS2504.\nPrerequisite(s): second-year standing.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "LING 2604",
+    "course_code": "LING2604",
+    "course_number": 2604,
+    "course_title": "LING2604 [0.5 credit]",
+    "course_desc": "A survey course highlighting a variety of communication differences and disabilities. Specific topics vary from year to year but typically will include speech, language, fluency and hearing differences and disabilities.",
+    "course_extra_details": "Also listed as ALDS2604.\nPrerequisite(s): second year standing or permission of the instructor.\nLectures three hours a week.\n",
+    "course_prerequisites": "second year standing or permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LING 2802",
+    "course_code": "LING2802",
+    "course_number": 2802,
+    "course_title": "LING2802 [0.5 credit]",
+    "course_desc": "A historical study of the English language, its structure, variety, and cultural contexts,with an introduction to grammatical terminology and constructions.",
+    "course_extra_details": "Also listed as ENGL2105.\nPrerequisite(s): second-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "LING 3004",
+    "course_code": "LING3004",
+    "course_number": 3004,
+    "course_title": "LING3004 [0.5 credit]",
+    "course_desc": "Introduction to syntactic theory. Representation and analysis of sentence structure, syntactic relations and syntactic dependencies. Testing of grammatical hypotheses.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): LING2005.\nLecture and tutorial three hours a week.\n",
+    "course_prerequisites": "LING2005.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LING 3005",
+    "course_code": "LING3005",
+    "course_number": 3005,
+    "course_title": "LING3005 [0.5 credit]",
+    "course_desc": "Introduction to word structure and morphological theory. Topics include inflectional and derivational morphology, morphological processes, and interaction of morphology with phonology and syntax.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): LING2005 and LING2007.\nLectures three hours a week.\n",
+    "course_prerequisites": "LING2005 and LING2007.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LING 3007",
+    "course_code": "LING3007",
+    "course_number": 3007,
+    "course_title": "LING3007 [0.5 credit]",
+    "course_desc": "The sound-systems of languages, analysis of phonological structure; generative phonology; phonological rules and derivations; cross-linguistic diversity and universals; segmental phonology; stress; tone.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for LING 3002 (no longer offered).\nPrerequisite(s): LING 2001 (no longer offered) or LING2007.\nLecture and tutorial three hours a week.\n",
+    "course_prerequisites": "LING 2001 (no longer offered) or LING2007.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LING 3009",
+    "course_code": "LING3009",
+    "course_number": 3009,
+    "course_title": "LING3009 [0.5 credit]",
+    "course_desc": "Selected topics in general linguistics not ordinarily treated in the regular course program. Contents of the course vary from year to year.",
+    "course_extra_details": "Lectures and discussion three hours per week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LING 3504",
+    "course_code": "LING3504",
+    "course_number": 3504,
+    "course_title": "LING3504 [0.5 credit]",
+    "course_desc": "The study of language in its conversational and cultural contexts. Topics include: conversational implicature; deixis; the semantics-pragmatics boundary; speaker's reference; speech acts. May include cross-cultural pragmatics.",
+    "course_extra_details": "Also listed as PHIL3504.\nPrerequisite(s): third-year standing, and one of LING1001, PHIL2001, PHIL2504/COMS2504/LING2504 or PHIL3506, or LING3505 or permission of the Department of Philosophy or School of Linguistics and Language Studies.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing, and one of LING1001, PHIL2001, PHIL2504/COMS2504/LING2504 or PHIL3506, or LING3505 or permission of the Department of Philosophy or School of Linguistics and Language Studies.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "LING 3505",
+    "course_code": "LING3505",
+    "course_number": 3505,
+    "course_title": "LING3505 [0.5 credit]",
+    "course_desc": "Study of language meaning. Lexical meaning and meanings of larger linguistic expressions, including nominal units, verbal units, and sentences. Meaning relationships between utterances. Relationship between linguistic meaning (semantics) and contextual meaning (pragmatics). Basic formal treatments of semantics.",
+    "course_extra_details": "Also listed as PHIL3506.\nPrerequisite(s): third-year standing, and one of LING1001, PHIL2001, PHIL2504/LING2504/COMS2504 or PHIL3504/LING3504, or permission of the Department of Philosophy or School of Linguistics and Language Studies.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing, and one of LING1001, PHIL2001, PHIL2504/LING2504/COMS2504 or PHIL3504/LING3504, or permission of the Department of Philosophy or School of Linguistics and Language Studies.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "LING 3601",
+    "course_code": "LING3601",
+    "course_number": 3601,
+    "course_title": "LING3601 [0.5 credit]",
+    "course_desc": "Introduction to adult language processing and neurolinguistics. Psychological processes underlying speech production and perception, word recognition and sentence processing. Biological foundation and neuro-cognitive mechanisms of language. Experimental techniques and methodologies of current psycholinguistic studies.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as PSYC3709.\nPrerequisite(s): LING1001 or PSYC2700 and second-year standing, or permission of the instructor.\nLectures three hours a week.\n",
+    "course_prerequisites": "LING1001 or PSYC2700 and second-year standing, or permission of the instructor.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "LING 3603",
+    "course_code": "LING3603",
+    "course_number": 3603,
+    "course_title": "LING3603 [0.5 credit]",
+    "course_desc": "Milestones associated with the development of grammatical, pragmatic and metalinguistic competence from birth to about age ten, and the relative contributions of the environment, cognitive development and inborn knowledge to this development.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as PSYC3508.\nPrerequisite(s): LING1001 and second-year standing, or permission of the instructor.\nLectures three hours a week.\n",
+    "course_prerequisites": "LING1001 and second-year standing, or permission of the instructor.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "LING 3604",
+    "course_code": "LING3604",
+    "course_number": 3604,
+    "course_title": "LING3604 [0.5 credit]",
+    "course_desc": "An in-depth examination of select topics in the field of communication differences and disabilities. An emphasis is placed on theoretical accounts of specific differences and disabilities and the cross-linguistic evidence for these accounts. Specific topics may vary from year to year.",
+    "course_extra_details": "Also listed as ALDS3604.\nPrerequisite(s): LING1001 and one of ALDS or LING2604.\nLectures three hours a week.\n",
+    "course_prerequisites": "LING1001 and one of ALDS or LING2604.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LING 3701",
+    "course_code": "LING3701",
+    "course_number": 3701,
+    "course_title": "LING3701 [0.5 credit]",
+    "course_desc": "Computer-assisted analysis of electronic collections of naturally occurring language.  Applications in such areas as language variation, grammar, lexicology, phraseology, translation, and learner language.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as ALDS3701.\nPrerequisite(s): third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "LING 3702",
+    "course_code": "LING3702",
+    "course_number": 3702,
+    "course_title": "LING3702 [0.5 credit]",
+    "course_desc": "The place of language within society; bilingual and multilingual communities; language, social mobility and social stratification; sociolinguistic factors in language change.",
+    "course_extra_details": "Also listed as ALDS3202.\nPrecludes additional credit for ALDS 2701 (no longer offered).\nPrerequisite(s): ALDS1001 and third-year standing.\nLecture three hours a week.\n",
+    "course_prerequisites": "ALDS1001 and third-year standing.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "LING 3801",
+    "course_code": "LING3801",
+    "course_number": 3801,
+    "course_title": "LING3801 [0.5 credit]",
+    "course_desc": "Description and analysis of the structure of a specific language applying phonology, morphology, syntax, and semantics. Language to be studied will be announced in advance by the School.",
+    "course_extra_details": "Prerequisite(s): LING 2001 (no longer offered) or LING2005 or LING2007.\nLectures three hours a week.\n",
+    "course_prerequisites": "LING 2001 (no longer offered) or LING2005 or LING2007.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LING 3810",
+    "course_code": "LING3810",
+    "course_number": 3810,
+    "course_title": "LING3810 [0.5 credit]",
+    "course_desc": "Language change; sound change; analogy; the comparative method; internal reconstruction; the philological method; historical linguistics and pre-history; language change and theories of grammar.",
+    "course_extra_details": "Precludes additional credit for LING 3101 (no longer offered).\nPrerequisite(s): LING2007.\nLectures three hours a week.\n",
+    "course_prerequisites": "LING2007.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LING 3811",
+    "course_code": "LING3811",
+    "course_number": 3811,
+    "course_title": "LING3811 [0.5 credit]",
+    "course_desc": "Cross-linguistic survey of syntactic and morphological patterns found in the languages of the world. Typological classification and identification of language universals.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for LING 3001 (no longer offered).\nPrerequisite(s): LING2005.\nLectures three hours a week.\n",
+    "course_prerequisites": "LING2005.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LING 3900",
+    "course_code": "LING3900",
+    "course_number": 3900,
+    "course_title": "LING3900 [1.0 credit]",
+    "course_desc": "Research under the supervision of a member of the School. Normally available only to third- and fourth-year students in Linguistics.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): permission of the instructor.\n \n",
+    "course_prerequisites": "permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LING 3901",
+    "course_code": "LING3901",
+    "course_number": 3901,
+    "course_title": "LING3901 [0.5 credit]",
+    "course_desc": "Research under the supervision of a member of the School. Normally available only to third- and fourth-year students in Linguistics.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): permission of the instructor.\n \n",
+    "course_prerequisites": "permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LING 4004",
+    "course_code": "LING4004",
+    "course_number": 4004,
+    "course_title": "LING4004 [0.5 credit]",
+    "course_desc": "Advanced topics in syntax.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for LING 4002 (no longer offered).\nPrerequisite(s): LING3004 and third-year standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LING3004 and third-year standing.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "LING 4005",
+    "course_code": "LING4005",
+    "course_number": 4005,
+    "course_title": "LING4005 [0.5 credit]",
+    "course_desc": "Advanced topics in morphology.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): LING3005 and third-year standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LING3005 and third-year standing.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "LING 4007",
+    "course_code": "LING4007",
+    "course_number": 4007,
+    "course_title": "LING4007 [0.5 credit]",
+    "course_desc": "Advanced topics in phonology.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for LING 4001 (no longer offered).\nPrerequisite(s): LING3007, and third-year standing.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LING3007, and third-year standing.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "LING 4009",
+    "course_code": "LING4009",
+    "course_number": 4009,
+    "course_title": "LING4009 [0.5 credit]",
+    "course_desc": "Examination of a topic or more specialized area in linguistics or language study. Topic to be announced. Repeatable for credit when the topic changes.",
+    "course_extra_details": "Prerequisite(s): third- or fourth-year standing in Linguistics or permission of the instructor.\nAlso offered at the graduate level, with different requirements, as LING5009, for which additional credit is precluded.\nSeminars three hours a week.\n",
+    "course_prerequisites": "third- or fourth-year standing in Linguistics or permission of the instructor.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LING 4412",
+    "course_code": "LING4412",
+    "course_number": 4412,
+    "course_title": "LING4412 [0.5 credit]",
+    "course_desc": "\u00c9tudes des vari\u00e9t\u00e9s du fran\u00e7ais, dans ses dimensions spatiales. Le contenu pr\u00e9cis de ce cours varie selon les ann\u00e9es. Consulter le site web du D\u00e9partement de fran\u00e7ais pour obtenir les d\u00e9tails. The course is taught in French, but students will submit written assignments in English.",
+    "course_extra_details": "Also listed as FREN4412.\nPrerequisite(s): FREN2401 and FREN3050, or permission of the Department.\nAlso offered at the graduate level, with different requirements, as FREN5412 and LING5412, for which additional credit is precluded.\nSeminars three hours a week.\n",
+    "course_prerequisites": "FREN2401 and FREN3050, or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LING 4413",
+    "course_code": "LING4413",
+    "course_number": 4413,
+    "course_title": "LING4413 [0.5 credit]",
+    "course_desc": "\u00c9tude du fran\u00e7ais, dans ses dimensions historiques. Le contenu pr\u00e9cis de ce cours varie selon les ann\u00e9es. Consulter le site web du D\u00e9partement de fran\u00e7ais pour obtenir les d\u00e9tails. The course is taught in French, but students will submit written assignments in English.",
+    "course_extra_details": "Also listed as FREN4413.\nPrerequisite(s): FREN2401 and FREN3050, or permission of the Department.\nAlso offered at the graduate level, with different requirements, as FREN5413 and LING5413, for which additional credit is precluded.\nSeminars three hours a week.\n",
+    "course_prerequisites": "FREN2401 and FREN3050, or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LING 4414",
+    "course_code": "LING4414",
+    "course_number": 4414,
+    "course_title": "LING4414 [0.5 credit]",
+    "course_desc": "\u00c9tude du fran\u00e7ais, dans ses dimensions morphologiques, syntaxiques ou phonologiques. Le contenu pr\u00e9cis de ce cours varie selon les ann\u00e9es. Consulter le site web du D\u00e9partement de fran\u00e7ais pour obtenir les d\u00e9tails. Course is taught in French, but students will submit written assignments in English.",
+    "course_extra_details": "Also listed as FREN4414.\nPrerequisite(s): FREN2401 and FREN3050, or permission of the Department.\nAlso offered at the graduate level, with different requirements, as FREN5414 and LING5414, for which additional credit is precluded.\nSeminars three hours a week.\n",
+    "course_prerequisites": "FREN2401 and FREN3050, or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LING 4415",
+    "course_code": "LING4415",
+    "course_number": 4415,
+    "course_title": "LING4415 [0.5 credit]",
+    "course_desc": "\u00c9tude des variations internes de la langue, dans des dimensions orales/\u00e9crites. Le contenu pr\u00e9cis de ce cours varie selon les ann\u00e9es. Consulter le site web du D\u00e9partement de fran\u00e7ais pour obtenir les d\u00e9tails. Course is taught in French, but students submit assignments in English.",
+    "course_extra_details": "Also listed as FREN4415.\nPrerequisite(s): FREN2401 and FREN3050, or permission of the Department.\nAlso offered at the graduate level, with different requirements, as FREN5415 and LING5415, for which additional credit is precluded.\nSeminars three hours a week.\n",
+    "course_prerequisites": "FREN2401 and FREN3050, or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LING 4505",
+    "course_code": "LING4505",
+    "course_number": 4505,
+    "course_title": "LING4505 [0.5 credit]",
+    "course_desc": "Advanced topics in compositional semantics and its interfaces. Topics may include: logic, semantic types, lambda calculus, intentional contexts, possible world semantics, interfaces with syntax and pragmatics quantification, anaphora, presupposition, implicatures, scope and binding, and model theory.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as PHIL4505.\nPrerequisite(s): LING3505 or PHIL3506, and third-year standing, or permission of the Department of Philosophy or School of Linguistics and Language Studies.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LING3505 or PHIL3506, and third-year standing, or permission of the Department of Philosophy or School of Linguistics and Language Studies.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "LING 4510",
+    "course_code": "LING4510",
+    "course_number": 4510,
+    "course_title": "LING4510 [0.5 credit]",
+    "course_desc": "Study of the meaning of words. Topics may include lexical decomposition, meaning variation, lexical relations, and lexical aspect.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as PHIL4055.\nPrecludes additional credit for LING 4055 (no longer offered).\nPrerequisite(s): LING3505 or PHIL3506, and third-year standing.\nAlso offered at the graduate level, with different requirements, as LING5510, for which additional credit is precluded.\nSeminar three hours a week.\n",
+    "course_prerequisites": "LING3505 or PHIL3506, and third-year standing.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "LING 4601",
+    "course_code": "LING4601",
+    "course_number": 4601,
+    "course_title": "LING4601 [0.5 credit]",
+    "course_desc": "Further study of psychological and neurolinguistic mechanisms of adult language processing. May include topics from first language acquisition.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): LING3601 or permission of the instructor.\nAlso offered at the graduate level, with different requirements, as LING5601, for which additional credit is precluded.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LING3601 or permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LING 4603",
+    "course_code": "LING4603",
+    "course_number": 4603,
+    "course_title": "LING4603 [0.5 credit]",
+    "course_desc": "Advanced topics in language acquisition and development and the relative contributions of the environment, cognitive development, and inborn knowledge.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): LING1001 and LING3603.\nAlso offered at the graduate level, with different requirements, as LING5603, for which additional credit is precluded.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LING1001 and LING3603.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LING 4604",
+    "course_code": "LING4604",
+    "course_number": 4604,
+    "course_title": "LING4604 [0.5 credit]",
+    "course_desc": "Through seven-hour-a-week field placements, students pursue personal learning objectives concerning the clinical application of the psycholinguistics of communication disorders and cognitive development. A term paper integrates experiential knowledge gained in the placement with theoretical and empirical knowledge gained from the student\u2019s program of study.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): LING3604, fourth-year Honours standing in B.A. or B.Sc. in Linguistics with a Concentration in Psycholinguistics and Communication Disorders with a CGPA of 10.0 in the major, and permission from the School of Linguistics and Language Studies.\nField placement one day a week.\n",
+    "course_prerequisites": "LING3604, fourth-year Honours standing in B.A. or B.Sc. in Linguistics with a Concentration in Psycholinguistics and Communication Disorders with a CGPA of 10.0 in the major, and permission from the School of Linguistics and Language Studies.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LING 4605",
+    "course_code": "LING4605",
+    "course_number": 4605,
+    "course_title": "LING4605 [0.5 credit]",
+    "course_desc": "Experimental methodologies used in current psycholinguistic studies. Topics include experimental design and techniques, descriptive statistics, and interpreting and reporting research findings.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for LING4009 Section \"A\" (2015-16 and 2016-17) and LING4009 Section \"B\" (2013-14) and LING4009 Section \"C\" (2017-18).\nPrerequisite(s): third- or fourth-year Honours standing in Linguistics or Cognitive Science, or permission of the instructor.\nAlso offered at the graduate level, with different requirements, as LING5605, for which additional credit is precluded.\nSeminar three hours a week.\n",
+    "course_prerequisites": "third- or fourth-year Honours standing in Linguistics or Cognitive Science, or permission of the instructor.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LING 4606",
+    "course_code": "LING4606",
+    "course_number": 4606,
+    "course_title": "LING4606 [0.5 credit]",
+    "course_desc": "Application of statistical procedures to analysis of language data and to problems of measurement in experimental linguistics, applied linguistics, psycholinguistics, and related fields.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as ALDS4606.\nPrecludes additional credit for ALDS4906/LING4009 Section \"B\" if taken Winter 2015 or Winter 2016.\nPrerequisite(s): Third-year standing in Linguistics or Applied Linguistics and Discourse Studies or Cognitive Science, or permission of the instructor.\nAlso offered at the graduate level, with different requirements, as LING5606 and ALDS5604, for which additional credit is precluded.\nSeminar three hours a week.\n",
+    "course_prerequisites": "Third-year standing in Linguistics or Applied Linguistics and Discourse Studies or Cognitive Science, or permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LING 4801",
+    "course_code": "LING4801",
+    "course_number": 4801,
+    "course_title": "LING4801 [0.5 credit]",
+    "course_desc": "With a language consultant, students discover the phonological, morphological, and syntactic structures of the target language using linguistic elicitation. Language will vary from year to year, but will normally be a non-European language.  Language documentation, data management, ethical issues surrounding research in Indigenous communities.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): LING2005 and LING2007.\nAlso offered at the graduate level, with different requirements, as ALDS5801, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "LING2005 and LING2007.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LING 4802",
+    "course_code": "LING4802",
+    "course_number": 4802,
+    "course_title": "LING4802 [0.5 credit]",
+    "course_desc": "A theory-intensive course that will study the development of English starting with Proto-Indo-European progressing through Common Germanic to the stages of English itself. Topics include phonological sound changes, phonemic inventories, and morphological and syntactic typology.",
+    "course_extra_details": "Precludes additional credit for LING 4101 (no longer offered).\nPrerequisite(s): LING2005 and LING2007, and one of LING3005, LING3810 or LING3811.\nAlso offered at the graduate level, with different requirements, as LING5802, ENGL5101., for which additional credit is precluded.\nSeminars three hours a week.\n",
+    "course_prerequisites": "LING2005 and LING2007, and one of LING3005, LING3810 or LING3811.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LING 4805",
+    "course_code": "LING4805",
+    "course_number": 4805,
+    "course_title": "LING4805 [0.5 credit]",
+    "course_desc": "Studies in Old English literature and its cultural and historical contexts. Instruction in grammar to facilitate reading knowledge of the Old English language.",
+    "course_extra_details": "Also listed as ENGL4105.\nPrecludes additional credit for ENGL 3102 (no longer offered).\nPrerequisite(s): fourth-year standing or permission of the department.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LING 4900",
+    "course_code": "LING4900",
+    "course_number": 4900,
+    "course_title": "LING4900 [1.0 credit]",
+    "course_desc": "Permits fourth-year Honours students to pursue their interests in a selected area of linguistics.",
+    "course_extra_details": "Prerequisite(s): permission of the instructor.\n \n",
+    "course_prerequisites": "permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LING 4901",
+    "course_code": "LING4901",
+    "course_number": 4901,
+    "course_title": "LING4901 [0.5 credit]",
+    "course_desc": "Permits fourth-year Honours students to pursue their interests in a selected area of linguistics.",
+    "course_extra_details": "Prerequisite(s): permission of the instructor.\n \n",
+    "course_prerequisites": "permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "LING 4905",
+    "course_code": "LING4905",
+    "course_number": 4905,
+    "course_title": "LING4905 [1.0 credit]",
+    "course_desc": "Students choose existing study in linguistic literature, replicate the study, present findings, compare to original study. Practical experience gathering and preparing materials, running experiments, analyzing data, interpreting findings; real, important contributions to the field of linguistics via replication studies (as mandated by the scientific method).",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for LING4910.\nPrerequisite(s): fourth-year Honours standing in Linguistics, with a Major CGPA of 9.0, and permission of the instructor.\nUnscheduled.\n",
+    "course_prerequisites": "fourth-year Honours standing in Linguistics, with a Major CGPA of 9.0, and permission of the instructor.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "LING 4910",
+    "course_code": "LING4910",
+    "course_number": 4910,
+    "course_title": "LING4910 [1.0 credit]",
+    "course_desc": "A thesis project selected in consultation with the School and carried out under the direction of a faculty supervisor.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for LING4905.\nPrerequisite(s): fourth-year Honours standing in Linguistics with a CGPA of 10.0 in the major; one of LING3004, LING3007, LING3505, or LING3601; and permission of the instructor.\n \n",
+    "course_prerequisites": "fourth-year Honours standing in Linguistics with a CGPA of 10.0 in the major; one of LING3004, LING3007, LING3505, or LING3601; and permission of the instructor.",
+    "year_standing": 4
+}]}

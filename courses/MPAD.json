@@ -1,0 +1,275 @@
+{"object": [
+{
+    "course_identifier": "MPAD 1001",
+    "course_code": "MPAD1001",
+    "course_number": 1001,
+    "course_title": "MPAD1001 [0.5 credit]",
+    "course_desc": "Theories, origins and evolution of story within society as the digital age shapes the way we construct and consume narratives. How stories are conceived through words, sound and images, and how they resonate with and influence audiences.",
+    "course_extra_details": "Lectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MPAD 1002",
+    "course_code": "MPAD1002",
+    "course_number": 1002,
+    "course_title": "MPAD1002 [0.5 credit]",
+    "course_desc": "Finding and telling stories in engaging ways using text and basic images. Assignments build basic skills in research, interviewing, writing, storytelling, editing and ethics. How to structure and pitch for publication.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): MPAD1001.\nWorkshop three hours a week.\n",
+    "course_prerequisites": "MPAD1001.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MPAD 2001",
+    "course_code": "MPAD2001",
+    "course_number": 2001,
+    "course_title": "MPAD2001 [0.5 credit]",
+    "course_desc": "Introduction to visual storytelling through video. Students develop editorial and technical skills to produce video stories that include scripting to images. Students will also learn the basics of video shooting on a range of equipment as well as basic video editing skills.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): MPAD1002.\nWorkshop three hours a week.\n",
+    "course_prerequisites": "MPAD1002.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MPAD 2002",
+    "course_code": "MPAD2002",
+    "course_number": 2002,
+    "course_title": "MPAD2002 [0.5 credit]",
+    "course_desc": "This course expands from video theory and practice to still photography and multimedia projects, with emphasis on hands-on work with a theoretical underpinning, giving students the practical and technical skills to tell stories in multiple formats.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): MPAD2001.\nWorkshop three hours a week.\n",
+    "course_prerequisites": "MPAD2001.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MPAD 2003",
+    "course_code": "MPAD2003",
+    "course_number": 2003,
+    "course_title": "MPAD2003 [0.5 credit]",
+    "course_desc": "Governments use data for tracking. Numbers guide public policy and can become powerful and important stories. Students will gain a theoretical understanding of the promise and pitfalls of data availability alongside the practical skills needed for powerful data-based storytelling.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): MPAD1002.\nWorkshop three hours a week.\n",
+    "course_prerequisites": "MPAD1002.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MPAD 2004",
+    "course_code": "MPAD2004",
+    "course_number": 2004,
+    "course_title": "MPAD2004 [0.5 credit]",
+    "course_desc": "This course tests student baseline skills, then develops writing capabilities tailored to specific media formats. Coursework is based on the principle that the best way to improve technique is through regular writing and timely constructive critiques.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): MPAD1002.\nWorkshop three hours a week.\n",
+    "course_prerequisites": "MPAD1002.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MPAD 2501",
+    "course_code": "MPAD2501",
+    "course_number": 2501,
+    "course_title": "MPAD2501 [0.5 credit]",
+    "course_desc": "A survey of laws that affect the Canadian media. Specific areas include the development of freedom of expression, the Charter of Rights and Freedoms, and statutory and common law limitations on freedoms of the press, including publication bans, libel and contempt of court.",
+    "course_extra_details": "Also listed as COMS2501, JOUR2501.\nPrerequisite(s): Second-year standing in the Bachelor of Media Production and Design program.\nLectures three hours a week.\n",
+    "course_prerequisites": "Second-year standing in the Bachelor of Media Production and Design program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MPAD 3000",
+    "course_code": "MPAD3000",
+    "course_number": 3000,
+    "course_title": "MPAD3000 [0.5 credit]",
+    "course_desc": "Directed Studies on select topics. Students interested in pursuing this course need to contact a faculty member to discuss a proposed directed study.",
+    "course_extra_details": "Prerequisite(s): Third year standing in Media Production and Design or permission from the School of Journalism and Communication.\nUnscheduled.\n",
+    "course_prerequisites": "Third year standing in Media Production and Design or permission from the School of Journalism and Communication.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MPAD 3001",
+    "course_code": "MPAD3001",
+    "course_number": 3001,
+    "course_title": "MPAD3001 [0.5 credit]",
+    "course_desc": "Social media in storytelling. Theory-based lectures, hands-on course modules, discussions and presentations. Students will learn tactics to apply social media for research, gathering information, finding contacts and promoting their own work.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): MPAD2004.\nLecture three hours a week.\n",
+    "course_prerequisites": "MPAD2004.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MPAD 3002",
+    "course_code": "MPAD3002",
+    "course_number": 3002,
+    "course_title": "MPAD3002 [0.5 credit]",
+    "course_desc": "Expert sources from Canadian institutions discuss covering the economy, justice, environment and security. How public policy is made, the role of the public and how the media analyze information, develop ideas, and produce stories.",
+    "course_extra_details": "Prerequisite(s): third-year standing in the Bachelor of Media Production and Design or the Bachelor of Journalism, or third-year standing and enrollment in the Minor in News Media and Information.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing in the Bachelor of Media Production and Design or the Bachelor of Journalism, or third-year standing and enrollment in the Minor in News Media and Information.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "MPAD 3003",
+    "course_code": "MPAD3003",
+    "course_number": 3003,
+    "course_title": "MPAD3003 [0.5 credit]",
+    "course_desc": "Group work building on the fall term course. Production of a public institutions mini-project involving the various development stages that will be employed in the final year capstone project, including the creation of a detailed design document to guide group projects.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): MPAD3002.\nWorkshop three hours a week.\n",
+    "course_prerequisites": "MPAD3002.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MPAD 3300",
+    "course_code": "MPAD3300",
+    "course_number": 3300,
+    "course_title": "MPAD3300 [0.5 credit]",
+    "course_desc": "An examination of ethical issues relating to production of news and other forms of information content, particularly as they relate to digital environments. Discussion of various approaches to ethical decision-making, application in contemporary settings.",
+    "course_extra_details": "Also listed as JOUR3300.\nPrerequisite(s): MPAD2501.\nLectures three hours a week.\n",
+    "course_prerequisites": "MPAD2501.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MPAD 3501",
+    "course_code": "MPAD3501",
+    "course_number": 3501,
+    "course_title": "MPAD3501 [0.5 credit]",
+    "course_desc": "The legal use of big data to create content and analyze information. Who owns data; privacy and security implications within a legal landscape fraught with legal concerns and policy challenges.",
+    "course_extra_details": "Prerequisite(s): JOUR2501 or MPAD2501 and third-year standing in the Bachelor of Media Production and Design or in the Bachelor of Journalism, or third-year standing and enrollment in the Minor in News Media and Information.\nLectures three hours a week.\n",
+    "course_prerequisites": "JOUR2501 or MPAD2501 and third-year standing in the Bachelor of Media Production and Design or in the Bachelor of Journalism, or third-year standing and enrollment in the Minor in News Media and Information.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "MPAD 3600",
+    "course_code": "MPAD3600",
+    "course_number": 3600,
+    "course_title": "MPAD3600 [0.5 credit]",
+    "course_desc": "Examination of a topic in storytelling and media not covered in depth in other courses.",
+    "course_extra_details": "Prerequisite(s): third-year standing in the Bachelor of Media Production and Design program.\nLecture three hours a week.\n",
+    "course_prerequisites": "third-year standing in the Bachelor of Media Production and Design program.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "MPAD 3999",
+    "course_code": "MPAD3999",
+    "course_number": 3999,
+    "course_title": "MPAD3999 [0.0 credit]",
+    "course_desc": "Includes: Experiential Learning ActivityPrerequisite(s): MPAD 2002.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): MPAD2002.\n",
+    "course_prerequisites": "MPAD2002.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MPAD 4000",
+    "course_code": "MPAD4000",
+    "course_number": 4000,
+    "course_title": "MPAD4000 [1.0 credit]",
+    "course_desc": "Student groups develop a capstone project beginning with story development and planning, completion of a story design document including project description, research, key vistas and sketches or storyboards. Group presentations leading to final media project at the end of second term.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): MPAD2002, MPAD3003, ITEC2100, ITEC2400 and fourth-year standing in the Bachelor of Media Production and Design program.\n",
+    "course_prerequisites": "MPAD2002, MPAD3003, ITEC2100, ITEC2400 and fourth-year standing in the Bachelor of Media Production and Design program.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "MPAD 4001",
+    "course_code": "MPAD4001",
+    "course_number": 4001,
+    "course_title": "MPAD4001 [0.5 credit]",
+    "course_desc": "Changes in the media, the public\u2019s relationship with the media and how journalists, news organizations and other media players respond. Practical issues and challenges in the professional life of an information producer.",
+    "course_extra_details": "Also listed as JOUR4001.\nPrerequisite(s): Fourth-year standing in the Bachelor of Media Production and Design program.\nLectures and discussions three hours a week.\n",
+    "course_prerequisites": "Fourth-year standing in the Bachelor of Media Production and Design program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MPAD 4200",
+    "course_code": "MPAD4200",
+    "course_number": 4200,
+    "course_title": "MPAD4200 [0.5 credit]",
+    "course_desc": "Preparation for freelancing to publications and production houses. Resumes, finding potential buyers, interviews, establishing and marketing an individual as a business, accounting and management and dealing with taxes and benefits. Pitching stories, ideas and services.",
+    "course_extra_details": "Prerequisite(s): Fourth-year standing in the Bachelor of Media Production and Design program.\nLectures three hours a week.\n",
+    "course_prerequisites": "Fourth-year standing in the Bachelor of Media Production and Design program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MPAD 4300",
+    "course_code": "MPAD4300",
+    "course_number": 4300,
+    "course_title": "MPAD4300 [0.5 credit]",
+    "course_desc": "Students will choose a topic from a list of journalism options, to be announced each year.",
+    "course_extra_details": "Also listed as JOUR4300.\nPrerequisite(s): Fourth-year standing in the Bachelor of Media Production and Design program.\nSeminar three hours a week.\n",
+    "course_prerequisites": "Fourth-year standing in the Bachelor of Media Production and Design program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MPAD 4400",
+    "course_code": "MPAD4400",
+    "course_number": 4400,
+    "course_title": "MPAD4400 [0.5 credit]",
+    "course_desc": "Directed study on select topics. Students interested in pursuing this course need to contact a faculty member to discuss a proposed directed study.",
+    "course_extra_details": "Prerequisite(s): Third year standing in Media Production and Design or permission from the School of Journalism and Communication.\nUnscheduled.\n",
+    "course_prerequisites": "Third year standing in Media Production and Design or permission from the School of Journalism and Communication.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MPAD 4500",
+    "course_code": "MPAD4500",
+    "course_number": 4500,
+    "course_title": "MPAD4500 [0.5 credit]",
+    "course_desc": "Examination of a topic in storytelling and media not covered in depth in other courses.",
+    "course_extra_details": "Also listed as JOUR4500.\nPrerequisite(s): Fourth-year standing in the Bachelor of Media Production and Design program.\nSeminar three hours a week.\n",
+    "course_prerequisites": "Fourth-year standing in the Bachelor of Media Production and Design program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "MPAD 4501",
+    "course_code": "MPAD4501",
+    "course_number": 4501,
+    "course_title": "MPAD4501 [0.5 credit]",
+    "course_desc": "How social concepts of gender, identity and inequality influence journalism.  Theoretical and textual analysis.  Historical and contemporary case studies from mainstream and alternative media exploring journalistic expression, professional practices, status and expectations, and cultural representations.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as JOUR4501.\nPrerequisite(s): fourth-year standing in the Bachelor of Media Production and Design program.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year standing in the Bachelor of Media Production and Design program.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "MPAD 4502",
+    "course_code": "MPAD4502",
+    "course_number": 4502,
+    "course_title": "MPAD4502 [0.5 credit]",
+    "course_desc": "For as long as there has been conflict between peoples, there have been those who bear witness and recount their observations.  This course examines journalism and conflict with an emphasis on journalistic perspectives but also through discussion of interdisciplinary literature and academic research.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as JOUR4502.\nPrerequisite(s): fourth-year standing in the Bachelor of Media Production and Design program.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year standing in the Bachelor of Media Production and Design program.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "MPAD 4503",
+    "course_code": "MPAD4503",
+    "course_number": 4503,
+    "course_title": "MPAD4503 [0.5 credit]",
+    "course_desc": "Students will explore how journalism in Canada has been associated with colonialism, be challenged to confront misrepresentation in the news media, and learn to consider new strategies and ethical frameworks for covering Indigenous people in the era of reconciliation.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as JOUR4503.\nPrerequisite(s): fourth-year standing in the Bachelor of Media Production and Design program.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year standing in the Bachelor of Media Production and Design program.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "MPAD 4504",
+    "course_code": "MPAD4504",
+    "course_number": 4504,
+    "course_title": "MPAD4504 [0.5 credit]",
+    "course_desc": "A critical examination of the use of journalism as an instrument of international development, historically and currently.  To what extent have these efforts been successful?  On what grounds are they justified? In what regard have they been instruments of propaganda.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as JOUR4504.\nPrerequisite(s): fourth-year standing in the Bachelor of Media Production and Design program.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year standing in the Bachelor of Media Production and Design program.",
+    "year_standing": 4
+}]}

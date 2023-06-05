@@ -1,0 +1,77 @@
+{"object": [
+{
+    "course_identifier": "SREE 1000",
+    "course_code": "SREE1000",
+    "course_number": 1000,
+    "course_title": "SREE1000 [0.0 credit]",
+    "course_desc": "The concept of energy sustainability. Energy-economy system. Global energy trends, the next 100 years. Energy reserves and resources. Primary and secondary clean energy. Energy use, efficiency and renewables. Energy and the environment/climate change. Sustainable energy choices and policies.",
+    "course_extra_details": "Prerequisite(s): registration in Sustainable and Renewable Energy Engineering.\nLectures one hour per week.\n",
+    "course_prerequisites": "registration in Sustainable and Renewable Energy Engineering.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "SREE 3001",
+    "course_code": "SREE3001",
+    "course_number": 3001,
+    "course_title": "SREE3001 [0.5 credit]",
+    "course_desc": "Primary energy sources and their associated fundamental physics of conversion. Renewables: wind, large hydro, solar radiation, solar thermal. Fossil and biofuels. Nuclear. Climate science: the carbon cycle and the role of anthropogenic GHG emissions in climate warming. Terrestrial, thermodynamic and electrical limitations.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ENVE2001 and MAAE2300 and (ELEC2602 or fourth-year status in Environmental Engineering).\nLectures three hours per week, laboratories/problem analysis one hour per week.\n",
+    "course_prerequisites": "ENVE2001 and MAAE2300 and (ELEC2602 or fourth-year status in Environmental Engineering).",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "SREE 3002",
+    "course_code": "SREE3002",
+    "course_number": 3002,
+    "course_title": "SREE3002 [0.5 credit]",
+    "course_desc": "Electricity Distribution: topology, load characteristics, load prediction, voltage regulation, power flow, power loss, capacitors, state estimation, system reliability, system protection. Distribution Automation: components and architectures, communication systems. Distributed Generation: guides and regulations, microgrids, case study.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): SREE3001 and (ELEC2602 or ELEC3605).\nLectures three hours per week, laboratories three hours per week alternate weeks.\n",
+    "course_prerequisites": "SREE3001 and (ELEC2602 or ELEC3605).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "SREE 3003",
+    "course_code": "SREE3003",
+    "course_number": 3003,
+    "course_title": "SREE3003 [0.5 credit]",
+    "course_desc": "Power system structures; photovoltaic cell: model, current\u2010voltage curves, maximum power point tracking, grid connection; grid connection of wind generator; DC\u2010AC and AC\u2010DC converter simulation and analysis; energy storage classification; battery: equivalent circuit model, charging and discharging; renewable generation; feed\u2010in tariff program.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): SREE3001 and (ELEC2602 or ELEC3605).\nLectures three hours per week, laboratories three hours per week alternate weeks.\n",
+    "course_prerequisites": "SREE3001 and (ELEC2602 or ELEC3605).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "SREE 4001",
+    "course_code": "SREE4001",
+    "course_number": 4001,
+    "course_title": "SREE4001 [0.5 credit]",
+    "course_desc": "Sustainable large-scale power generation. Geothermal, solar thermal, hydrogen power plants. Thermal grids and thermal energy storage. Environmental and economic aspects of power generation. Impacts of intermittent power generation. Sizing of wind, solar PV, run-of-river hydro, and offshore power plants. Current and future energy network topologies.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for MECH4403.\nPrerequisite(s): MAAE2300, MAAE2400 and fourth year status in Sustainable & Renewable Energy Engineering.\nLectures three hours per week, laboratories/problem analysis three hours per week.\n",
+    "course_prerequisites": "MAAE2300, MAAE2400 and fourth year status in Sustainable & Renewable Energy Engineering.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "SREE 4002",
+    "course_code": "SREE4002",
+    "course_number": 4002,
+    "course_title": "SREE4002 [0.5 credit]",
+    "course_desc": "Energy technologies exist within a context of economic, policy, and behavioral choices that affect their adoption. This course will introduce engineering methods for analyzing risk, uncertainty, and system-level decision-making. We will investigate criteria that affect energy systems: reliability, resilience, economics, financing, health, and environmental impacts.",
+    "course_extra_details": "Prerequisite(s): fourth-year status in Engineering.\nLectures three hours per week.\n",
+    "course_prerequisites": "fourth-year status in Engineering.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "SREE 4907",
+    "course_code": "SREE4907",
+    "course_number": 4907,
+    "course_title": "SREE4907 [1.0 credit]",
+    "course_desc": "Student teams develop professional-level experience by applying, honing, integrating and extending previously acquired knowledge in a major design project. Lectures are devoted to discussing project-related issues and student presentations. A project proposal, interim report, oral presentations, and a comprehensive final report are required.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ECOR3800, SREE3002 and SREE3003, and fourth-year status in Sustainable and Renewable Energy Engineering. Certain projects may have additional prerequisites or corequisites.\n \n",
+    "course_prerequisites": "ECOR3800, SREE3002 and SREE3003, and fourth-year status in Sustainable and Renewable Energy Engineering. Certain projects may have additional prerequisites or corequisites.",
+    "year_standing": 4
+}]}

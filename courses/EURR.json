@@ -1,0 +1,374 @@
+{"object": [
+{
+    "course_identifier": "EURR 1001",
+    "course_code": "EURR1001",
+    "course_number": 1001,
+    "course_title": "EURR1001 [0.5 credit]",
+    "course_desc": "An introduction to the study of Europe and Russia, including aspects of the histories, societies, cultures, and politics of the region.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nLectures/groups three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "EURR 2001",
+    "course_code": "EURR2001",
+    "course_number": 2001,
+    "course_title": "EURR2001 [0.5 credit]",
+    "course_desc": "An interdisciplinary examination of social, political, and economic issues facing Europe, including the countries of the European Union, Eastern Europe, and Russia.",
+    "course_extra_details": "Prerequisite(s): second-year standing.\nLecture and discussion three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "EURR 2002",
+    "course_code": "EURR2002",
+    "course_number": 2002,
+    "course_title": "EURR2002 [0.5 credit]",
+    "course_desc": "The position of Europe, the European Union, and the Russian Federation in a global context, including  geopolitical, economic, security, and human dimensions.",
+    "course_extra_details": "Prerequisite(s): second year standing.\nLecture and discussion three hours a week.\n",
+    "course_prerequisites": "second year standing.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "EURR 3001",
+    "course_code": "EURR3001",
+    "course_number": 3001,
+    "course_title": "EURR3001 [0.5 credit]",
+    "course_desc": "A survey of the literature and cultural texts that have defined Europe. Examination of fiction and non-fiction texts that have contributed to and reflected the development of European culture and society.",
+    "course_extra_details": "Also listed as ENGL3804.\nPrecludes additional credit for EURR 2000 or ENGL 2010.\nPrerequisite(s): second year standing.\nLecture and discussion three hours a week.\n",
+    "course_prerequisites": "second year standing.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "EURR 3002",
+    "course_code": "EURR3002",
+    "course_number": 3002,
+    "course_title": "EURR3002 [0.5 credit]",
+    "course_desc": "A survey of the literature and cultural texts that have defined Russian and neighboring Slavic countries. Examination of fiction and non-fiction texts that have contributed to and reflected the development of Russian and Slavic culture and society.",
+    "course_extra_details": "Also listed as ENGL3805.\nPrecludes additional credit for EURR 2000 and ENGL 2010.\nPrerequisite(s): second-year standing.\nLecture and discussion three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "EURR 3999",
+    "course_code": "EURR3999",
+    "course_number": 3999,
+    "course_title": "EURR3999 [0.0 credit]",
+    "course_desc": "Includes: Experiential Learning ActivityPrerequisite(s): registration in the B.A. European and Russian Studies (Honours) Co-operative option, completion of the Co-op preparation classes offered by the Co-op Office and permission of the Institute. ",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): registration in the B.A. European and Russian Studies (Honours) Co-operative option, completion of the Co-op preparation classes offered by the Co-op Office and permission of the Institute.\n \n",
+    "course_prerequisites": "registration in the B.A. European and Russian Studies (Honours) Co-operative option, completion of the Co-op preparation classes offered by the Co-op Office and permission of the Institute.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "EURR 4002",
+    "course_code": "EURR4002",
+    "course_number": 4002,
+    "course_title": "EURR4002 [0.5 credit]",
+    "course_desc": "The relationship between social forces and state structures at both the national and local levels in the USSR and the post-Soviet states.",
+    "course_extra_details": "Also listed as PSCI4502.\nPrerequisite(s): fourth-year Honours standing or permission of the Institute.\nAlso offered at the graduate level, with different requirements, as EURR5002, PSCI5110, for which additional credit is precluded.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year Honours standing or permission of the Institute.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "EURR 4003",
+    "course_code": "EURR4003",
+    "course_number": 4003,
+    "course_title": "EURR4003 [0.5 credit]",
+    "course_desc": "Social issues and policies in the European Union including European identity, democratic legitimacy, nationalist and extremist political movements, Euroscepticism, migration and immigration, social inclusion/exclusion and social models, gender and family policy, regional differentiation.",
+    "course_extra_details": "Precludes additional credit for EURR 4000.\nPrerequisite(s): fourth-year Honours standing or permission of the Institute.\nAlso offered at the graduate level, with different requirements, as EURR5003, for which additional credit is precluded.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year Honours standing or permission of the Institute.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "EURR 4008",
+    "course_code": "EURR4008",
+    "course_number": 4008,
+    "course_title": "EURR4008 [0.5 credit]",
+    "course_desc": "Ethnic basis of nationalism in the region. Ethnic politics and trends.",
+    "course_extra_details": "Prerequisite(s): fourth-year Honours standing or permission of the Institute.\nAlso offered at the graduate level, with different requirements, as EURR5008, for which additional credit is precluded.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year Honours standing or permission of the Institute.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "EURR 4100",
+    "course_code": "EURR4100",
+    "course_number": 4100,
+    "course_title": "EURR4100 [0.5 credit]",
+    "course_desc": "Processes of nation building in the region examined in terms of a particular country, or set of countries.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year Honours standing or permission of the Institute.\nAlso offered at the graduate level, with different requirements, as EURR5100, for which additional credit is precluded.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year Honours standing or permission of the Institute.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "EURR 4101",
+    "course_code": "EURR4101",
+    "course_number": 4101,
+    "course_title": "EURR4101 [0.5 credit]",
+    "course_desc": "The seminar uses the concept of transition to understand the Balkan encounter with modernity and Europe. Key periods to be examined include the interwar era and the period of communist rule, with an emphasis on political, social and economic themes.",
+    "course_extra_details": "Also listed as HIST4605.\nPrerequisite(s): fourth-year Honours standing or permission of the Institute.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year Honours standing or permission of the Institute.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "EURR 4102",
+    "course_code": "EURR4102",
+    "course_number": 4102,
+    "course_title": "EURR4102 [0.5 credit]",
+    "course_desc": "Selected topics in Balkan politics and society since the collapse of communism in 1989, focusing on the democratic transition and the EU accession process.  The legacies of communist rule, democratization and the many national questions that still exist in the region.",
+    "course_extra_details": "Also listed as PSCI4507.\nPrerequisite(s): fourth-year Honours standing or permission of the Institute.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year Honours standing or permission of the Institute.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "EURR 4103",
+    "course_code": "EURR4103",
+    "course_number": 4103,
+    "course_title": "EURR4103 [0.5 credit]",
+    "course_desc": "A study of masterpieces of prose fiction from the Golden Age of Russian literature.  Readings will be chosen from writers such as Turgenev, Tolstoy, Dostoevsky, Gogol, and/or others.  All texts will be studied in English translation.",
+    "course_extra_details": "Also listed as ENGL4600.\nPrerequisite(s): Third-year standing.\nLecture three hours a week.\n",
+    "course_prerequisites": "Third-year standing.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "EURR 4104",
+    "course_code": "EURR4104",
+    "course_number": 4104,
+    "course_title": "EURR4104 [0.5 credit]",
+    "course_desc": "Issues related to the formation of supra-national decision-making structures in Europe.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as PSCI4608.\nPrerequisite(s): fourth-year Honours standing or permission of the Institute.\nAlso offered at the graduate level, with different requirements, as EURR5104, for which additional credit is precluded.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year Honours standing or permission of the Institute.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "EURR 4106",
+    "course_code": "EURR4106",
+    "course_number": 4106,
+    "course_title": "EURR4106 [0.5 credit]",
+    "course_desc": "Selected topics related to European integration in the post-World War II period.",
+    "course_extra_details": "Also listed as PSCI4609.\nPrerequisite(s): fourth-year Honours standing or permission of the Institute.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year Honours standing or permission of the Institute.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "EURR 4107",
+    "course_code": "EURR4107",
+    "course_number": 4107,
+    "course_title": "EURR4107 [0.5 credit]",
+    "course_desc": "Domestic conditions in Russia from 2000 to the present and the framing of Russia\u2019s foreign policy and strategic objectives towards the former Soviet republics and other key global actors, including the United States, the European Union, NATO and China.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year Honours standing or permission of the Institute.\nAlso offered at the graduate level, with different requirements, as EURR5107, for which additional credit is precluded.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year Honours standing or permission of the Institute.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "EURR 4201",
+    "course_code": "EURR4201",
+    "course_number": 4201,
+    "course_title": "EURR4201 [0.5 credit]",
+    "course_desc": "A seminar focusing on selected topics related to Europe.",
+    "course_extra_details": "Prerequisite(s): fourth-year Honours standing or permission of the Institute.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year Honours standing or permission of the Institute.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "EURR 4202",
+    "course_code": "EURR4202",
+    "course_number": 4202,
+    "course_title": "EURR4202 [0.5 credit]",
+    "course_desc": "A seminar focusing on selected topics related to Russia and neighbouring countries.",
+    "course_extra_details": "Prerequisite(s): fourth-year Honours standing or permission of the Institute.\nAlso offered at the graduate level, with different requirements, as EURR5202, for which additional credit is precluded.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year Honours standing or permission of the Institute.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "EURR 4204",
+    "course_code": "EURR4204",
+    "course_number": 4204,
+    "course_title": "EURR4204 [0.5 credit]",
+    "course_desc": "Evolution and current status of Central Europe from periods of foreign control in the late nineteenth and twentieth centuries to independent statehood, with  emphasis on national accommodations and conflicts.",
+    "course_extra_details": "Also listed as HIST4604.\nPrerequisite(s): fourth-year Honours standing or permission of the Institute.\nAlso offered at the graduate level, with different requirements, as EURR5204, for which additional credit is precluded.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year Honours standing or permission of the Institute.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "EURR 4205",
+    "course_code": "EURR4205",
+    "course_number": 4205,
+    "course_title": "EURR4205 [0.5 credit]",
+    "course_desc": "The relationships between political transformation, identity-building, ethnicity, and gender politics in post-communist states, considered in comparison with select countries in Central and/or Western Europe.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as PSCI4501.\nPrerequisite(s): fourth-year Honours standing or permission of the Department and one of GPOL 1000, GPOL1500, GPOL2500, PSCI2101, PSCI2102, PSCI  2500, PSCI3208, PSCI3209, PSCI 3500, PSCI3502, PSCI 3704, or PSCI 3705.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year Honours standing or permission of the Department and one of GPOL 1000, GPOL1500, GPOL2500, PSCI2101, PSCI2102, PSCI  2500, PSCI3208, PSCI3209, PSCI 3500, PSCI3502, PSCI 3704, or PSCI 3705.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "EURR 4206",
+    "course_code": "EURR4206",
+    "course_number": 4206,
+    "course_title": "EURR4206 [0.5 credit]",
+    "course_desc": "A seminar accompanying an unpaid internship placement to develop workplace and applied policy skills. Relating applied experience to academic literature. Writing skills for an applied policy setting. Internship placement: 12 days over l2 weeks.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): open only to fourth-year EURUS B.A. Honours students with a minimum B+ average and placement in an internship position in the same semester or in the previous semester (based on a competitive application process).\nAlso offered at the graduate level, with different requirements, as EURR  5301, for which additional credit is precluded.\nSeminar: six three-hour seminar sessions.\n",
+    "course_prerequisites": "open only to fourth-year EURUS B.A. Honours students with a minimum B+ average and placement in an internship position in the same semester or in the previous semester (based on a competitive application process).",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "EURR 4207",
+    "course_code": "EURR4207",
+    "course_number": 4207,
+    "course_title": "EURR4207 [0.5 credit]",
+    "course_desc": "Examination of the Caucasus and Central Asia, from Chechnya to former Soviet republics of the region, Afghanistan and Chinese Turkestan. Interests of Russia, China, and the United States. Emphasis on underdevelopment, oil and gas, terrorism, Islam.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as PSCI4503.\nPrerequisite(s): fourth year Honours standing or permission of the Institute.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth year Honours standing or permission of the Institute.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "EURR 4208",
+    "course_code": "EURR4208",
+    "course_number": 4208,
+    "course_title": "EURR4208 [0.5 credit]",
+    "course_desc": "The foreign policies of the USSR and of Russia and selected other successor states, with special emphasis on the search for a new security order.",
+    "course_extra_details": "Also listed as PSCI4601.\nPrerequisite(s): fourth-year Honours standing or permission of the Institute.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year Honours standing or permission of the Institute.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "EURR 4209",
+    "course_code": "EURR4209",
+    "course_number": 4209,
+    "course_title": "EURR4209 [0.5 credit]",
+    "course_desc": "Examination of the South Caucasus (Azerbaijan, Georgia, Armenia), the Russian-held North Caucasus, including Chechnya, and relations with Iran. Emphasis on state and society, oil and gas, transregional communications, interests of western powers, ethnic relations.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as PSCI4504.\nPrerequisite(s): fourth-year Honours standing or permission of the Institute.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year Honours standing or permission of the Institute.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "EURR 4302",
+    "course_code": "EURR4302",
+    "course_number": 4302,
+    "course_title": "EURR4302 [0.5 credit]",
+    "course_desc": "This course is open only to students in approved summer study options in Europe, particularly the EU Study Tour.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): approval of the Institute.\nAlso offered at the graduate level, with different requirements, as EURR5302, for which additional credit is precluded.\n \n",
+    "course_prerequisites": "approval of the Institute.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "EURR 4303",
+    "course_code": "EURR4303",
+    "course_number": 4303,
+    "course_title": "EURR4303 [0.5 credit]",
+    "course_desc": "History of contemporary Europe from 1945 to present covering both eastern and western halves of the continent and including social, cultural, political, and economic dimensions.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as HIST4606.\nPrerequisite(s): fourth-year Honours standing or permission of the Institute.\nAlso offered at the graduate level, with different requirements, as EURR5303, for which additional credit is precluded.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year Honours standing or permission of the Institute.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "EURR 4304",
+    "course_code": "EURR4304",
+    "course_number": 4304,
+    "course_title": "EURR4304 [0.5 credit]",
+    "course_desc": "Europe\u2019s role in international migration. Topics to be discussed may include migration and mobility as both assets and challenges for sending, transit, and destination countries, changing geographies of migration, inclusion and exclusion, political mobilization, and responses of European states and other actors.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year Honours standing or permission of the Institute.\nAlso offered at the graduate level, with different requirements, as EURR5304, for which additional credit is precluded.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year Honours standing or permission of the Institute.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "EURR 4305",
+    "course_code": "EURR4305",
+    "course_number": 4305,
+    "course_title": "EURR4305 [0.5 credit]",
+    "course_desc": "Examination of the expansion and downfall of tsarist Russia from the eighteenth century to the revolutionary era and the establishment of Bolshevik rule.  Topics include the relationship between the monarchy and subject peoples, social and economic change, and daily life.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as HIST4607.\nPrecludes additional credit for EURR 4203.\nPrerequisite(s): fourth-year Honours standing or permission of the Institute.\nAlso offered at the graduate level, with different requirements, as EURR5305, for which additional credit is precluded.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year Honours standing or permission of the Institute.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "EURR 4306",
+    "course_code": "EURR4306",
+    "course_number": 4306,
+    "course_title": "EURR4306 [0.5 credit]",
+    "course_desc": "Examination of the rise of the Soviet Union to a global power and subsequent tensions that promoted its collapse.  The course will analyze Stalinism, the Second World War, the Thaw, and Brezhnev and Gorbachev eras through the lens of the USSR\u2019s citizens.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as HIST4608.\nPrecludes additional credit for EURR 4203.\nPrerequisite(s): fourth-year Honours standing or permission of the Institute.\nAlso offered at the graduate level, with different requirements, as EURR5306, for which additional credit is precluded.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year Honours standing or permission of the Institute.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "EURR 4704",
+    "course_code": "EURR4704",
+    "course_number": 4704,
+    "course_title": "EURR4704 [0.5 credit]",
+    "course_desc": "The economic, political, legal, and cultural environment for doing business in the European Union and other regions in Europe. Patterns of foreign trade and investment, market characteristics, science and technology, regulation and European integration, and business culture.",
+    "course_extra_details": "Also listed as BUSI4704.\nPrecludes additional credit for EURR 4006 (no longer offered), BUSI 4604 (no longer offered).\nPrerequisite(s): third-year standing.\nSeminar three hours a week.\n",
+    "course_prerequisites": "third-year standing.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "EURR 4900",
+    "course_code": "EURR4900",
+    "course_number": 4900,
+    "course_title": "EURR4900 [1.0 credit]",
+    "course_desc": "Tutorials or reading courses on selected topics may be arranged with the permission of the Institute and agreement of the instructor.",
+    "course_extra_details": "Prerequisite(s): permission of the Institute.\n \n",
+    "course_prerequisites": "permission of the Institute.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "EURR 4901",
+    "course_code": "EURR4901",
+    "course_number": 4901,
+    "course_title": "EURR4901 [0.5 credit]",
+    "course_desc": "Tutorials or reading courses on selected topics may be arranged with the permission of the Institute and agreement of the instructor.",
+    "course_extra_details": "Prerequisite(s): permission of the Institute.\n \n",
+    "course_prerequisites": "permission of the Institute.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "EURR 4902",
+    "course_code": "EURR4902",
+    "course_number": 4902,
+    "course_title": "EURR4902 [0.5 credit]",
+    "course_desc": "Tutorials or reading courses on selected topics may be arranged with the permission of the Institute and agreement of the instructor.",
+    "course_extra_details": "Prerequisite(s): permission of the Institute.\n \n",
+    "course_prerequisites": "permission of the Institute.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "EURR 4908",
+    "course_code": "EURR4908",
+    "course_number": 4908,
+    "course_title": "EURR4908 [1.0 credit]",
+    "course_desc": "Individual research project resulting in a major essay, completed under the supervision of a faculty member and evaluated by the supervisor and a second reader. Students should consult with the Supervisor of Undergraduate Studies regarding the topic and supervisor. Institute\u2019s Honours Essay guidelines apply.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing, a CGPA of 9.00 or higher in courses qualifying for credit in European and Russian Studies, and permission of the Institute.\n \n",
+    "course_prerequisites": "fourth-year standing, a CGPA of 9.00 or higher in courses qualifying for credit in European and Russian Studies, and permission of the Institute.",
+    "year_standing": 4
+}]}

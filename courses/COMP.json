@@ -1,0 +1,825 @@
+{"object": [
+{
+    "course_identifier": "COMP 0999",
+    "course_code": "COMP0999",
+    "course_number": 999,
+    "course_title": "COMP0999 [0.0 credit]",
+    "course_desc": "",
+    "course_extra_details": null,
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 1001",
+    "course_code": "COMP1001",
+    "course_number": 1001,
+    "course_title": "COMP1001 [0.5 credit]",
+    "course_desc": "An introduction to computational thinking and its applications to the arts and social sciences.  Students will gain computational thinking skills by exploring data representation, basic programming concepts, a selection of algorithms, and advanced usage of software packages for the arts and social sciences.",
+    "course_extra_details": "Precludes additional credit for COMP 1004 (no longer offered).  This course cannot be taken for credit by students in Business, Engineering, Computer Science, Mathematics or Science.\nLectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 1005",
+    "course_code": "COMP1005",
+    "course_number": 1005,
+    "course_title": "COMP1005 [0.5 credit]",
+    "course_desc": "Introduction to computer science and programming. Topics include: algorithm design; control structures; variables and types; linear collections; functions; debugging and testing. Special attention is given to procedural programming in a modern language, computational thinking skills, and problem decomposition.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for BIT1400, CGSC1005, COMP1405, ECOR1041, ECOR1042, ECOR1051, ECOR1606, ITEC1400, ITEC1401, SYSC1005.\nLectures three hours a week, tutorial one and a half hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 1006",
+    "course_code": "COMP1006",
+    "course_number": 1006,
+    "course_title": "COMP1006 [0.5 credit]",
+    "course_desc": "A second course in programming emphasizing problem solving and computational thinking in an object-oriented language. Topics include abstraction, mutable data structures, methods, inheritance, polymorphism, recursion, program efficiency, testing and debugging.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for BIT2400, BUSI2402, COMP1406, ITEC2400, ITEC2401, SYSC2004.\nPrerequisite(s): COMP1005 or COMP1405.\nLectures three hours a week, tutorial one and a half hours a week.\n",
+    "course_prerequisites": "COMP1005 or COMP1405.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 1008",
+    "course_code": "COMP1008",
+    "course_number": 1008,
+    "course_title": "COMP1008 [0.5 credit]",
+    "course_desc": "Math for building 3D games. Points, vectors, normals. Dot and cross products. Transformations and inverses in left- and right-handed systems. Uses for controlling objects, cameras, and texture manipulation. Bounding boxes, planes, frustums for collision detection and visibility, fast billboarding techniques, point and sphere sweeping. Quaternions.",
+    "course_extra_details": "Prerequisite(s): one Grade 12 university preparation mathematics course.\nLectures three hours a week, tutorial one and a half hours a week.\n",
+    "course_prerequisites": "one Grade 12 university preparation mathematics course.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 1405",
+    "course_code": "COMP1405",
+    "course_number": 1405,
+    "course_title": "COMP1405 [0.5 credit]",
+    "course_desc": "Introduction to computer science and programming, for computer science students. Topics include: algorithm design; control structures; variables and types; linear collections; functions; debugging and testing. Special attention is given to procedural programming in a modern language, computational thinking skills, and problem decomposition.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for BIT1400, CGSC1005, COMP1005, ECOR1041, ECOR1042, ECOR1051, ECOR1606, ITEC1400, ITEC1401, SYSC1005.\nPrerequisite(s): restricted to students registered in the B.C.S. program, combined Honours in Computer Science and Mathematics, Honours Computer Mathematics, and Honours Computer Statistics.\nLectures three hours a week, tutorial one and a half hours a week.\n",
+    "course_prerequisites": "restricted to students registered in the B.C.S. program, combined Honours in Computer Science and Mathematics, Honours Computer Mathematics, and Honours Computer Statistics.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 1406",
+    "course_code": "COMP1406",
+    "course_number": 1406,
+    "course_title": "COMP1406 [0.5 credit]",
+    "course_desc": "A second course in programming for BCS students, emphasizing problem solving and computational thinking in an object-oriented language. Topics include abstraction, mutable data structures, methods, inheritance, polymorphism, recursion, program efficiency, testing and debugging.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for BIT2400, BUSI2402, COMP1006, ITEC2400, ITEC2401, SYSC2004.\nPrerequisite(s): COMP1005 or COMP1405. Restricted to students registered in the B.C.S. program, combined Honours in Computer Science and Mathematics, Honours Computer Mathematics, and Honours Computer Statistics.\nLectures three hours a week, tutorial one and a half hours a week.\n",
+    "course_prerequisites": "COMP1005 or COMP1405. Restricted to students registered in the B.C.S. program, combined Honours in Computer Science and Mathematics, Honours Computer Mathematics, and Honours Computer Statistics.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 1501",
+    "course_code": "COMP1501",
+    "course_number": 1501,
+    "course_title": "COMP1501 [0.5 credit]",
+    "course_desc": "Introduction to game design and prototyping. Topics include: formal theories of fun; the mechanics-dynamics-aesthetics framework; game economies; game balance; statistical tools for analyzing game mechanics; game settings; and storytelling. Special attention is given to the attributes of games and what makes a game fun.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): COMP1005 or COMP1405.\nLectures three hours a week, tutorial one and a half hours a week.\n",
+    "course_prerequisites": "COMP1005 or COMP1405.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 1601",
+    "course_code": "COMP1601",
+    "course_number": 1601,
+    "course_title": "COMP1601 [0.5 credit]",
+    "course_desc": "Introduction to developing mobile applications using the Mac OS X platform.  Topics include: the Objective-C programming language; development tools; framework API's; and the Quartz graphic system. Extensive practical experience with development for Apple mobile devices such as the iPhone.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): COMP1005 or COMP1405.\nLecture/lab four hours a week.\n",
+    "course_prerequisites": "COMP1005 or COMP1405.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 1805",
+    "course_code": "COMP1805",
+    "course_number": 1805,
+    "course_title": "COMP1805 [0.5 credit]",
+    "course_desc": "Introduction to discrete mathematics and discrete structures. Topics include: propositional logic, predicate calculus, set theory, complexity of algorithms, mathematical reasoning and proof techniques, recurrences, induction, finite automata and graph theory. Material is illustrated through examples from computing.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for MATH1800.\nPrerequisite(s): one Grade 12 university preparation mathematics course.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "one Grade 12 university preparation mathematics course.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 1910",
+    "course_code": "COMP1910",
+    "course_number": 1910,
+    "course_title": "COMP1910 [0.5 credit]",
+    "course_desc": "The internship exposes students to industrial software development via placement in a local enterprise. This course may only be taken by students participating in one of the School's industrial partnerships and can only be used as a free elective in the B.C.S.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): Permission of the School and registration in internship option.\n",
+    "course_prerequisites": "Permission of the School and registration in internship option.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 1911",
+    "course_code": "COMP1911",
+    "course_number": 1911,
+    "course_title": "COMP1911 [0.5 credit]",
+    "course_desc": "The internship exposes students to industrial software development via placement in a local enterprise. The course may only be taken by students participating in one of the School's industrial partnerships and can only be used as a free elective in the BCS.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): COMP1910 and registration in internship option.\n",
+    "course_prerequisites": "COMP1910 and registration in internship option.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 2108",
+    "course_code": "COMP2108",
+    "course_number": 2108,
+    "course_title": "COMP2108 [0.5 credit]",
+    "course_desc": "Practical aspects of cryptography. Topics include: stream and block ciphers; modes of operation; hash functions; message and user authentication; authenticated key establishment protocols; random number generation; entropy; proof of knowledge; secret sharing; key distribution; pitfalls deploying public-key encryption and digital signatures.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for COMP 3109 (no longer offered), COMP 4109 (no longer offered).\nPrerequisite(s): COMP1406 with a minimum grade of C-, and COMP2804.\nLectures three hours a week.\n",
+    "course_prerequisites": "COMP1406 with a minimum grade of C-, and COMP2804.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 2109",
+    "course_code": "COMP2109",
+    "course_number": 2109,
+    "course_title": "COMP2109 [0.5 credit]",
+    "course_desc": "A tour of Internet security and privacy. Societal impacts and case studies. Topics from: protection goals of stakeholders; history of public key cryptography; programming languages and security; security engineering and testing; cybercrime and malware; Internet privacy and anonymity; government surveillance; regulation; ethics; blockchain applications.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): COMP1406 with a minimum grade of C-, and COMP2401 with a minimum grade of C-.\nLectures three hours a week.\n",
+    "course_prerequisites": "COMP1406 with a minimum grade of C-, and COMP2401 with a minimum grade of C-.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 2401",
+    "course_code": "COMP2401",
+    "course_number": 2401,
+    "course_title": "COMP2401 [0.5 credit]",
+    "course_desc": "Introduction to system-level programming with fundamental OS concepts, procedures, primitive data types, user-defined types. Topics may include process management, memory management, process coordination and synchronization, inter-process communication, file systems, networking, pointers, heap and stack memory management, and system/library calls.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for SYSC2006.\nPrerequisite(s): (COMP1006 or COMP1406 or SYSC2004) with a minimum grade of C-.\nLectures three hours a week, tutorial one and a half hours a week.\n",
+    "course_prerequisites": "(COMP1006 or COMP1406 or SYSC2004) with a minimum grade of C-.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 2402",
+    "course_code": "COMP2402",
+    "course_number": 2402,
+    "course_title": "COMP2402 [0.5 credit]",
+    "course_desc": "Introduction to the design and implementation of abstract data types and to complexity analysis of data structures. Topics include: stacks, queues, lists, trees and graphs. Special attention is given to abstraction, interface specification and hierarchical design using an object-oriented programming language.",
+    "course_extra_details": "Precludes additional credit for SYSC2100.\nPrerequisite(s): (COMP1006 or COMP1406 or SYSC2004) with a minimum grade of C-.\nLectures three hours a week.\n",
+    "course_prerequisites": "(COMP1006 or COMP1406 or SYSC2004) with a minimum grade of C-.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 2404",
+    "course_code": "COMP2404",
+    "course_number": 2404,
+    "course_title": "COMP2404 [0.5 credit]",
+    "course_desc": "Introduction to object-oriented software development, with emphasis on the design and implementation of maintainable, reusable software. Topics include abstraction, modularity, encapsulation, and an introduction to design patterns.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for SYSC3010, SYSC3110.\nPrerequisite(s): COMP2401 with a minimum grade of C-.\nLectures three hours a week, tutorial one and a half hours a week.\n",
+    "course_prerequisites": "COMP2401 with a minimum grade of C-.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 2406",
+    "course_code": "COMP2406",
+    "course_number": 2406,
+    "course_title": "COMP2406 [0.5 credit]",
+    "course_desc": "Introduction to Internet application development; emphasis on computer science fundamentals of technologies underlying web applications. Topics include: scripting and functional languages, language-based virtual machines, database query languages, remote procedure calls over the Internet, and performance and security concerns in modern distributed applications.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for SYSC4504.\nPrerequisite(s): (COMP1006 or COMP1406 or SYSC2004) with a minimum grade of C-.\nLectures three hours a week, tutorial one and a half hours a week.\n",
+    "course_prerequisites": "(COMP1006 or COMP1406 or SYSC2004) with a minimum grade of C-.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 2501",
+    "course_code": "COMP2501",
+    "course_number": 2501,
+    "course_title": "COMP2501 [0.5 credit]",
+    "course_desc": "Introduction to the practical development of computer games and engine architecture. Topics include: vector and matrix operations; coordinate systems and transformations; physical simulation; collision detection; AI; path planning; hardware-accelerated real-time rendering. Special attention is given to implementation of real-time rendering in a low-level language.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): COMP1501, COMP2401 with a minimum grade of C-, and MATH1104.\nLectures three hours a week, tutorial one and a half hours a week.\n",
+    "course_prerequisites": "COMP1501, COMP2401 with a minimum grade of C-, and MATH1104.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 2601",
+    "course_code": "COMP2601",
+    "course_number": 2601,
+    "course_title": "COMP2601 [0.5 credit]",
+    "course_desc": "Development of applications for mobile environments taking advantage of gesture-based input and using location and presence services. Topics include introduction to low-level network services and mobile platforms, description of architectural patterns, principles of mobile development and interaction styles for network service usage.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): COMP1601.\nLecture/lab four hours a week.\n",
+    "course_prerequisites": "COMP1601.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 2801",
+    "course_code": "COMP2801",
+    "course_number": 2801,
+    "course_title": "COMP2801 [0.5 credit]",
+    "course_desc": "A course on programming simulated mobile robots with various sensors such as wheel encoders, distance sensors, cameras, compasses, accelerometers, and laser range finders. Topics include: programming robot behaviour; performing position estimation; implementing algorithms related to navigation, mapping, path planning, area coverage, and localization.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for COMP 1807 (no longer offered).\nPrerequisite(s): (COMP1006 or COMP1406 or SYSC2004) with a minimum grade of C-.\nLecture/lab four hours a week.\n",
+    "course_prerequisites": "(COMP1006 or COMP1406 or SYSC2004) with a minimum grade of C-.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 2804",
+    "course_code": "COMP2804",
+    "course_number": 2804,
+    "course_title": "COMP2804 [0.5 credit]",
+    "course_desc": "A second course in discrete mathematics and discrete structures. Topics include: counting, sequences and sums, discrete probability, basic statistics, recurrence relations, randomized algorithms. Material is illustrated through examples from computing.",
+    "course_extra_details": "Prerequisite(s): COMP1805 with a minimum grade of C-, or permission of the School of Computer Science for those in Combined Honours in Computer Science and Mathematics.\nLectures three hours a week.\n",
+    "course_prerequisites": "COMP1805 with a minimum grade of C-, or permission of the School of Computer Science for those in Combined Honours in Computer Science and Mathematics.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 2910",
+    "course_code": "COMP2910",
+    "course_number": 2910,
+    "course_title": "COMP2910 [0.5 credit]",
+    "course_desc": "The internship exposes students to industrial software development via placement in a local enterprise. The course may only be taken by students participating in one of the School's industrial partnerships and can only be used as a free elective in the B.C.S.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): COMP1911 and registration in internship option.\n",
+    "course_prerequisites": "COMP1911 and registration in internship option.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 2911",
+    "course_code": "COMP2911",
+    "course_number": 2911,
+    "course_title": "COMP2911 [0.5 credit]",
+    "course_desc": "The internship exposes students to industrial software development via placement in a local enterprise. The course may only be taken by students participating in one of the School's industrial partnerships and can only be used as a free elective in the BCS.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): COMP2910 and registration in internship option.\n",
+    "course_prerequisites": "COMP2910 and registration in internship option.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 3000",
+    "course_code": "COMP3000",
+    "course_number": 3000,
+    "course_title": "COMP3000 [0.5 credit]",
+    "course_desc": "Operating system implementation course stressing fundamental issues in design and how they relate to modern computer architectures. Assignments involve the modification and extension of a multitasking operating system.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for SYSC4001.\nPrerequisite(s): COMP2401 with a minimum grade of C- and COMP2402.\nLectures three hours a week, tutorial one and a half hours a week.\n",
+    "course_prerequisites": "COMP2401 with a minimum grade of C- and COMP2402.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 3002",
+    "course_code": "COMP3002",
+    "course_number": 3002,
+    "course_title": "COMP3002 [0.5 credit]",
+    "course_desc": "The structure, organization and design of the phases of a compiler are considered: lexical translators, syntactical translators, scope handlers, type checkers, code generators and optimizers. Components of a compiler will be implemented.",
+    "course_extra_details": "Prerequisite(s): COMP2402.\nLectures three hours a week.\n",
+    "course_prerequisites": "COMP2402.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 3004",
+    "course_code": "COMP3004",
+    "course_number": 3004,
+    "course_title": "COMP3004 [0.5 credit]",
+    "course_desc": "Development of object-oriented software systems: theory and practice. Topics include: Computer ethics, software development processes, requirement specification, class and scenario modeling, state modeling, UML, design patterns, traceability. Students are to complete a team project.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for SYSC3020, SYSC3120, SYSC4120.\nPrerequisite(s): COMP2401 with a minimum grade of C-, (COMP2404 or SYSC3010 or SYSC3110) with a minimum grade of C-, and (COMP2406 or SYSC4504).\nLectures three hours a week.\n",
+    "course_prerequisites": "COMP2401 with a minimum grade of C-, (COMP2404 or SYSC3010 or SYSC3110) with a minimum grade of C-, and (COMP2406 or SYSC4504).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 3005",
+    "course_code": "COMP3005",
+    "course_number": 3005,
+    "course_title": "COMP3005 [0.5 credit]",
+    "course_desc": "Introduces students to concepts of database management systems, database design and file structures. Topics include: entity-relationship modeling and object oriented database design, data models (relational, network and object oriented), the relational algebra, SQL, normalization theory, physical data organization, object oriented databases and OQL.",
+    "course_extra_details": "Precludes additional credit for BUSI3400.\nPrerequisite(s): COMP1805 with a minimum grade of C-, and either COMP2402 or (SYSC2004 and SYSC2100).\nLectures three hours a week.\n",
+    "course_prerequisites": "COMP1805 with a minimum grade of C-, and either COMP2402 or (SYSC2004 and SYSC2100).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 3007",
+    "course_code": "COMP3007",
+    "course_number": 3007,
+    "course_title": "COMP3007 [0.5 credit]",
+    "course_desc": "An introduction to alternative programming paradigms such as functional, constraint-based, concurrent, and logic programming.",
+    "course_extra_details": "Precludes additional credit for SYSC3101.\nPrerequisite(s): COMP1805 with a minimum grade of C-, and COMP2402.\nLectures three hours a week.\n",
+    "course_prerequisites": "COMP1805 with a minimum grade of C-, and COMP2402.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 3008",
+    "course_code": "COMP3008",
+    "course_number": 3008,
+    "course_title": "COMP3008 [0.5 credit]",
+    "course_desc": "Fundamentals of the underlying theories, design principles, development and evaluation practices of human-computer interaction (HCI). Topics may include: theories of interaction, user interface frameworks, desktop, web, mobile, and immersive applications, usability inspection and testing methods, and qualitative and quantitative approaches to HCI research.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for SYSC4130.\nPrerequisite(s): (COMP2404 or SYSC3010 or SYSC3110) and (COMP2406 or SYSC4504).\nLectures three hours a week.\n",
+    "course_prerequisites": "(COMP2404 or SYSC3010 or SYSC3110) and (COMP2406 or SYSC4504).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 3009",
+    "course_code": "COMP3009",
+    "course_number": 3009,
+    "course_title": "COMP3009 [0.5 credit]",
+    "course_desc": "An overview of computer graphics covering rendering, modeling, and animation. Topics include geometric primitives and modeling; image formation algorithms such as ray tracing and the Z-buffer; lighting, shading, and texture; and introduction to physics-based animation and character animation.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): COMP2401 with a minimum grade of C-, COMP2402, MATH1007, and MATH1104.\nLectures/lab four hours a week.\n",
+    "course_prerequisites": "COMP2401 with a minimum grade of C-, COMP2402, MATH1007, and MATH1104.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 3105",
+    "course_code": "COMP3105",
+    "course_number": 3105,
+    "course_title": "COMP3105 [0.5 credit]",
+    "course_desc": "An introduction to methods for automated learning of relationships on the basis of empirical data. Includes topics in supervised and unsupervised machine learning and deeper knowledge of specific algorithms and their applications. Evaluation and quantification of performance of ML systems. Discussion of data ethics.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for COMP 4105 (no longer offered), SYSC4415.\nPrerequisite(s): COMP2402 and (COMP2404 or SYSC3010 or SYSC3110) and COMP2804 and (MATH1104 or MATH1107).\nLectures three hours a week.\n",
+    "course_prerequisites": "COMP2402 and (COMP2404 or SYSC3010 or SYSC3110) and COMP2804 and (MATH1104 or MATH1107).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 3106",
+    "course_code": "COMP3106",
+    "course_number": 3106,
+    "course_title": "COMP3106 [0.5 credit]",
+    "course_desc": "Principles and tools used in Artificial Intelligence. Fundamentals of Knowledge Representation and Reinforcement Learning and Nature-Based computing. Methods for non-adversarial problem solving including non-exhaustive and heuristic-based strategies for searching the state space. Methods for adversarial problem solving, modeled as two-person and multi-person games.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for COMP 4106 (no longer offered).\nPrerequisite(s): COMP2402 and (COMP2404 or SYSC3010 or SYSC3110) and COMP2804.\nLectures three hours a week.\n",
+    "course_prerequisites": "COMP2402 and (COMP2404 or SYSC3010 or SYSC3110) and COMP2804.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 3203",
+    "course_code": "COMP3203",
+    "course_number": 3203,
+    "course_title": "COMP3203 [0.5 credit]",
+    "course_desc": "This is an introductory course to the field of Network Computing. Topics include: Protocol Architectures and Internetworking, Types of Networks, Communication Protocols, End-System and Network Traffic Management, Structure of Routing and Congestion Control.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for SYSC4602.\nPrerequisite(s): COMP2401 with a minimum grade of C-, and COMP2402.\nLectures and tutorials three to four and a half hours a week.\n",
+    "course_prerequisites": "COMP2401 with a minimum grade of C-, and COMP2402.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 3301",
+    "course_code": "COMP3301",
+    "course_number": 3301,
+    "course_title": "COMP3301 [0.5 credit]",
+    "course_desc": "Technical communication for computer science majors, concentrating on writing scientific papers and technical reports. Principles of clarity and precision in writing and communication. Practical exercises and readings from recent technical publications will be used.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): COMP2402 and (COMP2404 or SYSC3010 or SYSC3110).\nLectures three hours a week.\n",
+    "course_prerequisites": "COMP2402 and (COMP2404 or SYSC3010 or SYSC3110).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 3308",
+    "course_code": "COMP3308",
+    "course_number": 3308,
+    "course_title": "COMP3308 [0.5 credit]",
+    "course_desc": "This practical interdisciplinary course will provide a broad overview of bioinformatics in which computer science and mathematics are applied to solve problems in molecular biology. Topics include gene prediction, sequence alignment, phylogeny, molecular interactions, macromolecular structure prediction and biological databases.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as BIOC3008 and BIOL3008.\nPrerequisite(s): BIOC2200 or BIOL2200, or BIOL2201, or permission of the Biochemistry Institute.\nLecture two hours a week, computer workshop three hours a week.\n",
+    "course_prerequisites": "BIOC2200 or BIOL2200, or BIOL2201, or permission of the Biochemistry Institute.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 3400",
+    "course_code": "COMP3400",
+    "course_number": 3400,
+    "course_title": "COMP3400 [0.5 credit]",
+    "course_desc": "Applications of formal logic in computer science. Symbolic logics such as classical predicate calculus are used to represent domain knowledge, to model computational problems and to solve them by means of automated reasoners. Applications include artificial intelligence, software engineering, data management and hardware verification.",
+    "course_extra_details": "Prerequisite(s): COMP2804.\nLectures three hours a week.\n",
+    "course_prerequisites": "COMP2804.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 3501",
+    "course_code": "COMP3501",
+    "course_number": 3501,
+    "course_title": "COMP3501 [0.5 credit]",
+    "course_desc": "The theory and practice of 3D graphics for computer games. Topics include: vectors and quaternions; hierarchical transformations; camera and perspective; hardware-accelerated real-time rendering; texture and texture mapping; illumination; and particle systems. Additional topics may include rigid-body motion, character animation, shadows, and screen-space special effects.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): COMP2402 and (COMP2404 or SYSC3010 or SYSC3110) and COMP2501.\nLectures three hours a week.\n",
+    "course_prerequisites": "COMP2402 and (COMP2404 or SYSC3010 or SYSC3110) and COMP2501.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 3801",
+    "course_code": "COMP3801",
+    "course_number": 3801,
+    "course_title": "COMP3801 [0.5 credit]",
+    "course_desc": "Algorithm design techniques for modern data sets arising in, for example, data mining, web analytics, epidemic spreads, search engines and social networks. Topics may include: data mining, hashing, streaming, clustering, recommendation systems, link analysis, dimensionality reduction, online, social networking, game theoretic and probabilistic algorithms.",
+    "course_extra_details": "Prerequisite(s): COMP2804 with a minimum grade of B+.\nLecture three hours a week.\n",
+    "course_prerequisites": "COMP2804 with a minimum grade of B+.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 3803",
+    "course_code": "COMP3803",
+    "course_number": 3803,
+    "course_title": "COMP3803 [0.5 credit]",
+    "course_desc": "Theoretical aspects of computer science. Topics include: formal languages and automata theory, computability theory.",
+    "course_extra_details": "Precludes additional credit for COMP 2805 (no longer offered).\nPrerequisite(s): COMP2804.\nLectures three hours a week.\n",
+    "course_prerequisites": "COMP2804.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 3804",
+    "course_code": "COMP3804",
+    "course_number": 3804,
+    "course_title": "COMP3804 [0.5 credit]",
+    "course_desc": "An introduction to the design and analysis of algorithms. Topics include: divide-and-conquer, dynamic programming, linear programming, greedy algorithms, graph algorithms, NP-completeness.",
+    "course_extra_details": "Also listed as MATH3804.\nPrerequisite(s): COMP2402 and either COMP2804 or (MATH2007 and MATH2108).\nLectures and tutorials three to four and a half hours a week.\n",
+    "course_prerequisites": "COMP2402 and either COMP2804 or (MATH2007 and MATH2108).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 3805",
+    "course_code": "COMP3805",
+    "course_number": 3805,
+    "course_title": "COMP3805 [0.5 credit]",
+    "course_desc": "Enumeration: inclusion and exclusion, recurrence relations, generating functions and applications. Graph theory: connectivity, planarity, Hamilton paths and Euler trails. Error-correcting codes. Designs and finite geometries. Symmetry and counting.",
+    "course_extra_details": "Also listed as MATH3855.\nPrecludes additional credit for MATH 3805 (no longer offered) and MATH3825.\nPrerequisite(s): MATH2100 or a grade of B or higher in  MATH2108 or MATH3101.\nLectures three hours a week and one hour tutorial.\n",
+    "course_prerequisites": "MATH2100 or a grade of B or higher in  MATH2108 or MATH3101.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 3807",
+    "course_code": "COMP3807",
+    "course_number": 3807,
+    "course_title": "COMP3807 [0.5 credit]",
+    "course_desc": "Incorporation of basic numerical methods into efficient, reliable software. The course includes examination of existing software systems, e.g. linear systems, non-linear systems, optimization, or differential equations.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as MATH3807.\nPrerequisite(s): A grade of C- or higher in COMP 3806 or MATH3806.\n \n",
+    "course_prerequisites": "A grade of C- or higher in COMP 3806 or MATH3806.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 3910",
+    "course_code": "COMP3910",
+    "course_number": 3910,
+    "course_title": "COMP3910 [0.5 credit]",
+    "course_desc": "The internship exposes students to industrial software development via placement in a local enterprise. The course may only be taken by students participating in one of the School's industrial partnerships and can only be used as a free elective in the B.C.S.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): COMP2911 and registration in internship option.\n",
+    "course_prerequisites": "COMP2911 and registration in internship option.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 3911",
+    "course_code": "COMP3911",
+    "course_number": 3911,
+    "course_title": "COMP3911 [0.5 credit]",
+    "course_desc": "The internship exposes students to industrial software development via placement in a local enterprise. The course may only be taken by students participating in one of the School's industrial partnerships and can only be used as a free elective in the B.C.S.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): COMP3910 and registration in internship option.\n",
+    "course_prerequisites": "COMP3910 and registration in internship option.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 3999",
+    "course_code": "COMP3999",
+    "course_number": 3999,
+    "course_title": "COMP3999 [0.0 credit]",
+    "course_desc": "Includes: Experiential Learning Activity ",
+    "course_extra_details": "Includes: Experiential Learning Activity\n \n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 4000",
+    "course_code": "COMP4000",
+    "course_number": 4000,
+    "course_title": "COMP4000 [0.5 credit]",
+    "course_desc": "An advanced course emphasizing the principles of distributed operating systems including networking protocols, distributed file systems, remote IPC mechanisms, graphical user interfaces, load balancing, and process migration. Case studies include current \"standards\" as well as novel systems under development.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): (COMP3000 or SYSC4001) and (COMP3203 or SYSC4602).\nLectures three hours a week.\n",
+    "course_prerequisites": "(COMP3000 or SYSC4001) and (COMP3203 or SYSC4602).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 4001",
+    "course_code": "COMP4001",
+    "course_number": 4001,
+    "course_title": "COMP4001 [0.5 credit]",
+    "course_desc": "Overview of distributed computing. Topics include: computational models, communication complexity, design and analysis of distributed algorithms and protocols, fault-tolerant protocols, synchronous computations. Applications may include: communication in data networks, control in distributed system (e.g., election, distributed mutual exclusion), manipulation of distributed data (e.g., ranking).",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): COMP1805 with a minimum grade of C-, COMP2401 with a minimum grade of C-, and (COMP2406 or SYSC4504).\nLectures three hours a week.\n",
+    "course_prerequisites": "COMP1805 with a minimum grade of C-, COMP2401 with a minimum grade of C-, and (COMP2406 or SYSC4504).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 4002",
+    "course_code": "COMP4002",
+    "course_number": 4002,
+    "course_title": "COMP4002 [0.5 credit]",
+    "course_desc": "The design and implementation of game engines for real-time 3D games including topics such as camera control, environmental effects, articulated models, terrain, vegetation, collision detection, particles, emitters, triggers, portals, waypoints, mirrors, and shadows.",
+    "course_extra_details": "Prerequisite(s): COMP2404 or SYSC3010 or SYSC3110.\nLectures three hours a week.\n",
+    "course_prerequisites": "COMP2404 or SYSC3010 or SYSC3110.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 4003",
+    "course_code": "COMP4003",
+    "course_number": 4003,
+    "course_title": "COMP4003 [0.5 credit]",
+    "course_desc": "Concepts and architectures of transaction processing systems and on-line transaction processing, with emphasis on data integration systems. Transaction properties and models, embedded-SQL, active rules, consistency maintenance, serializability, concurrency control, recovery, data integration systems and federated databases, introduction to transactions in web services and workflow systems.",
+    "course_extra_details": "Prerequisite(s): (COMP2404 or SYSC3010 or SYSC3110) and COMP3005.\nLectures three hours a week.\n",
+    "course_prerequisites": "(COMP2404 or SYSC3010 or SYSC3110) and COMP3005.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 4004",
+    "course_code": "COMP4004",
+    "course_number": 4004,
+    "course_title": "COMP4004 [0.5 credit]",
+    "course_desc": "Introduction to the theory and practice of Software Quality Assurance. Topics include: equivalence partitioning, test-driven testing, unit testing patterns, refactoring, software metrics, requirements engineering, scenario modeling and acceptance testing, model-based testing, state machine testing, software testing theory and tools.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for SYSC4101.\nPrerequisite(s): COMP3004.\nLectures three hours a week.\n",
+    "course_prerequisites": "COMP3004.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 4009",
+    "course_code": "COMP4009",
+    "course_number": 4009,
+    "course_title": "COMP4009 [0.5 credit]",
+    "course_desc": "Introduction to parallel architectures, programming languages and algorithms for processor clusters and multi-core processors. Distributed memory architectures, cluster computing, message passing parallel programming, multi-core processors, shared memory parallel programming, use of thread libraries, parallel performance analysis.",
+    "course_extra_details": "Prerequisite(s): COMP2402 and (COMP2404 or SYSC3010 or SYSC3110) and COMP2804.\nLectures three hours a week.\n",
+    "course_prerequisites": "COMP2402 and (COMP2404 or SYSC3010 or SYSC3110) and COMP2804.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 4102",
+    "course_code": "COMP4102",
+    "course_number": 4102,
+    "course_title": "COMP4102 [0.5 credit]",
+    "course_desc": "The basic ideas and techniques of computer vision. The central theme is reconstructing 3D models from 2D images. Topics include: image formation, image feature extraction, camera models, camera calibration, structure from motion, stereo, recognition, augmented reality, image searching.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): (COMP2404 or SYSC3010 or SYSC3110) and (MATH1104 or MATH1107).\nLectures three hours a week.\n",
+    "course_prerequisites": "(COMP2404 or SYSC3010 or SYSC3110) and (MATH1104 or MATH1107).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 4107",
+    "course_code": "COMP4107",
+    "course_number": 4107,
+    "course_title": "COMP4107 [0.5 credit]",
+    "course_desc": "An introduction to neural networks and deep learning. Theory and application of Neural Networks to problems in machine learning. Various network architectures will be discussed. Methods for improving optimization and generalization of neural networks. Neural networks for unsupervised learning.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for COMP5206.\nPrerequisite(s): COMP3105 and (MATH1104 or MATH1107).\nLectures three hours a week.\n",
+    "course_prerequisites": "COMP3105 and (MATH1104 or MATH1107).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 4108",
+    "course_code": "COMP4108",
+    "course_number": 4108,
+    "course_title": "COMP4108 [0.5 credit]",
+    "course_desc": "Information security in computer and communications systems. Topics include: design principles; operating system security and access control; web and software security; malicious software, security infrastructure; secure email; network authentication; firewalls; intrusion detection; IP security; network attacks; wireless security.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for SYSC4810.\nPrerequisite(s): (COMP3000 or SYSC4001) and COMP2108.\nLectures three hours a week.\n",
+    "course_prerequisites": "(COMP3000 or SYSC4001) and COMP2108.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 4111",
+    "course_code": "COMP4111",
+    "course_number": 4111,
+    "course_title": "COMP4111 [0.5 credit]",
+    "course_desc": "Application of computational techniques to support business activities, such as decision making, business understanding, data analysis, business process automation, learning from data, producing and using data-centric business models, ontology-based data access and integration, data quality assessment and cleaning and use of contextual data.",
+    "course_extra_details": "Prerequisite(s): COMP3005.\nAlso offered at the graduate level, with different requirements, as COMP5111, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "COMP3005.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 4114",
+    "course_code": "COMP4114",
+    "course_number": 4114,
+    "course_title": "COMP4114 [0.5 credit]",
+    "course_desc": "Introduction to the ideas and principles of quantum computing and information. Review of mathematical foundations. Discussion of quantum theory, architecture, and quantum gates. Basic algorithms in quantum computing. Theoretical computer science and computation. Applications of quantum computing to cryptography. Quantum information and error correction.",
+    "course_extra_details": "Precludes additional credit for MATH4821, MATH5821.\nPrerequisite(s): COMP2804.\nLectures three hours a week\n",
+    "course_prerequisites": "COMP2804.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 4202",
+    "course_code": "COMP4202",
+    "course_number": 4202,
+    "course_title": "COMP4202 [0.5 credit]",
+    "course_desc": "Through recent advances in navigation systems, mobile devices, and new software such as Mapquest and Google Earth, GIS is becoming increasingly important and exciting from a CS perspective.  This course lays the algorithmic foundations to understand, use and further this technology.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): COMP3804 or MATH3804.\nAlso offered at the graduate level, with different requirements, as COMP5204, for which additional credit is precluded.\nLecture three hours a week.\n",
+    "course_prerequisites": "COMP3804 or MATH3804.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 4203",
+    "course_code": "COMP4203",
+    "course_number": 4203,
+    "course_title": "COMP4203 [0.5 credit]",
+    "course_desc": "An introduction to wireless networks covering both networking issues and security aspects of modern wireless environments. Fundamentals of mobile LANs, ad hoc, sensor networks, secure routing, searching, clustering, multicasting, localization, mobile IP/TCP, confidentiality, key establishment, authentication, broadcasting, RFIDs, and rogue attacks.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): COMP3203 or SYSC4602.\nLectures three hours a week.\n",
+    "course_prerequisites": "COMP3203 or SYSC4602.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 4206",
+    "course_code": "COMP4206",
+    "course_number": 4206,
+    "course_title": "COMP4206 [0.5 credit]",
+    "course_desc": "Convergence of social and technological networks. Interplay between information content, entities creating it and technologies supporting it.  Structure and analysis of such networks, models abstracting their properties, techniques link analysis, search, mechanism design, power laws, cascading, clustering and connections with work in social sciences.",
+    "course_extra_details": "Prerequisite(s): COMP1805, (COMP2401 with a minimum grade of C-) and (COMP2406 or SYSC4504).\nAlso offered at the graduate level, with different requirements, as COMP5310, for which additional credit is precluded.\nLecture three hours a week.\n",
+    "course_prerequisites": "COMP1805, (COMP2401 with a minimum grade of C-) and (COMP2406 or SYSC4504).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 4308",
+    "course_code": "COMP4308",
+    "course_number": 4308,
+    "course_title": "COMP4308 [0.5 credit]",
+    "course_desc": "Modeling and simulation of metabolic and regulatory networks towards understanding complex and highly dynamic cellular systems. Biotechnological applications include metabolic engineering, synthetic biology, and drug discovery.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as BIOC4008.\nPrerequisite(s): BIOC3101 or permission of the Biochemistry Institute.\nLecture one and a half hours per week, workshop one and a half hours per week.\n",
+    "course_prerequisites": "BIOC3101 or permission of the Biochemistry Institute.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 4501",
+    "course_code": "COMP4501",
+    "course_number": 4501,
+    "course_title": "COMP4501 [0.5 credit]",
+    "course_desc": "A practical course on the design and implementation of modern game engines and advanced facilities provided by these engines. Such facilities include systems for rendering 3D scenes; simulating physics; playing animations; game AI; and enabling multi-player games. Students will undertake a significant game development project.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): COMP3501.\nLectures three hours a week.\n",
+    "course_prerequisites": "COMP3501.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 4601",
+    "course_code": "COMP4601",
+    "course_number": 4601,
+    "course_title": "COMP4601 [0.5 credit]",
+    "course_desc": "Introduction to the principles and practice of creation, delivery and analysis of multimedia content in web-based systems. Topics include analysis of webs of documents, social network analysis, recommender systems and problems of trust, reputation and influence in e-commerce systems.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): (COMP2404 or SYSC3010 or SYSC3110) and (COMP2406 or COMP2601 or SYSC4504).\nLecture/lab four hours a week.\n",
+    "course_prerequisites": "(COMP2404 or SYSC3010 or SYSC3110) and (COMP2406 or COMP2601 or SYSC4504).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 4602",
+    "course_code": "COMP4602",
+    "course_number": 4602,
+    "course_title": "COMP4602 [0.5 credit]",
+    "course_desc": "Introduction to virtual communities, overlay networks and social networking. Topics include architectural principles for heterogeneous social networking platforms, trust and reputation as social concepts, agent-based computing, and extraction of trends and patterns from information exchanged between community members.",
+    "course_extra_details": "Precludes additional credit for COMP 3601 (no longer offered).\nPrerequisite(s): ((COMP2404 or SYSC3010 or SYSC3110) and (COMP2406 or SYSC4504)) or COMP2601.\nLectures/labs four hours per week.\n",
+    "course_prerequisites": "((COMP2404 or SYSC3010 or SYSC3110) and (COMP2406 or SYSC4504)) or COMP2601.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 4701",
+    "course_code": "COMP4701",
+    "course_number": 4701,
+    "course_title": "COMP4701 [0.5 credit]",
+    "course_desc": "This course examines ethical questions raised by computing technologies - both motivated by recent developments and through the lens of fiction. Students will identify possible ethical issues in future technologies and use formal ethics frameworks to evaluate the merits and pitfalls of different solutions.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): Any two of COMP2108, COMP3004, COMP3005, COMP3008, COMP3105, COMP3106, COMP3308, COMP3804.\nLectures three hours a week.\n",
+    "course_prerequisites": "Any two of COMP2108, COMP3004, COMP3005, COMP3008, COMP3105, COMP3106, COMP3308, COMP3804.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 4803",
+    "course_code": "COMP4803",
+    "course_number": 4803,
+    "course_title": "COMP4803 [0.5 credit]",
+    "course_desc": "Recursive functions and computability, algorithms, Church's thesis, Turing machines, computational logic, NP-completeness.",
+    "course_extra_details": "Also listed as MATH4803.\nPrerequisite(s): MATH2100 or COMP3805 or permission of the School.\n \n",
+    "course_prerequisites": "MATH2100 or COMP3805 or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 4804",
+    "course_code": "COMP4804",
+    "course_number": 4804,
+    "course_title": "COMP4804 [0.5 credit]",
+    "course_desc": "A second course on the design and analysis of algorithms. Topics include: advanced recurrence relations, algebraic complexity, advanced graph algorithms, amortized analysis, algorithms for NP-complete problems, randomized algorithms.",
+    "course_extra_details": "Prerequisite(s): COMP3804 or MATH3804.\nLectures three hours a week.\n",
+    "course_prerequisites": "COMP3804 or MATH3804.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 4805",
+    "course_code": "COMP4805",
+    "course_number": 4805,
+    "course_title": "COMP4805 [0.5 credit]",
+    "course_desc": "Finite automata and regular expressions, properties of regular sets, context-free grammars, pushdown automata, deterministic context-free languages. Turing machines, the Chomsky hierarchy. Undecidability, intractable problems.",
+    "course_extra_details": "Also listed as MATH4805.\nPrecludes additional credit for MATH5605.\nPrerequisite(s): COMP3805 or MATH3106 or MATH3158 (or MATH 3100) or permission of the School.\nLectures three hours a week.\n",
+    "course_prerequisites": "COMP3805 or MATH3106 or MATH3158 (or MATH 3100) or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 4806",
+    "course_code": "COMP4806",
+    "course_number": 4806,
+    "course_title": "COMP4806 [0.5 credit]",
+    "course_desc": "Study of matrix inversion techniques; techniques of finding eigenvalues and eigenvectors, solution of systems of linear equations; direct and indirect methods, their comparison and error analysis; applications in optimization and other areas.",
+    "course_extra_details": "Also listed as MATH4806.\nPrerequisite(s): MATH2152 or MATH 1102 (no longer offered) or MATH2107; and MATH2000 and COMP 3806, or permission of the School.\nLectures three hours a week.\n",
+    "course_prerequisites": "MATH2152 or MATH 1102 (no longer offered) or MATH2107; and MATH2000 and COMP 3806, or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 4900",
+    "course_code": "COMP4900",
+    "course_number": 4900,
+    "course_title": "COMP4900 [0.5 credit]",
+    "course_desc": "Advanced topics in Computer Science offered by members of the School of Computer Science.",
+    "course_extra_details": "Prerequisite(s): permission of the School of Computer Science.\nLectures three hours a week and up to three hours of tutorials a week.\n",
+    "course_prerequisites": "permission of the School of Computer Science.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 4901",
+    "course_code": "COMP4901",
+    "course_number": 4901,
+    "course_title": "COMP4901 [0.5 credit]",
+    "course_desc": "Independent study under the supervision of a member of the School of Computer Science, open only to students in the B.C.S. program. Students are required to obtain their supervisor's written approval prior to registration and are limited to two such courses in their program.",
+    "course_extra_details": "Prerequisite(s): permission of the School of Computer Science.\n \n",
+    "course_prerequisites": "permission of the School of Computer Science.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 4905",
+    "course_code": "COMP4905",
+    "course_number": 4905,
+    "course_title": "COMP4905 [0.5 credit]",
+    "course_desc": "Under the supervision of a faculty member, Honours students complete a major Computer Science project in fourth year. Permission to register is granted once an approved project proposal is submitted to the Department. See deadlines and details on the School web site.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for COMP4906.\nPrerequisite(s): registration in the B.C.S. Honours program or one of the Combined Computer Science Honours programs and permission of the School of Computer Science.\n \n",
+    "course_prerequisites": "registration in the B.C.S. Honours program or one of the Combined Computer Science Honours programs and permission of the School of Computer Science.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 4906",
+    "course_code": "COMP4906",
+    "course_number": 4906,
+    "course_title": "COMP4906 [1.0 credit]",
+    "course_desc": "An independent research project under the direct supervision of a faculty advisor. Permission to register is granted once an approved project proposal is submitted to the School of Computer Science. Evaluation is based on a written thesis and a poster presentation.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for COMP4905.\nPrerequisite(s): fourth-year standing in a B.C.S. Honours program with a minimum CGPA of 9.0 in the major and permission of the School of Computer Science.\n",
+    "course_prerequisites": "fourth-year standing in a B.C.S. Honours program with a minimum CGPA of 9.0 in the major and permission of the School of Computer Science.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "COMP 4910",
+    "course_code": "COMP4910",
+    "course_number": 4910,
+    "course_title": "COMP4910 [0.5 credit]",
+    "course_desc": "The internship exposes students to industrial software development via placement in a local enterprise. The course may only be taken by students participating in one of the School's industrial partnerships and can only be used as a free elective in the B.C.S.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): COMP3911 and registration in internship option.\n",
+    "course_prerequisites": "COMP3911 and registration in internship option.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "COMP 4911",
+    "course_code": "COMP4911",
+    "course_number": 4911,
+    "course_title": "COMP4911 [0.5 credit]",
+    "course_desc": "The internship exposes students to industrial software development via placement in a local enterprise. The course may only be taken by students participating in one of the School's industrial partnerships and can only be used as a free elective in the B.C.S.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): COMP4910 and registration in internship option.\n",
+    "course_prerequisites": "COMP4910 and registration in internship option.",
+    "year_standing": 0
+}]}

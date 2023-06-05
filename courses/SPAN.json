@@ -1,0 +1,220 @@
+{"object": [
+{
+    "course_identifier": "SPAN 1010",
+    "course_code": "SPAN1010",
+    "course_number": 1010,
+    "course_title": "SPAN1010 [0.5 credit]",
+    "course_desc": "For students with no knowledge of Spanish. Oral skills, reading and writing. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for SPAN1110.\nFour hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "SPAN 1020",
+    "course_code": "SPAN1020",
+    "course_number": 1020,
+    "course_title": "SPAN1020 [0.5 credit]",
+    "course_desc": "Continuation of first-year Spanish. Oral skills, reading and writing. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for SPAN1110.\nPrerequisite(s): grade of C or higher in SPAN1010, or permission of the School.\nFour hours a week.\n",
+    "course_prerequisites": "grade of C or higher in SPAN1010, or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "SPAN 1110",
+    "course_code": "SPAN1110",
+    "course_number": 1110,
+    "course_title": "SPAN1110 [1.0 credit]",
+    "course_desc": "For students with no knowledge of Spanish. Oral skills, reading and writing. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for SPAN1010 or SPAN1020.\nEight hours a week (one term).\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "SPAN 2010",
+    "course_code": "SPAN2010",
+    "course_number": 2010,
+    "course_title": "SPAN2010 [0.5 credit]",
+    "course_desc": "Further study of Spanish to reach a more advanced level of proficiency in a range of situations. Equal emphasis on oral and written language. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for SPAN2110.\nPrerequisite(s): grade of C or higher in SPAN1020, SPAN1110, or permission of the School.\nFour hours a week.\n",
+    "course_prerequisites": "grade of C or higher in SPAN1020, SPAN1110, or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "SPAN 2020",
+    "course_code": "SPAN2020",
+    "course_number": 2020,
+    "course_title": "SPAN2020 [0.5 credit]",
+    "course_desc": "Continuation of second-year Spanish. Further study of Spanish to reach a more advanced level of proficiency in a range of situations. Equal emphasis on oral and written language. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for SPAN2110.\nPrerequisite(s): grade of C or higher in SPAN2010, or permission of the School.\nFour hours a week.\n",
+    "course_prerequisites": "grade of C or higher in SPAN2010, or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "SPAN 2110",
+    "course_code": "SPAN2110",
+    "course_number": 2110,
+    "course_title": "SPAN2110 [1.0 credit]",
+    "course_desc": "Further study of Spanish to reach a more advanced level of proficiency in a range of situations. Equal emphasis on oral and written language. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for SPAN2010, SPAN2020.\nPrerequisite(s): grade of C or higher in SPAN1020, SPAN1110, or permission of the School.\nEight hours a week (one term).\n",
+    "course_prerequisites": "grade of C or higher in SPAN1020, SPAN1110, or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "SPAN 3010",
+    "course_code": "SPAN3010",
+    "course_number": 3010,
+    "course_title": "SPAN3010 [0.5 credit]",
+    "course_desc": "Continuation of the study of Spanish to reach a more advanced level, including the ability to handle authentic materials and primary texts required for academic studies. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for SPAN3110.\nPrerequisite(s): grade of C or higher in SPAN2020, SPAN2110, or permission of the School.\nThree hours a week.\n",
+    "course_prerequisites": "grade of C or higher in SPAN2020, SPAN2110, or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "SPAN 3020",
+    "course_code": "SPAN3020",
+    "course_number": 3020,
+    "course_title": "SPAN3020 [0.5 credit]",
+    "course_desc": "Continuation of third-year Spanish. Progress toward a more advanced level, including the ability to handle authentic materials and primary texts required for academic studies. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for SPAN3110.\nPrerequisite(s): grade of C or higher in SPAN3010 or permission of the School.\nThree hours a week.\n",
+    "course_prerequisites": "grade of C or higher in SPAN3010 or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "SPAN 3110",
+    "course_code": "SPAN3110",
+    "course_number": 3110,
+    "course_title": "SPAN3110 [1.0 credit]",
+    "course_desc": "Continuation of the study of Spanish to reach a more advanced level, including the ability to handle authentic materials and primary texts required for academic studies. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for SPAN3010, SPAN3020.\nPrerequisite(s): grade of C or higher in SPAN2020, SPAN2110, or permission of the School.\nSix hours a week (one term).\n",
+    "course_prerequisites": "grade of C or higher in SPAN2020, SPAN2110, or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "SPAN 3220",
+    "course_code": "SPAN3220",
+    "course_number": 3220,
+    "course_title": "SPAN3220 [0.5 credit]",
+    "course_desc": "Introduction to principles of linguistic analysis, illustrated through Spanish. Sound systems, word structures and sentence structures of Spanish. Basic principles of language variation and change, as evidenced in the development of Spanish. Linguistic aspects of bilingualism as manifested in Spanish/English bilinguals.",
+    "course_extra_details": "Prerequisite(s): SPAN3020 or SPAN3110 or permission of the School.\nThree hours a week.\n",
+    "course_prerequisites": "SPAN3020 or SPAN3110 or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "SPAN 4010",
+    "course_code": "SPAN4010",
+    "course_number": 4010,
+    "course_title": "SPAN4010 [0.5 credit]",
+    "course_desc": "Advanced spoken and written Spanish with intensive practice in aural comprehension and speaking in a range of situations and contexts, in reading and in composition in a range of modes and genres. Metalinguistic study. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for SPAN4110.\nPrerequisite(s): grade of C or higher in SPAN3020, SPAN3110, or permission of the School.\nThree hours a week.\n",
+    "course_prerequisites": "grade of C or higher in SPAN3020, SPAN3110, or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "SPAN 4015",
+    "course_code": "SPAN4015",
+    "course_number": 4015,
+    "course_title": "SPAN4015 [0.5 credit]",
+    "course_desc": "For students who have attained Spanish language proficiency in informal settings. This course formalizes grammar awareness, enhances literacy skills, and develops existing language abilities in a formal academic setting.",
+    "course_extra_details": "Precludes additional credit for all SPAN courses numbered 4110 and below.\nPrerequisite(s): permission of the School.\nOnline.\n",
+    "course_prerequisites": "permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "SPAN 4020",
+    "course_code": "SPAN4020",
+    "course_number": 4020,
+    "course_title": "SPAN4020 [0.5 credit]",
+    "course_desc": "Continuation of fourth-year Spanish. Advanced spoken and written Spanish with intensive practice in aural comprehension and speaking in a range of situations and contexts, in reading and in composition in a range of modes and genres. Metalinguistic study. Compulsory attendance.",
+    "course_extra_details": "Precludes additional credit for SPAN4110.\nPrerequisite(s): grade of C or higher in SPAN4010, or permission of the School.\nThree hours a week.\n",
+    "course_prerequisites": "grade of C or higher in SPAN4010, or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "SPAN 4025",
+    "course_code": "SPAN4025",
+    "course_number": 4025,
+    "course_title": "SPAN4025 [0.5 credit]",
+    "course_desc": "For students who have started to develop existing Spanish language abilities in a formal academic setting. This course enhances students\u2019 written expression while building on advanced knowledge of Spanish grammar and vocabulary.",
+    "course_extra_details": "Precludes additional credit for all SPAN courses numbered 4110 and below.\nPrerequisite(s): SPAN4015 or permission of the School.\nOnline.\n",
+    "course_prerequisites": "SPAN4015 or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "SPAN 4110",
+    "course_code": "SPAN4110",
+    "course_number": 4110,
+    "course_title": "SPAN4110 [1.0 credit]",
+    "course_desc": "Advanced spoken and written Spanish with intensive practice in aural comprehension and speaking in a range of situations and contexts, in reading and in composition in a range of modes and genres. Metalinguistic study. Compulsory attendance.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for SPAN4010 or SPAN4020.\nPrerequisite(s): grade of C or higher in SPAN3020, SPAN3110, or permission of the School.\nSix hours a week (one term).\n",
+    "course_prerequisites": "grade of C or higher in SPAN3020, SPAN3110, or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "SPAN 4215",
+    "course_code": "SPAN4215",
+    "course_number": 4215,
+    "course_title": "SPAN4215 [0.5 credit]",
+    "course_desc": "Development of language use for specific purposes in contexts such as the academic, business and technical domains.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): grade of C or higher in SPAN4020 or SPAN4110, or permission of the School.\nThree hours a week.\n",
+    "course_prerequisites": "grade of C or higher in SPAN4020 or SPAN4110, or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "SPAN 4320",
+    "course_code": "SPAN4320",
+    "course_number": 4320,
+    "course_title": "SPAN4320 [0.5 credit]",
+    "course_desc": "Selected topic in Spanish linguistics.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): LING1001 or SPAN3220, and grade of C or higher in SPAN4020 or 4110, or permission of the School.\nThree hours a week.\n",
+    "course_prerequisites": "LING1001 or SPAN3220, and grade of C or higher in SPAN4020 or 4110, or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "SPAN 4380",
+    "course_code": "SPAN4380",
+    "course_number": 4380,
+    "course_title": "SPAN4380 [0.5 credit]",
+    "course_desc": "Selected topics in Spanish-speaking cultures and societies. Development of advanced language skills.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): grade of C or higher in SPAN4020 or SPAN4110, or permission of the School.\nThree hours per week.\n",
+    "course_prerequisites": "grade of C or higher in SPAN4020 or SPAN4110, or permission of the School.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "SPAN 4900",
+    "course_code": "SPAN4900",
+    "course_number": 4900,
+    "course_title": "SPAN4900 [1.0 credit]",
+    "course_desc": "Research in a topic in Spanish language, literature or linguistics under the supervision of a member of the School.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third- or fourth-year standing in the Minor in Spanish, grade of C or higher in SPAN4020 or SPAN4110 or equivalent, or permission of the School.\n \n",
+    "course_prerequisites": "third- or fourth-year standing in the Minor in Spanish, grade of C or higher in SPAN4020 or SPAN4110 or equivalent, or permission of the School.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "SPAN 4901",
+    "course_code": "SPAN4901",
+    "course_number": 4901,
+    "course_title": "SPAN4901 [0.5 credit]",
+    "course_desc": "Research in a topic in Spanish language, literature or linguistics under the supervision of a member of the School.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third- or fourth-year standing in the Minor in Spanish, grade of C or higher in SPAN4020 or SPAN4110 or equivalent, or permission of the School.\n \n",
+    "course_prerequisites": "third- or fourth-year standing in the Minor in Spanish, grade of C or higher in SPAN4020 or SPAN4110 or equivalent, or permission of the School.",
+    "year_standing": 4
+}]}

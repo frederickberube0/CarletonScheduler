@@ -1,0 +1,737 @@
+{"object": [
+{
+    "course_identifier": "ARTH 1100",
+    "course_code": "ARTH1100",
+    "course_number": 1100,
+    "course_title": "ARTH1100 [0.5 credit]",
+    "course_desc": "A survey of art, architecture and artifacts from prehistory to the Renaissance. Ways of understanding visual culture through this span of history.",
+    "course_extra_details": "Precludes additional credit for ARTH 1000.\nLectures two hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ARTH 1101",
+    "course_code": "ARTH1101",
+    "course_number": 1101,
+    "course_title": "ARTH1101 [0.5 credit]",
+    "course_desc": "A survey of art, architecture and related visual forms in their expanding contexts from the Renaissance to the present. Ways of understanding visual culture through this span of history.",
+    "course_extra_details": "Precludes additional credit for ARTH 1000.\nLectures two hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ARTH 1105",
+    "course_code": "ARTH1105",
+    "course_number": 1105,
+    "course_title": "ARTH1105 [0.5 credit]",
+    "course_desc": "A variety of visual material is organized topically to examine the elements of art (line, shape, value, colour, texture, space), the principles of pictorial organization, the materials and techniques of art, and recurrent tendencies in artistic styles and outlooks.",
+    "course_extra_details": "Lectures or seminars three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ARTH 1200",
+    "course_code": "ARTH1200",
+    "course_number": 1200,
+    "course_title": "ARTH1200 [0.5 credit]",
+    "course_desc": "An introduction to the history of architecture from prehistory to ca. 1500, considering technological, formal, intellectual and social developments that informed the built environment through a range of building types.",
+    "course_extra_details": "Lectures two hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ARTH 1201",
+    "course_code": "ARTH1201",
+    "course_number": 1201,
+    "course_title": "ARTH1201 [0.5 credit]",
+    "course_desc": "An introduction to the history of architecture from ca. 1500 to the present, considering technological, formal, intellectual, and social developments that informed the built environment through a range of building types.",
+    "course_extra_details": "Precludes additional credit for ARTH 2608 (no longer offered).\nLectures two hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ARTH 2002",
+    "course_code": "ARTH2002",
+    "course_number": 2002,
+    "course_title": "ARTH2002 [0.5 credit]",
+    "course_desc": "A survey of historical art in Canada, from the seventeenth century to the early twentieth century. Topics may include craftwork, amateur and professional artists, art institutions, gender, nationalism, regionalism, and ethnicity. Coverage will include artworks in local and national collections in the National Capital region.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the Discipline.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the Discipline.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 2003",
+    "course_code": "ARTH2003",
+    "course_number": 2003,
+    "course_title": "ARTH2003 [0.5 credit]",
+    "course_desc": "A survey of twentieth-century art in Canada in a variety of media within social, political, and cultural contexts. Regionalism, multiculturalism, nationalism, gender, race and identity will be considered in relation to local and national collections in the National Capital region.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the Discipline.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the Discipline.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 2005",
+    "course_code": "ARTH2005",
+    "course_number": 2005,
+    "course_title": "ARTH2005 [0.5 credit]",
+    "course_desc": "Introduction to the visual arts of Indigenous peoples of the eastern and central regions of North America. A post-colonial perspective will be used to consider selected examples of creative production from time immemorial to the present.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the discipline.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the discipline.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 2006",
+    "course_code": "ARTH2006",
+    "course_number": 2006,
+    "course_title": "ARTH2006 [0.5 credit]",
+    "course_desc": "Introduction to the visual arts of Indigenous peoples of the western and northern regions of North America. A post-colonial perspective will be used to consider selected examples of visual materials from time immemorial to the present.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the discipline.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the discipline.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 2007",
+    "course_code": "ARTH2007",
+    "course_number": 2007,
+    "course_title": "ARTH2007 [0.5 credit]",
+    "course_desc": "Surveys Asian art from second-century China to post-war Japan. Representational strategies of court artists and artists from the capital are compared with artists on the periphery. Articulation of power in tombs, palaces and war propaganda is examined, as is the individual and the eccentric.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the Discipline.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the Discipline.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 2008",
+    "course_code": "ARTH2008",
+    "course_number": 2008,
+    "course_title": "ARTH2008 [0.5 credit]",
+    "course_desc": "Survey of visual art produced by Canadian Inuit from the circumpolar area.",
+    "course_extra_details": "Precludes additional credit for ARTH 3104.\nPrerequisite(s): second-year standing or permission of the Discipline.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the Discipline.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 2009",
+    "course_code": "ARTH2009",
+    "course_number": 2009,
+    "course_title": "ARTH2009 [0.5 credit]",
+    "course_desc": "Examination of techniques, materials and institutions of art history; lectures and workshops on art historical research and writing, the materials of art, professional skills; site visits to art institutions.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ARTH1100 and ARTH1101, or permission of the discipline.  Restricted to students enrolled in the Art History B.A. or B.A. Honours.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "ARTH1100 and ARTH1101, or permission of the discipline.  Restricted to students enrolled in the Art History B.A. or B.A. Honours.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ARTH 2102",
+    "course_code": "ARTH2102",
+    "course_number": 2102,
+    "course_title": "ARTH2102 [0.5 credit]",
+    "course_desc": "The art, architecture and archaeology of ancient Greece.  Vase painting, sculpture, architecture, town planning and analogous arts are studied.",
+    "course_extra_details": "Also listed as CLCV2303.\nPrecludes additional credit for CLCV 2302 (no longer offered), ARTH 2100 (no longer offered).\nPrerequisite(s): second-year standing or permission of the Department.\nLecture three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the Department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 2105",
+    "course_code": "ARTH2105",
+    "course_number": 2105,
+    "course_title": "ARTH2105 [0.5 credit]",
+    "course_desc": "The art, architecture and archaeology of the ancient Romans.  Vase painting, sculpture, architecture, town planning and analogous arts are studied.",
+    "course_extra_details": "Also listed as CLCV2304.\nPrecludes additional credit for CLCV 2302 (no longer offered), ARTH 2100 (no longer offered).\nPrerequisite(s): second-year standing or permission of the Department.\nLecture three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the Department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 2106",
+    "course_code": "ARTH2106",
+    "course_number": 2106,
+    "course_title": "ARTH2106 [0.5 credit]",
+    "course_desc": "A survey of Chinese art from the pre-modern era to re-inventions of traditions in modern and contemporary art.  Artworks in various media (ink painting, calligraphy, Buddhist sculpture, ceramics, lacquer and garden architecture) will be studied in their historical, cultural and socio-political contexts.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the Department.\nLecture or seminars three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the Department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 2107",
+    "course_code": "ARTH2107",
+    "course_number": 2107,
+    "course_title": "ARTH2107 [0.5 credit]",
+    "course_desc": "Survey of artistic movements in Islamic art and architecture in the Mediterranean, the Near East, and Central and South Asia, from the seventh century to ca. 1450. Commonalities and differences between major dynastic visual cultures will be explored.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the Discipline.\nLecture or seminars three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the Discipline.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 2108",
+    "course_code": "ARTH2108",
+    "course_number": 2108,
+    "course_title": "ARTH2108 [0.5 credit]",
+    "course_desc": "Survey of an area of global art history.  Topics may vary from year to year, and will be posted on the School for Studies in Art and Culture website.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the Department.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the Department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 2202",
+    "course_code": "ARTH2202",
+    "course_number": 2202,
+    "course_title": "ARTH2202 [0.5 credit]",
+    "course_desc": "A survey of architecture and art in Europe from ca. 313-1500 C.E. Sacred, secular, and domestic works will be discussed with reference to cultural meaning, social function, structure, and form.",
+    "course_extra_details": "Precludes additional credit for ARTH 2200 and ARTH 2201.\nPrerequisite(s): second-year standing or permission of the Discipline.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the Discipline.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 2300",
+    "course_code": "ARTH2300",
+    "course_number": 2300,
+    "course_title": "ARTH2300 [0.5 credit]",
+    "course_desc": "An examination of major works of art and architecture, issues and themes in the Italian Renaissance; emphasis  on the fifteenth and sixteenth centuries, with a look at roots in the fourteenth.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the Discipline.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the Discipline.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 2310",
+    "course_code": "ARTH2310",
+    "course_number": 2310,
+    "course_title": "ARTH2310 [0.5 credit]",
+    "course_desc": "An examination of architecture from the late medieval period to the 18th century with particular attention paid to architecture and design cultures within the European and Islamic worlds and their cross-cultural interactions.",
+    "course_extra_details": "Precludes additional credit for ARTH 3305 (no longer offered).\nPrerequisite(s): second-year standing or permission of the Discipline.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the Discipline.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 2404",
+    "course_code": "ARTH2404",
+    "course_number": 2404,
+    "course_title": "ARTH2404 [0.5 credit]",
+    "course_desc": "Tracing developments in 17th- and 18th-century painting, graphic art, sculpture, and architecture. Introduction to artists, art works, and issues central to the relationship between art and society.",
+    "course_extra_details": "Precludes additional credit for ARTH 2403 (no longer offered), ARTH 2405 (no longer offered) and ARTH 2406 (no longer offered).\nPrerequisite(s): second-year standing or permission of the Discipline.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the Discipline.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 2502",
+    "course_code": "ARTH2502",
+    "course_number": 2502,
+    "course_title": "ARTH2502 [0.5 credit]",
+    "course_desc": "Tracing developments in 19th-century painting, graphic art, sculpture, and architecture. Introduction to artists, art works, and issues central to the relationship between art and modernity.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the Discipline.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the Discipline.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 2510",
+    "course_code": "ARTH2510",
+    "course_number": 2510,
+    "course_title": "ARTH2510 [0.5 credit]",
+    "course_desc": "A survey of key monuments, theories, forms and technological developments of eighteenth- and nineteenth-century architecture.",
+    "course_extra_details": "Precludes additional credit for ARTH3809 Section \"B\" taken in 2014.\nPrerequisite(s): second-year standing or permission of the Discipline.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the Discipline.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 2600",
+    "course_code": "ARTH2600",
+    "course_number": 2600,
+    "course_title": "ARTH2600 [0.5 credit]",
+    "course_desc": "Major artistic movements in Europe from about 1900 to 1945.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the Discipline.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the Discipline.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 2601",
+    "course_code": "ARTH2601",
+    "course_number": 2601,
+    "course_title": "ARTH2601 [0.5 credit]",
+    "course_desc": "Issues, themes, movements in photography and individual photographers from the origins of the medium to the present.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the Discipline.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the Discipline.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 2610",
+    "course_code": "ARTH2610",
+    "course_number": 2610,
+    "course_title": "ARTH2610 [0.5 credit]",
+    "course_desc": "Developments in architectural form and culture through the course of the twentieth century, with emphasis on the formation and subsequent critique of the Modern Movement.",
+    "course_extra_details": "Precludes additional credit for ARTH 3609 and ARCH 3009.\nPrerequisite(s): second-year standing or permission of the Discipline.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the Discipline.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 2710",
+    "course_code": "ARTH2710",
+    "course_number": 2710,
+    "course_title": "ARTH2710 [0.5 credit]",
+    "course_desc": "Development of critical thinking, writing, and looking skills in connection to architecture, through a combination of site visits, workshops and classroom exercises.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ARTH1200 and ARTH1201 or permission of the discipline. Restricted to students in the History and Theory of Architecture B.A. or B.A. Honours program.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "ARTH1200 and ARTH1201 or permission of the discipline. Restricted to students in the History and Theory of Architecture B.A. or B.A. Honours program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ARTH 2807",
+    "course_code": "ARTH2807",
+    "course_number": 2807,
+    "course_title": "ARTH2807 [0.5 credit]",
+    "course_desc": "Philosophical approaches to the study of art. Topics such as: the nature of art and artistic value; representation and symbolism in art; art and artifice; art and the emotions; art, culture and ideology; post-structuralism and art; theories of creativity; relationship between artworks and audiences.",
+    "course_extra_details": "Also listed as PHIL2807.\nLectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ARTH 3000",
+    "course_code": "ARTH3000",
+    "course_number": 3000,
+    "course_title": "ARTH3000 [0.5 credit]",
+    "course_desc": "Recent and contemporary art in Canada in a variety of media, examined within its social, political, and cultural contexts. Current critical issues will be explored through works in local and national collections in the National Capital region.",
+    "course_extra_details": "Prerequisite(s): Second-year standing, or permission of the Discipline.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "Second-year standing, or permission of the Discipline.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ARTH 3002",
+    "course_code": "ARTH3002",
+    "course_number": 3002,
+    "course_title": "ARTH3002 [0.5 credit]",
+    "course_desc": "Canadian architecture from the seventeenth century to the present day, covering both stylistic and technological developments. Building styles, methods, and materials in the context of social and economic conditions and construction techniques.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as ARCH4002.\nPrerequisite(s): ARTH1100 and ARTH1101, or ARTH1200 and ARTH1201, or ARCH 1002 and ARCH 1201, and second-year standing or higher, or permission of the Discipline.\n \n",
+    "course_prerequisites": "ARTH1100 and ARTH1101, or ARTH1200 and ARTH1201, or ARCH 1002 and ARCH 1201, and second-year standing or higher, or permission of the Discipline.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 3003",
+    "course_code": "ARTH3003",
+    "course_number": 3003,
+    "course_title": "ARTH3003 [0.5 credit]",
+    "course_desc": "Examination of the intersections between architecture, representations, and cultures.",
+    "course_extra_details": "Prerequisite(s): ARTH1100 or ARTH1101 or ARTH1200 or ARTH1201 and second-year standing, or permission of the Discipline.\nLectures and/or seminars three hours a week.\n",
+    "course_prerequisites": "ARTH1100 or ARTH1101 or ARTH1200 or ARTH1201 and second-year standing, or permission of the Discipline.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 3005",
+    "course_code": "ARTH3005",
+    "course_number": 3005,
+    "course_title": "ARTH3005 [0.5 credit]",
+    "course_desc": "The cultural history of the United States as expressed through its architectural heritage. Selected buildings and complexes from the earliest settlements through the early twentieth century are examined.",
+    "course_extra_details": "Prerequisite(s): ARTH1201 and second-year standing or higher, or permission of the Discipline.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "ARTH1201 and second-year standing or higher, or permission of the Discipline.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 3007",
+    "course_code": "ARTH3007",
+    "course_number": 3007,
+    "course_title": "ARTH3007 [0.5 credit]",
+    "course_desc": "Modern and contemporary art in East Asia, beginning in Japan with the 1868 Meiji revolution and the 1911 revolution in China.",
+    "course_extra_details": "Prerequisite(s): second-year standing or higher, or permission of the Discipline.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "second-year standing or higher, or permission of the Discipline.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 3008",
+    "course_code": "ARTH3008",
+    "course_number": 3008,
+    "course_title": "ARTH3008 [0.5 credit]",
+    "course_desc": "Modern and contemporary art in China and beyond from the reform period in 1979 until today. Artworks will be examined in terms of their (art-)historical, discursive, socio-political, infrastructural and transcultural conditions of production and reception.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the Discipline.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the Discipline.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 3100",
+    "course_code": "ARTH3100",
+    "course_number": 3100,
+    "course_title": "ARTH3100 [0.5 credit]",
+    "course_desc": "The study of the history of art and architectural history and the methodologies and research tools employed.",
+    "course_extra_details": "Precludes additional credit for ARTH 3106 (no longer offered).\nPrerequisite(s): third-year or higher standing in Art History or History and Theory of Architecture, or permission of the Discipline.\nSeminar three hours a week. \n",
+    "course_prerequisites": "third-year or higher standing in Art History or History and Theory of Architecture, or permission of the Discipline.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ARTH 3102",
+    "course_code": "ARTH3102",
+    "course_number": 3102,
+    "course_title": "ARTH3102 [0.5 credit]",
+    "course_desc": "A study of period or theme in the art and archaeology of Ancient Greece. Topics may vary from year to year. This course is repeatable for credit when the topic changes.",
+    "course_extra_details": "Also listed as CLCV3306, RELI3732.\nPrerequisite(s): second-year standing or permission of the unit. Permission of the unit required to repeat.\nLecture three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the unit. Permission of the unit required to repeat.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 3105",
+    "course_code": "ARTH3105",
+    "course_number": 3105,
+    "course_title": "ARTH3105 [0.5 credit]",
+    "course_desc": "A study of a period or theme in the art and archaeology of the ancient Romans.  Topics may vary from year to year.",
+    "course_extra_details": "Also listed as CLCV3307, RELI3733.\nPrerequisite(s): second-year standing or permission of the unit. Permission of the unit required to repeat.\nLecture three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the unit. Permission of the unit required to repeat.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 3107",
+    "course_code": "ARTH3107",
+    "course_number": 3107,
+    "course_title": "ARTH3107 [0.5 credit]",
+    "course_desc": "The study of the methodologies and research approaches employed by architectural historians.",
+    "course_extra_details": "Prerequisite(s): ARTH3100 and third-year standing or higher in History and Theory of Architecture,  or permission of the Discipline.\nSeminar three hours a week.\n",
+    "course_prerequisites": "ARTH3100 and third-year standing or higher in History and Theory of Architecture,  or permission of the Discipline.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ARTH 3108",
+    "course_code": "ARTH3108",
+    "course_number": 3108,
+    "course_title": "ARTH3108 [0.5 credit]",
+    "course_desc": "The study of current methodologies and research tools employed by art historians.",
+    "course_extra_details": "Precludes additional credit for ARTH 3106 (no longer offered).\nPrerequisite(s): ARTH3100 and third-year standing or higher in Art History, or permission of the Discipline.\nSeminar three hours a week.\n",
+    "course_prerequisites": "ARTH3100 and third-year standing or higher in Art History, or permission of the Discipline.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ARTH 3400",
+    "course_code": "ARTH3400",
+    "course_number": 3400,
+    "course_title": "ARTH3400 [0.5 credit]",
+    "course_desc": "Exploration of printmaking techniques from the 16th century to the present focusing on the work of famous and lesser-known printmakers. Topics may include: printmaking genres (from fine art prints to caricature), originality versus reproduction, book illustration, the art market, posters and propaganda.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): second-year standing or higher, or permission of the Discipline.\nLectures and/or seminars three hours a week.\n",
+    "course_prerequisites": "second-year standing or higher, or permission of the Discipline.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 3507",
+    "course_code": "ARTH3507",
+    "course_number": 3507,
+    "course_title": "ARTH3507 [0.5 credit]",
+    "course_desc": "An examination of one artist's or group of artists' life and work. Relevant artistic, intellectual, social, political and theoretical contexts are considered.",
+    "course_extra_details": "Prerequisite(s): ARTH1101 or ARTH2502 and second-year standing or higher, or permission of the Discipline.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "ARTH1101 or ARTH2502 and second-year standing or higher, or permission of the Discipline.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 3600",
+    "course_code": "ARTH3600",
+    "course_number": 3600,
+    "course_title": "ARTH3600 [0.5 credit]",
+    "course_desc": "Contemporary art in the global context from 1945 to the present, including Abstract Expressionism, Pop Art, Postmodernism, object art, performance art and installations.",
+    "course_extra_details": "Prerequisite(s): second-year standing or higher, or permission of the Discipline.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "second-year standing or higher, or permission of the Discipline.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 3701",
+    "course_code": "ARTH3701",
+    "course_number": 3701,
+    "course_title": "ARTH3701 [0.5 credit]",
+    "course_desc": "The study of art and/or architecture on site outside the National Capital Region, in Canada or internationally. May include a combination of study in Ottawa and on site. Locations vary. Students are expected to bear all travel and other costs arising from site visits.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): permission of the Discipline.  Applicants will normally have third-year standing with a minimum of 1.0 credit in Art History or History and Theory of Architecture and a GPA of 8.0 or above.\nHours to be arranged. Locations will vary. \n",
+    "course_prerequisites": "permission of the Discipline.  Applicants will normally have third-year standing with a minimum of 1.0 credit in Art History or History and Theory of Architecture and a GPA of 8.0 or above.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ARTH 3705",
+    "course_code": "ARTH3705",
+    "course_number": 3705,
+    "course_title": "ARTH3705 [0.5 credit]",
+    "course_desc": "This seminar complements a major exhibition held at a specific museum. Students enrolled in this course are expected to bear all travel and other costs arising from required visits to the museum.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): second-year standing or higher or permission of the Discipline.\nSeminar and/or lectures three hours a week.\n",
+    "course_prerequisites": "second-year standing or higher or permission of the Discipline.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 3710",
+    "course_code": "ARTH3710",
+    "course_number": 3710,
+    "course_title": "ARTH3710 [0.5 credit]",
+    "course_desc": "The impact of imperial power and aspiration on the built environment, from the Ancient world to the present day, taking \u2018empire\u2019 in its broadest political, social and economic sense.",
+    "course_extra_details": "Prerequisite(s): ARTH1100 or ARTH1101 or ARTH1200 or ARTH1201 and second-year standing or permission of the Discipline.\nSeminar and/or lectures three hours a week.\n",
+    "course_prerequisites": "ARTH1100 or ARTH1101 or ARTH1200 or ARTH1201 and second-year standing or permission of the Discipline.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 3809",
+    "course_code": "ARTH3809",
+    "course_number": 3809,
+    "course_title": "ARTH3809 [0.5 credit]",
+    "course_desc": "Selected aspects of art history and visual culture from ancient times to the present.",
+    "course_extra_details": "Prerequisite(s): third-year standing or permission of the Discipline.\nLectures and/or seminars three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the Discipline.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ARTH 3810",
+    "course_code": "ARTH3810",
+    "course_number": 3810,
+    "course_title": "ARTH3810 [0.5 credit]",
+    "course_desc": "Selected aspects of the history of the designed environment, from ancient times to the present.",
+    "course_extra_details": "Prerequisite(s): ARTH1100 or ARTH1101 or ARTH1200 or ARTH1201 and second-year standing or permission of the Discipline.\nLectures and/or seminars three hours a week.\n",
+    "course_prerequisites": "ARTH1100 or ARTH1101 or ARTH1200 or ARTH1201 and second-year standing or permission of the Discipline.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ARTH 3900",
+    "course_code": "ARTH3900",
+    "course_number": 3900,
+    "course_title": "ARTH3900 [0.5 credit]",
+    "course_desc": "Practical experience gained by working on specific projects under the supervision of the staff of a museum, cultural institution, public- or private-sector organization associated with art, architecture, design, or heritage. A maximum of 1.0 credit in practicum courses may be used to fulfill program requirements.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): B.A. or B.A. (Honours) in Art History or History and Theory of Architecture with third-year standing or higher and a CGPA of 9.00 or better in ARTH courses, and permission of the Discipline.\n \n",
+    "course_prerequisites": "B.A. or B.A. (Honours) in Art History or History and Theory of Architecture with third-year standing or higher and a CGPA of 9.00 or better in ARTH courses, and permission of the Discipline.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ARTH 4000",
+    "course_code": "ARTH4000",
+    "course_number": 4000,
+    "course_title": "ARTH4000 [0.5 credit]",
+    "course_desc": "Selected topics in art in Canada. Students will be exposed to works in local and national collections in the National Capital region.",
+    "course_extra_details": "Prerequisite(s): one of ARTH2002, ARTH2003, ARTH3000 and fourth-year standing in Art History or History and Theory of Architecture, or permission of the Discipline.\nLectures or seminars three hours a week.\n",
+    "course_prerequisites": "one of ARTH2002, ARTH2003, ARTH3000 and fourth-year standing in Art History or History and Theory of Architecture, or permission of the Discipline.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ARTH 4002",
+    "course_code": "ARTH4002",
+    "course_number": 4002,
+    "course_title": "ARTH4002 [0.5 credit]",
+    "course_desc": "Selected aspects of the designed environment in Canada.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing in Art History or History and Theory of Architecture, or permission of the discipline.\nThree hours of seminar per week, or the equivalent.\n",
+    "course_prerequisites": "fourth-year standing in Art History or History and Theory of Architecture, or permission of the discipline.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ARTH 4003",
+    "course_code": "ARTH4003",
+    "course_number": 4003,
+    "course_title": "ARTH4003 [0.5 credit]",
+    "course_desc": "Critical examination of contemporary Chinese art. Topics include socially engaged art, historiographies of Chinese contemporary art, re-inventions of traditions, gender and politics of the body, exhibition histories and infrastructures of contemporary art in China.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing in Art History or History and Theory of Architecture, or permission of the Discipline.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year standing in Art History or History and Theory of Architecture, or permission of the Discipline.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ARTH 4005",
+    "course_code": "ARTH4005",
+    "course_number": 4005,
+    "course_title": "ARTH4005 [0.5 credit]",
+    "course_desc": "This course will use critical theory to examine aspects of contemporary visual art created by the Inuit and First Peoples in North America.",
+    "course_extra_details": "Prerequisite(s): ARTH2005 or ARTH2006 and fourth-year standing in Art History or History and Theory of Architecture, or permission of the Discipline.\nSeminar three hours a week.\n",
+    "course_prerequisites": "ARTH2005 or ARTH2006 and fourth-year standing in Art History or History and Theory of Architecture, or permission of the Discipline.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ARTH 4007",
+    "course_code": "ARTH4007",
+    "course_number": 4007,
+    "course_title": "ARTH4007 [0.5 credit]",
+    "course_desc": "A selected topic in East Asian Art, which may include 19th century Ukiyo-e woodblock prints, The Gutai Group, performance art in China and Japan, and contemporary Chinese art.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing in Art History or History and Theory of Architecture, or permission of the Discipline.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year standing in Art History or History and Theory of Architecture, or permission of the Discipline.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ARTH 4008",
+    "course_code": "ARTH4008",
+    "course_number": 4008,
+    "course_title": "ARTH4008 [0.5 credit]",
+    "course_desc": "Critical examination of transnational theories of cultural analysis, including Orientalism, Post-Colonial theory, translation theory and theories of cultural hybridity.",
+    "course_extra_details": "Precludes additional credit for ARTH 3103.\nPrerequisite(s): fourth-year standing in Art History or History and Theory of Architecture, or permission of the Discipline.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year standing in Art History or History and Theory of Architecture, or permission of the Discipline.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ARTH 4107",
+    "course_code": "ARTH4107",
+    "course_number": 4107,
+    "course_title": "ARTH4107 [0.5 credit]",
+    "course_desc": "Selected aspects of Islamic Architecture and Art.",
+    "course_extra_details": "Prerequisite(s): ARTH2107 or ARTH2310 and fourth-year standing in Art History or History and Theory of Architecture, or permission of the Discipline.\nSeminar three hours a week.\n",
+    "course_prerequisites": "ARTH2107 or ARTH2310 and fourth-year standing in Art History or History and Theory of Architecture, or permission of the Discipline.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ARTH 4202",
+    "course_code": "ARTH4202",
+    "course_number": 4202,
+    "course_title": "ARTH4202 [0.5 credit]",
+    "course_desc": "Selected aspects of Medieval or Medievalist Architecture and Art.",
+    "course_extra_details": "Prerequisite(s): ARTH2202 and fourth-year standing in Art History or History and Theory of Architecture, or permission of the Discipline.\nSeminar three hours a week.\n",
+    "course_prerequisites": "ARTH2202 and fourth-year standing in Art History or History and Theory of Architecture, or permission of the Discipline.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ARTH 4305",
+    "course_code": "ARTH4305",
+    "course_number": 4305,
+    "course_title": "ARTH4305 [0.5 credit]",
+    "course_desc": "Selected aspects of Renaissance art and society.",
+    "course_extra_details": "Prerequisite(s): ARTH2300 and fourth-year standing in Art History or History and Theory of Architecture, or permission of the Discipline.\nSeminar three hours a week.\n",
+    "course_prerequisites": "ARTH2300 and fourth-year standing in Art History or History and Theory of Architecture, or permission of the Discipline.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ARTH 4402",
+    "course_code": "ARTH4402",
+    "course_number": 4402,
+    "course_title": "ARTH4402 [0.5 credit]",
+    "course_desc": "Selected aspects of 18th-century and/or 19th-century art.",
+    "course_extra_details": "Precludes additional credit for ARTH 4406 (no longer offered), ARTH 4505 (no longer offered).\nPrerequisite(s): ARTH2404 or ARTH 2405 or ARTH 2406 or ARTH2502 and fourth-year standing in Art History or History and Theory of Architecture, or permission of the Discipline.\nSeminar three hours a week.\n",
+    "course_prerequisites": "ARTH2404 or ARTH 2405 or ARTH 2406 or ARTH2502 and fourth-year standing in Art History or History and Theory of Architecture, or permission of the Discipline.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ARTH 4600",
+    "course_code": "ARTH4600",
+    "course_number": 4600,
+    "course_title": "ARTH4600 [0.5 credit]",
+    "course_desc": "Art and/or architectural creation, reception and/or historiography through the lens of gender identities.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing in Art History or History and Theory of Architecture, or permission of the Discipline.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year standing in Art History or History and Theory of Architecture, or permission of the Discipline.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ARTH 4602",
+    "course_code": "ARTH4602",
+    "course_number": 4602,
+    "course_title": "ARTH4602 [0.5 credit]",
+    "course_desc": "Relates the themes of selected theoretical texts on photography to specific examples of photographic practice.",
+    "course_extra_details": "Prerequisite(s): ARTH2601 and fourth-year standing in Art History or History and Theory of Architecture, or permission of the Discipline.\nSeminar three hours a week.\n",
+    "course_prerequisites": "ARTH2601 and fourth-year standing in Art History or History and Theory of Architecture, or permission of the Discipline.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ARTH 4610",
+    "course_code": "ARTH4610",
+    "course_number": 4610,
+    "course_title": "ARTH4610 [0.5 credit]",
+    "course_desc": "Selected topics in architecture and design of the Modern era.",
+    "course_extra_details": "Prerequisite(s): ARTH2610 and fourth-year standing in Art History or History and Theory of Architecture, or permission of the Discipline.\nSeminar three hours a week.\n",
+    "course_prerequisites": "ARTH2610 and fourth-year standing in Art History or History and Theory of Architecture, or permission of the Discipline.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ARTH 4701",
+    "course_code": "ARTH4701",
+    "course_number": 4701,
+    "course_title": "ARTH4701 [0.5 credit]",
+    "course_desc": "Intensive study of art and/or architecture on site outside the National Capital region, in Canada or internationally. May include a combination of study in Ottawa and on site.  Students are expected to bear all travel and other costs arising from site visits.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): Permission of the Discipline.  Applicants will normally have fourth-year standing in Art History or History and Theory of Architecture and a CGPA of 8.0 or above.\nHours to be arranged. Locations vary.\n",
+    "course_prerequisites": "Permission of the Discipline.  Applicants will normally have fourth-year standing in Art History or History and Theory of Architecture and a CGPA of 8.0 or above.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ARTH 4705",
+    "course_code": "ARTH4705",
+    "course_number": 4705,
+    "course_title": "ARTH4705 [0.5 credit]",
+    "course_desc": "Studies a major exhibition held at a specific museum. Students enrolled in this course are expected to bear all travel and other costs arising from required visits to the museum.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year Honours standing in Art History or History and Theory of Architecture and permission of the Discipline.\nLectures and/or seminar three hours a week.\n",
+    "course_prerequisites": "fourth-year Honours standing in Art History or History and Theory of Architecture and permission of the Discipline.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ARTH 4800",
+    "course_code": "ARTH4800",
+    "course_number": 4800,
+    "course_title": "ARTH4800 [0.5 credit]",
+    "course_desc": "Selected aspects of architectural history from ancient times to the present.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing in Art History or History and Theory of Architecture, or permission of the Discipline.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year standing in Art History or History and Theory of Architecture, or permission of the Discipline.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ARTH 4809",
+    "course_code": "ARTH4809",
+    "course_number": 4809,
+    "course_title": "ARTH4809 [0.5 credit]",
+    "course_desc": "Selected aspects of art history and/or criticism from ancient times to the present.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing in Art History or History and Theory of Architecture, or permission of the Discipline.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year standing in Art History or History and Theory of Architecture, or permission of the Discipline.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ARTH 4900",
+    "course_code": "ARTH4900",
+    "course_number": 4900,
+    "course_title": "ARTH4900 [0.5 credit]",
+    "course_desc": "Supervised readings and research projects. Guidelines must be obtained from the Undergraduate Supervisor prior to registration. A written project outline, approved by the supervising Art History or History and Theory of Architecture faculty member, must be submitted by the last day for course changes.",
+    "course_extra_details": "Prerequisite(s): fourth-year Honours standing in Art History or History and Theory of Architecture and permission of the Discipline.\n \n",
+    "course_prerequisites": "fourth-year Honours standing in Art History or History and Theory of Architecture and permission of the Discipline.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ARTH 4909",
+    "course_code": "ARTH4909",
+    "course_number": 4909,
+    "course_title": "ARTH4909 [1.0 credit]",
+    "course_desc": "An essay of approximately 10,000 words, resulting from independent research, supervised by Art History or History and Theory of Architecture faculty.",
+    "course_extra_details": "Prerequisite(s): fourth-year Honours standing in Art History or History and Theory of Architecture with a minimum CGPA of 9.00 and permission of the Discipline.\n \n",
+    "course_prerequisites": "fourth-year Honours standing in Art History or History and Theory of Architecture with a minimum CGPA of 9.00 and permission of the Discipline.",
+    "year_standing": 4
+}]}

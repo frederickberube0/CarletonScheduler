@@ -8,7 +8,7 @@ def main():
 
         print(f"Completed {i}/108 majors. Currently loading {major}.")
         i += 1
-        file_name = "courses/"+major
+        file_name = "courses/"+major+".json"
         file = open(file_name, "w+")
         file.write('{"object": [\n')
         file.close()
@@ -20,7 +20,7 @@ def main():
 
 def writeCourses(major: str, content: str) -> None:
     """Write content into file named based on the major."""
-    file_name = "courses/"+major
+    file_name = "courses/"+major+".json"
     file = open(file_name, "a")
     file.write(content)
     file.close()

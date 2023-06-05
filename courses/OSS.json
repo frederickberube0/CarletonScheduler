@@ -1,0 +1,308 @@
+{"object": [
+{
+    "course_identifier": "OSS 1002",
+    "course_code": "OSS 002",
+    "course_number": 1002,
+    "course_title": "OSS1002 [0.5 credit]",
+    "course_desc": "Survey of the history and future of photonics. Photonics benefits and impact on technology and society. Emerging applications of photonics in industry and commercial products. The forces (business, social, political, economic, technical, and educational) that influence the development, adoption and success or failure of technologies.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PLT 1002 (no longer offered).\nPrerequisite(s): restricted to students in the B.I.T. degree program.\nLectures two hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "restricted to students in the B.I.T. degree program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "OSS 1003",
+    "course_code": "OSS 003",
+    "course_number": 1003,
+    "course_title": "OSS1003 [0.5 credit]",
+    "course_desc": "Principles of optics, optical fiber, waveguides and hands-on experience with optical components. Optical fiber manufacturing and variety of industrial applications. Topics covered include: optical sources, detectors, fiber modes and mode-coupling, couplers, multiplexers, optical amplifiers, physical layer of optical networks, dispersion and nonlinear effects management.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PLT 1003 (no longer offered).\nPrerequisite(s): OSS1006.\nLectures two hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "OSS1006.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "OSS 1005",
+    "course_code": "OSS 005",
+    "course_number": 1005,
+    "course_title": "OSS1005 [0.5 credit]",
+    "course_desc": "Physics of waves, optics and light propagation through lectures and lab experiments. Geometrical optics, refraction and reflection, interference, diffraction and polarization, thin lens equation, laser beams, Michelson interferometer, birefringence, and Abbe theory of imaging. Electromagnetic spectrum, quantum nature of light, photons, and photoelectric effect.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PLT 1005 (no longer offered).\nPrerequisite(s): BIT1203, restricted to students in the B.I.T. degree program.\nLectures two hour a week, tutorial/laboratory three hours a week.\n",
+    "course_prerequisites": "BIT1203, restricted to students in the B.I.T. degree program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "OSS 1006",
+    "course_code": "OSS 006",
+    "course_number": 1006,
+    "course_title": "OSS1006 [0.5 credit]",
+    "course_desc": "Introduction to basic programming in both the Matlab and Labview environments. Program development, basic structures (loops, control structures), I/O, data visualization and graphing will be covered. Students will learn to use Labview to develop basic applications and model simple physical systems with Matlab.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PLT 1006 (no longer offered).\nPrerequisite(s): restricted to students in the B.I.T. degree program.\nLectures two hour a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "restricted to students in the B.I.T. degree program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "OSS 2001",
+    "course_code": "OSS 001",
+    "course_number": 2001,
+    "course_title": "OSS2001 [0.5 credit]",
+    "course_desc": "Introduction to incoherent light sources and lasers. Lasers operation, energy levels, quantum mechanics basics. Pumping/excitation, population inversion, laser cavity design, gain and loss, and characteristics of laser emission. An extensive lab manual of relevant experiments, variety of lasers, spectrometers, and detection equipment will be used.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PLT 2001 (no longer offered).\nPrerequisite(s): BIT1201. Restricted to students in the BIT degree program.\nLectures two hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "BIT1201. Restricted to students in the BIT degree program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "OSS 2002",
+    "course_code": "OSS 002",
+    "course_number": 2002,
+    "course_title": "OSS2002 [0.5 credit]",
+    "course_desc": "Adaptive Optical Communication Networks with 10Gb/s-200Gb/s Packet-Optical Platforms and WaveServers, OTN, flexible WaveLogic Photonics, ROADM, SONET/SDH, programmable network, optimized mapping techniques, optical carriers (OC-n/STM-m). Extensive hands-on experience using state-of-the-art Optophotonics Lab to work on OAM&P, facility/equipment, synchronization, bandwidth management, performance monitoring and other functionalities.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PLT 2002 (no longer offered).\nPrerequisite(s): OSS1003.\nLectures two hours a week, tutorial/laboratory three hours a week.\n",
+    "course_prerequisites": "OSS1003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "OSS 2003",
+    "course_code": "OSS 003",
+    "course_number": 2003,
+    "course_title": "OSS2003 [0.5 credit]",
+    "course_desc": "Laser theory, devices and systems. Safety procedures, laser power supplies, and laser system applications. Solid state, gas, and other types of lasers. Basic material processing, micro machining, bio/medical, and military applications will be covered. Hands-on experience with advanced laser equipment in lab.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PLT 2003 (no longer offered).\nPrerequisite(s): OSS2001 or PLT 2001 (no longer offered).\nLectures two hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "OSS2001 or PLT 2001 (no longer offered).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "OSS 2005",
+    "course_code": "OSS 005",
+    "course_number": 2005,
+    "course_title": "OSS2005 [0.5 credit]",
+    "course_desc": "Students learn properties of electricity and measurement techniques. Topics covered include RMS, average, applied, peak-to-peak and instantaneous values. Lab experiments deal with RC and RL circuits and LC filters. RLC circuits, and series and parallel resonance are also covered.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PLT 2005 (no longer offered).\nPrerequisite(s): BIT1204 or PHYS1004 or PHYS1002. Restricted to students in the BIT degree program.\nLectures two hours a week, laboratory and problem analysis three hours a week.\n",
+    "course_prerequisites": "BIT1204 or PHYS1004 or PHYS1002. Restricted to students in the BIT degree program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "OSS 2006",
+    "course_code": "OSS 006",
+    "course_number": 2006,
+    "course_title": "OSS2006 [0.5 credit]",
+    "course_desc": "Fundamentals of logic circuitry in digital systems are studied including basic logic gates, Boolean algebra, signal decoding, logic circuit design, flip-flop circuits, timers and counters. The proper use of semi-conductor components is demonstrated through the use of laboratory experiments.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ELEC2507, PLT 2006 (no longer offered).\nPrerequisite(s): OSS2005 or PLT 2005 (no longer offered). Restricted to students in the B.I.T. degree program.\nLectures two hours a week, laboratory and problem analysis three hours a week.\n",
+    "course_prerequisites": "OSS2005 or PLT 2005 (no longer offered). Restricted to students in the B.I.T. degree program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "OSS 2008",
+    "course_code": "OSS 008",
+    "course_number": 2008,
+    "course_title": "OSS2008 [0.5 credit]",
+    "course_desc": "Manufacturing techniques and methods used to produce photonics components and devices/systems. Micro assembly, adhesives, optical tests and measurement, lean manufacturing and quality control standards (Telcordia). Laboratory exposure to optical component production processes: grinding, polishing, coating, mounting, tolerance and accuracy.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PLT 2008 (no longer offered).\nPrerequisite(s): OSS1002 or PLT 1002 (no longer offered). Restricted to students in the B.I.T. degree program.\nLectures two hours a week, laboratory two hours a week.\n",
+    "course_prerequisites": "OSS1002 or PLT 1002 (no longer offered). Restricted to students in the B.I.T. degree program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "OSS 2009",
+    "course_code": "OSS 009",
+    "course_number": 2009,
+    "course_title": "OSS2009 [0.5 credit]",
+    "course_desc": "Structured approach to assembly language programming. Topics include data and address registers, data and address busses, condition code register and stack pointers, machine code format, instruction sizes, operand encoding, translation of source code into machine language, and how the processor executes instructions.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for NET 1004 (no longer offered), NET2013, PLT 1007 (no longer offered), PLT 2009 (no longer offered).\nPrerequisite(s): BIT2400.\nLectures three hours a week, tutorial/laboratory one hour a week.\n",
+    "course_prerequisites": "BIT2400.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "OSS 2010",
+    "course_code": "OSS 010",
+    "course_number": 2010,
+    "course_title": "OSS2010 [0.5 credit]",
+    "course_desc": "This course provides a solid theoretical foundation for the analysis and processing of experimental data, and real-time experimental control methods. Topics include various properties of signals and systems, convolution, the Fourier transform, sampling theorem, z-transform, spectral analysis, filter design, and system identification.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PLT 2010 (no longer offered).\nPrerequisite(s): BIT1200 and BIT1201. Restricted to students in the B.I.T. degree program.\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "BIT1200 and BIT1201. Restricted to students in the B.I.T. degree program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "OSS 3000",
+    "course_code": "OSS 000",
+    "course_number": 3000,
+    "course_title": "OSS3000 [0.5 credit]",
+    "course_desc": "Operation, management and maintenance of metro/long-haul optical network elements and systems. Hands-on skills using GUI, Transaction Language One (TL1), optical network management to perform: alarm provisioning, line and path protection switching, security, data communications management, optical network backup and restore, load upgrade and installation management.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PLT 3000 (no longer offered).\nPrerequisite(s): OSS2002.\nLectures two hours a week, tutorial/laboratory three hours a week.\n",
+    "course_prerequisites": "OSS2002.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "OSS 3001",
+    "course_code": "OSS 001",
+    "course_number": 3001,
+    "course_title": "OSS3001 [0.5 credit]",
+    "course_desc": "Principles of event-driven systems, review of computer organization; parallel and serial interfaces; programmable timer; I/O methods; polling and interrupts. Real-time kernels. Critical design consideration: concurrency, dead lock, synchronization. Maintaining and improving system performance. Programming exercises in low and high level languages.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as NET3001.\nPrecludes additional credit for PLT 3002 (no longer offered).\nPrerequisite(s): OSS2009 or PLT 2009 (no longer offered).\nLectures three hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "OSS2009 or PLT 2009 (no longer offered).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "OSS 3002",
+    "course_code": "OSS 002",
+    "course_number": 3002,
+    "course_title": "OSS3002 [0.5 credit]",
+    "course_desc": "Optical ray-tracing for analysing systems of sources, lenses, mirrors, prisms, fibers, diffractive elements, MEMS. Zemax\u00ae fundamentals, pupils, aspherics, non-sequential tracing, aberrations, image metrics, optimization/merit functions. Applications: imaging, illumination, lasers. Trade-offs, mechanical constraints, tolerances and cost. Physical optics modeling of bean propagation. Near-field diffraction and waveguides.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PLT 3004 (no longer offered).\nPrerequisite(s): OSS1003 or PLT 1003 (no longer offered).\nLectures two hours a week, tutorial/laboratory three hours a week.\n",
+    "course_prerequisites": "OSS1003 or PLT 1003 (no longer offered).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "OSS 3003",
+    "course_code": "OSS 003",
+    "course_number": 3003,
+    "course_title": "OSS3003 [0.5 credit]",
+    "course_desc": "Review of basic vector calculus followed by an introduction to electrostatics and magnetostatics. Maxwell's equations and EM wave solutions. EM waves in dielectrics media, reflection, refraction, Fresnel relations and Brewster angle. Introduction to guided waves emphasizing slab waveguides.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PLT 3003 (no longer offered).\nPrerequisite(s): BIT1204 and BIT2010.\nLecture and tutorial three hours a week.\n",
+    "course_prerequisites": "BIT1204 and BIT2010.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "OSS 3004",
+    "course_code": "OSS 004",
+    "course_number": 3004,
+    "course_title": "OSS3004 [0.5 credit]",
+    "course_desc": "Specification and design of abstract data types and their implementation as stacks, queues, trees, tables and graphs. Common and useful examples. Parsing and finite state machines. Analysis of algorithms, recursion, re-entrance. Special focus: abstraction, interface specification and hierarchical design using object-oriented programming.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as NET3004.\nPrecludes additional credit for PLT 3010 (no longer offered).\nPrerequisite(s): BIT2400.\nLectures three hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "BIT2400.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "OSS 3009",
+    "course_code": "OSS 009",
+    "course_number": 3009,
+    "course_title": "OSS3009 [0.5 credit]",
+    "course_desc": "Identification, selection, initiation, and organization of projects. Risk assessment, budget issues, communication, project scheduling, performance monitoring and control. Emphasis on practical techniques related to the field of photonics using case studies.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PLT 3009 (no longer offered).\nPrerequisite(s): third year standing in the Optical Systems and Sensors program.\nLectures two hours a week, tutorial/laboratory two hours a week. \n",
+    "course_prerequisites": "third year standing in the Optical Systems and Sensors program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "OSS 3012",
+    "course_code": "OSS 012",
+    "course_number": 3012,
+    "course_title": "OSS3012 [0.5 credit]",
+    "course_desc": "Operations-related topics including: sampling/reconstruction of continuous time signals, Fourier and Z-transforms, Discrete Fourier Transform (DFT), Fast Fourier Transform (FFT). Examination of other time and frequency domain techniques for designing and applying infinite impulse response (IIR) and finite impulse response (FIR) digital filters.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PLT 3012 (no longer offered).\nPrerequisite(s): OSS2010 or PLT 2010 (no longer offered).\nLectures three hours a week, tutorial one hour a week.\n",
+    "course_prerequisites": "OSS2010 or PLT 2010 (no longer offered).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "OSS 3013",
+    "course_code": "OSS 013",
+    "course_number": 3013,
+    "course_title": "OSS3013 [0.5 credit]",
+    "course_desc": "Provides students with knowledge and expertise to design and develop complex software systems and programs for common optical systems and sensors using Python. Topics include: system and requirement analysis, algorithms, component identification, common design patterns, and working with reusable components.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PLT 3013 (no longer offered).\nPrerequisite(s): BIT2400.\nLectures three hours a week, tutorial two hours a week.\n",
+    "course_prerequisites": "BIT2400.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "OSS 3014",
+    "course_code": "OSS 014",
+    "course_number": 3014,
+    "course_title": "OSS3014 [0.5 credit]",
+    "course_desc": "Analysis of guided-wave propagation and sensors. Topics include Maxwell\u2019s time-dependent wave equations, dielectric waveguides (slab, planar, segmented, rib, strip), optical fibres (modes, dispersion relations, propagation in dispersive media, nonlinear fibres), beam propagation methods, free space beam propagation, waveguide devices, and study of sensors technology.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PLT 3014 (no longer offered).\nPrerequisite(s): OSS3003 or PLT 3003 (no longer offered).\nLectures three hours a week, tutorial two hours a week.\n",
+    "course_prerequisites": "OSS3003 or PLT 3003 (no longer offered).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "OSS 4001",
+    "course_code": "OSS 001",
+    "course_number": 4001,
+    "course_title": "OSS4001 [0.5 credit]",
+    "course_desc": "Review of semiconductors, semiconductor lasers, detectors, photovoltaics. Electro, magneto and acousto-optic modulation devices. Transmitters, receivers, photo diodes, fiber sensors, and amplifiers, Mach\u2013Zehnder interferometers. Polarization-mode dispersion. Experiments on non-linear optical elements, Sagnac and ring resonator, optical modulation.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PLT 4001 (no longer offered).\nPrerequisite(s): OSS3002 or PLT 3004 (no longer offered).\nLectures two hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "OSS3002 or PLT 3004 (no longer offered).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "OSS 4004",
+    "course_code": "OSS 004",
+    "course_number": 4004,
+    "course_title": "OSS4004 [0.5 credit]",
+    "course_desc": "Biological and medical photonics. Effect of light on biological systems, medical imaging, medical treatments, biological research and bio/medical applications. Laser manipulation of cells, laser surgery, and photo-therapy. Biophotonic lab experiments with scanning confocal microscopes, endoscopes , DNA scanners.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PLT 4004 (no longer offered).\nPrerequisite(s): OSS3003 or PLT 3003 (no longer offered).\nLectures two hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "OSS3003 or PLT 3003 (no longer offered).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "OSS 4005",
+    "course_code": "OSS 005",
+    "course_number": 4005,
+    "course_title": "OSS4005 [0.5 credit]",
+    "course_desc": "Introduction to classification and regression. Optimization, vectorization, gradient descent, cost, loss and activation functions. Introduction and basics to AI, Artificial Neural Networks, forward and backward propagation, Multi Layer Perceptron, and other types of Deep Neural Network models, their applications in multimedia, networks, finance, etc.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as IRM4005.\nPrerequisite(s): BIT2000 and BIT2400.\nLectures three hours a week.\n",
+    "course_prerequisites": "BIT2000 and BIT2400.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "OSS 4006",
+    "course_code": "OSS 006",
+    "course_number": 4006,
+    "course_title": "OSS4006 [0.5 credit]",
+    "course_desc": "Developing and evaluating algorithms for extracting the necessary information signals. Topics include filter design, fast transforms, adaptive filters, spectrum estimation and modeling, sensor array processing, image processing, motion estimation from images, applications in biomed, computer-aided tomography, image restoration, robotic vision, and pattern recognition.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PLT 4006 (no longer offered).\nPrerequisite(s): BIT2400 and OSS3012.\nLectures three hours a week, tutorial/laboratory two hours a week.\n",
+    "course_prerequisites": "BIT2400 and OSS3012.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "OSS 4008",
+    "course_code": "OSS 008",
+    "course_number": 4008,
+    "course_title": "OSS4008 [0.5 credit]",
+    "course_desc": "Introduction to the basics of remote sensing, characteristics of remote sensors, and applications. Topics include: image acquisition and data collection, LIDAR sensors and platforms and derived digital products, imagery analysis, topographic mapping, and 3D modeling of urban infrastructure for autonomous vehicles.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PLT 4008 (no longer offered).\nPrerequisite(s): OSS3014 or PLT 3014 (no longer offered).\nLectures three hours a week, tutorial two hours a week.\n",
+    "course_prerequisites": "OSS3014 or PLT 3014 (no longer offered).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "OSS 4009",
+    "course_code": "OSS 009",
+    "course_number": 4009,
+    "course_title": "OSS4009 [0.5 credit]",
+    "course_desc": "Introduction to topics in computer vision, including: fundamentals of image formation, camera imaging geometry, f camera models, camera calibration, structure from motion, feature detection and matching, depth and stereo, image stabilization, image classification, automated alignment, scene understanding, recognition, and image searching.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PLT 4009 (no longer offered).\nPrerequisite(s): OSS4006 or PLT 4006 (no longer offered).\nLectures three hours a week, tutorial two hours a week.\n",
+    "course_prerequisites": "OSS4006 or PLT 4006 (no longer offered).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "OSS 4900",
+    "course_code": "OSS 900",
+    "course_number": 4900,
+    "course_title": "OSS4900 [1.0 credit]",
+    "course_desc": "Research project develops students' ability to direct own learning and pursue advanced study in variety of subjects. Select topic, perform literature search, theoretical background, preliminary measurements, calculations, and design. Present findings in a preliminary thesis. Encourage writing technical papers. Research opportunities with industry and academia.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PLT 4900 (no longer offered).\nPrerequisite(s): fourth-year standing.\nTutorial hours arranged.\n",
+    "course_prerequisites": "fourth-year standing.",
+    "year_standing": 4
+}]}

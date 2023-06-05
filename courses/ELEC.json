@@ -1,0 +1,396 @@
+{"object": [
+{
+    "course_identifier": "ELEC 2501",
+    "course_code": "ELEC2501",
+    "course_number": 2501,
+    "course_title": "ELEC2501 [0.5 credit]",
+    "course_desc": "Properties of signals. Basic circuit elements: voltage and current sources. Kirchhoff's laws, linearity, superposition. Thevenin and Norton's theorems. Circuit simplification. AC steady-state analysis: impedance, admittance, phasors, frequency response. Transient response of RL and RC circuits: form of response, initial and final conditions. RLC circuits: resonance.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ELEC3605.\nPrerequisite(s): MATH1005 (may be taken concurrently) and (PHYS1004 or PHYS1002), and second-year status in Engineering.\nLectures three hours a week, laboratory and problem analysis three hours a week.\n",
+    "course_prerequisites": "MATH1005 (may be taken concurrently) and (PHYS1004 or PHYS1002), and second-year status in Engineering.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ELEC 2507",
+    "course_code": "ELEC2507",
+    "course_number": 2507,
+    "course_title": "ELEC2507 [0.5 credit]",
+    "course_desc": "Qualitative semiconductor physics, leading to the diode equation. Diode applications. Operational amplifiers and their application in feedback configurations including active filters. Introduction to bipolar transistors and MOSFETs, analysis of biasing circuits. Transistor applications including small signal amplifiers.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for OSS2006, PLT 2006 (no longer offered).\nPrerequisite(s): MATH1005, ELEC2501, and second-year status in Engineering.\nLectures three hours a week, laboratory and problem analysis three hours a week.\n",
+    "course_prerequisites": "MATH1005, ELEC2501, and second-year status in Engineering.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ELEC 2602",
+    "course_code": "ELEC2602",
+    "course_number": 2602,
+    "course_title": "ELEC2602 [0.5 credit]",
+    "course_desc": "Modeling and analysis of basic electric power systems. Single-phase and three-phase circuits: real and reactive power, per-phase analysis, power factor correction. Electro-mechanical energy conversion: operation, characteristics and analysis of transformers, DC-, induction-, and synchronous electric machines. Motor and generator operation.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): PHYS1004 and ELEC2501, and second-year status in Engineering.\nLectures 3 hours per week. Laboratory and problem analysis 3 hours per week alternate weeks.\n",
+    "course_prerequisites": "PHYS1004 and ELEC2501, and second-year status in Engineering.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ELEC 2607",
+    "course_code": "ELEC2607",
+    "course_number": 2607,
+    "course_title": "ELEC2607 [0.5 credit]",
+    "course_desc": "Boolean algebra, gate, combinatorial circuits. DeMorgan notation, sum-of-product and product-of-sum forms. Logic arrays, PLAs and PALs. Flip-flops, latches, sequential circuits, state graphs and state minimization. Counters and controllers. Hazards. Asynchronous sequential circuits, race free assignment, realization.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for SYSC2310.\nPrerequisite(s): PHYS1004 or PHYS1002 and second-year status in Engineering.\nLectures three hours a week, laboratory three hours alternate weeks.\n",
+    "course_prerequisites": "PHYS1004 or PHYS1002 and second-year status in Engineering.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ELEC 3105",
+    "course_code": "ELEC3105",
+    "course_number": 3105,
+    "course_title": "ELEC3105 [0.5 credit]",
+    "course_desc": "Vector calculus: gradient, divergence, curl, integration of vector fields. Electrostatics, magnetostatics. Boundary conditions. Poisson's and Laplace's equations: method of images, separation of variables, iterative method.  Electric and magnetic properties of matter.  Magnetic circuits. Lorentz force. Motional emf, electromagnetic induction.  Maxwell\u2019s equations.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): MATH1005, MATH2004, and (PHYS1004 or  PHYS1002), and second-year status in Engineering.\nLectures three hours a week, laboratory and problem analysis three hours alternate weeks.\n",
+    "course_prerequisites": "MATH1005, MATH2004, and (PHYS1004 or  PHYS1002), and second-year status in Engineering.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ELEC 3500",
+    "course_code": "ELEC3500",
+    "course_number": 3500,
+    "course_title": "ELEC3500 [0.5 credit]",
+    "course_desc": "Digital circuit design using verilog and logic synthesis, the electronic properties of logic gates, electrical interfacing between logic families, asynchronous to synchronous interfacing, clock distribution and timing, VLSI design options. Students implement substantial circuits with field-programmable gate arrays.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ELEC2507 and ELEC2607.\nLectures three hours a week, laboratory three hours a week.\n",
+    "course_prerequisites": "ELEC2507 and ELEC2607.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ELEC 3508",
+    "course_code": "ELEC3508",
+    "course_number": 3508,
+    "course_title": "ELEC3508 [0.5 credit]",
+    "course_desc": "Power semiconductor devices: Thyristor, GTO, IGBT, SiC, GaN. Converter circuits: controlled AC to DC rectifiers, choppers, DC to AC inverters, AC voltage controllers. Protection of conversion circuits. Applications to high-efficiency control of electric machines and electromechanical energy conversion devices.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ELEC2507 and ELEC2602.\nLectures three hours per week, laboratories/problem analysis three hours per week.\n",
+    "course_prerequisites": "ELEC2507 and ELEC2602.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ELEC 3509",
+    "course_code": "ELEC3509",
+    "course_number": 3509,
+    "course_title": "ELEC3509 [0.5 credit]",
+    "course_desc": "Introduction to semiconductor devices and ICs. DC, AC and switching properties of BJTs. Linear amplifiers; bandwidth considerations; two-port analysis. Large signal amplifiers; power amplifiers; transformerless circuits. Feedback and operational amplifiers; gain, sensitivity, distortion and stability. Filter design. Oscillators.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for : ELEC3509 may not be taken for credit by students in the Biomedical and Electrical Engineering or Biomedical and Mechanical Engineering programs.\nPrerequisite(s): ELEC2507.\nLectures three hours a week, laboratory three hours a week.\n",
+    "course_prerequisites": "ELEC2507.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ELEC 3602",
+    "course_code": "ELEC3602",
+    "course_number": 3602,
+    "course_title": "ELEC3602 [0.5 credit]",
+    "course_desc": "The electric power system. Components: power transformers and connections, transmission lines.  Analysis: balanced and unbalanced three-phase systems, symmetrical components, load flow, FACTS. Operation: frequency and voltage control, steady state and transient stability, fault protection. Distribution systems: utility, residential, commercial. Electrical safety: code, grounding/bonding.",
+    "course_extra_details": "Also listed as ELEC4602.\nPrerequisite(s): ELEC2602.\nLectures three hours a week, problem analysis two hours a week.\n",
+    "course_prerequisites": "ELEC2602.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ELEC 3605",
+    "course_code": "ELEC3605",
+    "course_number": 3605,
+    "course_title": "ELEC3605 [0.5 credit]",
+    "course_desc": "DC circuits: elements, sources, analysis. Single phase AC circuits: phasors, RLC circuits, real and reactive power, impedance, network analysis, three phase systems. Power transformers. DC motors: operation and characteristics. AC motors: single phase and three phase.",
+    "course_extra_details": "Precludes additional credit for ELEC2501.\nPrerequisite(s): MATH1005 and (PHYS1004 or  PHYS1002), and second-year status in Engineering.\nLectures three hours a week, problem analysis 1.5 hours a week.\n",
+    "course_prerequisites": "MATH1005 and (PHYS1004 or  PHYS1002), and second-year status in Engineering.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ELEC 3907",
+    "course_code": "ELEC3907",
+    "course_number": 3907,
+    "course_title": "ELEC3907 [0.5 credit]",
+    "course_desc": "Student teams work on open-ended projects based on previously acquired knowledge. Lectures are devoted to discussing project-related issues and student presentations. A project proposal, a series of project reports, and oral presentations, and a comprehensive final report are required.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ELEC2507, ELEC2607, third year status in Engineering, and enrolment in the Electrical Engineering or Engineering Physics program.\nLecture two hours per week, laboratory six hours per week.\n",
+    "course_prerequisites": "ELEC2507, ELEC2607, third year status in Engineering, and enrolment in the Electrical Engineering or Engineering Physics program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ELEC 3908",
+    "course_code": "ELEC3908",
+    "course_number": 3908,
+    "course_title": "ELEC3908 [0.5 credit]",
+    "course_desc": "Fundamentals of device physics and operation of the pn junction, bipolar transistor and MOSFET. Basic integrated circuit processing and application to diodes, BJTs and MOSFETs. Correlation between processing, structure, operation and modeling. Consideration of parasitic and small-geometry effects, reliability and process variation.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ELEC  4705.\nPrerequisite(s): ELEC2507.\nLectures three hours a week, laboratory and problem analysis three hours alternate weeks.\n",
+    "course_prerequisites": "ELEC2507.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ELEC 3909",
+    "course_code": "ELEC3909",
+    "course_number": 3909,
+    "course_title": "ELEC3909 [0.5 credit]",
+    "course_desc": "Maxwell's equations and EM wave solutions. Polarization. Poynting vector. EM waves in dielectrics and conductors; skin depth. Reflection and refraction. Standing waves. Fresnel relations, Brewster angle. Transmission lines. Line termination, basic impedance matching and transformation. Smith charts. Introduction to guided waves; slab waveguide.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PHYS3308.\nPrerequisite(s): ELEC3105 or permission of the Department.\nLectures three hours a week, problem analysis three hours alternate weeks.\n",
+    "course_prerequisites": "ELEC3105 or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ELEC 3999",
+    "course_code": "ELEC3999",
+    "course_number": 3999,
+    "course_title": "ELEC3999 [0.0 credit]",
+    "course_desc": "Includes: Experiential Learning Activity ",
+    "course_extra_details": "Includes: Experiential Learning Activity\n \n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ELEC 4502",
+    "course_code": "ELEC4502",
+    "course_number": 4502,
+    "course_title": "ELEC4502 [0.5 credit]",
+    "course_desc": "Introduction to microwave semiconductor devices, microwave passive components, microwave integrated circuit technology, and microwave circuit measurements. Basic network theory and scattering matrix description of circuits. Design of matching networks, filters, amplifiers and oscillators at microwave frequencies.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ELEC4503; may be taken concurrently.\nLectures three hours a week, laboratory three hours alternate weeks.\n",
+    "course_prerequisites": "ELEC4503; may be taken concurrently.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ELEC 4503",
+    "course_code": "ELEC4503",
+    "course_number": 4503,
+    "course_title": "ELEC4503 [0.5 credit]",
+    "course_desc": "Introduction to distributed circuits, travelling and standing waves, reflection coefficient, SWR, impedance transformation, Smith charts. Introduction to transmission lines; coaxial, rectangular waveguide, resonators, optical fibers. Introduction to antennas; gain, directivity, effective area. Introduction to linear arrays.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ELEC3909.\nLectures three hours a week, laboratory three hours alternate weeks.\n",
+    "course_prerequisites": "ELEC3909.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ELEC 4504",
+    "course_code": "ELEC4504",
+    "course_number": 4504,
+    "course_title": "ELEC4504 [0.5 credit]",
+    "course_desc": "Electromagnetic spectrum. Air data sensing, display. Communications systems. Navigation and landing systems; ground-based, inertial and satellite systems. Airborne radar. Guidance, control for aircraft, autopilots; stability augmentation; active control; sensor requirements; display techniques. Aircraft power systems. Safety systems. Vehicle/systems integration, certification.",
+    "course_extra_details": "Precludes additional credit for AERO4504.\nPrerequisite(s): fourth-year status in Engineering. Not open to students in Electrical Engineering, Computer Systems Engineering, Engineering Physics or Communications Engineering.\nLecture three hours a week.\n",
+    "course_prerequisites": "fourth-year status in Engineering. Not open to students in Electrical Engineering, Computer Systems Engineering, Engineering Physics or Communications Engineering.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ELEC 4505",
+    "course_code": "ELEC4505",
+    "course_number": 4505,
+    "course_title": "ELEC4505 [0.5 credit]",
+    "course_desc": "A course of study of the commonly used circuit components in modern telecommunication systems. Both analog and digital systems are included. The design of the hardware is emphasized. Examples are drawn from broadcasting, telephony and satellite systems.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ELEC3509 and (SYSC3501 or SYSC3503).\nLectures three hours a week, laboratory three hours alternate weeks.\n",
+    "course_prerequisites": "ELEC3509 and (SYSC3501 or SYSC3503).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ELEC 4506",
+    "course_code": "ELEC4506",
+    "course_number": 4506,
+    "course_title": "ELEC4506 [0.5 credit]",
+    "course_desc": "Basic principles of Computer-Aided Design tools used for analysis and design of communication circuits and systems. Frequency and time-domain analysis. Noise and distortion analysis. Transmission line effects. Sensitivity analysis and circuit performance optimization. Digital simulation.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year status in Engineering.\nLectures three hours a week, laboratory three hours alternate weeks.\n",
+    "course_prerequisites": "fourth-year status in Engineering.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ELEC 4509",
+    "course_code": "ELEC4509",
+    "course_number": 4509,
+    "course_title": "ELEC4509 [0.5 credit]",
+    "course_desc": "Fundamentals; decibel, intermodulation, 1dB compression, dynamic range, SNR, noise figure, noise temperature, antenna gain, EIRP, G/T. Line-of-sight links; receiver, diversity, fade margin. Satellite links; link calculations, multiple accessing, earth stations. Fiber links, fiber types, sources, detectors, systems.",
+    "course_extra_details": "Prerequisite(s): fourth-year status in Engineering or permission of the Department.\nLectures three hours a week, problem analysis three hours alternate weeks.\n",
+    "course_prerequisites": "fourth-year status in Engineering or permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ELEC 4600",
+    "course_code": "ELEC4600",
+    "course_number": 4600,
+    "course_title": "ELEC4600 [0.5 credit]",
+    "course_desc": "Radar: operation, minimum detectable signal, propagation effects. Surveillance Radars: Moving Target indicator and Pulse Doppler operation. Radio Navigation: pulsed and CW operation. Operational systems: Loran C., VOR/DME, TACAN, Global Positioning system. Inertial Navigation. Navigation Co-ordinate Systems. Techniques for determining best estimates of position.",
+    "course_extra_details": "Prerequisite(s): fourth-year status in Engineering or permission of the Department.\nLectures three hours a week, problem analysis 3 hours alternate weeks.\n",
+    "course_prerequisites": "fourth-year status in Engineering or permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ELEC 4601",
+    "course_code": "ELEC4601",
+    "course_number": 4601,
+    "course_title": "ELEC4601 [0.5 credit]",
+    "course_desc": "Interfacing aspects in microprocessor systems. Microprocessors and bus structures, internal architecture, instruction set and pin functions. Memory interfacing, input-output, interrupts, direct memory accesses, special processors and multiprocessor systems.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for COMP 3006 (no longer offered), SYSC3320, SYSC3601.\nPrerequisite(s): ELEC2607 and one of SYSC2003 or SYSC 3003 (no longer offered) or SYSC3006 or permission of the Department.\nLectures three hours a week, laboratory three hours alternate weeks.\n",
+    "course_prerequisites": "ELEC2607 and one of SYSC2003 or SYSC 3003 (no longer offered) or SYSC3006 or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ELEC 4602",
+    "course_code": "ELEC4602",
+    "course_number": 4602,
+    "course_title": "ELEC4602 [0.5 credit]",
+    "course_desc": "The electric power system. Components: power transformers and connections, transmission lines.  Analysis: balanced and unbalanced three-phase systems, symmetrical components, load flow, FACTS. Operation: frequency and voltage control, steady state and transient stability, fault protection. Distribution systems: utility, residential, commercial. Electrical safety: code, grounding/bonding.",
+    "course_extra_details": "Also listed as ELEC3602.\nPrerequisite(s): ELEC2602.\nLectures three hours a week, problem analysis two hours a week.\n",
+    "course_prerequisites": "ELEC2602.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ELEC 4609",
+    "course_code": "ELEC4609",
+    "course_number": 4609,
+    "course_title": "ELEC4609 [0.5 credit]",
+    "course_desc": "Introduction to nMOS IC design: static logic gates, noise margin, transmission gates, factors influencing switching speed, dynamic logic, input protection, output buffers, circuit simulation with SPICE. Laboratory work includes design and layout of a simple nMOS IC that is fabricated and returned for testing.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ELEC3500 or ELEC3908.\nLectures three hours a week, laboratory and problem analysis three hours alternate weeks.\n",
+    "course_prerequisites": "ELEC3500 or ELEC3908.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ELEC 4700",
+    "course_code": "ELEC4700",
+    "course_number": 4700,
+    "course_title": "ELEC4700 [0.5 credit]",
+    "course_desc": "Fabrication, operation and modeling of advanced devices for information technology. Topics: physics of materials, quantum mechanics of solids, optical transitions, physical analysis and models for state-of-the-art electronic/optical technologies and materials. Technologies: MOS and III-V based transistors, solid-state optical devices, MEMS and nano-technology based devices.",
+    "course_extra_details": "Prerequisite(s): ELEC3908.\nLectures three hours a week, problem analysis two hours alternate weeks.\n",
+    "course_prerequisites": "ELEC3908.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ELEC 4702",
+    "course_code": "ELEC4702",
+    "course_number": 4702,
+    "course_title": "ELEC4702 [0.5 credit]",
+    "course_desc": "Fundamentals of optoelectronics with application to fiber optic communications. Optical fibre: modes, losses, dispersion, splices, coupling to sources. Optical sources: LEDs, laser diodes. Optical detectors: photoconductor, pin and avalanche photodiodes. Optical receiver design. Fiber optic communications systems: intensity modulation/direct detection; coherent homodyne or heterodyne detection.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ELEC3908 and ELEC3909.\nLectures three hours a week, laboratory three hours alternate weeks.\n",
+    "course_prerequisites": "ELEC3908 and ELEC3909.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ELEC 4703",
+    "course_code": "ELEC4703",
+    "course_number": 4703,
+    "course_title": "ELEC4703 [0.5 credit]",
+    "course_desc": "Semiconductor band structure, photogeneration, the solar spectrum. Detailed analysis of monocrystalline silicon solar cells. Solar cells based on thin film materials:  amorphous silicon, III-V materials, organics, titania-dye cells. Cells for concentrator systems. Photovoltaic power systems. Solar cells for building envelopes.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ELEC2501 and ELEC2507 and fourth-year status in Sustainable and Renewable Energy Engineering, or ELEC2501 and ELEC2507 and fourth-year status in Engineering with permission of the instructor.\nLectures three hours per week, laboratories/problem analysis three hours alternate weeks.\n",
+    "course_prerequisites": "ELEC2501 and ELEC2507 and fourth-year status in Sustainable and Renewable Energy Engineering, or ELEC2501 and ELEC2507 and fourth-year status in Engineering with permission of the instructor.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ELEC 4704",
+    "course_code": "ELEC4704",
+    "course_number": 4704,
+    "course_title": "ELEC4704 [0.5 credit]",
+    "course_desc": "Engineering at the nanoscale. Quantum confinement and the effect of scale. Analysis tools: microscopy, spectroscopy. Fabrication: thin films, nanoparticles, nanotubes, graphene, organics. Structures and properties: quantum wells, nanocrystals, nanostructuring. Applications and devices: electronics, optoelectronics, photonics.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ELEC3908, ELEC3909.\nLectures three hours a week, problem analysis 1.5 hours a week.\n",
+    "course_prerequisites": "ELEC3908, ELEC3909.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ELEC 4705",
+    "course_code": "ELEC4705",
+    "course_number": 4705,
+    "course_title": "ELEC4705 [0.5 credit]",
+    "course_desc": "Review of solid-state theory, conductors, semiconductors, superconductors, insulators, and optical and magnetic properties. Devices used in modern high speed electronic and communication systems: transistors, lasers, photodiodes, fiber optics, Josephson junctions. Implications of material properties on fabrication and operation of devices and circuits.",
+    "course_extra_details": "Precludes additional credit for ELEC3908.\nPrerequisite(s): fourth-year status in Engineering. Not available for credit to students in Electrical Engineering or Engineering Physics.\nLectures three hours a week.\n",
+    "course_prerequisites": "fourth-year status in Engineering. Not available for credit to students in Electrical Engineering or Engineering Physics.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ELEC 4706",
+    "course_code": "ELEC4706",
+    "course_number": 4706,
+    "course_title": "ELEC4706 [0.5 credit]",
+    "course_desc": "Challenges faced in designing high-speed electronic circuits and systems. Fundamentals of high-speed Tx/Rx architectures including: timing and HDL, PLL/DLL, Tx drivers, interface to photonic components, channel modelling, Rx channel, choice of modulation, equalization, clock and data recovery. VHDL hardware and CAD software laboratories.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ELEC3500.\nLectures three hours a week, laboratory three hours a week.\n",
+    "course_prerequisites": "ELEC3500.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ELEC 4707",
+    "course_code": "ELEC4707",
+    "course_number": 4707,
+    "course_title": "ELEC4707 [0.5 credit]",
+    "course_desc": "Emphasis on integration of analog signal processing techniques in monolithic IC technology. Continuous active filter design. MOS IC technology. OP amp design. Basic sampled data concepts; Z-transform analysis, switched capacitor filters. Noise aspects. Bipolar technology: radio frequency IC design.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ELEC3509.\nLectures three hours a week, laboratory and problem analysis three hours alternate weeks.\n",
+    "course_prerequisites": "ELEC3509.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ELEC 4708",
+    "course_code": "ELEC4708",
+    "course_number": 4708,
+    "course_title": "ELEC4708 [0.5 credit]",
+    "course_desc": "Advanced Verilog, test benches. VLSI design based on CMOS technology, characteristics of CMOS logic circuits, cell libraries, building blocks, structured design, testing, Computer-Aided Design tools. Laboratory emphasis on design synthesis from Verilog.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year status in Engineering and ELEC3500 or permission of the Department.\nLectures three hours a week, laboratory and problem analysis three hours alternate weeks.\n",
+    "course_prerequisites": "fourth-year status in Engineering and ELEC3500 or permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ELEC 4709",
+    "course_code": "ELEC4709",
+    "course_number": 4709,
+    "course_title": "ELEC4709 [0.5 credit]",
+    "course_desc": "Overview of sensor technologies with emphasis on devices suitable for integration with silicon integrated circuits. Sensor design and fabrication principles including signal conditioning; discussion of automotive, biomedical, and other instrumentation applications.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year status in Engineering.\nLectures three hours a week, laboratory and problem analysis three hours alternate weeks.\n",
+    "course_prerequisites": "fourth-year status in Engineering.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ELEC 4906",
+    "course_code": "ELEC4906",
+    "course_number": 4906,
+    "course_title": "ELEC4906 [0.5 credit]",
+    "course_desc": "At the discretion of the Engineering Faculty Board, a course dealing with selected advanced topics of interest to students in Biomedical and Electrical, Communications, Computer Systems, Electrical and Software Engineering and Engineering Physics may be offered.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year status in Engineering.\nLectures three hours a week, laboratory and problem analysis three hours alternate weeks.\n",
+    "course_prerequisites": "fourth-year status in Engineering.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ELEC 4907",
+    "course_code": "ELEC4907",
+    "course_number": 4907,
+    "course_title": "ELEC4907 [1.0 credit]",
+    "course_desc": "Student teams develop professional-level experience by applying, honing, integrating, and extending previously acquired knowledge in a major design project. Lectures are devoted to discussing project-related issues and student presentations. A project proposal, interim report, oral presentations, and a comprehensive final report are required.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): (ELEC3907 or SYSC3010), ECOR3800, and fourth-year status in Engineering.\n \n",
+    "course_prerequisites": "(ELEC3907 or SYSC3010), ECOR3800, and fourth-year status in Engineering.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ELEC 4908",
+    "course_code": "ELEC4908",
+    "course_number": 4908,
+    "course_title": "ELEC4908 [1.0 credit]",
+    "course_desc": "Student teams develop professional-level experience by applying, honing, integrating, and extending previously acquired knowledge in a major design project approved for Engineering Physics. Lectures devoted to discussing project-related issues and student presentations. A project proposal, interim report, oral presentations, and comprehensive final report are required.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ECOR3800, and fourth-year status in Engineering. Certain projects may have additional prerequisites or corequisites.\n \n",
+    "course_prerequisites": "ECOR3800, and fourth-year status in Engineering. Certain projects may have additional prerequisites or corequisites.",
+    "year_standing": 4
+}]}

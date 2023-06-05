@@ -1,0 +1,1595 @@
+{"object": [
+{
+    "course_identifier": "ENGL 1002",
+    "course_code": "ENGL1002",
+    "course_number": 1002,
+    "course_title": "ENGL1002 [0.5 credit]",
+    "course_desc": "The first half of an introduction to the principles, styles, and structures of effective writing, including essay writing. Course offered only in Nunavut as part of Certificate in Nunavut Public Service Studies Program.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ENGL 1005 (no longer offered).\nLectures and workshop three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 1003",
+    "course_code": "ENGL1003",
+    "course_number": 1003,
+    "course_title": "ENGL1003 [0.5 credit]",
+    "course_desc": "The second half of an introduction to the principles, styles, and structures of effective writing, including essay writing. Course offered only in Nunavut as part of Certificate in Nunavut Public Service Studies Program.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ENGL 1005 (no longer offered).\nPrerequisite(s): ENGL1002.\nLectures and workshop three hours a week.\n",
+    "course_prerequisites": "ENGL1002.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 1008",
+    "course_code": "ENGL1008",
+    "course_number": 1008,
+    "course_title": "ENGL1008 [0.5 credit]",
+    "course_desc": "A practical and intensive overview of English grammar designed for students who want to improve their understanding of grammar for their own writing and reading. This is not an ESL course.",
+    "course_extra_details": "Lectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 1009",
+    "course_code": "ENGL1009",
+    "course_number": 1009,
+    "course_title": "ENGL1009 [0.5 credit]",
+    "course_desc": "Introduction to the study of literature from a global perspective. Students will be exposed to writers from various locations and to methods for studying literature across national boundaries.",
+    "course_extra_details": "Lecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 1010",
+    "course_code": "ENGL1010",
+    "course_number": 1010,
+    "course_title": "ENGL1010 [0.5 credit]",
+    "course_desc": "An intensive writing course focusing on the formulation and construction of a literary essay.",
+    "course_extra_details": "Precludes additional credit for ENGL1020.\nLectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 1020",
+    "course_code": "ENGL1020",
+    "course_number": 1020,
+    "course_title": "ENGL1020 [0.5 credit]",
+    "course_desc": "The rhetorical principles, skills, and structures necessary for the kind of writing done at the university level. Clear and effective composition as a mode of research, discovery, analysis, and persuasion. Students pursuing the English major or minor should take ENGL 1010 instead of ENGL 1020.",
+    "course_extra_details": "Precludes additional credit for ENGL1010.\nLectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 1100",
+    "course_code": "ENGL1100",
+    "course_number": 1100,
+    "course_title": "ENGL1100 [0.5 credit]",
+    "course_desc": "An introductory course whose readings focus on the intersections between literature, law, and criminality.  Topics will vary.  Consult the English Department website for the current topic.",
+    "course_extra_details": "Precludes additional credit for ENGL 1000 (no longer offered), ENGL1200, ENGL1300, ENGL1400, ENGL1600, ENGL1700, FYSM1004.\nLecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 1200",
+    "course_code": "ENGL1200",
+    "course_number": 1200,
+    "course_title": "ENGL1200 [0.5 credit]",
+    "course_desc": "An introductory course whose readings focus on the intersections between literature, science, and technology.  Topics will vary.  Consult the English Department website for the current topic.",
+    "course_extra_details": "Precludes additional credit for ENGL 1000 (no longer offered), ENGL1100, ENGL1300, ENGL1400, ENGL1600, ENGL1700, FYSM1004.\nLectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 1300",
+    "course_code": "ENGL1300",
+    "course_number": 1300,
+    "course_title": "ENGL1300 [0.5 credit]",
+    "course_desc": "An introductory course whose readings focus on the intersections between literature, psychology, and the mind.  Topics will vary.  Consult the English Department website for the current topic.",
+    "course_extra_details": "Precludes additional credit for ENGL 1000 (no longer offered), ENGL1100, ENGL1200, ENGL1400, ENGL1600, ENGL1700, FYSM1004.\nLectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 1400",
+    "course_code": "ENGL1400",
+    "course_number": 1400,
+    "course_title": "ENGL1400 [0.5 credit]",
+    "course_desc": "An introductory course whose readings focus on the intersections between literature, art, and culture. Topics will vary. Consult the English Department website for the current topic.",
+    "course_extra_details": "Precludes additional credit for ENGL 1000 (no longer offered), ENGL1100, ENGL1200, ENGL1300, ENGL1600, ENGL1700, FYSM1004.\nLectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 1500",
+    "course_code": "ENGL1500",
+    "course_number": 1500,
+    "course_title": "ENGL1500 [0.5 credit]",
+    "course_desc": "An introduction to the practice of creative writing, focusing on poetry, the short story, creative non-fiction, and drama. Emphasis is also placed on contextualizing creative writing as an academic discipline, a mode of self-expression, and a professional industry.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nLectures and workshops three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 1600",
+    "course_code": "ENGL1600",
+    "course_number": 1600,
+    "course_title": "ENGL1600 [0.5 credit]",
+    "course_desc": "An introductory course whose readings focus on the intersections between literature and magic.  Topics will vary.  Consult the English Department website for the current topic.",
+    "course_extra_details": "Precludes additional credit for ENGL 1000 (no longer offered), ENGL1100, ENGL1200, ENGL1300, ENGL1400, ENGL1700, FYSM1004.\nLecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 1609",
+    "course_code": "ENGL1609",
+    "course_number": 1609,
+    "course_title": "ENGL1609 [0.5 credit]",
+    "course_desc": "An introduction to drama studies, combining attention to theatre history, conventions, and devices, with attention to theatrical practice, and interpretation of selected dramatic texts. Students will develop a vocabulary for speaking and writing with confidence about theatrical productions, theatre practice, and dramatic texts.",
+    "course_extra_details": "Lecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 1700",
+    "course_code": "ENGL1700",
+    "course_number": 1700,
+    "course_title": "ENGL1700 [0.5 credit]",
+    "course_desc": "An introduction to literature and culture in the context of the environmental humanities and climate change.",
+    "course_extra_details": "Precludes additional credit for ENGL 1000 (no longer offered), ENGL1100, ENGL1200, ENGL1300, ENGL1400, ENGL1600, FYSM1004.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 2005",
+    "course_code": "ENGL2005",
+    "course_number": 2005,
+    "course_title": "ENGL2005 [0.5 credit]",
+    "course_desc": "An introduction to theories and methods of literary analysis. Through the study of literature, theory, and criticism, students will explore disciplinary history, critical terms, textual analysis, and research methods.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the department.\nLecture three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2008",
+    "course_code": "ENGL2008",
+    "course_number": 2008,
+    "course_title": "ENGL2008 [1.0 credit]",
+    "course_desc": "A literary study of myths and symbols from oral traditions to contemporary forms through selected interdisciplinary and  theoretical approaches.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2011",
+    "course_code": "ENGL2011",
+    "course_number": 2011,
+    "course_title": "ENGL2011 [0.5 credit]",
+    "course_desc": "An introduction of the critical study of children\u2019s literature.",
+    "course_extra_details": "Also listed as CHST2011.\nPrecludes additional credit for ENGL 2006 (no longer offered).\nPrerequisite(s): second-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2012",
+    "course_code": "ENGL2012",
+    "course_number": 2012,
+    "course_title": "ENGL2012 [0.5 credit]",
+    "course_desc": "An examination of the genre of epic in Greco-Roman antiquity, including a close reading of translations of Homer and Vergil.",
+    "course_extra_details": "Also listed as CLCV2008.\nPrecludes additional credit for CLCV 2009, ENGL 2009.\nPrerequisite(s): second year standing or permission of the unit.\nLecture three hours a week.\n",
+    "course_prerequisites": "second year standing or permission of the unit.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 2100",
+    "course_code": "ENGL2100",
+    "course_number": 2100,
+    "course_title": "ENGL2100 [0.5 credit]",
+    "course_desc": "Study of a selected topic related to popular culture.",
+    "course_extra_details": "Precludes additional credit for ENGL 2101 (no longer offered).\nPrerequisite(s): second-year standing or permission of the department.\nLecture three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2103",
+    "course_code": "ENGL2103",
+    "course_number": 2103,
+    "course_title": "ENGL2103 [0.5 credit]",
+    "course_desc": "A historical and critical study of the novel.",
+    "course_extra_details": "Precludes additional credit for ENGL 2003 (no longer offered).\nPrerequisite(s): second-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2104",
+    "course_code": "ENGL2104",
+    "course_number": 2104,
+    "course_title": "ENGL2104 [0.5 credit]",
+    "course_desc": "A course dealing with the rudiments of theatrical performance: voice, movement, improvisation, interpretation. Exercises are based upon examples drawn from classical and contemporary repertoires.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ENGL 2000 (no longer offered).\nPrerequisite(s): second-year standing or permission of the department.\nWorkshop three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2105",
+    "course_code": "ENGL2105",
+    "course_number": 2105,
+    "course_title": "ENGL2105 [0.5 credit]",
+    "course_desc": "A historical study of the English language, its structure, variety, and cultural contexts, with an introduction to grammatical terminology and constructions.",
+    "course_extra_details": "Also listed as LING2802.\nPrerequisite(s): second-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2106",
+    "course_code": "ENGL2106",
+    "course_number": 2106,
+    "course_title": "ENGL2106 [0.5 credit]",
+    "course_desc": "An introduction to the critical study of popular fiction. Topics will vary but may include popular narrative forms such as fantasy, horror, mystery, romance, Young Adult (YA) fiction, etc.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the department.\nLecture three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2107",
+    "course_code": "ENGL2107",
+    "course_number": 2107,
+    "course_title": "ENGL2107 [0.5 credit]",
+    "course_desc": "A study of the history and traditions of science fiction, speculative fiction, fantasy, and utopia, covering various periods, nationalities, genres, and/or media.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2108",
+    "course_code": "ENGL2108",
+    "course_number": 2108,
+    "course_title": "ENGL2108 [0.5 credit]",
+    "course_desc": "Representations of women and the construction of femininity in selected literary texts, the position of women as readers and authors, and the impact of feminist criticism on literary analysis.",
+    "course_extra_details": "Precludes additional credit for ENGL 2902 (no longer offered).\nPrerequisite(s): second-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2109",
+    "course_code": "ENGL2109",
+    "course_number": 2109,
+    "course_title": "ENGL2109 [0.5 credit]",
+    "course_desc": "How literature represents, reproduces, and resists cultural notions of gender and sexuality. Topics may include: gender and sexuality in relation to literary history, production, and reception; literature by/about \u201cdeviant\u201d or subcultural sexualities and genders.",
+    "course_extra_details": "Precludes additional credit for ENGL 2902 (no longer offered).\nPrerequisite(s): second-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2200",
+    "course_code": "ENGL2200",
+    "course_number": 2200,
+    "course_title": "ENGL2200 [0.5 credit]",
+    "course_desc": "This course not only surveys theories about the imagination and creativity but also teaches various rhetorical exercises and strategies for sparking inventive thinking and new ideas to fire the writing process.  Consult the English Department's website for detailed information.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the department.  Students in English may take this course only as a free elective.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department.  Students in English may take this course only as a free elective.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2201",
+    "course_code": "ENGL2201",
+    "course_number": 2201,
+    "course_title": "ENGL2201 [0.5 credit]",
+    "course_desc": "This course introduces majors and non-majors to a selection of known and unknown \"masterpieces.\"  Texts may be grouped to explore specific themes.  Requirements include a variety of assignments but no formal essay.  Consult the English Department's website for detailed information.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the department. Students in English may take this course only as a free elective.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department. Students in English may take this course only as a free elective.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2202",
+    "course_code": "ENGL2202",
+    "course_number": 2202,
+    "course_title": "ENGL2202 [0.5 credit]",
+    "course_desc": "Introduction to a sub-category of speculative fiction that spans from traditional ghost stories and tales of the macabre to the \u201cNew Weird\u201d: contemporary writing that overthrows the clich\u00e9s, conventions, and expectations of fantasy, horror, and science fiction.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2301",
+    "course_code": "ENGL2301",
+    "course_number": 2301,
+    "course_title": "ENGL2301 [0.5 credit]",
+    "course_desc": "A study of the period between 500 and 1500, with attention to cultural, historical, geographical, and literary contexts.",
+    "course_extra_details": "Precludes additional credit for ENGL 2300 (no longer offered).\nPrerequisite(s): Second-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "Second-year standing or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 2302",
+    "course_code": "ENGL2302",
+    "course_number": 2302,
+    "course_title": "ENGL2302 [0.5 credit]",
+    "course_desc": "A study of the period between 1500 and 1700, with attention to cultural, historical, geographical, and literary contexts.",
+    "course_extra_details": "Precludes additional credit for ENGL 2300 (no longer offered).\nPrerequisite(s): Second-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "Second-year standing or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 2400",
+    "course_code": "ENGL2400",
+    "course_number": 2400,
+    "course_title": "ENGL2400 [0.5 credit]",
+    "course_desc": "An introduction to the principal debates in and approaches to the Digital Humanities.",
+    "course_extra_details": "Also listed as DIGH2001.\nPrerequisite(s): second-year standing or permission of the department.\nLecture three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2401",
+    "course_code": "ENGL2401",
+    "course_number": 2401,
+    "course_title": "ENGL2401 [0.5 credit]",
+    "course_desc": "A multidisciplinary survey of core theories, methodologies and tools within the Digital Humanities. Assignments will include collaborative work and applied projects.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as DIGH2002.\nPrerequisite(s): second-year standing or permission of the department.\nLecture and workshop three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2500",
+    "course_code": "ENGL2500",
+    "course_number": 2500,
+    "course_title": "ENGL2500 [0.5 credit]",
+    "course_desc": "A study of classical mythology, emphasizing its use in Greek and Roman literature and its place in classical art and religion. There is some discussion of classical myths in terms of contemporary interpretations of myth.",
+    "course_extra_details": "Also listed as CLCV2500.\nPrecludes additional credit for ENGL 2007/CLCV 2000 (no longer offered).\nPrerequisite(s): second-year standing or permission of the unit.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the unit.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2600",
+    "course_code": "ENGL2600",
+    "course_number": 2600,
+    "course_title": "ENGL2600 [0.5 credit]",
+    "course_desc": "Historical survey of world cinema primarily from 1895 to 1945, examining the forms, structures and stylistic conventions of various periods and nations.",
+    "course_extra_details": "Also listed as FILM2606.\nPrecludes additional credit for ENGL 2608 (no longer offered) and FILM 2608 (no longer offered).\nPrerequisite(s): FILM1101 or FILM1120 or a 1000-level English course, and second-year standing, or permission of the discipline.\nLecture and screening three hours a week, lecture one hour a week.\n",
+    "course_prerequisites": "FILM1101 or FILM1120 or a 1000-level English course, and second-year standing, or permission of the discipline.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2601",
+    "course_code": "ENGL2601",
+    "course_number": 2601,
+    "course_title": "ENGL2601 [0.5 credit]",
+    "course_desc": "Historical survey of world cinema primarily since 1945, examining the forms, structures and stylistic conventions of various periods and nations.",
+    "course_extra_details": "Also listed as FILM2607.\nPrecludes additional credit for ENGL 2608 (no longer offered)and FILM 2608 (no longer offered).\nPrerequisite(s): ENGL2600 or FILM2606 or permission of the department.\nLecture and screening three hours a week, lecture one hour a week.\n",
+    "course_prerequisites": "ENGL2600 or FILM2606 or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 2605",
+    "course_code": "ENGL2605",
+    "course_number": 2605,
+    "course_title": "ENGL2605 [0.5 credit]",
+    "course_desc": "An examination of the genres of tragedy and comedy in Greco-Roman antiquity.",
+    "course_extra_details": "Also listed as CLCV2010.\nPrecludes additional credit for CLCV 2009, ENGL 2009.\nPrerequisite(s): second year standing or permission of the unit.\nLecture three hours a week.\n",
+    "course_prerequisites": "second year standing or permission of the unit.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 2609",
+    "course_code": "ENGL2609",
+    "course_number": 2609,
+    "course_title": "ENGL2609 [0.5 credit]",
+    "course_desc": "A study of dramatic texts and traditions, offering attention to major dramatic modes and movements such as Ritual, Dance, Naturalism, Expressionism, Absurdism, Political Theatre, Feminist Theatre, and Global/Intercultural Theatre. Each will be investigated in the context of performance videos, live performances, and/or written text.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2700",
+    "course_code": "ENGL2700",
+    "course_number": 2700,
+    "course_title": "ENGL2700 [0.5 credit]",
+    "course_desc": "Introduction to the traditions of American literature through 1865.",
+    "course_extra_details": "Precludes additional credit for ENGL 2702 (no longer offered).\nPrerequisite(s): second-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2701",
+    "course_code": "ENGL2701",
+    "course_number": 2701,
+    "course_title": "ENGL2701 [0.5 credit]",
+    "course_desc": "Introduction to the traditions of American literature after 1865.",
+    "course_extra_details": "Precludes additional credit for ENGL 2702 (no longer offered).\nPrerequisite(s): second-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2709",
+    "course_code": "ENGL2709",
+    "course_number": 2709,
+    "course_title": "ENGL2709 [0.5 credit]",
+    "course_desc": "A study of dramatic literatures and theatre practice from Indigenous theatre makers, including playwrights, directors, and other practitioners.",
+    "course_extra_details": "Also listed as INDG2709.\nPrerequisite(s): second-year standing, or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing, or permission of the Department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2730",
+    "course_code": "ENGL2730",
+    "course_number": 2730,
+    "course_title": "ENGL2730 [0.5 credit]",
+    "course_desc": "Selected topics related to climate change and cultural studies.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the department.\nLecture three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2802",
+    "course_code": "ENGL2802",
+    "course_number": 2802,
+    "course_title": "ENGL2802 [1.0 credit]",
+    "course_desc": "A survey of  Canadian literary cultures in English from their beginnings to the present that frames them in the wider context of Indigenous writing and storytelling. This course is writing-attentive.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2900",
+    "course_code": "ENGL2900",
+    "course_number": 2900,
+    "course_title": "ENGL2900 [0.5 credit]",
+    "course_desc": "A study of developments in the literary representation of the self. The course considers a wide range of major texts from the Middle Ages to the present.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2901",
+    "course_code": "ENGL2901",
+    "course_number": 2901,
+    "course_title": "ENGL2901 [0.5 credit]",
+    "course_desc": "A workshop involving regular assignments in writing poetry and practical criticism based on this work. Permission to register in this course  requires the student to submit a writing sample. Instructions can be found at carleton.ca/english.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): permission of the instructor.\nWorkshop three hours a week.\n",
+    "course_prerequisites": "permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 2903",
+    "course_code": "ENGL2903",
+    "course_number": 2903,
+    "course_title": "ENGL2903 [0.5 credit]",
+    "course_desc": "A workshop involving regular assignments in writing prose fiction and practical criticism based on this work. Permission to register in this course  requires the student to submit a writing sample. Instructions can be found at carleton.ca/english.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): permission of the instructor.\nWorkshop three hours a week.\n",
+    "course_prerequisites": "permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 2906",
+    "course_code": "ENGL2906",
+    "course_number": 2906,
+    "course_title": "ENGL2906 [0.5 credit]",
+    "course_desc": "A study of literature in relation to its social and political contexts. Topics and periods vary.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2908",
+    "course_code": "ENGL2908",
+    "course_number": 2908,
+    "course_title": "ENGL2908 [0.5 credit]",
+    "course_desc": "The literatures of Ireland, Scotland, and/or Wales. Topics will vary in national and historical scope and may be organized by theme, author, and/or genre.",
+    "course_extra_details": "Precludes additional credit for ENGL 2602 and ENGL 2606 (no longer offered).\nPrerequisite(s): second-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2910",
+    "course_code": "ENGL2910",
+    "course_number": 2910,
+    "course_title": "ENGL2910 [0.5 credit]",
+    "course_desc": "This experiential learning course immerses students in the practical arts and histories of book production.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): second-year standing or permission of the department.\nWorkshop three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2915",
+    "course_code": "ENGL2915",
+    "course_number": 2915,
+    "course_title": "ENGL2915 [0.5 credit]",
+    "course_desc": "A workshop involving regular assignments in reading and writing creative nonfiction and practical criticism based on this work.  Permission to register in this course requires the student to submit a writing sample.  Instructions can be found at carleton.ca/english.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): permission of the instructor.\nWorkshop three hours a week.\n",
+    "course_prerequisites": "permission of the instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 2920",
+    "course_code": "ENGL2920",
+    "course_number": 2920,
+    "course_title": "ENGL2920 [0.5 credit]",
+    "course_desc": "An introduction to the study of literature and culture in the context of topics such as empire and decolonization, diaspora, migration and globalization, race, and ethnicity. Themes, authors, and geographical and temporal focus will vary.",
+    "course_extra_details": "Prerequisite(s): Second-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "Second-year standing or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 2926",
+    "course_code": "ENGL2926",
+    "course_number": 2926,
+    "course_title": "ENGL2926 [0.5 credit]",
+    "course_desc": "An introductory survey of modern African literatures, discourses, and cultural production in the first half of the 20th century.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2927",
+    "course_code": "ENGL2927",
+    "course_number": 2927,
+    "course_title": "ENGL2927 [0.5 credit]",
+    "course_desc": "A survey of modern African literatures, discourses, and cultural production from the era of political independence from colonialism (the 1960s) to the present.",
+    "course_extra_details": "Prerequisite(s): second-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2936",
+    "course_code": "ENGL2936",
+    "course_number": 2936,
+    "course_title": "ENGL2936 [0.5 credit]",
+    "course_desc": "An introductory historical survey of the literatures of South Asia to the early colonial era, starting with the Indian epics and concluding with literary traditions of 18th-century India.",
+    "course_extra_details": "Precludes additional credit for ENGL 2502 (no longer offered).\nPrerequisite(s): second-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2937",
+    "course_code": "ENGL2937",
+    "course_number": 2937,
+    "course_title": "ENGL2937 [0.5 credit]",
+    "course_desc": "An introductory survey of literatures of South Asia from the colonial and postcolonial eras.  Topics include the nationalist movement, neo-colonialism, and post-colonialism.",
+    "course_extra_details": "Precludes additional credit for ENGL 2502 (no longer offered).\nPrerequisite(s): second-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2956",
+    "course_code": "ENGL2956",
+    "course_number": 2956,
+    "course_title": "ENGL2956 [0.5 credit]",
+    "course_desc": "Introduction to comparative and transnational approaches to the literatures and oratures of the Caribbean, and North and South America, with emphasis on the pre-colonial and colonial eras.",
+    "course_extra_details": "Precludes additional credit for ENGL 2909 (no longer offered).\nPrerequisite(s): second-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 2957",
+    "course_code": "ENGL2957",
+    "course_number": 2957,
+    "course_title": "ENGL2957 [0.5 credit]",
+    "course_desc": "Introduction to comparative and transnational approaches to 20th- and 21st-century writing from the Caribbean, and North and South America.",
+    "course_extra_details": "Precludes additional credit for ENGL 2909 (no longer offered).\nPrerequisite(s): second-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 3003",
+    "course_code": "ENGL3003",
+    "course_number": 3003,
+    "course_title": "ENGL3003 [0.5 credit]",
+    "course_desc": "A study of non-English literatures in translation with a special focus on cultural and historical contexts.",
+    "course_extra_details": "Prerequisite(s): third-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 3007",
+    "course_code": "ENGL3007",
+    "course_number": 3007,
+    "course_title": "ENGL3007 [0.5 credit]",
+    "course_desc": "This course is designed to enable students to develop skills in reading and writing about poetry. Readings will be chosen from a variety of authors, periods, and/or genres.",
+    "course_extra_details": "Prerequisite(s): third-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 3008",
+    "course_code": "ENGL3008",
+    "course_number": 3008,
+    "course_title": "ENGL3008 [0.5 credit]",
+    "course_desc": "A study of an author or topic in Greek literature. Contents of this course vary from year to year.",
+    "course_extra_details": "Also listed as CLCV3701.\nPrerequisite(s): 1.0 credit in CLCV courses (or equivalent) at second year level or permission of the unit. Permission of the unit is required to repeat this course.\nLecture three hours a week.\n",
+    "course_prerequisites": "1.0 credit in CLCV courses (or equivalent) at second year level or permission of the unit. Permission of the unit is required to repeat this course.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 3009",
+    "course_code": "ENGL3009",
+    "course_number": 3009,
+    "course_title": "ENGL3009 [0.5 credit]",
+    "course_desc": "A study of an author or topic in Roman literature.",
+    "course_extra_details": "Also listed as CLCV3702.\nPrerequisite(s): 1.0 credit in CLCV courses (or equivalent) at second year level or permission of the unit.  Permission of the unit is required to repeat this course.\nLecture three hours a week.\n",
+    "course_prerequisites": "1.0 credit in CLCV courses (or equivalent) at second year level or permission of the unit.  Permission of the unit is required to repeat this course.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 3010",
+    "course_code": "ENGL3010",
+    "course_number": 3010,
+    "course_title": "ENGL3010 [0.5 credit]",
+    "course_desc": "This course is designed to enable students to develop skills in reading and writing about great works of poetry. Course requirements will feature a combination of creative and critical exercises, but no formal essay.",
+    "course_extra_details": "Prerequisite(s): third-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 3011",
+    "course_code": "ENGL3011",
+    "course_number": 3011,
+    "course_title": "ENGL3011 [0.5 credit]",
+    "course_desc": "An introduction to the critical study of comic books and graphic narrative.",
+    "course_extra_details": "Prerequisite(s): third-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 3105",
+    "course_code": "ENGL3105",
+    "course_number": 3105,
+    "course_title": "ENGL3105 [0.5 credit]",
+    "course_desc": "Introduction to ideas about literature, aesthetics, authorship, and readership as these have circulated in periods before the twentieth century.",
+    "course_extra_details": "Precludes additional credit for ENGL 3000 (no longer offered), and ENGL 3001 (no longer offered).\nPrerequisite(s): third-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 3106",
+    "course_code": "ENGL3106",
+    "course_number": 3106,
+    "course_title": "ENGL3106 [1.0 credit]",
+    "course_desc": "This course offers students an interdisciplinary foundation in cultural, critical, and literary theories and practices.  This course is writing attentive.",
+    "course_extra_details": "Prerequisite(s): third-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 3200",
+    "course_code": "ENGL3200",
+    "course_number": 3200,
+    "course_title": "ENGL3200 [0.5 credit]",
+    "course_desc": "A study of selected topics and texts from medieval literature.",
+    "course_extra_details": "Prerequisite(s): third-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 3201",
+    "course_code": "ENGL3201",
+    "course_number": 3201,
+    "course_title": "ENGL3201 [1.0 credit]",
+    "course_desc": "Major movements and works from Dante's Divine Comedy through Voltaire's Candide. Themes include the New Humanism vs. old Chivalry in the Renaissance and Baroque periods; the rise of the modern novel and drama; reason, nature, and the Enlightenment project.",
+    "course_extra_details": "Also listed as HUMS3200.\nPrerequisite(s): HUMS2000 and third-year standing in the Bachelor of Humanities program for Humanities Students. English students should have third year standing with a CGPA of 8.0 or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "HUMS2000 and third-year standing in the Bachelor of Humanities program for Humanities Students. English students should have third year standing with a CGPA of 8.0 or higher.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 3202",
+    "course_code": "ENGL3202",
+    "course_number": 3202,
+    "course_title": "ENGL3202 [0.5 credit]",
+    "course_desc": "A study of Chaucer's works including some attention to the Middle English language in which he wrote.",
+    "course_extra_details": "Prerequisite(s): third-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 3204",
+    "course_code": "ENGL3204",
+    "course_number": 3204,
+    "course_title": "ENGL3204 [0.5 credit]",
+    "course_desc": "An examination of the ways in which childhood, children, and youth have been represented in creative literature (fiction, poetry, drama, and/or creative nonfiction).",
+    "course_extra_details": "Also listed as CHST3204.\nPrerequisite(s): third-year standing.\nLecture three hours a week.\n",
+    "course_prerequisites": "third-year standing.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 3305",
+    "course_code": "ENGL3305",
+    "course_number": 3305,
+    "course_title": "ENGL3305 [0.5 credit]",
+    "course_desc": "Introduction to the study of early modern play-texts written by Shakespeare and/or his contemporaries.",
+    "course_extra_details": "Precludes additional credit for ENGL 3304 (no longer offered).\nPrerequisite(s): third-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 3306",
+    "course_code": "ENGL3306",
+    "course_number": 3306,
+    "course_title": "ENGL3306 [0.5 credit]",
+    "course_desc": "A study of film adaptations of selected plays by Shakespeare.",
+    "course_extra_details": "Prerequisite(s): third-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 3401",
+    "course_code": "ENGL3401",
+    "course_number": 3401,
+    "course_title": "ENGL3401 [0.5 credit]",
+    "course_desc": "A multidisciplinary course focused on the social, economic and political dimensions of the book in its manuscript, print and digital forms.",
+    "course_extra_details": "Also listed as DIGH3001.\nPrerequisite(s): third-year standing, or permission of the English Department.\nLecture three hours a week.\n",
+    "course_prerequisites": "third-year standing, or permission of the English Department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 3402",
+    "course_code": "ENGL3402",
+    "course_number": 3402,
+    "course_title": "ENGL3402 [0.5 credit]",
+    "course_desc": "A detailed study of authors and movements of the period 1660 to 1780.",
+    "course_extra_details": "Prerequisite(s): third-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 3414",
+    "course_code": "ENGL3414",
+    "course_number": 3414,
+    "course_title": "ENGL3414 [0.5 credit]",
+    "course_desc": "The fundamental skills of professional writing and editing, including writing for specific audiences, document design, revision strategies, copyediting.",
+    "course_extra_details": "Also listed as ALDS3414.\nPrerequisite(s): third-year standing or permission of the instructor.\nSeminars three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the instructor.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 3500",
+    "course_code": "ENGL3500",
+    "course_number": 3500,
+    "course_title": "ENGL3500 [0.5 credit]",
+    "course_desc": "A study of the period between 1700 and 1900, with attention to cultural, historical, geographical, and literary contexts.",
+    "course_extra_details": "Precludes additional credit for ENGL 3502 (no longer offered).\nPrerequisite(s): Third-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "Third-year standing or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 3501",
+    "course_code": "ENGL3501",
+    "course_number": 3501,
+    "course_title": "ENGL3501 [0.5 credit]",
+    "course_desc": "A study of the period between 1900 and the present, with attention to cultural, historical, geographical, and literary contexts.",
+    "course_extra_details": "Precludes additional credit for ENGL 3502 (no longer offered).\nPrerequisite(s): Third-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "Third-year standing or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 3553",
+    "course_code": "ENGL3553",
+    "course_number": 3553,
+    "course_title": "ENGL3553 [0.5 credit]",
+    "course_desc": "A study of the English novel in the 19 th  century.",
+    "course_extra_details": "Precludes additional credit for ENGL 3503 (no longer offered).\nPrerequisite(s): third-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 3601",
+    "course_code": "ENGL3601",
+    "course_number": 3601,
+    "course_title": "ENGL3601 [0.5 credit]",
+    "course_desc": "A study of 20th and 21st-century poetry in English. Topics and authors may vary.",
+    "course_extra_details": "Prerequisite(s): third-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 3603",
+    "course_code": "ENGL3603",
+    "course_number": 3603,
+    "course_title": "ENGL3603 [0.5 credit]",
+    "course_desc": "A study of 20th- and 21st-century fiction in English. Topics and authors may vary.",
+    "course_extra_details": "Prerequisite(s): Third-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "Third-year standing or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 3605",
+    "course_code": "ENGL3605",
+    "course_number": 3605,
+    "course_title": "ENGL3605 [0.5 credit]",
+    "course_desc": "Introduction to contemporary approaches to literary texts, such as formalist, structuralist, deconstructive, psychoanalytic, Marxist, historicist, and feminist. Topics may include: the nature and role of literature, of author and reader, of canons, ideology, gender, sexuality, and race.",
+    "course_extra_details": "Precludes additional credit for ENGL 3002 (no longer offered).\nPrerequisite(s): third-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 3608",
+    "course_code": "ENGL3608",
+    "course_number": 3608,
+    "course_title": "ENGL3608 [0.5 credit]",
+    "course_desc": "A workshop taught by practitioners in the community that provides students with the knowledge and skills necessary to create, manage, and sustain theatre projects. Topics will vary but may include the development of children\u2019s theatre or the operation of a festival or touring company.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing or permission of the department.\nWorkshop three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 3609",
+    "course_code": "ENGL3609",
+    "course_number": 3609,
+    "course_title": "ENGL3609 [0.5 credit]",
+    "course_desc": "A study of dramatic texts and performance practices in contemporary professional theatre.  Topics vary according to the season programs of professional theatre in Ottawa.  Students will attend a number of productions, determined by the instructor.  Field trip fees will apply.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 3702",
+    "course_code": "ENGL3702",
+    "course_number": 3702,
+    "course_title": "ENGL3702 [0.5 credit]",
+    "course_desc": "A study of American writing in its cultural and historical contexts.",
+    "course_extra_details": "Precludes additional credit for ENGL 3703 (no longer offered).\nPrerequisite(s): third-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 3801",
+    "course_code": "ENGL3801",
+    "course_number": 3801,
+    "course_title": "ENGL3801 [0.5 credit]",
+    "course_desc": "A study of Canadian poetry in its social and political contexts.",
+    "course_extra_details": "Prerequisite(s): third-year standing or permission of the department.\nLecture three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 3803",
+    "course_code": "ENGL3803",
+    "course_number": 3803,
+    "course_title": "ENGL3803 [0.5 credit]",
+    "course_desc": "A study of Canadian fiction in its social and political contexts.",
+    "course_extra_details": "Prerequisite(s): third-year standing or permission of the department.\nLecture three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 3804",
+    "course_code": "ENGL3804",
+    "course_number": 3804,
+    "course_title": "ENGL3804 [0.5 credit]",
+    "course_desc": "A survey of the literature and cultural texts that have defined Europe. Examination of fiction and non-fiction texts that have contributed to and reflected the development of European culture and society.",
+    "course_extra_details": "Also listed as EURR3001.\nPrerequisite(s): second year standing.\nLecture and discussion three hours a week.\n",
+    "course_prerequisites": "second year standing.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 3805",
+    "course_code": "ENGL3805",
+    "course_number": 3805,
+    "course_title": "ENGL3805 [0.5 credit]",
+    "course_desc": "A survey of the literature and cultural texts that have defined Russian and neighbouring Slavic countries. Examination of fiction and non-fiction texts that have contributed to and reflected the development of Russian and Slavic culture and society.",
+    "course_extra_details": "Also listed as EURR3002.\nPrerequisite(s): second-year standing.\nLecture and discussion three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ENGL 3902",
+    "course_code": "ENGL3902",
+    "course_number": 3902,
+    "course_title": "ENGL3902 [0.5 credit]",
+    "course_desc": "An intermediate workshop involving regular assignments in writing for film.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as FILM3902.\nPrerequisite(s): a grade of B+ or higher in one of: ENGL2901, ENGL2903, ENGL2915; or departmental permission.\nWorkshops three hours a week.\n",
+    "course_prerequisites": "a grade of B+ or higher in one of: ENGL2901, ENGL2903, ENGL2915; or departmental permission.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 3903",
+    "course_code": "ENGL3903",
+    "course_number": 3903,
+    "course_title": "ENGL3903 [0.5 credit]",
+    "course_desc": "An intermediate workshop involving regular assignments in writing prose fiction and practical criticism.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): a grade of B+ or higher in one of: ENGL2901, ENGL2903, ENGL2915; or departmental permission.\nWorkshop three hours a week.\n",
+    "course_prerequisites": "a grade of B+ or higher in one of: ENGL2901, ENGL2903, ENGL2915; or departmental permission.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 3904",
+    "course_code": "ENGL3904",
+    "course_number": 3904,
+    "course_title": "ENGL3904 [0.5 credit]",
+    "course_desc": "A course dealing with techniques of characterization, principles of ensemble performance, scene analysis for actors and directors, styles of performance.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ENGL 2001 (no longer offered).\nPrerequisite(s): ENGL2104 or permission of the Department.\nWorkshop three hours a week.\n",
+    "course_prerequisites": "ENGL2104 or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 3905",
+    "course_code": "ENGL3905",
+    "course_number": 3905,
+    "course_title": "ENGL3905 [0.5 credit]",
+    "course_desc": "A study of selected elements of performance. Topics will vary but may include such areas as the theory and practice of comic timing on stage or movement on stage space.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing or permission of the department.\nLecture and workshop three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 3906",
+    "course_code": "ENGL3906",
+    "course_number": 3906,
+    "course_title": "ENGL3906 [0.5 credit]",
+    "course_desc": "An intermediate workshop in creative writing that focuses on the development of writing skills specific to the crafting of narratives in such genres as Speculative Fiction, Young Adult Fiction, and Historical Fiction.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): a grade of B+ or higher in one of: ENGL2901, ENGL2903, ENGL2915; or departmental permission.\nWorkshop three hours a week.\n",
+    "course_prerequisites": "a grade of B+ or higher in one of: ENGL2901, ENGL2903, ENGL2915; or departmental permission.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 3908",
+    "course_code": "ENGL3908",
+    "course_number": 3908,
+    "course_title": "ENGL3908 [0.5 credit]",
+    "course_desc": "Study of contemporary research and theory (1970s to present) on academic writing in elementary, secondary and post-secondary school, with emphasis on writing in university. Consideration of what academic writing entails, how writing fosters learning, and how instruction can help students develop their writing abilities.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as ALDS3401.\nPrerequisite(s): third-year standing or permission of the instructor.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the instructor.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 3909",
+    "course_code": "ENGL3909",
+    "course_number": 3909,
+    "course_title": "ENGL3909 [0.5 credit]",
+    "course_desc": "Study of contemporary research and theory (1980s to present) in writing in workplace settings. Consideration of how writing is used in accomplishing work, how novices learn to write effectively, and what the implications are for pedagogy.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as ALDS3402.\nPrerequisite(s): third-year standing or permission of the instructor.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the instructor.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 3910",
+    "course_code": "ENGL3910",
+    "course_number": 3910,
+    "course_title": "ENGL3910 [0.5 credit]",
+    "course_desc": "This experiential-learning course prepares students in English for their transition into the workplace. Project-based activities (including readings and research) and guest speakers will teach students to identify, develop, and apply the skills and knowledge gained from a degree in English studies.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): Third-year standing or permission of the department.\nLectures and workshops three hours a week.\n",
+    "course_prerequisites": "Third-year standing or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 3911",
+    "course_code": "ENGL3911",
+    "course_number": 3911,
+    "course_title": "ENGL3911 [0.5 credit]",
+    "course_desc": "This course explores cultural expression across diverse media, theorizing culture as a form of struggle that shapes material conditions, fuels knowledge production, and informs lived experience.",
+    "course_extra_details": "Prerequisite(s): third-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 3915",
+    "course_code": "ENGL3915",
+    "course_number": 3915,
+    "course_title": "ENGL3915 [0.5 credit]",
+    "course_desc": "An intermediate workshop that involves regular creative writing assignments and practical criticism based on this work. Topics will vary. Yearly special topics can be found at carleton.ca/english/.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): a grade of B+ or higher in one of: ENGL2901, ENGL2903, ENGL2915; or departmental permission.\nWorkshop three hours a week.\n",
+    "course_prerequisites": "a grade of B+ or higher in one of: ENGL2901, ENGL2903, ENGL2915; or departmental permission.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 3916",
+    "course_code": "ENGL3916",
+    "course_number": 3916,
+    "course_title": "ENGL3916 [0.5 credit]",
+    "course_desc": "This intermediate-level workshop-based course explores traditions of spoken word poetry while requiring students to create and perform their own spoken word poems.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as AFRI3916.\nPrerequisite(s): a grade of B+ or higher in one of: ENGL2901, ENGL2903, ENGL2915; or departmental permission.\nWorkshops three hours a week.\n",
+    "course_prerequisites": "a grade of B+ or higher in one of: ENGL2901, ENGL2903, ENGL2915; or departmental permission.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 3920",
+    "course_code": "ENGL3920",
+    "course_number": 3920,
+    "course_title": "ENGL3920 [0.5 credit]",
+    "course_desc": "This interdisciplinary, experiential fieldwork course brings together literature, culture, and ecology studies. At least 50% of class periods will be devoted to short field work excursions in the Ottawa region. These excursions will be complemented by classroom discussion time. Field trip fees will apply.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing or permission of the department.\nField work and lectures three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 3930",
+    "course_code": "ENGL3930",
+    "course_number": 3930,
+    "course_title": "ENGL3930 [0.5 credit]",
+    "course_desc": "An intermediate study of literature, culture, and research in the context of topics such as empire and decolonization, diaspora, migration and globalization, race, and ethnicity. Themes, authors, and geographical and temporal focus will vary.",
+    "course_extra_details": "Prerequisite(s): Third-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "Third-year standing or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 3940",
+    "course_code": "ENGL3940",
+    "course_number": 3940,
+    "course_title": "ENGL3940 [0.5 credit]",
+    "course_desc": "A study of diaspora literatures and cultures.",
+    "course_extra_details": "Prerequisite(s): third-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 3960",
+    "course_code": "ENGL3960",
+    "course_number": 3960,
+    "course_title": "ENGL3960 [0.5 credit]",
+    "course_desc": "A study of Indigenous literatures and cultures.",
+    "course_extra_details": "Prerequisite(s): third-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 3965",
+    "course_code": "ENGL3965",
+    "course_number": 3965,
+    "course_title": "ENGL3965 [0.5 credit]",
+    "course_desc": "A survey of major concepts and key figures in postcolonial theory.",
+    "course_extra_details": "Prerequisite(s): third-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 3972",
+    "course_code": "ENGL3972",
+    "course_number": 3972,
+    "course_title": "ENGL3972 [0.5 credit]",
+    "course_desc": "A study of postcolonial literatures and cultures. Topics may vary from year to year.",
+    "course_extra_details": "Prerequisite(s): third-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 3999",
+    "course_code": "ENGL3999",
+    "course_number": 3999,
+    "course_title": "ENGL3999 [0.0 credit]",
+    "course_desc": "Includes: Experiential Learning Activity ",
+    "course_extra_details": "Includes: Experiential Learning Activity\n \n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 4001",
+    "course_code": "ENGL4001",
+    "course_number": 4001,
+    "course_title": "ENGL4001 [0.5 credit]",
+    "course_desc": "A study of a selected topic in poetry.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing or permission of the department.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ENGL 4003",
+    "course_code": "ENGL4003",
+    "course_number": 4003,
+    "course_title": "ENGL4003 [0.5 credit]",
+    "course_desc": "A study of a selected topic in the novel.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing or permission of the department.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ENGL 4004",
+    "course_code": "ENGL4004",
+    "course_number": 4004,
+    "course_title": "ENGL4004 [0.5 credit]",
+    "course_desc": "The role of writing in constructing knowledge in the professions, as viewed from contemporary socio-cultural perspectives.  Consideration of how the goals, values, and assumptions of different professions shape their writing in distinctive ways and what implications this holds for theory, research, and practice.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as ALDS4404.\nPrerequisite(s): third-year standing or permission of the instructor.\nSeminars three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the instructor.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 4005",
+    "course_code": "ENGL4005",
+    "course_number": 4005,
+    "course_title": "ENGL4005 [0.5 credit]",
+    "course_desc": "Study of a selected topic in literary theory and criticism.",
+    "course_extra_details": "Precludes additional credit for ENGL 4000 (no longer offered).\nPrerequisite(s): fourth-year standing or permission of the department.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ENGL 4105",
+    "course_code": "ENGL4105",
+    "course_number": 4105,
+    "course_title": "ENGL4105 [0.5 credit]",
+    "course_desc": "Studies in Old English literature and its cultural and historical contexts. Instruction in grammar to facilitate reading knowledge of the Old English language.",
+    "course_extra_details": "Also listed as LING4805.\nPrecludes additional credit for ENGL 3102 (no longer offered).\nPrerequisite(s): fourth-year standing or permission of the department.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ENGL 4115",
+    "course_code": "ENGL4115",
+    "course_number": 4115,
+    "course_title": "ENGL4115 [0.5 credit]",
+    "course_desc": "Topics will vary from year to year.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing or permission of the department.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ENGL 4125",
+    "course_code": "ENGL4125",
+    "course_number": 4125,
+    "course_title": "ENGL4125 [0.5 credit]",
+    "course_desc": "A study of new developments in digital media and culture, and how they affect our understanding of literary modes, genres and textuality, including notions of authorship and reading strategies.  Topics will vary from year to year.",
+    "course_extra_details": "Also listed as DIGH4002.\nPrerequisite(s): ENGL2401 and fourth-year standing, or permission of the Department.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "ENGL2401 and fourth-year standing, or permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ENGL 4135",
+    "course_code": "ENGL4135",
+    "course_number": 4135,
+    "course_title": "ENGL4135 [0.5 credit]",
+    "course_desc": "Topics will vary from year to year.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing or permission of the department.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ENGL 4145",
+    "course_code": "ENGL4145",
+    "course_number": 4145,
+    "course_title": "ENGL4145 [0.5 credit]",
+    "course_desc": "A study of new developments in digital media and culture, and how they affect our understanding of literary modes, genres and textuality, including notions of authorship and reading strategies.  Topics will vary from year to year.",
+    "course_extra_details": "Also listed as DIGH4003.\nPrerequisite(s): ENGL2401 and fourth-year standing, or permission of the Department.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "ENGL2401 and fourth-year standing, or permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ENGL 4155",
+    "course_code": "ENGL4155",
+    "course_number": 4155,
+    "course_title": "ENGL4155 [0.5 credit]",
+    "course_desc": "A study of current issues and debates in the Digital Humanities.",
+    "course_extra_details": "Also listed as DIGH4001.\nPrerequisite(s): ENGL2401 and fourth-year standing, or permission of the English Department.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "ENGL2401 and fourth-year standing, or permission of the English Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ENGL 4208",
+    "course_code": "ENGL4208",
+    "course_number": 4208,
+    "course_title": "ENGL4208 [0.5 credit]",
+    "course_desc": "A study of a selected topic in Medieval literature; requires previous experience reading medieval English.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing or permission of the department.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ENGL 4301",
+    "course_code": "ENGL4301",
+    "course_number": 4301,
+    "course_title": "ENGL4301 [0.5 credit]",
+    "course_desc": "A study of a selected topic in Renaissance literature.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing or permission of the department.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ENGL 4401",
+    "course_code": "ENGL4401",
+    "course_number": 4401,
+    "course_title": "ENGL4401 [0.5 credit]",
+    "course_desc": "A study of a selected topic in Restoration or 18th-century literature.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing or permission of the department.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ENGL 4404",
+    "course_code": "ENGL4404",
+    "course_number": 4404,
+    "course_title": "ENGL4404 [0.5 credit]",
+    "course_desc": "This workshop will provide students with the opportunity to complete an individual or collaborative capstone project in the Digital Humanities.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as DIGH4004.\nPrerequisite(s): ENGL2401 and fourth-year standing, or permission of the English Department.\nWorkshop three hours a week.\n",
+    "course_prerequisites": "ENGL2401 and fourth-year standing, or permission of the English Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ENGL 4405",
+    "course_code": "ENGL4405",
+    "course_number": 4405,
+    "course_title": "ENGL4405 [0.5 credit]",
+    "course_desc": "Practical experience gained by working on projects under the supervision of the staff of a participating public- or private-sector institution or organization, including a final written assignment or equivalent project. A maximum of 1.0 practicum credit may be applied towards degree requirements.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as DIGH4005.\nPrerequisite(s): ENGL2401 and fourth-year standing, or permission of the English Department.\nPracticum.\n",
+    "course_prerequisites": "ENGL2401 and fourth-year standing, or permission of the English Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ENGL 4414",
+    "course_code": "ENGL4414",
+    "course_number": 4414,
+    "course_title": "ENGL4414 [0.5 credit]",
+    "course_desc": "The role of writing in government and NGOs. Consideration of various genres, practices and styles of government and NGO writing, including grant proposals, administrative reports, press releases, briefing notes, recommendation reports.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as ALDS4414.\nPrerequisite(s): third-year standing or permission of the instructor.\nSeminar three hours a week. May include a work placement.\n",
+    "course_prerequisites": "third-year standing or permission of the instructor.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 4415",
+    "course_code": "ENGL4415",
+    "course_number": 4415,
+    "course_title": "ENGL4415 [0.5 credit]",
+    "course_desc": "The role of writing in science-related fields and in the health professions. Consideration of various genres, practices and styles of scientific and health-related writing, including research reports, grant proposals, case reports, popularizations of science, press releases.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as ALDS4415.\nPrerequisite(s): third-year standing or permission of the instructor.\nSeminars three hours a week. May include a work placement.\n",
+    "course_prerequisites": "third-year standing or permission of the instructor.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 4500",
+    "course_code": "ENGL4500",
+    "course_number": 4500,
+    "course_title": "ENGL4500 [0.5 credit]",
+    "course_desc": "A study of a selected topic, 1770-1830.",
+    "course_extra_details": "Precludes additional credit for ENGL 4407 (no longer offered).\nPrerequisite(s): fourth-year standing or permission of the department.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ENGL 4515",
+    "course_code": "ENGL4515",
+    "course_number": 4515,
+    "course_title": "ENGL4515 [0.5 credit]",
+    "course_desc": "Introduction to approaches for teaching writing in elementary and secondary school, in university, and in the workplace, with a focus on socio-cultural theories of language and learning. Discussion of applications of these approaches to classroom and workplace teaching.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as ALDS4405.\nPrerequisite(s): third-year standing, or permission of the instructor.\nSeminar three hours a week.\n",
+    "course_prerequisites": "third-year standing, or permission of the instructor.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 4550",
+    "course_code": "ENGL4550",
+    "course_number": 4550,
+    "course_title": "ENGL4550 [0.5 credit]",
+    "course_desc": "A study of a selected topic in 19th-century British literature, 1830-1900.",
+    "course_extra_details": "Precludes additional credit for ENGL 4501 (no longer offered).\nPrerequisite(s): fourth-year standing or permission of the department.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ENGL 4600",
+    "course_code": "ENGL4600",
+    "course_number": 4600,
+    "course_title": "ENGL4600 [0.5 credit]",
+    "course_desc": "A study of masterpieces of the Russian tradition, to be selected from among works by writers such as Tolstoy, Dostoevsky, Gogol, Turgenev, Bely, Bulgakov, and Nabokov. All novels will be read in English translation.",
+    "course_extra_details": "Also listed as EURR4103.\nPrerequisite(s): fourth-year standing or permission of the department.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ENGL 4601",
+    "course_code": "ENGL4601",
+    "course_number": 4601,
+    "course_title": "ENGL4601 [0.5 credit]",
+    "course_desc": "A comparative and transnational approach to 20th- and 21st -century poetry.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing or permission of the department.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ENGL 4605",
+    "course_code": "ENGL4605",
+    "course_number": 4605,
+    "course_title": "ENGL4605 [0.5 credit]",
+    "course_desc": "This course offers students advanced engagement with the theory and application of theatrical crafts and includes participation in a writing, acting, or technical capacity on a class production.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ENGL3904 or permission of the department.\nSeminar three hours a week.\n",
+    "course_prerequisites": "ENGL3904 or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 4607",
+    "course_code": "ENGL4607",
+    "course_number": 4607,
+    "course_title": "ENGL4607 [0.5 credit]",
+    "course_desc": "A study of a selected topic in literature of the 20th and 21st century.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing or permission of the department.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ENGL 4609",
+    "course_code": "ENGL4609",
+    "course_number": 4609,
+    "course_title": "ENGL4609 [0.5 credit]",
+    "course_desc": "An advanced study of dramatic texts from transnational, postcolonial, or European contexts. This course will offer sustained attention to specific theatre traditions, theatrical practice, and interpretation of texts. Topics and points of emphasis vary from year to year.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing or permission of the department.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ENGL 4708",
+    "course_code": "ENGL4708",
+    "course_number": 4708,
+    "course_title": "ENGL4708 [0.5 credit]",
+    "course_desc": "A study of a selected topic in American literature.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing or permission of the department.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ENGL 4709",
+    "course_code": "ENGL4709",
+    "course_number": 4709,
+    "course_title": "ENGL4709 [0.5 credit]",
+    "course_desc": "A study of a selected topic in American literature.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing or permission of the department.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ENGL 4802",
+    "course_code": "ENGL4802",
+    "course_number": 4802,
+    "course_title": "ENGL4802 [0.5 credit]",
+    "course_desc": "A study of Canadian literature that engages with notions of race and ethnicity.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing or permission of the department.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ENGL 4806",
+    "course_code": "ENGL4806",
+    "course_number": 4806,
+    "course_title": "ENGL4806 [0.5 credit]",
+    "course_desc": "A study of a selected topic in Canadian literature.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing or permission of the department.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ENGL 4807",
+    "course_code": "ENGL4807",
+    "course_number": 4807,
+    "course_title": "ENGL4807 [0.5 credit]",
+    "course_desc": "A study of a selected topic in Canadian literature.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing or permission of the department.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ENGL 4908",
+    "course_code": "ENGL4908",
+    "course_number": 4908,
+    "course_title": "ENGL4908 [1.0 credit]",
+    "course_desc": "Independent research and writing, under the supervision of English faculty, requiring an essay of approximately 10,000 words. A written proposal outlining the project must be submitted to the undergraduate supervisor by July 31. Not available to students in a Combined Honours program.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year Honours standing in English with a CGPA of 10.0 in English courses, and permission of the undergraduate supervisor.\n \n",
+    "course_prerequisites": "fourth-year Honours standing in English with a CGPA of 10.0 in English courses, and permission of the undergraduate supervisor.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ENGL 4909",
+    "course_code": "ENGL4909",
+    "course_number": 4909,
+    "course_title": "ENGL4909 [0.5 credit]",
+    "course_desc": "The role of writing in constructing knowledge in academic disciplines, as viewed from contemporary socio-cultural perspectives. Consideration of how the goals, values, and assumptions of different disciplines shape their writing in distinctive ways and what implications this holds for pedagogy.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as ALDS4403.\nPrecludes additional credit for LALS 5406 (no longer offered) or ALDS 5602 (no longer offered) or LALS 5602 (no longer offered).\nPrerequisite(s): third-year standing or permission of the instructor.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing or permission of the instructor.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ENGL 4910",
+    "course_code": "ENGL4910",
+    "course_number": 4910,
+    "course_title": "ENGL4910 [0.5 credit]",
+    "course_desc": "Independent creative writing, supervised by a Departmental faculty member, resulting in a poetry manuscript (10-15 poems), a one-act play, a 10,000-word novella, or two short stories.  A proposal, coordinated with the faculty supervisor, must be submitted to the Undergraduate Supervisor by July 31.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): completion of required credits for the Creative Writing Concentration, fourth-year Honours standing in English with a CGPA of 10.00 in English courses, and permission of the Undergraduate Supervisor in conjunction with the faculty supervisor.\n \n",
+    "course_prerequisites": "completion of required credits for the Creative Writing Concentration, fourth-year Honours standing in English with a CGPA of 10.00 in English courses, and permission of the Undergraduate Supervisor in conjunction with the faculty supervisor.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ENGL 4915",
+    "course_code": "ENGL4915",
+    "course_number": 4915,
+    "course_title": "ENGL4915 [0.5 credit]",
+    "course_desc": "An advanced workshop involving regular assignments in creative writing and practical criticism based on this work.  Topics will vary.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): a grade of B+ or higher in one of: ENGL3902, ENGL3903, ENGL3906, ENGL3915, ENGL3916; or departmental permission.\nWorkshop three hours a week.\n",
+    "course_prerequisites": "a grade of B+ or higher in one of: ENGL3902, ENGL3903, ENGL3906, ENGL3915, ENGL3916; or departmental permission.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ENGL 4947",
+    "course_code": "ENGL4947",
+    "course_number": 4947,
+    "course_title": "ENGL4947 [0.5 credit]",
+    "course_desc": "A study of a selected topic in diaspora literature and culture.",
+    "course_extra_details": "Precludes additional credit for ENGL 4907 (no longer offered).\nPrerequisite(s): fourth-year standing or permission of the department.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ENGL 4950",
+    "course_code": "ENGL4950",
+    "course_number": 4950,
+    "course_title": "ENGL4950 [0.5 credit]",
+    "course_desc": "A study of a selected topic in postcolonial and/or diaspora literatures and theories. Themes, authors, and geographical and temporal focus will vary.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing or permission of the department.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ENGL 4960",
+    "course_code": "ENGL4960",
+    "course_number": 4960,
+    "course_title": "ENGL4960 [0.5 credit]",
+    "course_desc": "A study of the literatures produced by Indigenous storytellers and writers, with a focus on the oral tradition and life writing.",
+    "course_extra_details": "Precludes additional credit for ENGL 4808 (no longer offered).\nPrerequisite(s): fourth-year standing or permission of the department.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ENGL 4961",
+    "course_code": "ENGL4961",
+    "course_number": 4961,
+    "course_title": "ENGL4961 [0.5 credit]",
+    "course_desc": "A study of the contemporary period of Indigenous literature, examining the historical and mythic influences on the literature.",
+    "course_extra_details": "Precludes additional credit for ENGL 4808 and ENGL 4809 (no longer offered).\nPrerequisite(s): fourth-year standing or permission of the department.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ENGL 4975",
+    "course_code": "ENGL4975",
+    "course_number": 4975,
+    "course_title": "ENGL4975 [0.5 credit]",
+    "course_desc": "A study of a selected issue in postcolonial and/or diaspora theory.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing or permission of the department.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ENGL 4976",
+    "course_code": "ENGL4976",
+    "course_number": 4976,
+    "course_title": "ENGL4976 [0.5 credit]",
+    "course_desc": "A study of a selected topic in postcolonial literature and culture.",
+    "course_extra_details": "Precludes additional credit for ENGL 4906 (no longer offered).\nPrerequisite(s): fourth-year standing or permission of the department.\nSeminar or lecture three hours a week.\n",
+    "course_prerequisites": "fourth-year standing or permission of the department.",
+    "year_standing": 4
+}]}

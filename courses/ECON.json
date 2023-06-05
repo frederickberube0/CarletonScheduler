@@ -1,0 +1,1122 @@
+{"object": [
+{
+    "course_identifier": "ECON 1000",
+    "course_code": "ECON1000",
+    "course_number": 1000,
+    "course_title": "ECON1000 [1.0 credit]",
+    "course_desc": "An introduction to the major tools and policy problems of economics. Economic analysis is applied to a variety of contemporary problems such as pollution, poverty, the control of monopoly, unemployment, inflation, and international economic problems.",
+    "course_extra_details": "Precludes additional credit for ECON1001, ECON1002, and FYSM1003.\nLectures three hours a week, discussion groups one hour a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 1001",
+    "course_code": "ECON1001",
+    "course_number": 1001,
+    "course_title": "ECON1001 [0.5 credit]",
+    "course_desc": "An introduction to the major tools and policy problems of microeconomics.  Economic analysis is applied to a variety of contemporary issues such as taxation, pollution, wage determination, poverty, market power, and international trade.",
+    "course_extra_details": "Precludes additional credit for ECON1000 and FYSM1003.\nLectures three hours a week, discussion groups one hour a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 1002",
+    "course_code": "ECON1002",
+    "course_number": 1002,
+    "course_title": "ECON1002 [0.5 credit]",
+    "course_desc": "An introduction to the major tools and policy problems of macroeconomics.  Economic analysis is applied to a variety of contemporary problems such as: saving, investment and interest rates; unemployment; money and inflation; exchange rates;  fiscal and monetary policy.",
+    "course_extra_details": "Precludes additional credit for ECON1000 and FYSM1003.\nLectures three hours a week, discussion groups one hour a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 1401",
+    "course_code": "ECON1401",
+    "course_number": 1401,
+    "course_title": "ECON1401 [0.5 credit]",
+    "course_desc": "Elementary mathematical tools required for economic analysis: Topics include linear and non-linear functions (cost, revenue, profit, demand and supply), matrices, and mathematics of finance and growth, graphing economic magnitudes, applied algebra, solving systems of linear equations. In class participation in solving practice problems is emphasized.",
+    "course_extra_details": "Precludes additional credit for BIT1000, BIT1001, BIT1100, BIT1101, BIT1200, BIT1201, MATH1007, MATH1009, MATH1104, MATH1107, MATH1119, MATH1052, MATH1152, MATH1401.\nPrerequisite(s): Ontario Grade-12 U Advanced Functions, or MATH0005, or equivalent; and ECON1001 or ECON1000 or FYSM1003, which may be taken concurrently with ECON1401.\nLectures three hours a week, tutorials one hour a week.\n",
+    "course_prerequisites": "Ontario Grade-12 U Advanced Functions, or MATH0005, or equivalent; and ECON1001 or ECON1000 or FYSM1003, which may be taken concurrently with ECON1401.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 1402",
+    "course_code": "ECON1402",
+    "course_number": 1402,
+    "course_title": "ECON1402 [0.5 credit]",
+    "course_desc": "Elementary methods of calculus for economic analysis: Topics include derivatives of univariate functions, partial derivatives of multivariate functions, concavity and convexity, elasticity, and optimization (profit and utility maximization and cost minimization subject to a budget constraint). In class participation in solving practice problems is emphasized.",
+    "course_extra_details": "Precludes additional credit for BIT1000, BIT1001, BIT1100, BIT1101, BIT1201, BIT1200, MATH1007, MATH1009,  MATH1104, MATH1107, MATH1119, MATH1052, MATH1152, MATH1402.\nPrerequisite(s): ECON1001 or ECON1000 or FYSM1003 with a grade of C- or higher, and ECON1401 or MATH1401 with a grade of C- or higher.\nLectures three hours a week, tutorials one hour a week.\n",
+    "course_prerequisites": "ECON1001 or ECON1000 or FYSM1003 with a grade of C- or higher, and ECON1401 or MATH1401 with a grade of C- or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 2001",
+    "course_code": "ECON2001",
+    "course_number": 2001,
+    "course_title": "ECON2001 [0.5 credit]",
+    "course_desc": "The main topics in microeconomic theory presented in a relatively non-technical manner (e.g., without requiring the knowledge of calculus) with illustrations of their applications. Not open to students in any Economics, B.Com., B.C.S., B.Eng., B.I.D., B.I.B., B.Math., or B.Sc. program.",
+    "course_extra_details": "Precludes additional credit for ECON 2002 (no longer offered), ECON 2003 (no longer offered), ECON2009, ECON2020, and ECON2030.\nPrerequisite(s): ECON1001 or ECON1000 or FYSM1003, or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 or ECON1000 or FYSM1003, or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 2009",
+    "course_code": "ECON2009",
+    "course_number": 2009,
+    "course_title": "ECON2009 [0.5 credit]",
+    "course_desc": "An economic analysis of managerial decision-making. Elements of production and cost; price and output determination under perfectly and imperfectly competitive market structures; the role of information; topics in business strategy; and the impact of government intervention. Not open to students in any Economics program.",
+    "course_extra_details": "Precludes additional credit for ECON2001, ECON 2002 (no longer offered), ECON 2003 (no longer offered), and ECON2020.\nPrerequisite(s): ECON1001 or ECON1000 or FYSM1003 with a grade of C- or higher; MATH1009 (or equivalent) with a grade of C- or higher.\nLectures three hours a week, tutorials one and half hours a week.\n",
+    "course_prerequisites": "ECON1001 or ECON1000 or FYSM1003 with a grade of C- or higher; MATH1009 (or equivalent) with a grade of C- or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 2020",
+    "course_code": "ECON2020",
+    "course_number": 2020,
+    "course_title": "ECON2020 [0.5 credit]",
+    "course_desc": "Theory of the firm: elements of production and cost; input allocation, pricing, and firm behaviour under perfectly and imperfectly competitive market structures; the role of information; game theory and public policy, including basic competition policy.",
+    "course_extra_details": "Precludes additional credit for ECON2001, ECON 2002 (no longer offered), ECON 2003 (no longer offered), and ECON2009.\nPrerequisite(s): ECON1001 or ECON1000 or FYSM1003 with a grade of C- or higher; ECON1401/MATH1401 (with a grade of C- or higher) and ECON1402/MATH1402, or equivalent department-approved MATH course pair. May be taken concurrently with ECON1402/MATH1402.\nLectures three hours a week, tutorials one and a half hours a week.\n",
+    "course_prerequisites": "ECON1001 or ECON1000 or FYSM1003 with a grade of C- or higher; ECON1401/MATH1401 (with a grade of C- or higher) and ECON1402/MATH1402, or equivalent department-approved MATH course pair. May be taken concurrently with ECON1402/MATH1402.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 2030",
+    "course_code": "ECON2030",
+    "course_number": 2030,
+    "course_title": "ECON2030 [0.5 credit]",
+    "course_desc": "Theory of consumer choice and demand; applications to intertemporal choice, labour supply, and/or choice under uncertainty; welfare analysis; general equilibrium theory; externalities and the role of government.",
+    "course_extra_details": "Precludes additional credit for ECON2001, ECON 2002 (no longer offered), and ECON 2003 (no longer offered).\nPrerequisite(s): ECON2020 with a grade of C- or higher or ECON2009 with a grade of C+ or higher, and ECON1401/MATH1401 and ECON1402/MATH1402 with a grade of C- or higher, or equivalent department-approved MATH course pair with a grade of C- or higher in each.\nLectures three hours a week, tutorials one and a half hours a week.\n",
+    "course_prerequisites": "ECON2020 with a grade of C- or higher or ECON2009 with a grade of C+ or higher, and ECON1401/MATH1401 and ECON1402/MATH1402 with a grade of C- or higher, or equivalent department-approved MATH course pair with a grade of C- or higher in each.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 2101",
+    "course_code": "ECON2101",
+    "course_number": 2101,
+    "course_title": "ECON2101 [0.5 credit]",
+    "course_desc": "The main topics in macroeconomic theory presented in a relatively non-technical manner (e.g., without requiring the knowledge of calculus) with illustrations of their application. Not open to students in any Economics, B.C.S., B.Eng., B.I.D., B.Math., or B.Sc. program.",
+    "course_extra_details": "Precludes additional credit for ECON2102 and ECON2103.\nPrerequisite(s): ECON1002 or ECON1000 or FYSM1003, or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1002 or ECON1000 or FYSM1003, or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 2102",
+    "course_code": "ECON2102",
+    "course_number": 2102,
+    "course_title": "ECON2102 [0.5 credit]",
+    "course_desc": "An introduction to the macroeconomic modeling of output in the short and long run, and to fixed-price models of the closed and open economy over the business cycle. Policy prescriptions in relation to the business cycle are analysed.",
+    "course_extra_details": "Precludes additional credit for ECON2101.\nPrerequisite(s): ECON1002 or ECON1000 or FYSM1003 with a grade of C- or higher; ECON1401/MATH1401 (with a grade of C- or higher) and ECON1402/MATH1402, or equivalent department-approved MATH course pair. May be taken concurrently with ECON1402/MATH1402.\nLectures three hours a week, tutorials one and a half hours a week.\n",
+    "course_prerequisites": "ECON1002 or ECON1000 or FYSM1003 with a grade of C- or higher; ECON1401/MATH1401 (with a grade of C- or higher) and ECON1402/MATH1402, or equivalent department-approved MATH course pair. May be taken concurrently with ECON1402/MATH1402.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 2103",
+    "course_code": "ECON2103",
+    "course_number": 2103,
+    "course_title": "ECON2103 [0.5 credit]",
+    "course_desc": "An extension of macroeconomic modeling to the dynamics of wage-price adjustment in the intermediate and long run, to the theoretical foundations of basic macroeconomic relationships, and to contemporary policy issues arising in relation to the business cycle and long-run growth.",
+    "course_extra_details": "Precludes additional credit for ECON2101.\nPrerequisite(s): ECON2102 with a grade of C- or higher, ECON1001 with a grade of C- or higher, and ECON1401/MATH1401 and ECON1402/MATH1402 with a grade of C- or higher, or equivalent department-approved MATH course pair with a grade of C- or higher in each.\nLectures three hours a week, tutorials one and a half hours a week.\n",
+    "course_prerequisites": "ECON2102 with a grade of C- or higher, ECON1001 with a grade of C- or higher, and ECON1401/MATH1401 and ECON1402/MATH1402 with a grade of C- or higher, or equivalent department-approved MATH course pair with a grade of C- or higher in each.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 2210",
+    "course_code": "ECON2210",
+    "course_number": 2210,
+    "course_title": "ECON2210 [0.5 credit]",
+    "course_desc": "Basic statistical methods for the study of economics. Topics include descriptive statistics, elementary probability theory, sampling distributions, estimation and hypothesis testing for one and two population parameters.",
+    "course_extra_details": "Precludes additional credit for BIT2000, BIT2009, BIT 2100 (no longer offered), BIT 2300 (no longer offered), ECON 2200 (no longer offered), ECON 2201 (no longer offered), ENST2006, GEOG2006, STAT2507, STAT2601, STAT 2606 (no longer offered), and STAT3502.\nPrerequisite(s): ECON1401/MATH1401 (with a grade of C- or higher) and ECON1402/MATH1402, or equivalent department-approved MATH course pair. May be taken concurrently with ECON1402/MATH1402.\nLectures three hours a week, tutorials one and a half hours a week.\n",
+    "course_prerequisites": "ECON1401/MATH1401 (with a grade of C- or higher) and ECON1402/MATH1402, or equivalent department-approved MATH course pair. May be taken concurrently with ECON1402/MATH1402.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 2220",
+    "course_code": "ECON2220",
+    "course_number": 2220,
+    "course_title": "ECON2220 [0.5 credit]",
+    "course_desc": "Topics include correlation, simple and multiple linear regression, and an introduction to statistical computing using an econometrics package. Emphasis on understanding appropriate methods and their properties, as distinct from their formal theoretical development. Empirical applications.",
+    "course_extra_details": "Precludes additional credit for ECON 2200 (no longer offered), ECON 2202 (no longer offered), STAT2509, STAT2602, and STAT 2607 (no longer offered).\nPrerequisite(s): ECON2210 (or equivalent) with a grade of C- or higher, and ECON1402 (or equivalent) with a grade of C- or higher.\nLectures three hours a week, tutorials one and a half hours a week.\n",
+    "course_prerequisites": "ECON2210 (or equivalent) with a grade of C- or higher, and ECON1402 (or equivalent) with a grade of C- or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 2708",
+    "course_code": "ECON2708",
+    "course_number": 2708,
+    "course_title": "ECON2708 [0.5 credit]",
+    "course_desc": "An introduction to concepts and tools for using various forms of data to study applied economic problems. Topics may include identifying relevant datasets, collecting and cleaning both research-ready and user-assembled data sets, data visualization, and summary statistics.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): COMP1005 or COMP1405 or ECOR1606, or equivalent, with a grade of C- or higher; and ECON/MATH1402, with a grade of C- or higher (or an equivalent department-approved MATH course pair with a grade of C- or higher in each); and ECON2210 (or equivalent), with a grade of C+ or higher.\nLectures three hours a week, tutorial 1.5 hours a week.\n",
+    "course_prerequisites": "COMP1005 or COMP1405 or ECOR1606, or equivalent, with a grade of C- or higher; and ECON/MATH1402, with a grade of C- or higher (or an equivalent department-approved MATH course pair with a grade of C- or higher in each); and ECON2210 (or equivalent), with a grade of C+ or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3001",
+    "course_code": "ECON3001",
+    "course_number": 3001,
+    "course_title": "ECON3001 [0.5 credit]",
+    "course_desc": "Constrained optimization via Lagrange and Kuhn-Tucker conditions; implicit functions and implicit differentiation; comparative static methods applied to models such as utility maximization and least-cost production; homogeneous functions; concave and convex functions; compounding and exponential functions; economic models involving integration; differential equations.",
+    "course_extra_details": "Precludes additional credit for ECON 2400 (no longer offered).\nPrerequisite(s): ECON1001 or ECON1000 or FYSM1003 with a grade of C- or higher; and ECON1401 and ECON1402 (or equivalent) with a grade of C- or higher in each and a combined grade point average in ECON1401 and ECON1402 of 6.50 or higher.\nLectures three hours a week, tutorials one and a half hours a week.\n",
+    "course_prerequisites": "ECON1001 or ECON1000 or FYSM1003 with a grade of C- or higher; and ECON1401 and ECON1402 (or equivalent) with a grade of C- or higher in each and a combined grade point average in ECON1401 and ECON1402 of 6.50 or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3050",
+    "course_code": "ECON3050",
+    "course_number": 3050,
+    "course_title": "ECON3050 [0.5 credit]",
+    "course_desc": "The major theories and basic tools used to address modern financial economic issues. Topics may include time value of money, bond and stock valuation, investment criteria, capital budgeting, the risk-return tradeoff, options and option valuation, cost of capital, and the fundamentals of international corporate finance.",
+    "course_extra_details": "Precludes additional credit for BUSI2503, BUSI 2504, ECON 2504 (no longer offered), BUSI2505, and ECON 2505 (no longer offered).\nPrerequisite(s): ECON1001 and ECON1002 each with a grade of C- or higher, or ECON1000 or FYSM1003 with a grade of C- or higher, ECON1401/MATH1401 and ECON1402/MATH1402, or equivalent department-approved MATH course pair with a grade of C- or higher in each, and BUSI1002 or BUSI1005 with a grade of C- or higher in each.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 and ECON1002 each with a grade of C- or higher, or ECON1000 or FYSM1003 with a grade of C- or higher, ECON1401/MATH1401 and ECON1402/MATH1402, or equivalent department-approved MATH course pair with a grade of C- or higher in each, and BUSI1002 or BUSI1005 with a grade of C- or higher in each.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3201",
+    "course_code": "ECON3201",
+    "course_number": 3201,
+    "course_title": "ECON3201 [0.5 credit]",
+    "course_desc": "An account of the interrelationship between economic theories expounded in Canada and their issue in national policy.",
+    "course_extra_details": "Precludes additional credit for ECON 3404 (no longer offered).\nPrerequisite(s): an introductory course in one of the social sciences or Canadian history.\nLectures three hours a week.\n",
+    "course_prerequisites": "an introductory course in one of the social sciences or Canadian history.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3220",
+    "course_code": "ECON3220",
+    "course_number": 3220,
+    "course_title": "ECON3220 [0.5 credit]",
+    "course_desc": "A survey of Canadian economic history from the sixteenth century to the present.",
+    "course_extra_details": "Also listed as HIST3220.\nPrecludes additional credit for ECON 2305 or HIST 2305 (no longer offered), ECON 3203 (no longer offered), ECON 3202 or HIST 3203 (no longer offered), and ECON 3207 or HIST 3204 (no longer offered).\nPrerequisite(s): ECON1001 and ECON1002, or ECON1000 or FYSM1003.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 and ECON1002, or ECON1000 or FYSM1003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3230",
+    "course_code": "ECON3230",
+    "course_number": 3230,
+    "course_title": "ECON3230 [0.5 credit]",
+    "course_desc": "An examination of the economic development of North America or Europe or other possible selected sets of countries. Countries examined vary from year to year.",
+    "course_extra_details": "Also listed as HIST3230.\nPrecludes additional credit for ECON 3005 (no longer offered).\nPrerequisite(s): ECON1001 and ECON1002, or ECON1000 or FYSM1003, or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 and ECON1002, or ECON1000 or FYSM1003, or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3300",
+    "course_code": "ECON3300",
+    "course_number": 3300,
+    "course_title": "ECON3300 [0.5 credit]",
+    "course_desc": "The interaction of government and business in the Canadian economy. Reasons for government involvement in selected public policy areas. Topics covered may include competition policy, regulation of firms by boards and commissions, environmental regulation, and public enterprise.",
+    "course_extra_details": "Prerequisite(s): ECON1001 or ECON1000 or FYSM1003.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 or ECON1000 or FYSM1003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3360",
+    "course_code": "ECON3360",
+    "course_number": 3360,
+    "course_title": "ECON3360 [0.5 credit]",
+    "course_desc": "Basic principles of labour economics including market, institutional, and sociological forces. Technology and labour demand, wage systems, human capital, internal wage structure, market discrimination, female labour-force entry, wage-price spiral, household labour supply, and wage determination.",
+    "course_extra_details": "Precludes additional credit for ECON 3506 (no longer offered). Credit will not be given if taken concurrently with or after ECON 4305 (no longer offered) or ECON 4306 (no longer offered) or ECON4360.\nPrerequisite(s): ECON1001 and ECON1002, or ECON1000 or FYSM1003.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 and ECON1002, or ECON1000 or FYSM1003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3365",
+    "course_code": "ECON3365",
+    "course_number": 3365,
+    "course_title": "ECON3365 [0.5 credit]",
+    "course_desc": "An introduction to industrial relations covering such topics as: industrial relations systems, the functioning of trade unions, collective bargaining in Canada, and Canadian public policy in industrial relations.",
+    "course_extra_details": "Precludes additional credit for BUSI 3107 (no longer offered) and ECON 3507 (no longer offered). Credit will not be given if taken concurrently with or after ECON4365 or ECON 4605 (no longer offered).\nPrerequisite(s): ECON1001 and ECON1002, or ECON1000 or FYSM1003.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 and ECON1002, or ECON1000 or FYSM1003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3370",
+    "course_code": "ECON3370",
+    "course_number": 3370,
+    "course_title": "ECON3370 [0.5 credit]",
+    "course_desc": "An introduction to the economic aspects of migration. Topics include, among others: the economics of migration within countries; the economics of host country integration of immigrants; the impact of immigration on outcomes in the host country; the impacts of emigration on the home country.",
+    "course_extra_details": "Prerequisite(s): ECON1001 or ECON1000 or FYSM1003.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 or ECON1000 or FYSM1003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3380",
+    "course_code": "ECON3380",
+    "course_number": 3380,
+    "course_title": "ECON3380 [0.5 credit]",
+    "course_desc": "The impact of gender and ethnicity on labour-market outcomes. Topics may include: employment, work, earnings, and poverty; discrimination and policy responses; immigration; the economics of the household; gender and development; micro-credit; labour standards.",
+    "course_extra_details": "Precludes additional credit for ECON 3100 (no longer offered) and ECON 3810 (no longer offered).\nPrerequisite(s): ECON1001 or ECON1000 or FYSM1003.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 or ECON1000 or FYSM1003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3403",
+    "course_code": "ECON3403",
+    "course_number": 3403,
+    "course_title": "ECON3403 [0.5 credit]",
+    "course_desc": "The role and nature of the government sector in the economy, the theory of public goods, the equity and efficiency effects of public expenditures, voting rules and fiscal politics, techniques of public expenditure analysis, and intergovernmental fiscal relations.",
+    "course_extra_details": "Precludes additional credit for ECON 3003 (no longer offered) and ECON 3408 (no longer offered). Credit will not be given if taken concurrently with or after ECON 4402 (no longer offered) or ECON4403.\nPrerequisite(s): ECON1001 and ECON1002 or ECON1000 or FYSM1003.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 and ECON1002 or ECON1000 or FYSM1003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3405",
+    "course_code": "ECON3405",
+    "course_number": 3405,
+    "course_title": "ECON3405 [0.5 credit]",
+    "course_desc": "The role and nature of the government sector in the economy, principles of taxation, tax equity, incidence and excess burden of taxes, structure of taxes in the economy, role of personal, corporate, sales and wealth taxes, fiscal stabilization policy, and the economics of public debt.",
+    "course_extra_details": "Precludes additional credit for ECON 3003 (no longer offered) and ECON 3407 (no longer offered). Credit will not be given if taken concurrently with or after ECON 4401 (no longer offered) or ECON4404.\nPrerequisite(s): ECON1001 or ECON1000 or FYSM1003.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 or ECON1000 or FYSM1003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3420",
+    "course_code": "ECON3420",
+    "course_number": 3420,
+    "course_title": "ECON3420 [0.5 credit]",
+    "course_desc": "Economic dimensions of federalism, with reference to Canadian experience. Issues include: fiscal federalism; impact of federal economic policies on provincial economies; decentralization possibilities for fiscal and economic development policies; and consequences of policies such as provincial trade barriers and impediments to factor flows.",
+    "course_extra_details": "Precludes additional credit for ECON 3206 (no longer offered).\nPrerequisite(s): ECON1001 or ECON1000 or FYSM1003.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 or ECON1000 or FYSM1003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3450",
+    "course_code": "ECON3450",
+    "course_number": 3450,
+    "course_title": "ECON3450 [0.5 credit]",
+    "course_desc": "An examination of the role of government in the economy, with  emphasis on alternate forms of social coordination and the advantages and disadvantages of each form in the Canadian system.",
+    "course_extra_details": "Precludes additional credit for ECON 3305 (no longer offered).\nPrerequisite(s): ECON1001 and ECON1002, or ECON1000 or FYSM1003.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 and ECON1002, or ECON1000 or FYSM1003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3460",
+    "course_code": "ECON3460",
+    "course_number": 3460,
+    "course_title": "ECON3460 [0.5 credit]",
+    "course_desc": "Health as an economic good: demand and need; supply and cost. Public health and personal health care. Alternative health-care delivery systems: financing, performance, quality, and cost effectiveness.",
+    "course_extra_details": "Preclusion: credit will not be given if taken concurrently with or after ECON 4460.\nPrerequisite(s): ECON1001 or ECON1000 or FYSM1003.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 or ECON1000 or FYSM1003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3508",
+    "course_code": "ECON3508",
+    "course_number": 3508,
+    "course_title": "ECON3508 [0.5 credit]",
+    "course_desc": "A discussion of the principles of economic development. Application to the problems of the developing countries.",
+    "course_extra_details": "Precludes additional credit for ECON 3603 (no longer offered). Credit will not be given if taken concurrently with or after ECON4507.\nPrerequisite(s): ECON1001 or ECON1000 or FYSM1003.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 or ECON1000 or FYSM1003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3509",
+    "course_code": "ECON3509",
+    "course_number": 3509,
+    "course_title": "ECON3509 [0.5 credit]",
+    "course_desc": "An introduction to the tools used in the planning and evaluation of development projects. Topics include the theory, application, strengths and limitations of cost-benefit analysis and competing approaches, and an examination of project evaluation techniques.",
+    "course_extra_details": "Precludes additional credit for ECON 3604 (no longer offered).\nPrerequisite(s): ECON1001 or ECON1000 or FYSM1003.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 or ECON1000 or FYSM1003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3510",
+    "course_code": "ECON3510",
+    "course_number": 3510,
+    "course_title": "ECON3510 [0.5 credit]",
+    "course_desc": "Domestic and international aspects of development problems and policies in the African context. Topics may include human resource development, growth and poverty reduction, domestic resource mobilization, the implications of ethnic diversity, governance, and institutions, and issues of trade, investment, aid, migration, and health.",
+    "course_extra_details": "Prerequisite(s): ECON1001 and ECON1002, or ECON1000 or FYSM1003.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 and ECON1002, or ECON1000 or FYSM1003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3600",
+    "course_code": "ECON3600",
+    "course_number": 3600,
+    "course_title": "ECON3600 [0.5 credit]",
+    "course_desc": "A discussion of theory and policy in international trade and finance. Intended for students planning to take only 0.5 credit in international economics at the 3000-level.",
+    "course_extra_details": "Precludes additional credit for ECON3601 and ECON3602. Credit will not be given if taken concurrently with or after ECON4601 or ECON4602.\nPrerequisite(s): ECON1001 and ECON1002, or ECON1000 or FYSM1003, or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 and ECON1002, or ECON1000 or FYSM1003, or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3601",
+    "course_code": "ECON3601",
+    "course_number": 3601,
+    "course_title": "ECON3601 [0.5 credit]",
+    "course_desc": "An extension of the basic principles of economics to international trade. Topics covered include the theory of international specialization, tariffs and other barriers to trade, trade liberalization and economic integration, international movements of labour and capital, trade and development.",
+    "course_extra_details": "Precludes additional credit for ECON3600.  Credit will not be given if taken concurrently with or after ECON4601.\nPrerequisite(s): ECON1001 or ECON1000 or FYSM1003.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 or ECON1000 or FYSM1003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3602",
+    "course_code": "ECON3602",
+    "course_number": 3602,
+    "course_title": "ECON3602 [0.5 credit]",
+    "course_desc": "A discussion of the theory and institutions of the international monetary system, and the related balance of payments problems of nation states.",
+    "course_extra_details": "Precludes additional credit for ECON3600. Credit will not be given if taken concurrently with or after ECON4602.\nPrerequisite(s): ECON1001 and ECON1002, or ECON1000 or FYSM1003.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 and ECON1002, or ECON1000 or FYSM1003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3607",
+    "course_code": "ECON3607",
+    "course_number": 3607,
+    "course_title": "ECON3607 [0.5 credit]",
+    "course_desc": "The behaviour of financial intermediaries and institutions such as the Bank of Canada, banks and trust companies, and regulatory bodies such as the Canada Deposit Insurance Corporation and the Superintendent of Financial Institutions.",
+    "course_extra_details": "Prerequisite(s): ECON1001 and ECON1002, or ECON1000 or FYSM1003.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 and ECON1002, or ECON1000 or FYSM1003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3706",
+    "course_code": "ECON3706",
+    "course_number": 3706,
+    "course_title": "ECON3706 [0.5 credit]",
+    "course_desc": "Introduction to applied econometric methods with emphasis on the use of the regression model for empirical research. Real-world examples are used extensively to illustrate key concepts. Hands-on computer exercises are an integral part of the course.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ECON1001 and ECON1002, or ECON1000 or FYSM1003, ECON2210 (or equivalent) with a grade of C- or higher, and ECON2220 (or equivalent) with a grade of C+ or higher.\nLectures three hours a week, tutorials one and a half hours a week.\n",
+    "course_prerequisites": "ECON1001 and ECON1002, or ECON1000 or FYSM1003, ECON2210 (or equivalent) with a grade of C- or higher, and ECON2220 (or equivalent) with a grade of C+ or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3801",
+    "course_code": "ECON3801",
+    "course_number": 3801,
+    "course_title": "ECON3801 [0.5 credit]",
+    "course_desc": "Unequal distribution of economic activity between spatially defined regions. The pattern in Canada since World War II and the outlook for the future is evaluated, considering \"natural\" adjustment mechanisms and policy tools.",
+    "course_extra_details": "Precludes additional credit for ECON 3401 (no longer offered).\nPrerequisite(s): ECON1001 and ECON1002, or ECON1000 or FYSM1003.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 and ECON1002, or ECON1000 or FYSM1003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3803",
+    "course_code": "ECON3803",
+    "course_number": 3803,
+    "course_title": "ECON3803 [0.5 credit]",
+    "course_desc": "The application of economic analysis to questions concerning natural-resource use, management and conservation, as well as market failures and environmental effects. Policy problems relating to natural resources are discussed.",
+    "course_extra_details": "Precludes additional credit for ECON 3805 (no longer offered).\nPrerequisite(s): ECON1001 or ECON1000 or FYSM1003.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 or ECON1000 or FYSM1003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3804",
+    "course_code": "ECON3804",
+    "course_number": 3804,
+    "course_title": "ECON3804 [0.5 credit]",
+    "course_desc": "Microeconomic analysis of environmental issues. Frameworks for measuring environmental costs and benefits. The efficiency of alternative pollution control policies. Applications include air and water pollution and global environmental problems such as ozone depletion and global warming.",
+    "course_extra_details": "Precludes additional credit for ECON 3806 (no longer offered).\nPrerequisite(s): ECON1001 or ECON1000 or FYSM1003.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 or ECON1000 or FYSM1003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3807",
+    "course_code": "ECON3807",
+    "course_number": 3807,
+    "course_title": "ECON3807 [0.5 credit]",
+    "course_desc": "A discussion of the theories of free trade areas and customs, monetary, and economic unions, and the related historical experience of Europe. Topics include: currency area and the euro, coordination of fiscal policy and the EU budget, common agricultural policy, labour mobility, and regional policy.",
+    "course_extra_details": "Prerequisite(s): ECON1001 and ECON1002, or ECON1000 or FYSM1003.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 and ECON1002, or ECON1000 or FYSM1003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3808",
+    "course_code": "ECON3808",
+    "course_number": 3808,
+    "course_title": "ECON3808 [0.5 credit]",
+    "course_desc": "The transition from state ownership and central planning to mixed ownership structure with resource allocation by market mechanisms. \u201cClassical socialism\u201d is criticized and the processes of transition in countries of Central and Eastern Europe, the former Soviet Union, and Asia are compared.",
+    "course_extra_details": "Precludes additional credit for ECON 3700 (no longer offered), ECON 3701 (no longer offered), and ECON 3702 (no longer offered).\nPrerequisite(s): ECON1001 or ECON1000 or FYSM1003.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 or ECON1000 or FYSM1003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3820",
+    "course_code": "ECON3820",
+    "course_number": 3820,
+    "course_title": "ECON3820 [0.5 credit]",
+    "course_desc": "Economic analysis applied to selected policy areas, issues or institutions. One or more of the following topics may be dealt with: decision-making by bureaucratic institutions, policy problems arising from poverty, the economics of natural resources and pollution, urban economics.",
+    "course_extra_details": "Precludes additional credit for ECON 3800 (no longer offered).\nPrerequisite(s): ECON1001 and ECON1002, or ECON1000 or FYSM1003.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 and ECON1002, or ECON1000 or FYSM1003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3840",
+    "course_code": "ECON3840",
+    "course_number": 3840,
+    "course_title": "ECON3840 [0.5 credit]",
+    "course_desc": "An introduction to the application of economic principles and methodology to a variety of legal problems with  emphasis on the theory of property rights and the allocation of resources.",
+    "course_extra_details": "Precludes additional credit for ECON 3204 (no longer offered).\nPrerequisite(s): ECON1001 or ECON1000 or FYSM1003.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 or ECON1000 or FYSM1003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3850",
+    "course_code": "ECON3850",
+    "course_number": 3850,
+    "course_title": "ECON3850 [0.5 credit]",
+    "course_desc": "An introduction to the economics of information and the media, with a focus on the analysis of production and distribution of information, the application of theory to selected communications-media industries in Canada, and the analysis of existing Canadian policies.",
+    "course_extra_details": "Precludes additional credit for ECON 3200 (no longer offered). Credit will not be given if taken concurrently with or after ECON 4205 (no longer offered) or ECON4850.\nPrerequisite(s): ECON1001 or ECON1000 or FYSM1003.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 or ECON1000 or FYSM1003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3856",
+    "course_code": "ECON3856",
+    "course_number": 3856,
+    "course_title": "ECON3856 [0.5 credit]",
+    "course_desc": "Examination of housing markets, housing finance, and government housing policy using the tools of microeconomics. Models of demand, supply, and market equilibrium emphasizing the special characteristics of housing, including heterogeneity, durability, and spatial fixity. Relationships to other goods and markets and the wider macroeconomy.",
+    "course_extra_details": "Prerequisite(s): ECON1001 or ECON1000 or FYSM1003.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 or ECON1000 or FYSM1003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3860",
+    "course_code": "ECON3860",
+    "course_number": 3860,
+    "course_title": "ECON3860 [0.5 credit]",
+    "course_desc": "An examination of the agricultural industry in the national economy and in low-income societies, with emphasis on the working out of the basic forces that determine supply and demand for the industry, and the functional distribution of income among the factors of production.",
+    "course_extra_details": "Precludes additional credit for ECON 3406 (no longer offered).\nPrerequisite(s): ECON1001 or ECON1000 or FYSM1003.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 or ECON1000 or FYSM1003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3864",
+    "course_code": "ECON3864",
+    "course_number": 3864,
+    "course_title": "ECON3864 [0.5 credit]",
+    "course_desc": "Factors affecting demand for and supply of transportation services; demand elasticities and cost structures of various modes of transport; transportation service pricing. Topics may include transport demand forecasting, transportation investment and project appraisal, and the role of transport in economic development.",
+    "course_extra_details": "Prerequisite(s): ECON1001 or ECON1000 or FYSM1003.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 or ECON1000 or FYSM1003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3870",
+    "course_code": "ECON3870",
+    "course_number": 3870,
+    "course_title": "ECON3870 [0.5 credit]",
+    "course_desc": "Analysis of the structure, institutions, and performance of alternative economic systems, including capitalism, socialism, and communism. Selected countries are studied as examples of these systems.",
+    "course_extra_details": "Precludes additional credit for ECON 4806 (no longer offered) and ECON 4807 (no longer offered).\nPrerequisite(s): ECON1001 or ECON1000 or FYSM1003.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1001 or ECON1000 or FYSM1003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3878",
+    "course_code": "ECON3878",
+    "course_number": 3878,
+    "course_title": "ECON3878 [0.5 credit]",
+    "course_desc": "Content may vary from year to year and is announced in advance of the registration period.",
+    "course_extra_details": "Lectures and/or seminars three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3880",
+    "course_code": "ECON3880",
+    "course_number": 3880,
+    "course_title": "ECON3880 [0.5 credit]",
+    "course_desc": "Content may vary from year to year and is announced in advance of the registration period.",
+    "course_extra_details": "Precludes additional credit for ECON 3402 (no longer offered).\nPrerequisite(s): ECON1001 and ECON1002, or ECON1000 or FYSM1003.\nLectures and/or seminars three hours a week.\n",
+    "course_prerequisites": "ECON1001 and ECON1002, or ECON1000 or FYSM1003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3900",
+    "course_code": "ECON3900",
+    "course_number": 3900,
+    "course_title": "ECON3900 [0.5 credit]",
+    "course_desc": "The process of doing basic research in economics: development of the research proposal, finding and critically evaluating relevant literature, model development, methods for locating and collecting economic data, analytical methods, and writing mechanics. This course has a strong practical focus.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ECON2030 with a grade of C+ or higher, ECON2103 with a grade of C+ or higher, ECON2210 (or equivalent) with a grade of C- or higher, and ECON2220 (or equivalent) with a grade of C+ or higher.\nSeminars three hours a week.\n",
+    "course_prerequisites": "ECON2030 with a grade of C+ or higher, ECON2103 with a grade of C+ or higher, ECON2210 (or equivalent) with a grade of C- or higher, and ECON2220 (or equivalent) with a grade of C+ or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3920",
+    "course_code": "ECON3920",
+    "course_number": 3920,
+    "course_title": "ECON3920 [0.5 credit]",
+    "course_desc": "Development of skills used by professional economists, including writing professional documents such as policy briefs and memos, data visualization, communication of economic ideas in non-technical terms, presentation skills, and team-based problem solving.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ECON2030 with a grade of C+ or higher, ECON2103 with a grade of C+ or higher, ECON2210 (or equivalent) with a grade of C- or higher, and ECON2220 (or equivalent) with a grade of C+ or higher.\nSeminars three hours a week.\n",
+    "course_prerequisites": "ECON2030 with a grade of C+ or higher, ECON2103 with a grade of C+ or higher, ECON2210 (or equivalent) with a grade of C- or higher, and ECON2220 (or equivalent) with a grade of C+ or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 3999",
+    "course_code": "ECON3999",
+    "course_number": 3999,
+    "course_title": "ECON3999 [0.0 credit]",
+    "course_desc": "Graded Sat/Uns.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): registration in the Honours Economics or Applied Economics Co-operative Education option, satisfactory completion of the Co-op preparation classes offered by the Co-operative Education Office, and permission of the Department.\n \n",
+    "course_prerequisites": "registration in the Honours Economics or Applied Economics Co-operative Education option, satisfactory completion of the Co-op preparation classes offered by the Co-operative Education Office, and permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4001",
+    "course_code": "ECON4001",
+    "course_number": 4001,
+    "course_title": "ECON4001 [0.5 credit]",
+    "course_desc": "Analysis and algebra: set theory, sequences and series, quadratic forms, separation and fixed-point theorems. Static optimization: the Weierstrass, Lagrange, and Kuhn-Tucker theorems; convexity and quasi-convexity; the envelope theorem. Dynamic optimization: the Maximum Principle and Bellman's equation. Applications of these tools to economic theory.",
+    "course_extra_details": "Prerequisite(s): ECON3001 with a grade of C+ or higher.\nLectures three hours a week, tutorials one and a half hours a week.\n",
+    "course_prerequisites": "ECON3001 with a grade of C+ or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4002",
+    "course_code": "ECON4002",
+    "course_number": 4002,
+    "course_title": "ECON4002 [0.5 credit]",
+    "course_desc": "Probability: including conditional probability, random variables and distributions, unconditional and conditional expectations. Distributions: including special distributions and their properties, and sampling distributions of estimators. Nonparametric methods and limit theorems; stochastic processes; simulation and bootstrap methods. Applications of these tools to economic theory.",
+    "course_extra_details": "Precludes additional credit for STAT 3500 (no longer offered), STAT3508, and STAT3558.\nPrerequisite(s): ECON2210 (or equivalent) with a grade of C+ or higher, and ECON2220 (or equivalent) with a grade of C+ or higher.\nLectures three hours a week, tutorials one and a half hours a week.\n",
+    "course_prerequisites": "ECON2210 (or equivalent) with a grade of C+ or higher, and ECON2220 (or equivalent) with a grade of C+ or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4004",
+    "course_code": "ECON4004",
+    "course_number": 4004,
+    "course_title": "ECON4004 [0.5 credit]",
+    "course_desc": "Linear programming, duality, sensitivity analysis, transportation and network problems. Both theory and a wide range of applications are studied.",
+    "course_extra_details": "Precludes additional credit for BUSI 2300 (no longer offered), MATH3801, and SYSC3200.\nPrerequisite(s): ECON1402 (or equivalent) with a grade of C- or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1402 (or equivalent) with a grade of C- or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4005",
+    "course_code": "ECON4005",
+    "course_number": 4005,
+    "course_title": "ECON4005 [0.5 credit]",
+    "course_desc": "Dynamic programming, inventory models, queuing, simulation, and non-linear programming.",
+    "course_extra_details": "Prerequisite(s): ECON1402 (or equivalent) with a grade of C- or higher, and ECON2210 (or equivalent) or STAT2605 or STAT3502 with a grade of C- or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON1402 (or equivalent) with a grade of C- or higher, and ECON2210 (or equivalent) or STAT2605 or STAT3502 with a grade of C- or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4020",
+    "course_code": "ECON4020",
+    "course_number": 4020,
+    "course_title": "ECON4020 [0.5 credit]",
+    "course_desc": "Advanced theory of individual economic behaviour in production, consumption, and general equilibrium. Elementary tools of mathematics are employed in the exposition of most topics.",
+    "course_extra_details": "Precludes additional credit for ECON 4200 (no longer offered).\nPrerequisite(s): ECON2020 (or ECON2009) and ECON2030 each with a grade of C+ or higher; ECON3001 (or MATH2000 or MATH2004) with a grade of C+ or higher; and ECON2220 (or equivalent, or STAT2605 or STAT3502), which may be taken concurrently with ECON4020.\nLectures three hours a week, tutorials one and a half hours a week.\n",
+    "course_prerequisites": "ECON2020 (or ECON2009) and ECON2030 each with a grade of C+ or higher; ECON3001 (or MATH2000 or MATH2004) with a grade of C+ or higher; and ECON2220 (or equivalent, or STAT2605 or STAT3502), which may be taken concurrently with ECON4020.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4021",
+    "course_code": "ECON4021",
+    "course_number": 4021,
+    "course_title": "ECON4021 [0.5 credit]",
+    "course_desc": "An introduction to advanced macroeconomic models. Topics may include analysis of business cycles, inflation, unemployment, economic growth, fiscal and monetary policy, consumption decisions of households, and investment decisions of firms.",
+    "course_extra_details": "Precludes additional credit for ECON 4201 (no longer offered).\nPrerequisite(s): ECON2102 with a grade of C+ or higher; ECON2103 with a grade of C+ or higher; ECON3001 (or MATH2000 or MATH2004) with a grade of C+ or higher; and ECON2220 (or equivalent, or STAT2605 or STAT3502), which may be taken concurrently with ECON4021.\nLectures three hours a week, tutorials one and a half hours a week.\n",
+    "course_prerequisites": "ECON2102 with a grade of C+ or higher; ECON2103 with a grade of C+ or higher; ECON3001 (or MATH2000 or MATH2004) with a grade of C+ or higher; and ECON2220 (or equivalent, or STAT2605 or STAT3502), which may be taken concurrently with ECON4021.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4025",
+    "course_code": "ECON4025",
+    "course_number": 4025,
+    "course_title": "ECON4025 [0.5 credit]",
+    "course_desc": "Analysis of strategic behaviour using methods of modern game theory. Topics include extensive-form and strategic-form representation of games, and solution concepts for games of complete and incomplete information such as Nash equilibrium, subgame perfect equilibrium, and perfect Bayesian equilibrium. Economic applications will be presented.",
+    "course_extra_details": "Prerequisite(s): ECON2020 (or ECON2009) and ECON2030 each with a grade of C+ or higher or ECON 2002 (no longer offered) and ECON 2003 (no longer offered) each with a grade of C+ or higher; ECON3001 (or MATH2000 or MATH2004) with a grade of C+ or higher; and ECON2210 (or equivalent, or STAT2507 or STAT 2606 or STAT3502), which may be taken concurrently with ECON4025.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON2020 (or ECON2009) and ECON2030 each with a grade of C+ or higher or ECON 2002 (no longer offered) and ECON 2003 (no longer offered) each with a grade of C+ or higher; ECON3001 (or MATH2000 or MATH2004) with a grade of C+ or higher; and ECON2210 (or equivalent, or STAT2507 or STAT 2606 or STAT3502), which may be taken concurrently with ECON4025.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4026",
+    "course_code": "ECON4026",
+    "course_number": 4026,
+    "course_title": "ECON4026 [0.5 credit]",
+    "course_desc": "Dynamic models as applied to topics such as economic growth, business cycles, consumption, investment, inflation, and real-financial linkages. Empirical and/or policy issues may also be discussed.",
+    "course_extra_details": "Prerequisite(s): ECON2102 with a grade of C+ or higher; ECON2103 with a grade of C+ or higher; ECON3001 (or MATH2000 or MATH2004) with a grade of C+ or higher; and ECON2220 (or equivalent, or STAT2605 or STAT3502), which may be taken concurrently with ECON4026.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON2102 with a grade of C+ or higher; ECON2103 with a grade of C+ or higher; ECON3001 (or MATH2000 or MATH2004) with a grade of C+ or higher; and ECON2220 (or equivalent, or STAT2605 or STAT3502), which may be taken concurrently with ECON4026.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4030",
+    "course_code": "ECON4030",
+    "course_number": 4030,
+    "course_title": "ECON4030 [0.5 credit]",
+    "course_desc": "Uncertainty, imperfect information, and asymmetric information in the allocation of resources and the performance of markets and alternative coordinating mechanisms.",
+    "course_extra_details": "Precludes additional credit for ECON 4006 (no longer offered) and ECON 4260 (no longer offered).\nPrerequisite(s): ECON2030 with a grade of C- or higher or ECON 2003 (no longer offered) with a grade of C- or higher, and ECON2220 (or equivalent) with a grade of C- or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON2030 with a grade of C- or higher or ECON 2003 (no longer offered) with a grade of C- or higher, and ECON2220 (or equivalent) with a grade of C- or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4051",
+    "course_code": "ECON4051",
+    "course_number": 4051,
+    "course_title": "ECON4051 [0.5 credit]",
+    "course_desc": "Factors that drive security prices and models that attempt to account for aspects of security returns, including the generic arbitrage pricing model, the capital asset pricing model (CAPM), the consumption CAPM, and the intertemporal CAPM.",
+    "course_extra_details": "Precludes additional credit for BUSI3500, ECON 3500 (no longer offered), BUSI3502, ECON 3502 (no longer offered).\nPrerequisite(s): ECON3050 with a grade of C- or higher, and ECON2220 (or equivalent) with a grade of C- or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON3050 with a grade of C- or higher, and ECON2220 (or equivalent) with a grade of C- or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4052",
+    "course_code": "ECON4052",
+    "course_number": 4052,
+    "course_title": "ECON4052 [0.5 credit]",
+    "course_desc": "Optimization and corporate finance. Corporate governance and managerial compensation. Capital structure and the Modigliani-Miller theorem. Agency theory and asymmetric information. The issue of equity, debt, and other securities. Dividend policy. Investment and capital budgeting, NPV, and real options.",
+    "course_extra_details": "Precludes additional credit for BUSI3500 (or ECON 3500, no longer offered) and BUSI3502 (or ECON 3502, no longer offered).\nPrerequisite(s): ECON3050 with a grade of C- or higher, and ECON2030 with a grade of C- or higher or ECON 2003 (no longer offered) with a grade of C- or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON3050 with a grade of C- or higher, and ECON2030 with a grade of C- or higher or ECON 2003 (no longer offered) with a grade of C- or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4053",
+    "course_code": "ECON4053",
+    "course_number": 4053,
+    "course_title": "ECON4053 [0.5 credit]",
+    "course_desc": "The modeling of the evolution of prices in (near) efficient markets and the evaluation of functions of these prices such as guarantees, options, warrants, futures, and other types of derivatives. Arrow-Debreu state-contingent claims. Notions of complete and incomplete markets.",
+    "course_extra_details": "Precludes additional credit for ECON 4100 (no longer offered) and ECON 4504 (no longer offered).\nPrerequisite(s): ECON2030  with a grade of C- or higher and ECON3001 with a grade of C- or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON2030  with a grade of C- or higher and ECON3001 with a grade of C- or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4056",
+    "course_code": "ECON4056",
+    "course_number": 4056,
+    "course_title": "ECON4056 [0.5 credit]",
+    "course_desc": "The theory of insurance founded on probability and decision theory. The optimal design of insurance policies from a risk-sharing and an information economics perspective. Principal-agent problems including adverse selection, asymmetric information, and moral hazard with implications for insurance. The interaction between insurance and other markets.",
+    "course_extra_details": "Prerequisite(s): ECON2030 with a grade of C- or higher and ECON2220 (or equivalent) with a grade of C- or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON2030 with a grade of C- or higher and ECON2220 (or equivalent) with a grade of C- or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4057",
+    "course_code": "ECON4057",
+    "course_number": 4057,
+    "course_title": "ECON4057 [0.5 credit]",
+    "course_desc": "Market efficiency and the limits of arbitrage. Heuristics and biases identified by behavioural decision theorists and their effect on the behaviour of managers and investors. Behavioural theories of market trading volume and asset prices. Behavioural approaches to corporate financial economics problems.",
+    "course_extra_details": "Prerequisite(s): ECON2030 with a grade of C- or higher, and ECON3050 or BUSI2505 with a grade of C- or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON2030 with a grade of C- or higher, and ECON3050 or BUSI2505 with a grade of C- or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4108",
+    "course_code": "ECON4108",
+    "course_number": 4108,
+    "course_title": "ECON4108 [0.5 credit]",
+    "course_desc": "Major factors underlying economic behaviour, including various views of the role of rationality in economic analyses of individual decision-making and institutional design and a detailed treatment of behavioural heuristics and biases and their implications for nudging techniques that aim to improve economic outcomes.",
+    "course_extra_details": "Prerequisite(s): ECON2030 with a grade of C- or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON2030 with a grade of C- or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4109",
+    "course_code": "ECON4109",
+    "course_number": 4109,
+    "course_title": "ECON4109 [0.5 credit]",
+    "course_desc": "An introduction to the use of and insights gained from both laboratory- and field-type experimental methods in economic research. Topics include analysis of individual rationality, performance of markets, and design of economic systems. In-class experiments are an integral part of the course.",
+    "course_extra_details": "Prerequisite(s): ECON2030 with a grade of C- or higher and ECON2220 with a grade of C- or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON2030 with a grade of C- or higher and ECON2220 with a grade of C- or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4209",
+    "course_code": "ECON4209",
+    "course_number": 4209,
+    "course_title": "ECON4209 [0.5 credit]",
+    "course_desc": "The development of economic thought through time in relation to selected economic problems.",
+    "course_extra_details": "Precludes additional credit for ECON 4105 (no longer offered).\nPrerequisite(s): ECON2030 with a grade of C+ or higher or ECON 2003 (no longer offered) with a grade of C+ or higher, and ECON2103 with a grade of C+ or higher.\nAlso offered at the graduate level, with different requirements, as ECON5209, for which additional credit is precluded.\nLectures and/or seminars three hours a week.\n",
+    "course_prerequisites": "ECON2030 with a grade of C+ or higher or ECON 2003 (no longer offered) with a grade of C+ or higher, and ECON2103 with a grade of C+ or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4230",
+    "course_code": "ECON4230",
+    "course_number": 4230,
+    "course_title": "ECON4230 [0.5 credit]",
+    "course_desc": "The application of economic theory and quantitative techniques to selected topics in economic history, which may include historical patterns of growth and welfare, nineteenth-century globalization, technological change, the development of agriculture, industrialization, the Great Depression, and the origins of central banks.",
+    "course_extra_details": "Prerequisite(s): ECON2030 with a grade of C- or higher, ECON2103 with a grade of C- or higher, and ECON2220 (or equivalent) with a grade of C- or higher.\nAlso offered at the graduate level, with different requirements, as ECON5230, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON2030 with a grade of C- or higher, ECON2103 with a grade of C- or higher, and ECON2220 (or equivalent) with a grade of C- or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4301",
+    "course_code": "ECON4301",
+    "course_number": 4301,
+    "course_title": "ECON4301 [0.5 credit]",
+    "course_desc": "Various theoretical and empirical studies of firm and market organization with emphasis on the pricing, advertising, investment and locational behaviour of firms in imperfectly competitive markets.",
+    "course_extra_details": "Precludes additional credit for ECON 4300 (no longer offered).\nPrerequisite(s): ECON2030 with a grade of C- or higher or ECON 2003 (no longer offered) with a grade of C- or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON2030 with a grade of C- or higher or ECON 2003 (no longer offered) with a grade of C- or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4302",
+    "course_code": "ECON4302",
+    "course_number": 4302,
+    "course_title": "ECON4302 [0.5 credit]",
+    "course_desc": "Public policies relating to competition and regulation. Topics may include: Ramsey pricing, peak-load pricing, cross-subsidization, access pricing (ECPR), multi-part pricing and price discrimination, predatory and targeted pricing, vertical restrictions, traditional regulation (including rate-of-return regulation), incentive regulation (including price caps), and the political economy of regulation.",
+    "course_extra_details": "Precludes additional credit for ECON 4300 (no longer offered).\nPrerequisite(s): ECON2030 with a grade of C- or higher or ECON 2003 (no longer offered)  with a grade of C- or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON2030 with a grade of C- or higher or ECON 2003 (no longer offered)  with a grade of C- or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4309",
+    "course_code": "ECON4309",
+    "course_number": 4309,
+    "course_title": "ECON4309 [0.5 credit]",
+    "course_desc": "The empirical application of microeconomics, with special emphasis on the Canadian economy. Topics include: consumer demand, firm production and investment, and industrial and trade structure.",
+    "course_extra_details": "Prerequisite(s): ECON2030 with a grade of C- or higher and ECON2220 (or equivalent, or STAT2605 or STAT3502) with a grade of C- or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON2030 with a grade of C- or higher and ECON2220 (or equivalent, or STAT2605 or STAT3502) with a grade of C- or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4360",
+    "course_code": "ECON4360",
+    "course_number": 4360,
+    "course_title": "ECON4360 [0.5 credit]",
+    "course_desc": "The application of price theory to the labour market. Topics include models of labour supply and labour demand, human capital and the economics of education, and unions and their impact on the labour market.",
+    "course_extra_details": "Precludes additional credit for ECON 4305 (no longer offered) and ECON 4306 (no longer offered).\nPrerequisite(s): ECON2030 with a grade of C- or higher, and ECON2220 (or equivalent) with a grade of C- or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON2030 with a grade of C- or higher, and ECON2220 (or equivalent) with a grade of C- or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4365",
+    "course_code": "ECON4365",
+    "course_number": 4365,
+    "course_title": "ECON4365 [0.5 credit]",
+    "course_desc": "Economic analysis of selected industrial relations and labour market policy problems. Topics include unionization, strike activity, the economics of occupational health and safety, pension policy, and the impact of new technology on the labour market.",
+    "course_extra_details": "Precludes additional credit for ECON 4605 (no longer offered).\nPrerequisite(s): ECON2030 with a grade of C- or higher or ECON 2003 (no longer offered) with a grade of C- or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON2030 with a grade of C- or higher or ECON 2003 (no longer offered) with a grade of C- or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4403",
+    "course_code": "ECON4403",
+    "course_number": 4403,
+    "course_title": "ECON4403 [0.5 credit]",
+    "course_desc": "A discussion of the theory of government expenditures and an examination of empirical attempts to quantify the theory. Examination of current topics such as expenditures and grants in the Canadian federation.",
+    "course_extra_details": "Precludes additional credit for ECON 4402 (no longer offered).\nPrerequisite(s): ECON2030 with a grade of C- or higher or ECON 2003 (no longer offered) with a grade of C- or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON2030 with a grade of C- or higher or ECON 2003 (no longer offered) with a grade of C- or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4404",
+    "course_code": "ECON4404",
+    "course_number": 4404,
+    "course_title": "ECON4404 [0.5 credit]",
+    "course_desc": "A discussion of the theory of taxation and an examination of empirical attempts to quantify the theory. Some topics of current interest, such as the redistribution of income in Canada and tax reform, are examined.",
+    "course_extra_details": "Precludes additional credit for ECON 4401 (no longer offered).\nPrerequisite(s): ECON2030 with a grade of C- or higher or ECON 2003 (no longer offered) with a grade of C- or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON2030 with a grade of C- or higher or ECON 2003 (no longer offered) with a grade of C- or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4407",
+    "course_code": "ECON4407",
+    "course_number": 4407,
+    "course_title": "ECON4407 [0.5 credit]",
+    "course_desc": "Techniques and problems in the evaluation of public and private projects. Examination of alternative approaches to public decision-making including cost-benefit analysis, cost-effectiveness analysis, and multiple-objective frameworks. Case studies of projects in various areas such as natural resources, the environment, human resources, public services, and transportation.",
+    "course_extra_details": "Prerequisite(s): ECON2030 with a grade of C- or higher and ECON2220 (or equivalent, or STAT2605 or STAT3502) with a grade of C- or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON2030 with a grade of C- or higher and ECON2220 (or equivalent, or STAT2605 or STAT3502) with a grade of C- or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4460",
+    "course_code": "ECON4460",
+    "course_number": 4460,
+    "course_title": "ECON4460 [0.5 credit]",
+    "course_desc": "Economic analysis of the organization, financing, and utilization of health-care services. Topics include supply and demand of health care, the impact of private and social health insurance on demand, and policy issues in the provision of health care in Canada.",
+    "course_extra_details": "Prerequisite(s): ECON2030 with a grade of C- or higher, and ECON2220 (or equivalent) with a grade of C- or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON2030 with a grade of C- or higher, and ECON2220 (or equivalent) with a grade of C- or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4507",
+    "course_code": "ECON4507",
+    "course_number": 4507,
+    "course_title": "ECON4507 [0.5 credit]",
+    "course_desc": "An examination of some theoretical approaches to the economics of development, together with analysis of some economic policy issues of a largely internal character, such as intersectoral investment allocation, income distribution, unemployment, and investment in human development.",
+    "course_extra_details": "Prerequisite(s): ECON2030 with a grade of C- or higher or ECON 2003 (no longer offered) with a grade of C- or higher, and ECON2103 with a grade of C- or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON2030 with a grade of C- or higher or ECON 2003 (no longer offered) with a grade of C- or higher, and ECON2103 with a grade of C- or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4508",
+    "course_code": "ECON4508",
+    "course_number": 4508,
+    "course_title": "ECON4508 [0.5 credit]",
+    "course_desc": "An analysis of the international economic policy problems of development in Asia, Africa and Latin America, focusing on international trade, direct foreign investment, technological transfer, regional integration, debt and development financing, and international migration.",
+    "course_extra_details": "Prerequisite(s): ECON2030 with a grade of C- or higher or ECON 2003 (no longer offered) with a grade of C- or higher, and ECON2103 with a grade of C- or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON2030 with a grade of C- or higher or ECON 2003 (no longer offered) with a grade of C- or higher, and ECON2103 with a grade of C- or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4601",
+    "course_code": "ECON4601",
+    "course_number": 4601,
+    "course_title": "ECON4601 [0.5 credit]",
+    "course_desc": "International trade theory and its implications for economic policy. Topics such as determinants of trade and specialization, gains from trade and commercial policy, international factor mobility, growth and development.",
+    "course_extra_details": "Prerequisite(s): ECON2030 with a grade of C- or higher or ECON 2003 (no longer offered) with a grade of C- or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON2030 with a grade of C- or higher or ECON 2003 (no longer offered) with a grade of C- or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4602",
+    "course_code": "ECON4602",
+    "course_number": 4602,
+    "course_title": "ECON4602 [0.5 credit]",
+    "course_desc": "International monetary theory and its implications for economic policy. Topics such as sources of disequilibrium and adjustment in the balance of payments under fixed versus flexible exchange rates, international capital movements, and international monetary reform.",
+    "course_extra_details": "Prerequisite(s): ECON2103 with a grade of C- or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON2103 with a grade of C- or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4670",
+    "course_code": "ECON4670",
+    "course_number": 4670,
+    "course_title": "ECON4670 [0.5 credit]",
+    "course_desc": "The role of money and the monetary system in determining income, employment, and price level; techniques of monetary policy; the relationship between monetary and fiscal policy.",
+    "course_extra_details": "Precludes additional credit for ECON 4607 (no longer offered) and ECON 4608 (no longer offered).\nPrerequisite(s): ECON2103 with a grade of C- or higher, and ECON2220 (or equivalent) with a grade of C- or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON2103 with a grade of C- or higher, and ECON2220 (or equivalent) with a grade of C- or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4700",
+    "course_code": "ECON4700",
+    "course_number": 4700,
+    "course_title": "ECON4700 [0.5 credit]",
+    "course_desc": "National accounting and index numbers. Topics may include: the measurement of output and income, capital and depreciation, productivity, employment and unemployment, poverty and inequality, household production, pollution and resource depletion, and the balance of payments; price indexes; standard-of-living indexes; and international comparisons.",
+    "course_extra_details": "Prerequisite(s): ECON2030 with a grade of C- or higher, ECON2103 with a grade of C- or higher, and ECON2220 (or equivalent) with a grade of C- or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON2030 with a grade of C- or higher, ECON2103 with a grade of C- or higher, and ECON2220 (or equivalent) with a grade of C- or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4706",
+    "course_code": "ECON4706",
+    "course_number": 4706,
+    "course_title": "ECON4706 [0.5 credit]",
+    "course_desc": "An introduction to econometric theory and analysis of the classical normal linear regression model. Topics include estimation methods, hypothesis testing, multicollinearity,  indicator variables, heteroscedasticity, and an introduction to time-series methods.",
+    "course_extra_details": "Prerequisite(s): ECON2210 (or equivalent) with a grade of C+ or higher, and ECON2220 (or equivalent) with a grade of C+ or higher.\nLectures three hours a week, tutorials one and a half hours a week.\n",
+    "course_prerequisites": "ECON2210 (or equivalent) with a grade of C+ or higher, and ECON2220 (or equivalent) with a grade of C+ or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4707",
+    "course_code": "ECON4707",
+    "course_number": 4707,
+    "course_title": "ECON4707 [0.5 credit]",
+    "course_desc": "An extension of ECON 4706. Topics include model specification, diagnostic checks, qualitative and limited dependent variables, panel data, and simultaneous equations models.",
+    "course_extra_details": "Prerequisite(s): ECON4706 with a grade of C+ or higher, or STAT3503 with a grade of C+ or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON4706 with a grade of C+ or higher, or STAT3503 with a grade of C+ or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4708",
+    "course_code": "ECON4708",
+    "course_number": 4708,
+    "course_title": "ECON4708 [0.5 credit]",
+    "course_desc": "An introduction to methods of statistical and machine learning analytics for economic analysis.  Tools relevant for both small and large data sets will be covered.  Topics may include approaches to classification, dimension reduction strategies, and prediction models and tools.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ECON2708 with a grade of C+ or higher; and ECON4706 (or equivalent) with a grade of C+ or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON2708 with a grade of C+ or higher; and ECON4706 (or equivalent) with a grade of C+ or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4709",
+    "course_code": "ECON4709",
+    "course_number": 4709,
+    "course_title": "ECON4709 [0.5 credit]",
+    "course_desc": "Application of data science and machine learning methods to real-world economic problems. Students will apply their data science knowledge in hands-on projects to answer topical research questions. This course has a strong practical focus.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ECON4708 with a grade of C+ or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON4708 with a grade of C+ or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4713",
+    "course_code": "ECON4713",
+    "course_number": 4713,
+    "course_title": "ECON4713 [0.5 credit]",
+    "course_desc": "An introduction to the basic concepts and tools of time-series econometrics. Topics include stationary and non-stationary time series, identification, estimation and forecasting, unit root testing, cointegration analysis, error-correction models and ARCH models, together with relevant economic applications.",
+    "course_extra_details": "Precludes additional credit for ECON 4803 (no longer offered) and STAT4603.\nPrerequisite(s): ECON4706 with a grade of C- or higher, or STAT3503 with a grade of C- or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON4706 with a grade of C- or higher, or STAT3503 with a grade of C- or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4714",
+    "course_code": "ECON4714",
+    "course_number": 4714,
+    "course_title": "ECON4714 [0.5 credit]",
+    "course_desc": "Advanced coverage of one or more areas of current interest in applied econometrics. An empirical research project may be required.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ECON 4804 (no longer offered).\nPrerequisite(s): ECON4706 with a grade of C+ or higher; and ECON4707, which may be taken concurrently with ECON4714.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON4706 with a grade of C+ or higher; and ECON4707, which may be taken concurrently with ECON4714.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4800",
+    "course_code": "ECON4800",
+    "course_number": 4800,
+    "course_title": "ECON4800 [0.5 credit]",
+    "course_desc": "Spatial dimensions of economic activity and organization. Theories of urban agglomeration effects, transport costs, forward and backward linkages, and associated spatial dynamics; empirical analysis of spatial economic clusters; effects of globalization and economic growth on the spatial structure of production and the associated policy response.",
+    "course_extra_details": "Prerequisite(s): ECON2030 with a grade of C- or higher, ECON2103 with a grade of C- or higher, and ECON2220 (or equivalent) with a grade of C- or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON2030 with a grade of C- or higher, ECON2103 with a grade of C- or higher, and ECON2220 (or equivalent) with a grade of C- or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4850",
+    "course_code": "ECON4850",
+    "course_number": 4850,
+    "course_title": "ECON4850 [0.5 credit]",
+    "course_desc": "The economics of information production, its distribution through broadcasting, publishing or the Internet, its exchange through telephone and e-mail networks, and its use in private and public organizations. An analysis of telecommunications, broadcasting, copyright, privacy, and Internet policy.",
+    "course_extra_details": "Precludes additional credit for ECON 4205 (no longer offered).\nPrerequisite(s): ECON2030 with a grade of C- or higher or ECON 2003 (no longer offered) with a grade of C- or higher.\nLectures three hours a week.\n",
+    "course_prerequisites": "ECON2030 with a grade of C- or higher or ECON 2003 (no longer offered) with a grade of C- or higher.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4880",
+    "course_code": "ECON4880",
+    "course_number": 4880,
+    "course_title": "ECON4880 [0.5 credit]",
+    "course_desc": "Advanced topics of interest to upper-year Economics students. Topics may vary from year to year and are announced in advance of the registration period.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ECON2030 with a grade of C+ or higher; ECON2103 with a grade of C+ or higher; and ECON3706 or ECON4706, which may be taken concurrently with ECON4880 or may be waived by permission of the Department.\nLectures and/or seminars three hours a week.\n",
+    "course_prerequisites": "ECON2030 with a grade of C+ or higher; ECON2103 with a grade of C+ or higher; and ECON3706 or ECON4706, which may be taken concurrently with ECON4880 or may be waived by permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4903",
+    "course_code": "ECON4903",
+    "course_number": 4903,
+    "course_title": "ECON4903 [0.5 credit]",
+    "course_desc": "An additional tutorial in economics may be taken subsequent to, or concurrently with, ECON 4890 (no longer offered) or ECON 4901 (no longer offered) or ECON 4902 (no longer offered) or ECON 4905.",
+    "course_extra_details": "Prerequisite(s): permission of the Department.\n \n",
+    "course_prerequisites": "permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4904",
+    "course_code": "ECON4904",
+    "course_number": 4904,
+    "course_title": "ECON4904 [0.5 credit]",
+    "course_desc": "An additional tutorial in economics may be taken subsequent to, or concurrently with, ECON 4890 (no longer offered) or ECON 4901 (no longer offered) or ECON 4902 (no longer offered) or ECON 4905.",
+    "course_extra_details": "Prerequisite(s): permission of the Department.\n \n",
+    "course_prerequisites": "permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4905",
+    "course_code": "ECON4905",
+    "course_number": 4905,
+    "course_title": "ECON4905 [0.5 credit]",
+    "course_desc": "The development of individual research projects in suitable economics topic areas with the exchange of results at each stage through in-class discussions and written and oral reports and culminating in a major research paper by each course registrant.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ECON 4890, ECON 4900 (no longer offered), ECON 4901 (no longer offered), and ECON 4902 (no longer offered).\nPrerequisite(s): ECON3900 with a grade of C+ or higher, ECON3920 with a grade of C+ or higher, and registration in an Honours Economics program.\nSeminars three hours a week.\n",
+    "course_prerequisites": "ECON3900 with a grade of C+ or higher, ECON3920 with a grade of C+ or higher, and registration in an Honours Economics program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4908",
+    "course_code": "ECON4908",
+    "course_number": 4908,
+    "course_title": "ECON4908 [1.0 credit]",
+    "course_desc": "Students taking Honours in Economics or Applied Economics may write an Honours essay during their final year. This essay counts for one credit. Students work under an individual faculty adviser.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): permission of the Department.\n \n",
+    "course_prerequisites": "permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ECON 4990",
+    "course_code": "ECON4990",
+    "course_number": 4990,
+    "course_title": "ECON4990 [0.5 credit]",
+    "course_desc": "Development of fundamental research and writing skills pertinent to the discipline of economics. Writing summary reviews of economics texts of increasing sophistication; writing up empirical and/or theoretical results of increasing complexity.",
+    "course_extra_details": "Prerequisite(s): registration in the Post-Baccalaureate Diploma in Economics program and/or permission of the Department.\nSeminars three hours a week, tutorials one and a half hours a week.\n",
+    "course_prerequisites": "registration in the Post-Baccalaureate Diploma in Economics program and/or permission of the Department.",
+    "year_standing": 0
+}]}

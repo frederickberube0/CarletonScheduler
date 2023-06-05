@@ -1,0 +1,22 @@
+{"object": [
+{
+    "course_identifier": "MEMS 2001",
+    "course_code": "MEMS2001",
+    "course_number": 2001,
+    "course_title": "MEMS2001 [0.5 credit]",
+    "course_desc": "An introduction to the Late Antique, Medieval and Early Modern worlds. Organized thematically, students will be introduced to interdisciplinary exploration of core topics.",
+    "course_extra_details": "Prerequisite(s): second-year standing.\nLectures and discussion groups three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "MEMS 3001",
+    "course_code": "MEMS3001",
+    "course_number": 3001,
+    "course_title": "MEMS3001 [0.5 credit]",
+    "course_desc": "Continued interdisciplinary study of the Late Antique, Medieval and Early Modern worlds, with a focus on how to develop a deeper analysis of the core topics examined in MEMS 2001.",
+    "course_extra_details": "Prerequisite(s): MEMS2001, or permission of the Program Coordinator.\nLectures three hours a week.\n",
+    "course_prerequisites": "MEMS2001, or permission of the Program Coordinator.",
+    "year_standing": 0
+}]}

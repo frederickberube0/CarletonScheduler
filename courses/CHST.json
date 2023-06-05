@@ -1,0 +1,286 @@
+{"object": [
+{
+    "course_identifier": "CHST 1003",
+    "course_code": "CHST1003",
+    "course_number": 1003,
+    "course_title": "CHST1003 [1.0 credit]",
+    "course_desc": "An introduction to multiple approaches to studying childhood and youth through a diverse range of historical periods and cultural contexts. Students will apply an interdisciplinary lens to explore the ways that children and youth have been discussed, researched, and understood.",
+    "course_extra_details": "Precludes additional credit for CHST 1000 (no longer offered), CHST 1002 (no longer offered).\nLecture and discussion groups three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHST 2001",
+    "course_code": "CHST2001",
+    "course_number": 2001,
+    "course_title": "CHST2001 [0.5 credit]",
+    "course_desc": "An examination of the philosophies, purposes, methods, techniques, and issues of childhood and youth studies through engagement with children and youth in campus and community settings. Students will make connections to theoretical and curriculum frameworks and current debates and perspectives.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): second-year standing in Childhood and Youth Studies.\nLecture and discussion three hours a week.\n",
+    "course_prerequisites": "second-year standing in Childhood and Youth Studies.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "CHST 2003",
+    "course_code": "CHST2003",
+    "course_number": 2003,
+    "course_title": "CHST2003 [0.5 credit]",
+    "course_desc": "An introduction to the foundations of research involving children and youth. Students will learn research paradigms and strategies for designing and conducting research with children and young people. Ethical considerations and the involvement of children as co-researchers will be emphasized.",
+    "course_extra_details": "Precludes additional credit for CHST 2000 (no longer offered).\nPrerequisite(s): second-year standing in Childhood and Youth Studies.\nLectures and discussion groups three hours a week.\n",
+    "course_prerequisites": "second-year standing in Childhood and Youth Studies.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "CHST 2011",
+    "course_code": "CHST2011",
+    "course_number": 2011,
+    "course_title": "CHST2011 [0.5 credit]",
+    "course_desc": "Introduction to the critical study of children\u2019s literature.",
+    "course_extra_details": "Also listed as ENGL2011.\nPrecludes additional credit for ENGL 2006 (no longer offered).\nPrerequisite(s): second-year standing or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing or permission of the department.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "CHST 3000",
+    "course_code": "CHST3000",
+    "course_number": 3000,
+    "course_title": "CHST3000 [0.5 credit]",
+    "course_desc": "A comprehensive interdisciplinary overview of key issues, research, and theoretical developments in the study of childhood and youth. Students will explore the different and often conflicting conceptualizations of adolescence and examine youth theories and their implications.",
+    "course_extra_details": "Prerequisite(s): Third year standing in Childhood and Youth Studies.\nLectures three hours a week.\n",
+    "course_prerequisites": "Third year standing in Childhood and Youth Studies.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHST 3002",
+    "course_code": "CHST3002",
+    "course_number": 3002,
+    "course_title": "CHST3002 [0.5 credit]",
+    "course_desc": "Analysis of selected topics relevant to theory, research, and practice involving children and youth. The choice of topics will vary from year to year. Students should consult with the Institute regarding the topic offered.",
+    "course_extra_details": "Prerequisite(s): Third-year standing in Childhood and Youth Studies, or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "Third-year standing in Childhood and Youth Studies, or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHST 3101",
+    "course_code": "CHST3101",
+    "course_number": 3101,
+    "course_title": "CHST3101 [0.5 credit]",
+    "course_desc": "This seminar is designed for students who wish to complete an Honours research project in their 4th year. Students will select a topic of study, investigate methodological and ethical considerations, and implement the key steps involved in designing rigorous research projects in diverse settings.",
+    "course_extra_details": "Precludes additional credit for CHST 3100 (no longer offered).\nPrerequisite(s): CHST2003 and third-year standing in Childhood and Youth Studies.\nSeminar three hours a week.\n",
+    "course_prerequisites": "CHST2003 and third-year standing in Childhood and Youth Studies.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "CHST 3103",
+    "course_code": "CHST3103",
+    "course_number": 3103,
+    "course_title": "CHST3103 [0.5 credit]",
+    "course_desc": "A critical examination of philosophical, ideological, and discursive perspectives on childhood and youth. Students will analyze normative constructs reproduced in developmental discourses and research, particularly concerning gender, racism, disability, and oppressive practices.",
+    "course_extra_details": "Precludes additional credit for CHST 3001 (no longer offered).\nPrerequisite(s): Third-year standing in Childhood and Youth Studies.\nLecture three hours a week.\n",
+    "course_prerequisites": "Third-year standing in Childhood and Youth Studies.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHST 3201",
+    "course_code": "CHST3201",
+    "course_number": 3201,
+    "course_title": "CHST3201 [0.5 credit]",
+    "course_desc": "An analysis of the ways children construct social relations through cultures and systems of representations. Students will investigate how children\u2019s knowledges and identities are constructed through their relationships with the world and develop theoretical and practical approaches for working with children from diverse cultures.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing in Childhood and Youth Studies.\nSeminar three hours a week.\n",
+    "course_prerequisites": "third-year standing in Childhood and Youth Studies.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "CHST 3202",
+    "course_code": "CHST3202",
+    "course_number": 3202,
+    "course_title": "CHST3202 [0.5 credit]",
+    "course_desc": "A study of historical, contemporary, global, and local conversations about the professional field of early childhood education and care and its diverse practices and contexts. Topics may include reconciliation, anti-racist pedagogies, asset-based practices, inclusiveness, caring in context, and critical reflection.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing in Childhood and Youth Studies.\nLecture and discussion groups three hours a week.\n",
+    "course_prerequisites": "third-year standing in Childhood and Youth Studies.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "CHST 3203",
+    "course_code": "CHST3203",
+    "course_number": 3203,
+    "course_title": "CHST3203 [0.5 credit]",
+    "course_desc": "An exploration of youth cultures and participation in local, national, and global contexts. Students will examine youth engagement and advocacy, including definitions of citizenship, theories of resistance, the construction of \u201cyouth\u201d as a social category, and the impact of technology and social media.",
+    "course_extra_details": "Prerequisite(s): Third-year standing in Childhood and Youth Studies, or permission of the department.\nSeminar three hours a week.\n",
+    "course_prerequisites": "Third-year standing in Childhood and Youth Studies, or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHST 3204",
+    "course_code": "CHST3204",
+    "course_number": 3204,
+    "course_title": "CHST3204 [0.5 credit]",
+    "course_desc": "An examination of the ways in which childhood, children, and youth have been represented in creative literature (fiction, poetry, drama, and/or creative nonfiction).",
+    "course_extra_details": "Also listed as ENGL3204.\nPrerequisite(s): third-year standing, or permission of the department.\nSeminar three hours a week. \n",
+    "course_prerequisites": "third-year standing, or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "CHST 3205",
+    "course_code": "CHST3205",
+    "course_number": 3205,
+    "course_title": "CHST3205 [0.5 credit]",
+    "course_desc": "An examination of historical and contemporary issues, debates, and methodologies pertaining to the studies of race, ethnicities, and racialization in childhood and youth studies. Students will also theorize the intersectionality of race, racism, racialization, racial and ethnic formations, nationalism, and colonialism in a contemporary context.",
+    "course_extra_details": "Prerequisite(s): third-year standing in Childhood and Youth Studies, or permission of the department.\nSeminar three hours a week.\n",
+    "course_prerequisites": "third-year standing in Childhood and Youth Studies, or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "CHST 3302",
+    "course_code": "CHST3302",
+    "course_number": 3302,
+    "course_title": "CHST3302 [0.5 credit]",
+    "course_desc": "An introduction to the concepts of policy and practice and how these are influenced by history, economy, geography, and culture. Topics may include provincial, national, and international economic, social, and educational policies concerning children and youth.",
+    "course_extra_details": "Precludes additional credit for CHST 4000 (no longer offered).\nPrerequisite(s): third-year standing in Childhood and Youth Studies.\nLecture three hours a week.\n",
+    "course_prerequisites": "third-year standing in Childhood and Youth Studies.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "CHST 3303",
+    "course_code": "CHST3303",
+    "course_number": 3303,
+    "course_title": "CHST3303 [0.5 credit]",
+    "course_desc": "This course examines children\u2019s rights from a range of historical, cultural, and global perspectives. Topics may include the rights for Indigenous children, children with disabilities, female, trans and queer children, children in armed conflict and refugees in Canada and transnational contexts.",
+    "course_extra_details": "Also listed as HUMR 3303.\nPrecludes additional credit for CHST 3901 (no longer offered).\nPrerequisite(s): third-year standing in Childhood and Youth Studies.\nLecture three hours a week.\n",
+    "course_prerequisites": "third-year standing in Childhood and Youth Studies.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "CHST 3304",
+    "course_code": "CHST3304",
+    "course_number": 3304,
+    "course_title": "CHST3304 [0.5 credit]",
+    "course_desc": "Drawing on theory and research in disabled children\u2019s childhood studies, sociology of childhood, disability studies, and girlhood studies, this course examines the discursive and material constructions of disabled youth and childhood in transnational contexts in relation to emerging neo-colonial, neo-imperialist, and neo-liberal ideologies.",
+    "course_extra_details": "Also listed as DBST3304.\nPrerequisite(s): third-year standing in Childhood and Youth Studies or Disability Studies, or permission of the department.\nLecture three hours a week.\n",
+    "course_prerequisites": "third-year standing in Childhood and Youth Studies or Disability Studies, or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "CHST 3305",
+    "course_code": "CHST3305",
+    "course_number": 3305,
+    "course_title": "CHST3305 [0.5 credit]",
+    "course_desc": "An introduction to indigenous perspectives and contexts, both historical and contemporary, in relation to practice with Indigenous children, youth, families, and communities. Students will explore critical theory and necessary protocols for respectful entry into child and youth care practice within Indigenous contexts.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing in Childhood and Youth Studies or Indigenous Studies, or permission of the department.\nSeminar three hours a week.\n",
+    "course_prerequisites": "third-year standing in Childhood and Youth Studies or Indigenous Studies, or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "CHST 3306",
+    "course_code": "CHST3306",
+    "course_number": 3306,
+    "course_title": "CHST3306 [0.5 credit]",
+    "course_desc": "In this course, students will learn about the different ways in which human-nature relationships have been conceptualized in the interdisciplinary literature; the evidence base pointing to the power of nature as teacher of foundational life-skills; and current approaches to nature-based learning.",
+    "course_extra_details": "Precludes additional credit for CHST3002 taken in Fall 2021, Winter or Summer 2022.\nPrerequisite(s): Third-year standing in Childhood and Youth Studies, or permission of the department.\nLectures three hours a week.\n",
+    "course_prerequisites": "Third-year standing in Childhood and Youth Studies, or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "CHST 3904",
+    "course_code": "CHST3904",
+    "course_number": 3904,
+    "course_title": "CHST3904 [1.0 credit]",
+    "course_desc": "Students will learn to apply their knowledge pertaining to children and youth to a policy- or practice-oriented work environment. Students will complete a term paper and other assignments documenting gains in experiential knowledge. Graded SAT/UNS.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): students with third- or fourth-year standing in Childhood and Youth Studies may apply to the Undergraduate Advisor for permission.\nField placement six hours per week in a community setting, and regular class forum.\n",
+    "course_prerequisites": "students with third- or fourth-year standing in Childhood and Youth Studies may apply to the Undergraduate Advisor for permission.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "CHST 4001",
+    "course_code": "CHST4001",
+    "course_number": 4001,
+    "course_title": "CHST4001 [0.5 credit]",
+    "course_desc": "In-depth analysis of theoretical, empirical, and applied topics related to children and youth in Canada and/or internationally. Topics may include poverty and social inequality, child and youth health, social media and social change. This course is repeatable when the topic changes.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing in Childhood and Youth Studies, or permission of the department.\nSeminar three hours a week. \n",
+    "course_prerequisites": "fourth-year standing in Childhood and Youth Studies, or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "CHST 4003",
+    "course_code": "CHST4003",
+    "course_number": 4003,
+    "course_title": "CHST4003 [0.5 credit]",
+    "course_desc": "Students will analyze the history of the figure of \u2018the African child\u2019 using a range of visual, sources from colonial officials, anthropologists, historians, advertisers, charity and development workers, and African children themselves.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as AFRI4003.\nPrecludes additional credit for CHST4001 if taken in 2014-15.\nPrerequisite(s): fourth-year standing.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year standing.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "CHST 4004",
+    "course_code": "CHST4004",
+    "course_number": 4004,
+    "course_title": "CHST4004 [0.5 credit]",
+    "course_desc": "An examination of the ways that educational discourses construct and perpetuate marginalization of disadvantaged individuals across historical, political, and educational contexts. Students will explore inclusive and exclusive approaches to education and care and how these discursive and material conditions shape the learning experiences of children.",
+    "course_extra_details": "Prerequisite(s): third-year standing in Childhood and Youth Studies, or permission of the department.\nSeminar three hours a week.\n",
+    "course_prerequisites": "third-year standing in Childhood and Youth Studies, or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "CHST 4101",
+    "course_code": "CHST4101",
+    "course_number": 4101,
+    "course_title": "CHST4101 [0.5 credit]",
+    "course_desc": "A critical examination how popular culture, including consumer culture and digital media, mediates the identities, aspirations, and experiences of children and youth. Students will engage in critical dialogue about media culture and ideology and use cultural production to explore counter-narratives to problematic media representations.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing in Childhood and Youth Studies, or permission of the department.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year standing in Childhood and Youth Studies, or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "CHST 4102",
+    "course_code": "CHST4102",
+    "course_number": 4102,
+    "course_title": "CHST4102 [0.5 credit]",
+    "course_desc": "An examination of the ways that queer and trans youth have been conceptualized in research, media, literature, policy, and education. A range of multimedia sources will be used to explore the ways queer and trans youth are using language to render themselves intelligible.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing in Childhood and Youth Studies or Women's and Gender Studies, or permission of the department.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year standing in Childhood and Youth Studies or Women's and Gender Studies, or permission of the department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "CHST 4900",
+    "course_code": "CHST4900",
+    "course_number": 4900,
+    "course_title": "CHST4900 [0.5 credit]",
+    "course_desc": "A reading or research course for students who wish to investigate a particular topic of interest within Childhood and Youth Studies. Students may not take more than one credit of Independent Study in their total program.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing in Childhood and Youth Studies and IIS Co-Director approval.\n \n",
+    "course_prerequisites": "fourth-year standing in Childhood and Youth Studies and IIS Co-Director approval.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "CHST 4908",
+    "course_code": "CHST4908",
+    "course_number": 4908,
+    "course_title": "CHST4908 [1.0 credit]",
+    "course_desc": "Interdisciplinary research project for students in the Honours Research Project stream. Projects will be completed under the supervision of a CHST faculty member. Students must contact the CHST Program Advisor to request approval to register in this course.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): CHST3101, fourth-year standing in Childhood and Youth Studies with a Major CGPA of 10.0 or higher, and permission of the CHST Program Advisor.\n \n",
+    "course_prerequisites": "CHST3101, fourth-year standing in Childhood and Youth Studies with a Major CGPA of 10.0 or higher, and permission of the CHST Program Advisor.",
+    "year_standing": 4
+}]}

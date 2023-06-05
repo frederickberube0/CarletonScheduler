@@ -1,0 +1,484 @@
+{"object": [
+{
+    "course_identifier": "NEUR 1202",
+    "course_code": "NEUR1202",
+    "course_number": 1202,
+    "course_title": "NEUR1202 [0.5 credit]",
+    "course_desc": "Clinical symptoms of psychiatric disease, including biological, developmental, experiential and environmental factors that contribute to disease. Topics may include depressive and anxiety disorders, schizophrenia, autism, ADHD, anorexia, narcolepsy, and substance use disorders.",
+    "course_extra_details": "Precludes additional credit for NEUR 1201 (no longer offered).\nLecture three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 1203",
+    "course_code": "NEUR1203",
+    "course_number": 1203,
+    "course_title": "NEUR1203 [0.5 credit]",
+    "course_desc": "Clinical symptoms of neurological disease, including biological, developmental, experiential and environmental factors that contribute to disease. Topics may include stroke, multiple sclerosis, migraine, seizure disorder, Parkinson\u2019s disease, ALS, chronic pain, Alzheimer\u2019s disease and concussion.",
+    "course_extra_details": "Lectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 2001",
+    "course_code": "NEUR2001",
+    "course_number": 2001,
+    "course_title": "NEUR2001 [0.5 credit]",
+    "course_desc": "A general introduction to research process within neuroscience. Topics covered include research strategies, methods, and techniques; basic descriptive statistics; research communication; and responsible scientific conduct.",
+    "course_extra_details": "Precludes additional credit for PSYC 2000 and PSYC2001.\nPrerequisite(s): second-year standing.\nLecture three hours a week.\n",
+    "course_prerequisites": "second-year standing.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "NEUR 2002",
+    "course_code": "NEUR2002",
+    "course_number": 2002,
+    "course_title": "NEUR2002 [0.5 credit]",
+    "course_desc": "A general introduction to statistical techniques employed within contemporary neuroscience. Topics covered include basic data analysis using descriptive and inferential statistics (t-tests, ANOVA, correlation, chi-square).",
+    "course_extra_details": "Precludes additional credit for ENST2006, GEOG2006, PSYC2002.\nPrerequisite(s): PSYC2001 or NEUR2001.\nLectures three hours a week, online labs/tutorials.\n",
+    "course_prerequisites": "PSYC2001 or NEUR2001.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 2003",
+    "course_code": "NEUR2003",
+    "course_number": 2003,
+    "course_title": "NEUR2003 [0.5 credit]",
+    "course_desc": "Introduction to common techniques used in neuroscience research. Brain imaging, animal behaviour, electrophysiology, immunohistochemistry and microscopy, genomics, transgenics, cell culture, and DSM-IV-based clinical assessment.",
+    "course_extra_details": "Prerequisite(s): one of PSYC1001, NEUR 1201, NEUR1202 or NEUR1203.\nLectures three hours a week.\n",
+    "course_prerequisites": "one of PSYC1001, NEUR 1201, NEUR1202 or NEUR1203.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 2004",
+    "course_code": "NEUR2004",
+    "course_number": 2004,
+    "course_title": "NEUR2004 [0.5 credit]",
+    "course_desc": "Introduction to various forms of scientific writing appropriate to neuroscience, with a focus in fundamental skills in scientific writing.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): second-year standing in a Neuroscience program and one of NEUR 1201, NEUR1202 or NEUR1203.\nLectures and workshops three hours a week.\n",
+    "course_prerequisites": "second-year standing in a Neuroscience program and one of NEUR 1201, NEUR1202 or NEUR1203.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "NEUR 2201",
+    "course_code": "NEUR2201",
+    "course_number": 2201,
+    "course_title": "NEUR2201 [0.5 credit]",
+    "course_desc": "Core principles in cellular and molecular neuroscience, including signal transmission along and between neurons, ion channels and transporters, intracellular signaling pathways, and regulation of gene expression.",
+    "course_extra_details": "Precludes additional credit for PSYC 3200 (no longer offered) and NEUR 3200 (no longer offered).\nPrerequisite(s): Either NEUR 1201 and NEUR1203, or NEUR1202 and NEUR1203, or both BIOL1103 and BIOL1104.\nLectures three hours a week, online labs.\n",
+    "course_prerequisites": "Either NEUR 1201 and NEUR1203, or NEUR1202 and NEUR1203, or both BIOL1103 and BIOL1104.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 2202",
+    "course_code": "NEUR2202",
+    "course_number": 2202,
+    "course_title": "NEUR2202 [0.5 credit]",
+    "course_desc": "Core principles in nervous system development from embryogenesis to plasticity in the adult brain. Topics include neural induction, neurogenesis, apoptosis, neuronal migration and axon growth, synaptogenesis and synaptic pruning both under normal conditions and in psychopathology.",
+    "course_extra_details": "Precludes additional credit for PSYC 3200 (no longer offered) and NEUR 3200 (no longer offered).\nPrerequisite(s): NEUR2201.\nLectures three hours a week, online labs.\n",
+    "course_prerequisites": "NEUR2201.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 2801",
+    "course_code": "NEUR2801",
+    "course_number": 2801,
+    "course_title": "NEUR2801 [0.5 credit]",
+    "course_desc": "Abnormal brain function associated with mental illness or substance abuse has been commonly depicted in or been the inspiration for important cultural works including movies, music, paintings and literature. The neurobiological basis of creativity in individuals with and without mental illness.",
+    "course_extra_details": "Prerequisite(s): one of PSYC1001, NEUR 1201, NEUR1202 or NEUR1203.\nLectures and seminars three hours a week.\n",
+    "course_prerequisites": "one of PSYC1001, NEUR 1201, NEUR1202 or NEUR1203.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 3001",
+    "course_code": "NEUR3001",
+    "course_number": 3001,
+    "course_title": "NEUR3001 [0.5 credit]",
+    "course_desc": "Introducing various software for analyzing neuroscience data. Dealing with real data, drawing graphs, application of descriptive and inferential statistics through the general linear model, assumptions of parametric tests, robust statistics, confidence intervals, correlations, use of appropriate statistical methods and interpretation of results.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): PSYC2001 and PSYC2002, or NEUR2001 and NEUR2002.\nLectures three hours a week, online labs/workshops.\n",
+    "course_prerequisites": "PSYC2001 and PSYC2002, or NEUR2001 and NEUR2002.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 3002",
+    "course_code": "NEUR3002",
+    "course_number": 3002,
+    "course_title": "NEUR3002 [0.5 credit]",
+    "course_desc": "Use of software for analyzing neuroscience data. Statistical techniques typically include nonparametric tests, t tests, and various forms of both ANOVA and regression including robust statistical tests, with a focus on the practical application of appropriate statistical methods and interpretation of results.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): NEUR3001.\nLectures three hours a week, online labs/workshops.\n",
+    "course_prerequisites": "NEUR3001.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 3003",
+    "course_code": "NEUR3003",
+    "course_number": 3003,
+    "course_title": "NEUR3003 [0.5 credit]",
+    "course_desc": "Introduction to the principles and methods of epidemiology, study designs, measures of effect, sources of error, confounding, bias, internal and external validity, and causality. The course also will provide an overview of the epidemiological features, and risk factors for common neurological disorders.",
+    "course_extra_details": "Precludes additional credit for HLTH3201.\nPrerequisite(s): NEUR2002.\nLectures three hours a week.\n",
+    "course_prerequisites": "NEUR2002.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 3203",
+    "course_code": "NEUR3203",
+    "course_number": 3203,
+    "course_title": "NEUR3203 [0.5 credit]",
+    "course_desc": "Offered in the Department of Biology as BIOL 3605. Only those modules dealing with animal behaviour topics may be offered for Neuroscience credit.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as BIOL3605.\nPrecludes additional credit for PSYC 3203.\nPrerequisite(s): permission of the department.\n",
+    "course_prerequisites": "permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 3204",
+    "course_code": "NEUR3204",
+    "course_number": 3204,
+    "course_title": "NEUR3204 [0.5 credit]",
+    "course_desc": "Overview of chemical neurotransmission and key neurotransmitter systems.  A description of licit and illicit drugs covering topics that range from historical perspectives to pharmacology to mechanisms of action in the brain.  Discussion of neurochemical basis of psychiatric diseases including anxiety, depression and schizophrenia.",
+    "course_extra_details": "Precludes additional credit for PSYC 3204 (no longer offered).\nPrerequisite(s): NEUR 2200 or NEUR2201.\nLectures and seminars three hours a week.\n",
+    "course_prerequisites": "NEUR 2200 or NEUR2201.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 3206",
+    "course_code": "NEUR3206",
+    "course_number": 3206,
+    "course_title": "NEUR3206 [0.5 credit]",
+    "course_desc": "Exploration of major topics in sensory processing and motor control, with a focus on underlying mechanisms and neurobiological principles. Topics include all sensory systems (such as vision, somatosensation and audition) plus motor system components including lower and upper motor neurons, basal ganglia, and cerebellum.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for PSYC 3200 (no longer offered), NEUR 3200 (no longer offered), PSYC 3202 (no longer offered) and NEUR 3202 (no longer offered).\nPrerequisite(s): NEUR 1201 or both NEUR1202 and NEUR1203, and either NEUR 2200 or both NEUR2201 and NEUR2202.\nLectures three hours a week, laboratory four hours a week.\n",
+    "course_prerequisites": "NEUR 1201 or both NEUR1202 and NEUR1203, and either NEUR 2200 or both NEUR2201 and NEUR2202.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 3207",
+    "course_code": "NEUR3207",
+    "course_number": 3207,
+    "course_title": "NEUR3207 [0.5 credit]",
+    "course_desc": "Neural systems underlying complex behaviours including emotion, motivation, and sleep, and the role of association cortices in brain function.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for NEUR 3200 (no longer offered) and PSYC 3200 (no longer offered).\nPrerequisite(s): NEUR3206.\nLectures three hours a week, laboratory four hours a week.\n",
+    "course_prerequisites": "NEUR3206.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 3301",
+    "course_code": "NEUR3301",
+    "course_number": 3301,
+    "course_title": "NEUR3301 [0.5 credit]",
+    "course_desc": "Most common mental health diseases have a genetic component. By focusing on specific diseases, this course will discuss how disease susceptibility genes are identified, and describe the genetic, genomic and epigenetic mechanisms through which DNA alterations can predispose to disease.",
+    "course_extra_details": "Prerequisite(s): BIOL2104 or BIOL2107, and NEUR 2200 or NEUR2201.\nLectures three hours a week.\n",
+    "course_prerequisites": "BIOL2104 or BIOL2107, and NEUR 2200 or NEUR2201.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 3303",
+    "course_code": "NEUR3303",
+    "course_number": 3303,
+    "course_title": "NEUR3303 [0.5 credit]",
+    "course_desc": "Consciousness remains one of the least understood aspects of the nervous system. This course explores neural mechanisms underlying consciousness, changes in consciousness associated with sleep, coma, vegetative states, drugs, and other stimuli, and considers the evolutionary basis of consciousness, and its relationship with awareness.",
+    "course_extra_details": "Prerequisite(s): NEUR 2200 or NEUR2202.\nLectures three hours a week.\n",
+    "course_prerequisites": "NEUR 2200 or NEUR2202.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 3304",
+    "course_code": "NEUR3304",
+    "course_number": 3304,
+    "course_title": "NEUR3304 [0.5 credit]",
+    "course_desc": "The effects of hormones throughout life at all levels of the nervous system. The role of hormones in mediating behaviours that are both basic (feeding, reproduction and social interactions) and complex (motivation, emotion, learning and memory).",
+    "course_extra_details": "Prerequisite(s): NEUR 2200 or both NEUR2201 and NEUR2202.\nLectures three hours a week.\n",
+    "course_prerequisites": "NEUR 2200 or both NEUR2201 and NEUR2202.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 3401",
+    "course_code": "NEUR3401",
+    "course_number": 3401,
+    "course_title": "NEUR3401 [0.5 credit]",
+    "course_desc": "Exposure to environmental toxins from the air, water or food can interfere with neuronal function, alter neurodevelopment, and damage the brain. This course will explore associations between toxins and diseases such as Parkinson\u2019s disease, multiple sclerosis and depression, focusing on mechanisms underlying development of pathology.",
+    "course_extra_details": "Prerequisite(s): NEUR 2200 or both NEUR2201 and NEUR2202.\nLectures three hours a week.\n",
+    "course_prerequisites": "NEUR 2200 or both NEUR2201 and NEUR2202.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 3402",
+    "course_code": "NEUR3402",
+    "course_number": 3402,
+    "course_title": "NEUR3402 [0.5 credit]",
+    "course_desc": "Healthy lifestyle choices and positive social interactions can reduce the incidence of pathological conditions such as depression, obesity, cardiovascular disease and impaired immunity. This course focuses on psychosocial and neurobiological mechanisms that underlie the relationship between lifestyle, social interactions and health.",
+    "course_extra_details": "Prerequisite(s): NEUR 2200 or both NEUR2201 and NEUR2202.\nLectures three hours a week.\n",
+    "course_prerequisites": "NEUR 2200 or both NEUR2201 and NEUR2202.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 3403",
+    "course_code": "NEUR3403",
+    "course_number": 3403,
+    "course_title": "NEUR3403 [0.5 credit]",
+    "course_desc": "Stressful events can have profound repercussions on physical and psychological well-being. This course examines the psychosocial and biological processes by which stressors predispose to both physical (immune-related disorders, diabetes, heart disease) and psychological (acute stress disorder, posttraumatic stress disorder, depression, anxiety) pathologies.",
+    "course_extra_details": "Prerequisite(s): NEUR 2200 or both NEUR2201 and NEUR2202.\nLectures three hours a week.\n",
+    "course_prerequisites": "NEUR 2200 or both NEUR2201 and NEUR2202.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 3501",
+    "course_code": "NEUR3501",
+    "course_number": 3501,
+    "course_title": "NEUR3501 [0.5 credit]",
+    "course_desc": "Perspectives on aging and neurodegeneration from psychosocial and neuroscience points of view.  How factors including TBI, stroke and alcohol make the brain vulnerable and contribute to neurodegeneration.  Clinical overview of Alzheimer\u2019s, Parkinson\u2019s, Huntington\u2019s and ALS and the underlying pathology that differentiates these diseases.",
+    "course_extra_details": "Prerequisite(s): NEUR 2200 or both NEUR2201 and NEUR2202.\nLectures three hours a week.\n",
+    "course_prerequisites": "NEUR 2200 or both NEUR2201 and NEUR2202.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 3502",
+    "course_code": "NEUR3502",
+    "course_number": 3502,
+    "course_title": "NEUR3502 [0.5 credit]",
+    "course_desc": "Development of the human brain, the generation and differentiation of the various cell types, and the formation of the vast network of neural connections. How neurodevelopmental dysregulation can result in pathologies including dyslexia, ADHD, schizophrenia and autism.",
+    "course_extra_details": "Prerequisite(s): NEUR 2200, or both NEUR2201 and NEUR2202.\nLectures three hours a week.\n",
+    "course_prerequisites": "NEUR 2200, or both NEUR2201 and NEUR2202.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 3999",
+    "course_code": "NEUR3999",
+    "course_number": 3999,
+    "course_title": "NEUR3999 [0.0 credit]",
+    "course_desc": "Includes: Experiential Learning Activity ",
+    "course_extra_details": "Includes: Experiential Learning Activity\n \n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 4001",
+    "course_code": "NEUR4001",
+    "course_number": 4001,
+    "course_title": "NEUR4001 [0.5 credit]",
+    "course_desc": "Each section of NEUR 4001 deals with a different topic. Topics change yearly. Students may register in more than one section of NEUR 4001 but can register in each section only once.",
+    "course_extra_details": "Prerequisite(s): NEUR 3200, or NEUR3204 and NEUR3206 and NEUR3207, or permission of the Department.\nLectures three hours a week.\n",
+    "course_prerequisites": "NEUR 3200, or NEUR3204 and NEUR3206 and NEUR3207, or permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 4002",
+    "course_code": "NEUR4002",
+    "course_number": 4002,
+    "course_title": "NEUR4002 [0.5 credit]",
+    "course_desc": "Introduction to the methods used in conducting systematic reviews and meta-analyses. Topics include: conducting literature searches, extracting relevant literature, assessing quality of studies, synthesizing findings across studies, and the statistical methods used to carry out a meta-analysis.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for NEUR4904.\nPrerequisite(s): NEUR3003 or permission of instructor.\nAlso offered at the graduate level, with different requirements, as NEUR5203, for which additional credit is precluded.\nLecture three hours a week.\n",
+    "course_prerequisites": "NEUR3003 or permission of instructor.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 4003",
+    "course_code": "NEUR4003",
+    "course_number": 4003,
+    "course_title": "NEUR4003 [0.5 credit]",
+    "course_desc": "Knowledge mobilization concepts, tools, and frameworks, the challenges and value of translational research, and processes involved in integrated knowledge mobilization. Skills to maximize research impacts will be developed.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth year standing in a Neuroscience program OR permission of the department.\nAlso offered at the graduate level, with different requirements, as NEUR5801, for which additional credit is precluded.\nIncludes: Experiential Learning Activity\n",
+    "course_prerequisites": "fourth year standing in a Neuroscience program OR permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 4200",
+    "course_code": "NEUR4200",
+    "course_number": 4200,
+    "course_title": "NEUR4200 [0.5 credit]",
+    "course_desc": "Headline research in neuroscience. Topics may include technical and conceptual advances, ethical issues, medical improvement, and social impacts of neuroscience research.",
+    "course_extra_details": "Precludes additional credit for PSYC 4200 (no longer offered).\nPrerequisite(s): fourth year standing and one of NEUR 3200, NEUR3206 or NEUR3207.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth year standing and one of NEUR 3200, NEUR3206 or NEUR3207.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 4202",
+    "course_code": "NEUR4202",
+    "course_number": 4202,
+    "course_title": "NEUR4202 [0.5 credit]",
+    "course_desc": "Recent research in clinical neuroscience including biological, developmental, experiential and environmental factors that contribute to disease. Topics may include depressive disorders, schizophrenia, autism, ADHD, anorexia, narcolepsy, substance abuse, and personality disorders.",
+    "course_extra_details": "Prerequisite(s): fourth year standing and one of NEUR 3200, NEUR3206 or NEUR3207.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth year standing and one of NEUR 3200, NEUR3206 or NEUR3207.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 4203",
+    "course_code": "NEUR4203",
+    "course_number": 4203,
+    "course_title": "NEUR4203 [0.5 credit]",
+    "course_desc": "Recent research in neurological disease, including biological, developmental, experiential and environmental factors that contribute to disease. Topics may include stroke, multiple sclerosis, migraine, seizure disorder, Parkinson\u2019s disease, ALS, chronic pain, Alzheimer\u2019s disease and concussion.",
+    "course_extra_details": "Prerequisite(s): fourth year standing and one of NEUR 3200, NEUR3206 or NEUR3207.\nSeminars three hours a week.\n",
+    "course_prerequisites": "fourth year standing and one of NEUR 3200, NEUR3206 or NEUR3207.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 4301",
+    "course_code": "NEUR4301",
+    "course_number": 4301,
+    "course_title": "NEUR4301 [0.5 credit]",
+    "course_desc": "Focus on neuroanatomical and molecular mechanisms underlying how mammals adapt to changes and challenges in the environment. Topics include regulation of feeding, energy expenditure, water balance, and temperature regulation.",
+    "course_extra_details": "Prerequisite(s): NEUR3304.\nLectures three hours a week.\n",
+    "course_prerequisites": "NEUR3304.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 4302",
+    "course_code": "NEUR4302",
+    "course_number": 4302,
+    "course_title": "NEUR4302 [0.5 credit]",
+    "course_desc": "Neurobiological processes behind reproductive behaviours in various animal species including humans. Evaluation of data concerning neurobiological differences between sexes, biological determinants of sexual orientation, and relating to neurobiology of sex disorders.",
+    "course_extra_details": "Precludes additional credit for NEUR 3302 (no longer offered).\nPrerequisite(s): NEUR3304.\nLectures three hours a week\n",
+    "course_prerequisites": "NEUR3304.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 4303",
+    "course_code": "NEUR4303",
+    "course_number": 4303,
+    "course_title": "NEUR4303 [0.5 credit]",
+    "course_desc": "The physical and mental health issues of Indigenous people in the context of the cultural, environmental, developmental and biological factors that contribute to comorbid conditions and greater risk and resilience.",
+    "course_extra_details": "Prerequisite(s): 3rd year standing or above.\nLectures three hours a week.\n",
+    "course_prerequisites": "3rd year standing or above.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 4305",
+    "course_code": "NEUR4305",
+    "course_number": 4305,
+    "course_title": "NEUR4305 [0.5 credit]",
+    "course_desc": "Communication between the brain and the immune system; messengers mediating the interaction. How disturbances of immune-brain signaling can lead to disease (multiple sclerosis, Parkinson\u2019s) and to changes in mood and cognition.",
+    "course_extra_details": "Precludes additional credit for NEUR 3305 (no longer offered).\nPrerequisite(s): NEUR 3200 or NEUR3207.\nLectures three hours a week.\n",
+    "course_prerequisites": "NEUR 3200 or NEUR3207.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 4306",
+    "course_code": "NEUR4306",
+    "course_number": 4306,
+    "course_title": "NEUR4306 [0.5 credit]",
+    "course_desc": "How substance and behavioural addictions impact neural function to ultimately lead to the neuropathology of addiction in vulnerable populations. Contemporary neurobiological theories of addiction will also be addressed.",
+    "course_extra_details": "Precludes additional credit for NEUR 3306.\nPrerequisite(s): NEUR3204.\nLecture three hours a week.\n",
+    "course_prerequisites": "NEUR3204.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 4600",
+    "course_code": "NEUR4600",
+    "course_number": 4600,
+    "course_title": "NEUR4600 [0.5 credit]",
+    "course_desc": "Advanced experiential learning in neuroanatomy, histology and microscopy.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): NEUR 3200 or both NEUR3206 and NEUR3207, fourth-year standing in a Neuroscience program, a minimum Major CGPA of 9.0 and permission of the Department.\n",
+    "course_prerequisites": "NEUR 3200 or both NEUR3206 and NEUR3207, fourth-year standing in a Neuroscience program, a minimum Major CGPA of 9.0 and permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "NEUR 4801",
+    "course_code": "NEUR4801",
+    "course_number": 4801,
+    "course_title": "NEUR4801 [0.5 credit]",
+    "course_desc": "Ethical issues of key importance to current neurobiological research. Topics may include the use of animals in research, stem cell research, genetic diagnosis and gene therapy, neuroimaging, and the effect on identity and autonomy of manipulations such as psychopharmaceuticals and psychosurgery.",
+    "course_extra_details": "Prerequisite(s): NEUR 3200 or both NEUR3206 and NEUR3207.\nLectures and seminars three hours a week.\n",
+    "course_prerequisites": "NEUR 3200 or both NEUR3206 and NEUR3207.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 4900",
+    "course_code": "NEUR4900",
+    "course_number": 4900,
+    "course_title": "NEUR4900 [0.5 credit]",
+    "course_desc": "A reading or research course for selected students who wish to investigate a particular topic of interest. Normally students may not offer more than one credit of independent study in their total program.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third- or fourth- year standing and permission of the Department.\n \n",
+    "course_prerequisites": "third- or fourth- year standing and permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 4904",
+    "course_code": "NEUR4904",
+    "course_number": 4904,
+    "course_title": "NEUR4904 [1.0 credit]",
+    "course_desc": "An independent systematic review or meta-analyses undertaken under the direct supervision of a faculty advisor typically from the Department of Neuroscience.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for NEUR4002, NEUR4905, NEUR4906, NEUR4907, NEUR4908, NEUR5203.\nPrerequisite(s): NEUR3003 and both NEUR3206 and NEUR3207 and fourth-year standing in an Honours Neuroscience program, a minimum Major CGPA of 9.0 and permission of the Department.\nColloquia three hours a week.\n",
+    "course_prerequisites": "NEUR3003 and both NEUR3206 and NEUR3207 and fourth-year standing in an Honours Neuroscience program, a minimum Major CGPA of 9.0 and permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "NEUR 4905",
+    "course_code": "NEUR4905",
+    "course_number": 4905,
+    "course_title": "NEUR4905 [1.0 credit]",
+    "course_desc": "The course will focus on active learning in areas that include written and oral communication, evaluation and interpretation of results, statistics and data management, emphasizing transferable skills that will be most appropriate for non-research career paths.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for NEUR4906, NEUR4907 and NEUR4908.\nPrerequisite(s): fourth-year standing in an Honours Neuroscience program and permission of the Department.\nLectures and seminars three hours a week, and colloquia three hours a week.\n",
+    "course_prerequisites": "fourth-year standing in an Honours Neuroscience program and permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "NEUR 4906",
+    "course_code": "NEUR4906",
+    "course_number": 4906,
+    "course_title": "NEUR4906 [1.0 credit]",
+    "course_desc": "This course involves co-developing an Indigenous community-led process or product that addresses a current and specific mental health issue. Involves working in interdisciplinary groups with a community partner.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for NEUR4905, NEUR4907 and NEUR4908.\nPrerequisite(s): Fourth-year standing with a minimum Major CGPA of 10.0 and a grade of A- or higher in one of NEUR3401, NEUR3402 or NEUR3403 and permission of instructor. Prior completion of NEUR4303 recommended.\nSeminars or workshops three hours a week. A field trip to the partner community is typically required.\n",
+    "course_prerequisites": "Fourth-year standing with a minimum Major CGPA of 10.0 and a grade of A- or higher in one of NEUR3401, NEUR3402 or NEUR3403 and permission of instructor. Prior completion of NEUR4303 recommended.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "NEUR 4907",
+    "course_code": "NEUR4907",
+    "course_number": 4907,
+    "course_title": "NEUR4907 [1.0 credit]",
+    "course_desc": "An independent essay based critical review and research proposal on a topic in neuroscience, using library resources, under the direct supervision of a Faculty advisor. Evaluation is based on a written report.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for NEUR4905, NEUR4906 and NEUR4908.\nPrerequisite(s): NEUR 3200, or both NEUR3206 and NEUR3207, and fourth-year standing in an Honours Neuroscience program, a minimum Major CGPA of 9.0 and permission of the Department.\nColloquia three hours a week.\n",
+    "course_prerequisites": "NEUR 3200, or both NEUR3206 and NEUR3207, and fourth-year standing in an Honours Neuroscience program, a minimum Major CGPA of 9.0 and permission of the Department.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "NEUR 4908",
+    "course_code": "NEUR4908",
+    "course_number": 4908,
+    "course_title": "NEUR4908 [1.0 credit]",
+    "course_desc": "An independent research project undertaken under the direct supervision of a faculty advisor typically from the Department of Neuroscience. Evaluation is based on a written report and poster.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for NEUR4905, NEUR4906 and NEUR4907.\nPrerequisite(s): NEUR 3200, or both NEUR3206 and NEUR3207, and fourth-year standing in an Honours Neuroscience program, a minimum Major CGPA of 10.0 and permission of the Department.\nColloquia three hours a week.\n",
+    "course_prerequisites": "NEUR 3200, or both NEUR3206 and NEUR3207, and fourth-year standing in an Honours Neuroscience program, a minimum Major CGPA of 10.0 and permission of the Department.",
+    "year_standing": 4
+}]}

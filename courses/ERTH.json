@@ -1,0 +1,660 @@
+{"object": [
+{
+    "course_identifier": "ERTH 1006",
+    "course_code": "ERTH1006",
+    "course_number": 1006,
+    "course_title": "ERTH1006 [0.5 credit]",
+    "course_desc": "Origin of the Earth, concepts of geological time, and exploration of the interaction and duration of geological processes that shape the surface to deep interior of our planet, the climate, and formation of rocks and earth resources.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ERTH 1001 (no longer offered), ERTH1010, ERTH2404.\nPrerequisite(s): a 4U/M level in Advanced Functions and at least one of Biology, Chemistry, Earth and Space Sciences or Physics are recommended. This course is for students who are enrolled in the Faculty of Science.\nLectures three hours a week, a laboratory three hours a week, and a field excursion.\n",
+    "course_prerequisites": "a 4U/M level in Advanced Functions and at least one of Biology, Chemistry, Earth and Space Sciences or Physics are recommended. This course is for students who are enrolled in the Faculty of Science.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 1009",
+    "course_code": "ERTH1009",
+    "course_number": 1009,
+    "course_title": "ERTH1009 [0.5 credit]",
+    "course_desc": "Origin and co-evolution of Earth and life over its 4.56 billion year history. Connections between plate tectonics, rock formation, climate and global change. Early marine life, colonization of land, mass extinctions, and the use of fossils for interpreting past ecosystems.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for GEOL 1008 (no longer offered), ERTH1011.\nPrerequisite(s): This course is for students who are enrolled in the Faculty of Science.\nLectures three hours a week, a laboratory three hours a week.\n",
+    "course_prerequisites": "This course is for students who are enrolled in the Faculty of Science.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 1010",
+    "course_code": "ERTH1010",
+    "course_number": 1010,
+    "course_title": "ERTH1010 [0.5 credit]",
+    "course_desc": "Origin of the Earth, concepts of geological time, and exploration of the interaction and duration of geological processes that shape the surface to deep interior of our planet, the climate, and formation of rocks and earth resources.",
+    "course_extra_details": "Precludes additional credit for ERTH 1001 (no longer offered) and ERTH1006.\nPrerequisite(s): a 4U/M level in Advanced Functions and at least one of Biology, Chemistry, Earth and Space Sciences or Physics are recommended. This course is for students who are not enrolled in the Faculty of Science.\nLectures three hours a week.\n",
+    "course_prerequisites": "a 4U/M level in Advanced Functions and at least one of Biology, Chemistry, Earth and Space Sciences or Physics are recommended. This course is for students who are not enrolled in the Faculty of Science.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 1011",
+    "course_code": "ERTH1011",
+    "course_number": 1011,
+    "course_title": "ERTH1011 [0.5 credit]",
+    "course_desc": "Origin and co-evolution of Earth and life over its 4.56 billion year history. Connections between plate tectonics, rock formation, climate and global change. Early marine life, colonization of land, mass extinctions and the use of fossils for interpreting past ecosystems.",
+    "course_extra_details": "Precludes additional credit for GEOL 1008 (no longer offered) and ERTH1009.\nPrerequisite(s): a 4U/M level in Advanced Functions and at least one of Biology, Chemistry, Earth and Space Sciences or Physics are recommended; ERTH1010 is normally taken prior to this course. This course is for students who are not enrolled in the Faculty of Science.\nLectures three hours a week.\n",
+    "course_prerequisites": "a 4U/M level in Advanced Functions and at least one of Biology, Chemistry, Earth and Space Sciences or Physics are recommended; ERTH1010 is normally taken prior to this course. This course is for students who are not enrolled in the Faculty of Science.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 2004",
+    "course_code": "ERTH2004",
+    "course_number": 2004,
+    "course_title": "ERTH2004 [0.5 credit]",
+    "course_desc": "Introduction to the creation and use of maps using a variety of geospatial tools to better understand and resolve physical, social and environmental problems. Overview of geomatics (cartography and map design, geographic information systems, GPS, remote sensing).",
+    "course_extra_details": "Also listed as GEOM1004.\nPrecludes additional credit for GEOM 2004 (no longer offered).\nLectures and laboratory, four hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 2012",
+    "course_code": "ERTH2012",
+    "course_number": 2012,
+    "course_title": "ERTH2012 [0.5 credit]",
+    "course_desc": "Earth Science concepts and content portrayed in Hollywood films are sometimes accurate but more frequently misrepresented. This course will examine popular Hollywood films to critically evaluate the Earth Science concepts and content that they present and directly compare them to the actual science.",
+    "course_extra_details": "Online modules, bi-weekly film screenings and discussions four hours per week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 2102",
+    "course_code": "ERTH2102",
+    "course_number": 2102,
+    "course_title": "ERTH2102 [0.5 credit]",
+    "course_desc": "Chemical, optical and crystallographic properties of common rock-forming minerals, with introduction to common mineral assemblages of igneous, sedimentary, and metamorphic rocks.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ERTH 3202 (no longer offered).\nPrerequisite(s): ERTH1006 and (ERTH1009 or GEOG2013) and (CHEM1001 or CHEM1005) and (CHEM1002 or CHEM1006) and (MATH1004 or MATH1007) and (MATH1104 or MATH1107).\nLectures two hours a week and laboratory three hours a week.\n",
+    "course_prerequisites": "ERTH1006 and (ERTH1009 or GEOG2013) and (CHEM1001 or CHEM1005) and (CHEM1002 or CHEM1006) and (MATH1004 or MATH1007) and (MATH1104 or MATH1107).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 2104",
+    "course_code": "ERTH2104",
+    "course_number": 2104,
+    "course_title": "ERTH2104 [0.5 credit]",
+    "course_desc": "The sources and magmatic evolution of volcanic and plutonic rocks systems, with emphasis on geochemical, mineralogical, and textural characteristics, and relations to igneous processes.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ERTH 3202 (no longer offered).\nPrerequisite(s): (CHEM1001 or CHEM1005) and (CHEM1002 or CHEM1006), (MATH1004 or MATH1007), (MATH1104 or MATH1107) and ERTH2102.\nLectures three hours a week, laboratory three hours a week and a field excursion.\n",
+    "course_prerequisites": "(CHEM1001 or CHEM1005) and (CHEM1002 or CHEM1006), (MATH1004 or MATH1007), (MATH1104 or MATH1107) and ERTH2102.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 2105",
+    "course_code": "ERTH2105",
+    "course_number": 2105,
+    "course_title": "ERTH2105 [0.5 credit]",
+    "course_desc": "The structure, composition, and rheological properties of the Earth: lithosphere, mantle and core. Plate tectonics and its relation to geophysical fields, driving mechanisms, and processes at plate boundaries and in plate interiors.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ERTH 3805 (no longer offered).\nPrerequisite(s): ERTH1006 and (ERTH1009 or GEOG2013).\nLectures two hours a week and a laboratory three hours a week.\n",
+    "course_prerequisites": "ERTH1006 and (ERTH1009 or GEOG2013).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 2312",
+    "course_code": "ERTH2312",
+    "course_number": 2312,
+    "course_title": "ERTH2312 [0.5 credit]",
+    "course_desc": "Introduction to macrofossil and microfossil groups, their paleoenvironmental significance, and principles of evolutionary paleoecology.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ERTH2316, GEOL 2301 (no longer offered) and GEOL 2306 (no longer offered).\nPrerequisite(s): ERTH1006 and (ERTH1009 or GEOG2013).\nLectures two hours a week and a laboratory three hours a week.\n",
+    "course_prerequisites": "ERTH1006 and (ERTH1009 or GEOG2013).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 2314",
+    "course_code": "ERTH2314",
+    "course_number": 2314,
+    "course_title": "ERTH2314 [0.5 credit]",
+    "course_desc": "Origin of sediments and their transport, distribution, and primary structures; processes of sediment-to-rock transformation; spatial patterns; controls of stratigraphy; methods of correlation.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ERTH2318.\nPrerequisite(s): ERTH1006 and (ERTH1009 or GEOG2013).\nLectures three hours a week and a laboratory three hours a week.\n",
+    "course_prerequisites": "ERTH1006 and (ERTH1009 or GEOG2013).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 2316",
+    "course_code": "ERTH2316",
+    "course_number": 2316,
+    "course_title": "ERTH2316 [0.5 credit]",
+    "course_desc": "Introduction to macrofossil and microfossil groups, their paleoenvironmental significance, and principles of evolutionary paleoecology.",
+    "course_extra_details": "Precludes additional credit for ERTH2312. Not available for credit in B.Sc. Earth Sciences programs.\nPrerequisite(s): ERTH1006 and ERTH1009. Priority given to students in the Minor in Earth Sciences.\nLectures two hours a week.\n",
+    "course_prerequisites": "ERTH1006 and ERTH1009. Priority given to students in the Minor in Earth Sciences.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 2318",
+    "course_code": "ERTH2318",
+    "course_number": 2318,
+    "course_title": "ERTH2318 [0.5 credit]",
+    "course_desc": "Origin of sediments and their transport, distribution, and primary structures; processes of sediment-to-rock transformation; spatial patterns; controls of stratigraphy and methods of correlation.",
+    "course_extra_details": "Precludes additional credit for ERTH2314. Not available for credit in B.Sc. Earth Sciences programs.\nPrerequisite(s): ERTH1006 and ERTH1009. Priority given to students in the Minor in Earth Sciences.\nLectures three hours a week.\n",
+    "course_prerequisites": "ERTH1006 and ERTH1009. Priority given to students in the Minor in Earth Sciences.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 2401",
+    "course_code": "ERTH2401",
+    "course_number": 2401,
+    "course_title": "ERTH2401 [0.5 credit]",
+    "course_desc": "A general introduction to dinosaurs, their place in evolution, their social behaviour, the Mesozoic landscape and extinction theories.",
+    "course_extra_details": "Lectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 2402",
+    "course_code": "ERTH2402",
+    "course_number": 2402,
+    "course_title": "ERTH2402 [0.5 credit]",
+    "course_desc": "An exploration of the often dramatic climate changes that have occurred through earth history from a geological perspective, emphasizing the history of earth climates, geological causes of climate change and impact that rapid climate change has had on the biosphere.",
+    "course_extra_details": "Lectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 2403",
+    "course_code": "ERTH2403",
+    "course_number": 2403,
+    "course_title": "ERTH2403 [0.5 credit]",
+    "course_desc": "An environmental approach to understanding the oceans; introducing the physical and biological aspects of oceanography, marine resources and marine pollution.",
+    "course_extra_details": "Lectures three hours per week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 2404",
+    "course_code": "ERTH2404",
+    "course_number": 2404,
+    "course_title": "ERTH2404 [0.5 credit]",
+    "course_desc": "Applications of the basic concepts of geology, earth materials and earth processes to practical engineering and environmental science. Topics include rock and soil mechanics, slope stability, hydrogeology, geological hazards, and site investigations. Overview of related geophysical methods.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ERTH 2414 (no longer offered) and ERTH1006.\nPrerequisite(s): completion of first year of any B.Eng. program.\nLectures three hours a week and a laboratory three hours a week.\n",
+    "course_prerequisites": "completion of first year of any B.Eng. program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 2406",
+    "course_code": "ERTH2406",
+    "course_number": 2406,
+    "course_title": "ERTH2406 [0.5 credit]",
+    "course_desc": "Analysis and interpretation of geological features and processes using rocks, maps and cross sections. Introduction to computational methods.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ERTH2102 and ERTH2004.\nLectures two hours a week and a laboratory three hours a week.\n",
+    "course_prerequisites": "ERTH2102 and ERTH2004.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 2415",
+    "course_code": "ERTH2415",
+    "course_number": 2415,
+    "course_title": "ERTH2415 [0.5 credit]",
+    "course_desc": "Physical characteristics and causes of natural disasters of geological origin such as volcanic eruptions, earthquakes, tsunami, landslides, hurricanes and meteor impacts. Discussion on historical perspective, societal impact and mitigation strategies. Emphasis on Canadian case histories.",
+    "course_extra_details": "Precludes additional credit for ERTH 1003 (no longer offered).\nPrerequisite(s): second-year standing in any degree program. With the exception of the Minor in Earth Sciences, available as a free elective only in any B.Sc. program, including Earth Sciences.\nLectures three hours a week.\n",
+    "course_prerequisites": "second-year standing in any degree program. With the exception of the Minor in Earth Sciences, available as a free elective only in any B.Sc. program, including Earth Sciences.",
+    "year_standing": 2
+},
+
+{
+    "course_identifier": "ERTH 2419",
+    "course_code": "ERTH2419",
+    "course_number": 2419,
+    "course_title": "ERTH2419 [0.5 credit]",
+    "course_desc": "Origin and evolution of all planetary objects in the solar system. Topics include the geology of comets, asteroids, the terrestrial planets and rocky moons, Earth's formation and early evolution, ocean worlds, the search for exoplanets and detection of extraterrestrial life.",
+    "course_extra_details": "Lectures three hours a week.\n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 2802",
+    "course_code": "ERTH2802",
+    "course_number": 2802,
+    "course_title": "ERTH2802 [0.5 credit]",
+    "course_desc": "Field analysis using geological, geophysical and computational methods leading to the interpretation of the origins of geological features and processes.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ERTH2406 and permission of the department.\nField work for two weeks off campus. A supplementary fee will apply. \n",
+    "course_prerequisites": "ERTH2406 and permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 3002",
+    "course_code": "ERTH3002",
+    "course_number": 3002,
+    "course_title": "ERTH3002 [0.5 credit]",
+    "course_desc": "Gemstones including their physical and chemical properties, geological formation and geographic occurrence. Introduction to gemological laboratory methods.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ERTH2102.\nLectures two hours a week and laboratory two hours a week.\n",
+    "course_prerequisites": "ERTH2102.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 3003",
+    "course_code": "ERTH3003",
+    "course_number": 3003,
+    "course_title": "ERTH3003 [0.5 credit]",
+    "course_desc": "Geochemical composition of reservoirs from the deep Earth to surface environments. Use of geochemistry and isotope geochemistry to track geological processes. Introduction to a variety of scientific dating methods (geochronology).",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ERTH 2101 (no longer offered).\nPrerequisite(s): ERTH2102, ERTH2104 and ERTH2105.\nLecture three hours a week and a laboratory two hours a week.\n",
+    "course_prerequisites": "ERTH2102, ERTH2104 and ERTH2105.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 3111",
+    "course_code": "ERTH3111",
+    "course_number": 3111,
+    "course_title": "ERTH3111 [0.5 credit]",
+    "course_desc": "Evolution of mammals, reptiles and birds.  Emphasis on surveying amniote diversity, and the origin of key amniote transformations, as evidenced by the fossil record.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as BIOL3111.\nPrerequisite(s): ERTH1009 or BIOL2001, or permission of the department.\nLectures two hours a week and a laboratory three hours a week.\n",
+    "course_prerequisites": "ERTH1009 or BIOL2001, or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 3112",
+    "course_code": "ERTH3112",
+    "course_number": 3112,
+    "course_title": "ERTH3112 [0.5 credit]",
+    "course_desc": "Evolution of fish and amphibians.  Emphasis on surveying fish and amphibian diversity, and the origin of key transformations of these groups, as evidenced by the fossil record.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as BIOL3112.\nPrerequisite(s): ERTH1009 or BIOL2001, or permission of the department.\nLectures two hours a week and a laboratory three hours a week.\n",
+    "course_prerequisites": "ERTH1009 or BIOL2001, or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 3113",
+    "course_code": "ERTH3113",
+    "course_number": 3113,
+    "course_title": "ERTH3113 [0.5 credit]",
+    "course_desc": "The origin and evolution of our species from geological, biological and cultural perspectives. The course traces human ancestry from our primate roots through time and changing environments, and explores controversies, frauds, and misperceptions.",
+    "course_extra_details": "Prerequisite(s): any 1000 or 2000 level Earth Sciences or Biology course.\nLectures three hours per week.\n",
+    "course_prerequisites": "any 1000 or 2000 level Earth Sciences or Biology course.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 3203",
+    "course_code": "ERTH3203",
+    "course_number": 3203,
+    "course_title": "ERTH3203 [0.5 credit]",
+    "course_desc": "A 10-day field study of modern and ancient sedimentary and ecological systems and their stratigraphy in a geological region outside of the Ottawa area. Subsequent in-class seminars examine significant changes in sedimentary environments through Earth's history. A supplementary fee will apply.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ERTH 3201 (no longer offered).\nPrerequisite(s): ERTH2314, enrolment in one of the ERTH Honours, Combined Honours or Major programs, a 2000-level CGPA of 8.0 and permission of the Department.\nTen-day off-campus field course.\n",
+    "course_prerequisites": "ERTH2314, enrolment in one of the ERTH Honours, Combined Honours or Major programs, a 2000-level CGPA of 8.0 and permission of the Department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 3204",
+    "course_code": "ERTH3204",
+    "course_number": 3204,
+    "course_title": "ERTH3204 [0.5 credit]",
+    "course_desc": "Analysis and interpretation of the geological and geochemical processes responsible for mineral deposit genesis in a global context.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ERTH2104.\nLectures and laboratory five hours a week.\n",
+    "course_prerequisites": "ERTH2104.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 3205",
+    "course_code": "ERTH3205",
+    "course_number": 3205,
+    "course_title": "ERTH3205 [0.5 credit]",
+    "course_desc": "Principles of deep- to shallow fluid flow within the Earth's crust, and introduction to the exploration, development and management of groundwater as a global resource.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ERTH1006 and (ERTH1009 or GEOG2013).\nLecture three hours a week and a laboratory three hours a week.\n",
+    "course_prerequisites": "ERTH1006 and (ERTH1009 or GEOG2013).",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 3206",
+    "course_code": "ERTH3206",
+    "course_number": 3206,
+    "course_title": "ERTH3206 [0.5 credit]",
+    "course_desc": "Application of sedimentary facies in class and local field-based settings to interpret modern and ancient depositional environments and stratigraphic succession related to climatic and oceanographic influences. Subsequent in-class seminars examine significant changes in sedimentary environments through Earth's history.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ERTH 3208 (no longer offered).\nPrerequisite(s): ERTH2314.\nField and class based instruction, 6 hours a week.\n",
+    "course_prerequisites": "ERTH2314.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 3207",
+    "course_code": "ERTH3207",
+    "course_number": 3207,
+    "course_title": "ERTH3207 [0.5 credit]",
+    "course_desc": "Genesis of metamorphic rocks as determined from field, petrographic and geochemical data.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ERTH 3202 (no longer offered).\nPrerequisite(s): ERTH2104.\nLectures two hours a week, a laboratory three hours a week and a field excursion.\n",
+    "course_prerequisites": "ERTH2104.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 3405",
+    "course_code": "ERTH3405",
+    "course_number": 3405,
+    "course_title": "ERTH3405 [0.5 credit]",
+    "course_desc": "An introduction to the tools of applied geophysics including seismology, electrical, magnetic, and gravitational surveying methods.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ERTH 2405 (no longer offered).\nPrerequisite(s): ERTH2105.\nLecture two hours a week and a laboratory three hours a week.\n",
+    "course_prerequisites": "ERTH2105.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 3806",
+    "course_code": "ERTH3806",
+    "course_number": 3806,
+    "course_title": "ERTH3806 [0.5 credit]",
+    "course_desc": "Structures and deformational processes in a variety of crustal settings. Applications to geological engineering and mineral and petroleum exploration.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ERTH2105 and ERTH2406.\nLecture two hours a week and a laboratory three hours a week.\n",
+    "course_prerequisites": "ERTH2105 and ERTH2406.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 3999",
+    "course_code": "ERTH3999",
+    "course_number": 3999,
+    "course_title": "ERTH3999 [0.0 credit]",
+    "course_desc": "Includes: Experiential Learning Activity ",
+    "course_extra_details": "Includes: Experiential Learning Activity\n \n",
+    "course_prerequisites": null,
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 4003",
+    "course_code": "ERTH4003",
+    "course_number": 4003,
+    "course_title": "ERTH4003 [0.5 credit]",
+    "course_desc": "One or more projects involving at least 15 days field and/or laboratory research, not related to thesis research. Assessment based on written reports and an oral presentation. Expenses for long-distance travel are borne by the student.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing in any B.Sc. Hons. or Combined Hons. program in Earth Sciences.\nSchedule to be arranged.\n",
+    "course_prerequisites": "fourth-year standing in any B.Sc. Hons. or Combined Hons. program in Earth Sciences.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ERTH 4004",
+    "course_code": "ERTH4004",
+    "course_number": 4004,
+    "course_title": "ERTH4004 [0.5 credit]",
+    "course_desc": "Field, laboratory or literature research, not related to thesis research. Assessment based on written reports and an oral presentation. Expenses for travel are borne by the student.",
+    "course_extra_details": "Prerequisite(s): fourth-year standing in any B.Sc. Hons. or Combined Hons. program in Earth Sciences. Major CGPA 8.5 or higher at time of registration for the course.\nSchedule to be arranged.\n",
+    "course_prerequisites": "fourth-year standing in any B.Sc. Hons. or Combined Hons. program in Earth Sciences. Major CGPA 8.5 or higher at time of registration for the course.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "ERTH 4005",
+    "course_code": "ERTH4005",
+    "course_number": 4005,
+    "course_title": "ERTH4005 [0.5 credit]",
+    "course_desc": "Paleoecological and biostratigraphic significance, and evolutionary history of marine and freshwater microorganisms.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ERTH2312.\nLectures, seminars and/or laboratory five hours a week.\n",
+    "course_prerequisites": "ERTH2312.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 4006",
+    "course_code": "ERTH4006",
+    "course_number": 4006,
+    "course_title": "ERTH4006 [0.5 credit]",
+    "course_desc": "Exploration of the relationship between micro- and macro-evolutionary processes and the Earth's physical and chemical environment. Paleobiology and evolutionary ecology in the context of paleoceanography, paleolimnology and paleoclimatology. May include one or two weeks of field based instruction with costs borne by the student.",
+    "course_extra_details": "Prerequisite(s): ERTH2312.\nField excursions in addition to lectures or seminars three hours a week.\n",
+    "course_prerequisites": "ERTH2312.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 4007",
+    "course_code": "ERTH4007",
+    "course_number": 4007,
+    "course_title": "ERTH4007 [0.5 credit]",
+    "course_desc": "This course explores the mechanistic basis of organismic evolution from genetic, morphogenetic and epigenetic perspectives, within a phylogenetic context of living and extinct vertebrates.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ERTH2312 or BIOL2001, and BIOL2104.\nLectures or seminars three hours per week.\n",
+    "course_prerequisites": "ERTH2312 or BIOL2001, and BIOL2104.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 4107",
+    "course_code": "ERTH4107",
+    "course_number": 4107,
+    "course_title": "ERTH4107 [0.5 credit]",
+    "course_desc": "Soil composition and soil classification. Soil properties, compaction, seepage and permeability. Concepts of pore water pressure, capillary pressure and hydraulic head. Principle of effective stress, stress-deformation and strength characteristics of soils, consolidation, stress distribution with soils, and settlement. Laboratory testing.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as CIVE3208.\nPrerequisite(s): ERTH2406 and ERTH3405.\nLectures three hours a week, laboratory three hours alternate weeks.\n",
+    "course_prerequisites": "ERTH2406 and ERTH3405.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 4206",
+    "course_code": "ERTH4206",
+    "course_number": 4206,
+    "course_title": "ERTH4206 [0.5 credit]",
+    "course_desc": "Geochemical and physical processes controlling contaminant release, migration, and fate in groundwater along with the processes and techniques used for contaminant mitigation and remediation. Examples will include organic and inorganic contaminants in a variety of settings.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ERTH3003 and ERTH3205.\nLectures and seminars three hours per week.\n",
+    "course_prerequisites": "ERTH3003 and ERTH3205.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 4209",
+    "course_code": "ERTH4209",
+    "course_number": 4209,
+    "course_title": "ERTH4209 [0.5 credit]",
+    "course_desc": "Introduction to the essentials of conducting geological mapping campaign in the Canadian Shield in a field area that has seen considerable industry exploration for volcanogenic massive sulfide mineralization. Activities include outcrop and trench mapping, strain analysis, interpretation of geophysical data, drilling proposals, report writing.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ERTH 3209.\nPrerequisite(s): ERTH2104, ERTH3207, ERTH3806.\nField work for two weeks off-campus. A supplementary fee will apply. \n",
+    "course_prerequisites": "ERTH2104, ERTH3207, ERTH3806.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 4303",
+    "course_code": "ERTH4303",
+    "course_number": 4303,
+    "course_title": "ERTH4303 [0.5 credit]",
+    "course_desc": "Earth's resources: where they occur, how they are concentrated, how they are extracted and used, how human exploitation of natural resources affects the environment, and the limits to growth imposed by finite supplies of natural resources.",
+    "course_extra_details": "Prerequisite(s): third-year standing in any degree program.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing in any degree program.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ERTH 4305",
+    "course_code": "ERTH4305",
+    "course_number": 4305,
+    "course_title": "ERTH4305 [0.5 credit]",
+    "course_desc": "The origin, composition and diagenesis of carbonate rocks. Study of modern and ancient platform systems; development of facies models; petrographic and geochemical analysis of limestones and dolostones.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ERTH3203 or ERTH3206.\nLecture two hours a week and a laboratory three hours a week.\n",
+    "course_prerequisites": "ERTH3203 or ERTH3206.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 4306",
+    "course_code": "ERTH4306",
+    "course_number": 4306,
+    "course_title": "ERTH4306 [0.5 credit]",
+    "course_desc": "Surface and subsurface geological and geophysical techniques used to define the distribution and origin of geological basins, the architecture of basin fill, and characterize the distribution of water, petroleum and mineral resources.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ERTH3203 or ERTH3206, ERTH3205, and ERTH3806.\nLectures, seminars and laboratory five hours a week.\n",
+    "course_prerequisites": "ERTH3203 or ERTH3206, ERTH3205, and ERTH3806.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 4402",
+    "course_code": "ERTH4402",
+    "course_number": 4402,
+    "course_title": "ERTH4402 [0.5 credit]",
+    "course_desc": "A study of the structural evolution of mountain belts, with emphasis on field methods.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ERTH3806.\nLectures, seminars and laboratory five hours a week.\n",
+    "course_prerequisites": "ERTH3806.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 4403",
+    "course_code": "ERTH4403",
+    "course_number": 4403,
+    "course_title": "ERTH4403 [0.5 credit]",
+    "course_desc": "Geologic evolution of Canada focusing on geological styles and tectonic processes of Archean cratons, Proterozoic and Phanerozoic orogenic belts.",
+    "course_extra_details": "Prerequisite(s): ERTH3806.\nLectures and seminars three hours a week.\n",
+    "course_prerequisites": "ERTH3806.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 4504",
+    "course_code": "ERTH4504",
+    "course_number": 4504,
+    "course_title": "ERTH4504 [0.5 credit]",
+    "course_desc": "Volcanology, petrology, mineralogy and geochemistry of igneous rocks and their tectonic setting. May include one to two weeks of field-based instruction with costs borne by the student.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ERTH3003.\nField excursions in addition to lectures or seminars three hours per week.\n",
+    "course_prerequisites": "ERTH3003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 4507",
+    "course_code": "ERTH4507",
+    "course_number": 4507,
+    "course_title": "ERTH4507 [0.5 credit]",
+    "course_desc": "Introduction to the quantitative analysis of pressure-temperature-time trajectories and rock-forming processes during metamorphic petrogenesis; may include one or two weeks of field-based instruction, with costs borne by the student.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ERTH2802 and ERTH3207.\nField excursions, lectures, or seminars three hours per week.\n",
+    "course_prerequisites": "ERTH2802 and ERTH3207.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 4707",
+    "course_code": "ERTH4707",
+    "course_number": 4707,
+    "course_title": "ERTH4707 [0.5 credit]",
+    "course_desc": "Seismological topics with engineering applications. Characterization of seismicity and seismic sources (areas and faults). Seismic hazard analysis. Empirical and theoretical modeling of strong ground motion in time and frequency domains.",
+    "course_extra_details": "Prerequisite(s): (MATH1004 or MATH1007), (MATH1104 or MATH1107), STAT2507 and ERTH3405 or permission of the department.\nAlso offered at the graduate level, with different requirements, as ERTH5707, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "(MATH1004 or MATH1007), (MATH1104 or MATH1107), STAT2507 and ERTH3405 or permission of the department.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 4801",
+    "course_code": "ERTH4801",
+    "course_number": 4801,
+    "course_title": "ERTH4801 [0.5 credit]",
+    "course_desc": "The physical properties of the solid Earth. Gravitational, magnetic and palaeomagnetic fields; seismology and earthquake occurrence; heat flow and thermal history. Geodynamic processes.",
+    "course_extra_details": "Prerequisite(s): ERTH3405.\nAlso offered at the graduate level, with different requirements, as ERTH5701, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "ERTH3405.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 4803",
+    "course_code": "ERTH4803",
+    "course_number": 4803,
+    "course_title": "ERTH4803 [0.5 credit]",
+    "course_desc": "Use of radiogenic isotope systems to understand the differentiation history and evolution of large-scale isotopic reservoirs. Data, models and interpretations behind our present day knowledge and understanding of the Earth's history. Assessment of geochronological results and interpretations.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ERTH3003.\nAlso offered at the graduate level, with different requirements, as ERTH5609, for which additional credit is precluded.\nLectures, seminars or laboratories three hours per week.\n",
+    "course_prerequisites": "ERTH3003.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 4804",
+    "course_code": "ERTH4804",
+    "course_number": 4804,
+    "course_title": "ERTH4804 [0.5 credit]",
+    "course_desc": "Application of geophysical methods to explore for petroleum and mineral resources, with emphasis on seismic and electromagnetic methods. Case histories illustrate the concepts.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ERTH3405.\nLectures and laboratories five hours per week.\n",
+    "course_prerequisites": "ERTH3405.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 4807",
+    "course_code": "ERTH4807",
+    "course_number": 4807,
+    "course_title": "ERTH4807 [0.5 credit]",
+    "course_desc": "Field camp integrating advanced field, theory and experimental data. Assessment is based on reports, seminars, and oral examinations. Part of the cost is borne by the student. Departmental funding assistance is available for only one 4000-level field course per student.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): completion of the third-year Earth Sciences course requirements and permission of the Department. A supplementary fee will apply.\nField work off campus.\n",
+    "course_prerequisites": "completion of the third-year Earth Sciences course requirements and permission of the Department. A supplementary fee will apply.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ERTH 4808",
+    "course_code": "ERTH4808",
+    "course_number": 4808,
+    "course_title": "ERTH4808 [0.5 credit]",
+    "course_desc": "Field camp extends the student's vertebrate paleontological knowledge by integrating field, theory, and experimental data. Assessment based on written reports and seminars. Part of the cost is borne by the student. Departmental funding assistance is available for only one 4000-level field course per student.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): ERTH3111 or ERTH3112, and ERTH3113. A Major CGPA of 8.5 or higher and permission of the department is required at the time of registration.\nField work for two weeks off campus. A supplementary fee will apply.\n",
+    "course_prerequisites": "ERTH3111 or ERTH3112, and ERTH3113. A Major CGPA of 8.5 or higher and permission of the department is required at the time of registration.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 4815",
+    "course_code": "ERTH4815",
+    "course_number": 4815,
+    "course_title": "ERTH4815 [0.5 credit]",
+    "course_desc": "Overview of the main natural hazards (such as floods, landslides, forest fires, earthquakes) and severe weather phenomena (such as ice storms, hail, tornadoes) in the Canadian environment. Risk of catastrophic events and their impact on society and infrastructure.",
+    "course_extra_details": "Prerequisite(s): third-year standing in earth science programs or permission of the department.\nAlso offered at the graduate level, with different requirements, as ERTH5215 and IPIS5505, for which additional credit is precluded.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing in earth science programs or permission of the department.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ERTH 4820",
+    "course_code": "ERTH4820",
+    "course_number": 4820,
+    "course_title": "ERTH4820 [0.5 credit]",
+    "course_desc": "Research approaches, methodologies and resources in Earth Sciences; analytical methods in Earth Sciences; data acquisition, evaluation and interpretation; principles and strategies of scientific and professional writing; and communication of results.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): third-year standing in Earth Sciences programs.\nLectures, seminars, or laboratories three hours a week. May also include visits to other research institutes or workshops with visiting instructors. \n",
+    "course_prerequisites": "third-year standing in Earth Sciences programs.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "ERTH 4908",
+    "course_code": "ERTH4908",
+    "course_number": 4908,
+    "course_title": "ERTH4908 [1.0 credit]",
+    "course_desc": "Independent studies. Requires prior written approval of a topic from a supervisor and the course co-ordinator. Oral and written proposal, progress and defence reports are required.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ERTH4909, ERTH4910.\nPrerequisite(s): restricted to B.Sc. Honours and Combined Honours ERTH programs. Major CGPA 8.5 or higher at time of registration for the course.\n \n",
+    "course_prerequisites": "restricted to B.Sc. Honours and Combined Honours ERTH programs. Major CGPA 8.5 or higher at time of registration for the course.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 4909",
+    "course_code": "ERTH4909",
+    "course_number": 4909,
+    "course_title": "ERTH4909 [0.5 credit]",
+    "course_desc": "Understanding research methods, data interpretation and presentation, through readings, seminars and-or laboratory projects related to a topic selected by the student with approval of a faculty advisor.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ERTH4908, ERTH4910.\nPrerequisite(s): restricted to B.Sc. Honours and Combined Honours Earth Sciences programs.\n \n",
+    "course_prerequisites": "restricted to B.Sc. Honours and Combined Honours Earth Sciences programs.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "ERTH 4910",
+    "course_code": "ERTH4910",
+    "course_number": 4910,
+    "course_title": "ERTH4910 [1.0 credit]",
+    "course_desc": "Independent studies: Analysis and interpretation of geological, environmental and/or financial data to determine economic value of a natural resource, and its viability for sustainable development. Requires approval of the supervisor and course coordinator. Oral and written proposal, progress and defense reports are required.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ERTH4908 and ERTH4909.\nPrerequisite(s): Restricted to B.Sc. Honours in Earth Sciences with Concentration in Finance: Resource Valuation. Major CGPA 8.5 or higher at time of registration for the course.\n \n",
+    "course_prerequisites": "Restricted to B.Sc. Honours in Earth Sciences with Concentration in Finance: Resource Valuation. Major CGPA 8.5 or higher at time of registration for the course.",
+    "year_standing": 0
+}]}

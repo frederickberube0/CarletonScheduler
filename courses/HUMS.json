@@ -1,0 +1,253 @@
+{"object": [
+{
+    "course_identifier": "HUMS 1000",
+    "course_code": "HUMS1000",
+    "course_number": 1000,
+    "course_title": "HUMS1000 [1.0 credit]",
+    "course_desc": "Recurring symbols in myth, epic and ritual representing the relation between the sacred and the profane, the origin of the cosmos, the basis of community, and formative human experiences. Primary sources drawn from ancient India and China, Mesopotamia, the Hebrew Bible, and Indigenous cultures.",
+    "course_extra_details": "Prerequisite(s): restricted to students in the Bachelor of Humanities program.\nLectures three hours a week and tutorials one and a half hours a week.\n",
+    "course_prerequisites": "restricted to students in the Bachelor of Humanities program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "HUMS 1200",
+    "course_code": "HUMS1200",
+    "course_number": 1200,
+    "course_title": "HUMS1200 [0.5 credit]",
+    "course_desc": "The ideas which animated ancient Greek and Roman civilization and which influenced later western cultural movements through a reading of literary, historical, and philosophical works. Authors include Homer, Herodotus, Thucydides, the Greek Tragedians, Plato, Vergil, and Cicero.",
+    "course_extra_details": "Prerequisite(s): restricted to students in the Bachelor of Humanities program.\nLecture three hours a week.\n",
+    "course_prerequisites": "restricted to students in the Bachelor of Humanities program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "HUMS 1300",
+    "course_code": "HUMS1300",
+    "course_number": 1300,
+    "course_title": "HUMS1300 [0.5 credit]",
+    "course_desc": "The study of different types of ancient literature and the reception of Classical works in later periods. A focus on writing a research essay.",
+    "course_extra_details": "Prerequisite(s): restricted to students in the Bachelor of Humanities program.\nLectures three hours a week.\n",
+    "course_prerequisites": "restricted to students in the Bachelor of Humanities program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "HUMS 1500",
+    "course_code": "HUMS1500",
+    "course_number": 1500,
+    "course_title": "HUMS1500 [0.5 credit]",
+    "course_desc": "A reading-intensive course on five influential books from Antiquity to the present day. Works may include the Bible, the Bhagavad Gita, Homer\u2019s Odyssey, Plato\u2019s Republic, Dante\u2019s Inferno, Machiavelli\u2019s The Prince, Shakespeare\u2019s Hamlet, Mary Shelley\u2019s Frankenstein, Nietzsche\u2019s Beyond Good and Evil, Marx\u2019s Communist Manifesto.",
+    "course_extra_details": "Prerequisite(s): enrolment in a degree program in the Faculty of Arts and Social Sciences, or the Faculty of Public Affairs. Students enrolled in the BHum. program are not eligible to register in this course.\nLecture three hours per week.\n",
+    "course_prerequisites": "enrolment in a degree program in the Faculty of Arts and Social Sciences, or the Faculty of Public Affairs. Students enrolled in the BHum. program are not eligible to register in this course.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "HUMS 2000",
+    "course_code": "HUMS2000",
+    "course_number": 2000,
+    "course_title": "HUMS2000 [1.0 credit]",
+    "course_desc": "The origins of philosophy in ancient Greece and its pursuit in the medieval West, with special attention to knowledge, happiness, and love. Readings include works by Plato, Aristotle, Plotinus, Augustine, Boethius, Aquinas, and Dante.",
+    "course_extra_details": "Prerequisite(s): HUMS1000 and enrolment  in the Bachelor of Humanities program.\nLectures three hours a week and tutorials one and a half hours a week.\n",
+    "course_prerequisites": "HUMS1000 and enrolment  in the Bachelor of Humanities program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "HUMS 2101",
+    "course_code": "HUMS2101",
+    "course_number": 2101,
+    "course_title": "HUMS2101 [0.5 credit]",
+    "course_desc": "A chronological and thematic survey of the Arts from the earliest times to ca. 1400.",
+    "course_extra_details": "Precludes additional credit for HUMS 4101 (no longer offered).\nPrerequisite(s): restricted to students in the Bachelor of Humanities program.\nLecture three hours a week.\n",
+    "course_prerequisites": "restricted to students in the Bachelor of Humanities program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "HUMS 2102",
+    "course_code": "HUMS2102",
+    "course_number": 2102,
+    "course_title": "HUMS2102 [0.5 credit]",
+    "course_desc": "A chronological and thematic survey of the Arts from the sixteenth to the twenty-first century.",
+    "course_extra_details": "Precludes additional credit for HUMS 4101 (no longer offered) and HUMS 3101 (no longer offered).\nPrerequisite(s): HUMS2101 and restricted to students in the Bachelor of Humanities program.\nLectures three hours a week.\n",
+    "course_prerequisites": "HUMS2101 and restricted to students in the Bachelor of Humanities program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "HUMS 3000",
+    "course_code": "HUMS3000",
+    "course_number": 3000,
+    "course_title": "HUMS3000 [1.0 credit]",
+    "course_desc": "Major forms of literary, artistic, and philosophical expression from 1500-1800. Sources drawn from renaissance humanism, reformation theology, enlightenment and romantic philosophy.",
+    "course_extra_details": "Prerequisite(s): HUMS2000 and enrolment in the Bachelor of Humanities program.\nLectures three hours a week and tutorials one and a half hours a week.\n",
+    "course_prerequisites": "HUMS2000 and enrolment in the Bachelor of Humanities program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "HUMS 3102",
+    "course_code": "HUMS3102",
+    "course_number": 3102,
+    "course_title": "HUMS3102 [0.5 credit]",
+    "course_desc": "Introduction to basic theory, harmony, history and interpretation of Western music including the Medieval, Renaissance, Baroque, Classical and early Romantic periods.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for HUMS 4102 (no longer offered).\nPrerequisite(s): restricted to students in the Bachelor of Humanities program.\nLectures three hours a week.\n",
+    "course_prerequisites": "restricted to students in the Bachelor of Humanities program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "HUMS 3103",
+    "course_code": "HUMS3103",
+    "course_number": 3103,
+    "course_title": "HUMS3103 [0.5 credit]",
+    "course_desc": "Western music from the mid-nineteenth century to the present with emphasis on the seminal contributions of Liszt, Wagner, Mahler, Debussy, Stravinsky, Sch\u00f6nberg and others.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for HUMS 4102 (no longer offered).\nPrerequisite(s): HUMS3102 and restricted to students in the Bachelor of Humanities program.\nLecture three hours a week.\n",
+    "course_prerequisites": "HUMS3102 and restricted to students in the Bachelor of Humanities program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "HUMS 3200",
+    "course_code": "HUMS3200",
+    "course_number": 3200,
+    "course_title": "HUMS3200 [1.0 credit]",
+    "course_desc": "Major movements and works from Dante's Divine Comedy through Voltaire's Candide. Themes include the New Humanism vs. old Chivalry in the Renaissance and Baroque periods; the rise of the modern novel and drama; reason, nature, and the Enlightenment project.",
+    "course_extra_details": "Also listed as ENGL3201.\nPrerequisite(s): HUMS2000 and third-year standing in the Bachelor of Humanities program. English students should have third-year standing with a GPA of B or above.\nLectures three hours a week.\n",
+    "course_prerequisites": "HUMS2000 and third-year standing in the Bachelor of Humanities program. English students should have third-year standing with a GPA of B or above.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "HUMS 3500",
+    "course_code": "HUMS3500",
+    "course_number": 3500,
+    "course_title": "HUMS3500 [0.5 credit]",
+    "course_desc": "Examination of some of the major philosophical, religious, political, artistic, and/or literary ideas, works, and movements from Archaic Greece to the High Middle Ages.",
+    "course_extra_details": "Prerequisite(s): third-year standing in the Bachelor of Humanities program, or permission of the instructor.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing in the Bachelor of Humanities program, or permission of the instructor.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "HUMS 3550",
+    "course_code": "HUMS3550",
+    "course_number": 3550,
+    "course_title": "HUMS3550 [0.5 credit]",
+    "course_desc": "Examination of some of the major philosophical, religious, political, artistic, and/or literary ideas, works, and movements from the Early Renaissance to 1800.",
+    "course_extra_details": "Prerequisite(s): third-year standing in the Bachelor of Humanities program, or permission of the instructor.\nLectures three hours a week.\n",
+    "course_prerequisites": "third-year standing in the Bachelor of Humanities program, or permission of the instructor.",
+    "year_standing": 3
+},
+
+{
+    "course_identifier": "HUMS 3800",
+    "course_code": "HUMS3800",
+    "course_number": 3800,
+    "course_title": "HUMS3800 [0.5 credit]",
+    "course_desc": "Designed for students studying humanities, this travel course explores art, literature, politics, philosophy, architecture, religions, and cultures in their historical and contemporary contexts in a particular geographic locale. Travel destinations and themes vary from year to year.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): 2.0 credits in HUMS and permission of the department. Permission of the unit is required to repeat this course.\nHours to be arranged. \n",
+    "course_prerequisites": "2.0 credits in HUMS and permission of the department. Permission of the unit is required to repeat this course.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "HUMS 4000",
+    "course_code": "HUMS4000",
+    "course_number": 4000,
+    "course_title": "HUMS4000 [1.0 credit]",
+    "course_desc": "Modern and post-modern ways of thinking and doing, including revolutionary new ideas in politics, philosophy, culture, economics, and international relations. Thinkers considered include Arendt, Foucault, Hegel, Heidegger, Hobbes, Kant, Marx, Nietzsche, Polanyi, Rousseau, Said, and Taylor.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): HUMS3000 and enrolment in the Bachelor of Humanities program.\nLectures three hours a week and tutorials one and a half hours a week.\n",
+    "course_prerequisites": "HUMS3000 and enrolment in the Bachelor of Humanities program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "HUMS 4001",
+    "course_code": "HUMS4001",
+    "course_number": 4001,
+    "course_title": "HUMS4001 [0.5 credit]",
+    "course_desc": "A course for independent study and writing, under the supervision of a College designated faculty member. This course involves supervised readings and written essays.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing in the Bachelor of Humanities program.\n \n",
+    "course_prerequisites": "fourth-year standing in the Bachelor of Humanities program.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "HUMS 4002",
+    "course_code": "HUMS4002",
+    "course_number": 4002,
+    "course_title": "HUMS4002 [0.5 credit]",
+    "course_desc": "A course for independent study and writing, under the supervision of a College designated faculty member. This course involves supervised readings and written essays.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing in the Bachelor of Humanities program and Good Standing in the program.\n \n",
+    "course_prerequisites": "fourth-year standing in the Bachelor of Humanities program and Good Standing in the program.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "HUMS 4103",
+    "course_code": "HUMS4103",
+    "course_number": 4103,
+    "course_title": "HUMS4103 [0.5 credit]",
+    "course_desc": "An introduction to the major scientific ideas of our time (such as Big Bang theory, molecular genetics, evolution, atomic structure), and the impact of technology on society (e.g. global warming, pollution, genetically modified foods, viral infections).",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for HUMS 4100 (no longer offered).\nPrerequisite(s): restricted to students in the Bachelor of Humanities program.\nLectures three hours a week.\n",
+    "course_prerequisites": "restricted to students in the Bachelor of Humanities program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "HUMS 4500",
+    "course_code": "HUMS4500",
+    "course_number": 4500,
+    "course_title": "HUMS4500 [0.5 credit]",
+    "course_desc": "Examination of some of the major ideas and ideologies from 1800 to the present, including romanticism, liberalism, nationalism, symbolism, socialism, Freudianism, communism, feminism, and postmodernism.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for HUMS 4104.\nPrerequisite(s): restricted to students in the Bachelor of Humanities program.\nLectures three hours a week.\n",
+    "course_prerequisites": "restricted to students in the Bachelor of Humanities program.",
+    "year_standing": 0
+},
+
+{
+    "course_identifier": "HUMS 4901",
+    "course_code": "HUMS4901",
+    "course_number": 4901,
+    "course_title": "HUMS4901 [0.5 credit]",
+    "course_desc": "An interdisciplinary seminar on a selected topic in the humanities from Antiquity to the Middle Ages. The topic will vary from year to year.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing in the Bachelor of Humanities program.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year standing in the Bachelor of Humanities program.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "HUMS 4902",
+    "course_code": "HUMS4902",
+    "course_number": 4902,
+    "course_title": "HUMS4902 [0.5 credit]",
+    "course_desc": "An interdisciplinary seminar on a selected topic in the humanities from the Renaissance to the Enlightenment. The topic will vary from year to year.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing in the Bachelor of Humanities program.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year standing in the Bachelor of Humanities program.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "HUMS 4903",
+    "course_code": "HUMS4903",
+    "course_number": 4903,
+    "course_title": "HUMS4903 [0.5 credit]",
+    "course_desc": "An interdisciplinary seminar on a selected topic in the humanities from Romanticism to the present. The topic will vary from year to year.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing in the Bachelor of Humanities program.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year standing in the Bachelor of Humanities program.",
+    "year_standing": 4
+},
+
+{
+    "course_identifier": "HUMS 4904",
+    "course_code": "HUMS4904",
+    "course_number": 4904,
+    "course_title": "HUMS4904 [0.5 credit]",
+    "course_desc": "An interdisciplinary seminar on a selected topic in the humanities as expressed in aboriginal and Non-Western cultures. The topic will vary from year to year.",
+    "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): fourth-year standing in the Bachelor of Humanities program.\nSeminar three hours a week.\n",
+    "course_prerequisites": "fourth-year standing in the Bachelor of Humanities program.",
+    "year_standing": 4
+}]}
