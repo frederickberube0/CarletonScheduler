@@ -3,8 +3,12 @@ from bs4 import BeautifulSoup as bs
 
 def main():
     """This python script will create a text file with every course from a major using request for web scraping."""
+    i = 0
     for major in getMajors():
+        print(f"Completed {i}/108 majors. Currently loading {major}.")
+        i += 1
         writeCourses(major, getCourses(major))
+    print("Course loading complete.")
 
 def writeCourses(major: str, content: str) -> None:
     """Write content into file named based on the major."""
