@@ -1,5 +1,4 @@
-{
-    "course_identifier": "ANTH 1001",
+{'object': []}_identifier": "ANTH 1001",
     "course_code": "ANTH1001",
     "course_number": 1001,
     "course_title": "ANTH1001 [0.5 credit]",
@@ -866,4 +865,6 @@
     "course_prerequisites": null,
     "year_standing": 0
 }
+
+,
 

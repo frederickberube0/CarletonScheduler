@@ -1,5 +1,4 @@
-{
-    "course_identifier": "ARAB 1110",
+{'object': []}_identifier": "ARAB 1110",
     "course_code": "ARAB1110",
     "course_number": 1110,
     "course_title": "ARAB1110 [1.0 credit]",
@@ -52,4 +51,6 @@
     "course_prerequisites": "grade of C or higher in ARAB3010 or ARAB3015, or permission of the School.",
     "year_standing": 0
 }
+
+,
 

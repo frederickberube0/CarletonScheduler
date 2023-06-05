@@ -1,3 +1,4 @@
+{"object": [
 {
     "course_identifier": "AERO 2001",
     "course_code": "AERO2001",
@@ -7,7 +8,7 @@
     "course_extra_details": "Includes: Experiential Learning Activity\nAlso listed as MAAE2001.\nPrerequisite(s): Second-year status in Engineering.\nLectures and tutorials two hours a week, laboratory four hours a week.\n",
     "course_prerequisites": "Second-year status in Engineering.",
     "year_standing": 0
-}
+},
 
 {
     "course_identifier": "AERO 3002",
@@ -18,7 +19,7 @@
     "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): AERO2001 and third-year status in Engineering.\nLectures three hours a week, problem analysis three hours a week.\n",
     "course_prerequisites": "AERO2001 and third-year status in Engineering.",
     "year_standing": 3
-}
+},
 
 {
     "course_identifier": "AERO 3101",
@@ -29,7 +30,7 @@
     "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): MAAE3202.\nLectures three hours a week; problem analysis one hour a week.\n",
     "course_prerequisites": "MAAE3202.",
     "year_standing": 0
-}
+},
 
 {
     "course_identifier": "AERO 3240",
@@ -40,7 +41,7 @@
     "course_extra_details": "Prerequisite(s): MAAE2101.\nLectures three hours per week, tutorial one hour per week.\n",
     "course_prerequisites": "MAAE2101.",
     "year_standing": 0
-}
+},
 
 {
     "course_identifier": "AERO 3700",
@@ -51,7 +52,7 @@
     "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): MAAE2700.\nLectures three hours a week; problem analysis one hour a week.\n",
     "course_prerequisites": "MAAE2700.",
     "year_standing": 0
-}
+},
 
 {
     "course_identifier": "AERO 3841",
@@ -62,7 +63,7 @@
     "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): AERO3240.\nLectures three hours a week, tutorials or laboratories three hours per week.\n",
     "course_prerequisites": "AERO3240.",
     "year_standing": 0
-}
+},
 
 {
     "course_identifier": "AERO 4003",
@@ -73,7 +74,7 @@
     "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): AERO3002 and fourth-year status in Engineering.\nLectures three hours a week, problem analysis three hours a week.\n",
     "course_prerequisites": "AERO3002 and fourth-year status in Engineering.",
     "year_standing": 4
-}
+},
 
 {
     "course_identifier": "AERO 4009",
@@ -84,7 +85,7 @@
     "course_extra_details": "Prerequisite(s): fourth-year status in Engineering or permission of the department.\nLectures three hours per week.\n",
     "course_prerequisites": "fourth-year status in Engineering or permission of the department.",
     "year_standing": 4
-}
+},
 
 {
     "course_identifier": "AERO 4300",
@@ -95,7 +96,7 @@
     "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): MAAE3004 and (MAAE3300 or MECH3310) and fourth-year status in Engineering or by permission of department.\nLectures three hours a week.\n",
     "course_prerequisites": "MAAE3004 and (MAAE3300 or MECH3310) and fourth-year status in Engineering or by permission of department.",
     "year_standing": 4
-}
+},
 
 {
     "course_identifier": "AERO 4302",
@@ -106,7 +107,7 @@
     "course_extra_details": "Includes: Experiential Learning Activity\nPrerequisite(s): MAAE3300 or MECH3310.\nAlso offered at the graduate level, with different requirements, as MECH5000, for which additional credit is precluded.\nLectures three hours a week, problem analysis two hours a week.\n",
     "course_prerequisites": "MAAE3300 or MECH3310.",
     "year_standing": 0
-}
+},
 
 {
     "course_identifier": "AERO 4304",
@@ -117,7 +118,7 @@
     "course_extra_details": "Prerequisite(s): (MAAE3300 or MECH3310), completion of or concurrent registration in AERO4302 and fourth-year status in Engineering or by permission of the department.\nLectures three hours a week.\n",
     "course_prerequisites": "(MAAE3300 or MECH3310), completion of or concurrent registration in AERO4302 and fourth-year status in Engineering or by permission of the department.",
     "year_standing": 4
-}
+},
 
 {
     "course_identifier": "AERO 4306",
@@ -128,7 +129,7 @@
     "course_extra_details": "Prerequisite(s): (MAAE3300 or MECH3310) and fourth-year status in Engineering.\nLectures three hours a week.\n",
     "course_prerequisites": "(MAAE3300 or MECH3310) and fourth-year status in Engineering.",
     "year_standing": 4
-}
+},
 
 {
     "course_identifier": "AERO 4308",
@@ -139,7 +140,7 @@
     "course_extra_details": "Prerequisite(s): MAAE3500 and fourth-year status in Engineering.\nAlso offered at the graduate level, with different requirements, as MECH5101, for which additional credit is precluded.\nLectures three hours a week.\n",
     "course_prerequisites": "MAAE3500 and fourth-year status in Engineering.",
     "year_standing": 4
-}
+},
 
 {
     "course_identifier": "AERO 4402",
@@ -150,7 +151,7 @@
     "course_extra_details": "Precludes additional credit for MECH4401.\nPrerequisite(s): MAAE2400, (MAAE3300 or MECH3310), and fourth-year status in Engineering or by permission of the department.\nLectures three hours a week.\n",
     "course_prerequisites": "MAAE2400, (MAAE3300 or MECH3310), and fourth-year status in Engineering or by permission of the department.",
     "year_standing": 4
-}
+},
 
 {
     "course_identifier": "AERO 4442",
@@ -161,7 +162,7 @@
     "course_extra_details": "Prerequisite(s): MAAE2400, (MAAE3300 OR MECH3310) and fourth-year status in Engineering.\nLectures three hours a week.\n",
     "course_prerequisites": "MAAE2400, (MAAE3300 OR MECH3310) and fourth-year status in Engineering.",
     "year_standing": 4
-}
+},
 
 {
     "course_identifier": "AERO 4446",
@@ -172,7 +173,7 @@
     "course_extra_details": "Precludes additional credit for MECH4406.\nPrerequisite(s): MAAE2400 and (MAAE3300 or MECH3310) and fourth-year status in Engineering.\nLectures three hours a week.\n",
     "course_prerequisites": "MAAE2400 and (MAAE3300 or MECH3310) and fourth-year status in Engineering.",
     "year_standing": 4
-}
+},
 
 {
     "course_identifier": "AERO 4504",
@@ -183,7 +184,7 @@
     "course_extra_details": "Includes: Experiential Learning Activity\nPrecludes additional credit for ELEC4504.\nPrerequisite(s): 4th year status in Engineering. Not open to students in Electrical Engineering, Computer Systems Engineering, Engineering Physics or Communications Engineering.\nLectures three hours a week.\n",
     "course_prerequisites": "4th year status in Engineering. Not open to students in Electrical Engineering, Computer Systems Engineering, Engineering Physics or Communications Engineering.",
     "year_standing": 0
-}
+},
 
 {
     "course_identifier": "AERO 4540",
@@ -194,7 +195,7 @@
     "course_extra_details": "Prerequisite(s): AERO3240 and MAAE3500 and fourth-year status in Engineering.\nLectures three hours a week.\n",
     "course_prerequisites": "AERO3240 and MAAE3500 and fourth-year status in Engineering.",
     "year_standing": 4
-}
+},
 
 {
     "course_identifier": "AERO 4602",
@@ -205,7 +206,7 @@
     "course_extra_details": "Prerequisite(s): (MAAE3300 or MECH3310) and SYSC3600 and fourth-year status in Engineering.\nLectures three hours a week.\n",
     "course_prerequisites": "(MAAE3300 or MECH3310) and SYSC3600 and fourth-year status in Engineering.",
     "year_standing": 4
-}
+},
 
 {
     "course_identifier": "AERO 4607",
@@ -216,7 +217,7 @@
     "course_extra_details": "Prerequisite(s): MAAE3004 and (MAAE3300 or MECH3310) and fourth-year status in Engineering or by permission of the department.\nLectures three hours per week.\n",
     "course_prerequisites": "MAAE3004 and (MAAE3300 or MECH3310) and fourth-year status in Engineering or by permission of the department.",
     "year_standing": 4
-}
+},
 
 {
     "course_identifier": "AERO 4608",
@@ -227,7 +228,7 @@
     "course_extra_details": "Prerequisite(s): MAAE2202 and fourth-year status in Engineering.\nLectures three hours a week.\n",
     "course_prerequisites": "MAAE2202 and fourth-year status in Engineering.",
     "year_standing": 4
-}
+},
 
 {
     "course_identifier": "AERO 4609",
@@ -238,7 +239,7 @@
     "course_extra_details": "Prerequisite(s): MAAE2700 and fourth-year status in Engineering or by permission of the department.\nLectures three hours per week.\n",
     "course_prerequisites": "MAAE2700 and fourth-year status in Engineering or by permission of the department.",
     "year_standing": 4
-}
+},
 
 {
     "course_identifier": "AERO 4842",
@@ -249,5 +250,4 @@
     "course_extra_details": "Precludes additional credit for AERO 4802 (no longer offered).\nPrerequisite(s): AERO3841 and fourth-year status in Engineering.\nLectures three hours a week.\n",
     "course_prerequisites": "AERO3841 and fourth-year status in Engineering.",
     "year_standing": 4
-}
-
+}]}

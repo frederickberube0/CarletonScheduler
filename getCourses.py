@@ -5,16 +5,25 @@ def main():
     """This python script will create a text file with every course from a major using request for web scraping."""
     i = 0
     for major in getMajors():
+
         print(f"Completed {i}/108 majors. Currently loading {major}.")
         i += 1
+        file_name = "courses/"+major
+        file = open(file_name, "w+")
+        file.write('{"object": [\n')
+        file.close()
         writeCourses(major, getCourses(major))
+        file = open(file_name, "a")
+        file.write("]}")
+        file.close()
     print("Course loading complete.")
 
 def writeCourses(major: str, content: str) -> None:
     """Write content into file named based on the major."""
     file_name = "courses/"+major
-    file = open(file_name, "w+")
+    file = open(file_name, "a")
     file.write(content)
+    file.close()
 
 def getMajors() -> list[str]:
     """Returns list of every major at Carleton University in it's four letter code format (COMP, BUSI, HIST...)"""
@@ -75,7 +84,7 @@ def getCourses(major: str) -> str:
 
         json_data = json.dumps(data, indent=4)
         courses = courses + json_data
-        courses = courses + "\n\n"
+        if courseblock != parsed_page[-1]: courses = courses + ",\n\n"
     return courses
 
 main()

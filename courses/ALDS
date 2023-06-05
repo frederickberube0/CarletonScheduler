@@ -1,5 +1,4 @@
-{
-    "course_identifier": "ALDS 1001",
+{'object': []}_identifier": "ALDS 1001",
     "course_code": "ALDS1001",
     "course_number": 1001,
     "course_title": "ALDS1001 [0.5 credit]",
@@ -492,4 +491,6 @@
     "course_prerequisites": "fourth-year standing in Applied Linguistics and Discourse Studies, a CGPA of 9.00 or better, or permission of the School.",
     "year_standing": 4
 }
+
+,
 
