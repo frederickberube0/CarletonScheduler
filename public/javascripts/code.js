@@ -31,42 +31,61 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     function addCourse(table, courseName) {
-      const row = document.createElement("tr");
-      sendCompletedCourse(courseName);
-      const courseCell = document.createElement("td");
-      const actionCell = document.createElement("td");
-      const removeButton = document.createElement("button");
-
-      courseCell.textContent = courseName;
-      removeButton.classList.add("btn", "btn-danger", "remove-course");
-      removeButton.textContent = "Remove";
-
-      actionCell.appendChild(removeButton);
-      row.appendChild(courseCell);
-      row.appendChild(actionCell);
-      table.querySelector("tbody").appendChild(row);
+      sendCompletedCourse(courseName)
+        .then((exists) => {
+          if(!exists){
+            console.log(exists)
+            alert("This course does not exist.");
+          }
+          else {
+            console.log("Test")
+            const row = document.createElement("tr");
+            const courseCell = document.createElement("td");
+            const actionCell = document.createElement("td");
+            const removeButton = document.createElement("button");
+      
+            courseCell.textContent = courseName;
+            removeButton.classList.add("btn", "btn-danger", "remove-course");
+            removeButton.textContent = "Remove";
+      
+            actionCell.appendChild(removeButton);
+            row.appendChild(courseCell);
+            row.appendChild(actionCell);
+            table.querySelector("tbody").appendChild(row);
+          }
+        })
+        .catch((error) => {
+          console.error(error);
+        });
+      
     }
   });
 
-function sendCompletedCourse(courseName) {
-    const url = "/completed-course"; // Replace with your server endpoint
-  
-    fetch(url, {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({ course: courseName }),
-    })
-      .then((response) => {
-        if (response.ok) {
-          console.log("Completed course sent successfully");
-          console.log(response)
-        } else {
-          throw new Error("Failed to send completed course");
-        }
+  function sendCompletedCourse(courseName) {
+    return new Promise((resolve, reject) => {
+      const url = "/completed-course"; // Replace with your server endpoint
+    
+      fetch(url, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ course: courseName }),
       })
-      .catch((error) => {
-        console.error(error);
-      });
+        .then((response) => {
+          if (response.ok) {
+            if (response.status === 201) {
+              resolve(false);
+            } else {
+              resolve(true);
+            }
+          } else {
+            throw new Error("Failed to send completed course");
+          }
+        })
+        .catch((error) => {
+          console.error(error);
+          reject(error);
+        });
+    });
   }
