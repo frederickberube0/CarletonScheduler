@@ -1,6 +1,6 @@
 import requests, re, json
 from bs4 import BeautifulSoup as bs
-
+###INCOMPLETE
 def main():
     for obj in getPrograms():
         for specialization in getSpecializations(obj):
